@@ -1,0 +1,36 @@
+{
+  "description": "Story seed collection for generating ComicXML format comic stories",
+  "principles": {
+    "theme_design": [
+      "Themes relate to the element library to prevent Hallucination",
+      "Do not specify element names; model selects characters, poses, and settings",
+      "Provide basic scene + simple event; control length to 1-2 sentences"
+    ],
+    "usage": [
+      "Use each theme in Method A and Method B",
+      "Generate 3-5 ComicXML outputs per theme for stability and breadth analysis"
+    ]
+  },
+  "story_seeds": [
+    {"id": "seed_01", "theme": "Waking up in the morning to find something wrong in the kitchen", "category": "Daily Life", "description": "Discovering something unusual at home in the morning"},
+    {"id": "seed_02", "theme": "Meeting a strange person in a coffee shop", "category": "Daily Life", "description": "Encountering a stranger while visiting a coffee shop"},
+    {"id": "seed_03", "theme": "An unexpected incident in the office changes the work atmosphere", "category": "Workplace", "description": "A surprising event alters the office environment"},
+    {"id": "seed_04", "theme": "Getting lost in the forest and finding a mysterious place", "category": "Outdoor Adventure", "description": "Exploring a forest and discovering something mysterious"},
+    {"id": "seed_05", "theme": "Something unexpected happens in the hospital", "category": "Special Location", "description": "An unusual event occurs in a hospital"},
+    {"id": "seed_06", "theme": "In the courtroom, a witness's testimony causes controversy", "category": "Legal Scene", "description": "A courtroom testimony sparks conflict"},
+    {"id": "seed_07", "theme": "An experiment in the laboratory produces unexpected results", "category": "Science Scene", "description": "A lab experiment has surprising results"},
+    {"id": "seed_08", "theme": "Witnessing a chase on a city street", "category": "Urban Scene", "description": "Observing an action-packed chase in a city"},
+    {"id": "seed_09", "theme": "Discovering a strange book in the library", "category": "Learning Scene", "description": "Finding an unusual book while at the library"},
+    {"id": "seed_10", "theme": "Service problems in a restaurant lead to customer dissatisfaction", "category": "Service Scene", "description": "Issues in a restaurant upset customers"},
+    {"id": "seed_11", "theme": "Encountering difficulties while searching for water in the desert", "category": "Outdoor Adventure", "description": "Facing challenges while seeking water in a desert"},
+    {"id": "seed_12", "theme": "A small accident occurs while exercising at the gym", "category": "Sports Scene", "description": "An unexpected incident during gym exercise"},
+    {"id": "seed_13", "theme": "Flight delays cause chaos while waiting at the airport", "category": "Transportation Scene", "description": "Delays create confusion at the airport"},
+    {"id": "seed_14", "theme": "Animals behave strangely on the farm", "category": "Farm Scene", "description": "Observing unusual animal behavior on a farm"},
+    {"id": "seed_15", "theme": "A stranger makes a strange request in a bar", "category": "Social Scene", "description": "A stranger asks an unusual favor in a bar"},
+    {"id": "seed_16", "theme": "Something unsettling happens near the graveyard at night", "category": "Mystery Scene", "description": "A disturbing event occurs near a graveyard at night"},
+    {"id": "seed_17", "theme": "A worker discovers something at a construction site", "category": "Workplace", "description": "Finding something unexpected at a construction site"},
+    {"id": "seed_18", "theme": "Two strangers start talking on a park bench", "category": "Social Scene", "description": "Strangers engage in conversation on a park bench"},
+    {"id": "seed_19", "theme": "An accident occurs during a ceremony in a church", "category": "Religious Scene", "description": "An incident happens during a church ceremony"},
+    {"id": "seed_20", "theme": "A customer's request puts a hairstylist in a difficult position at a beauty salon", "category": "Service Scene", "description": "A challenging customer request at a beauty salon"}
+  ]
+}
