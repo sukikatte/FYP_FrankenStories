@@ -1,0 +1,322 @@
+<comic>
+   <figures>
+   </figures>
+
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>breakfasting</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>evaluating</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Good morning, Alfie!</content>
+               </balloon>
+            </right>
+
+            <below>Alfie and Betty are having breakfast together in the kitchen.</below>
+
+            <setting>kitchen</setting>
+         </panel>
+
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>throwing water</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>You're going to get wet, Betty!</content>
+               </balloon>
+            </middle>
+
+            <below>Alfie is throwing water at Betty in the kitchen.</below>
+
+            <setting>kitchen</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>defensive</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>all wet</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Ha! You're all wet now, Alfie!</content>
+               </balloon>
+            </right>
+
+            <below>Betty and Alfie are playing with water in the kitchen.</below>
+
+            <setting>kitchen</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>rumbling</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>running away</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Oh no, Alfie's getting angry!</content>
+               </balloon>
+            </right>
+
+            <below>Alfie is getting angry and Betty is running away in the kitchen.</below>
+
+            <setting>kitchen</setting>
+         </panel>
+
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>regaining consciousness</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>What happened?</content>
+               </balloon>
+            </middle>
+
+            <below>Alfie is regaining consciousness on the gravel path.</below>
+
+            <setting>gravel path</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>operating</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>unconscious</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Don't worry, Alfie. I've got you.</content>
+               </balloon>
+            </right>
+
+            <below>Betty is taking care of Alfie on the gravel path.</below>
+
+            <setting>gravel path</setting>
+         </panel>
+
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>experimenting</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I think I'm okay now.</content>
+               </balloon>
+            </middle>
+
+            <below>Alfie is experimenting with something in the hospital.</below>
+
+            <setting>hospital</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>swallowing</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>yawning</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I'm glad we're both okay.</content>
+               </balloon>
+            </right>
+
+            <below>Betty and Alfie are recovering in the hospital.</below>
+
+            <setting>hospital</setting>
+         </panel>
+
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>riding</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Let's go home.</content>
+               </balloon>
+            </middle>
+
+            <below>Alfie is riding a horse on the gravel path.</below>
+
+            <setting>gravel path</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>falling off horse</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>dispatched</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Whoa, Betty! Hold on!</content>
+               </balloon>
+            </right>
+
+            <below>Betty is falling off a horse on the gravel path.</below>
+
+            <setting>gravel path</setting>
+         </panel>
+
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>slopping</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I've got you, Betty.</content>
+               </balloon>
+            </middle>
+
+            <below>Alfie is helping Betty up on the gravel path.</below>
+
+            <setting>gravel path</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- No global figures defined for this story -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Alfie and Betty trudging through the desert, both looking tired -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>sweating</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>sweating</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie and Betty walk side by side under the scorching sun, sweat dripping from their brows.</below>
+            <setting>desert</setting>
+         </panel>
+
+         <!-- Panel 2: Betty searching, Alfie looking lost -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>searching</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>lost</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Betty, are you sure we’re going the right way?</content>
+               </balloon>
+            </right>
+            <below>Betty scans the horizon for any sign of water while Alfie looks increasingly uncertain.</below>
+            <setting>desert</setting>
+         </panel>
+
+         <!-- Panel 3: Gemma joins, optimistic, but all three are thirsty -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>apprehensive</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <middle>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>optimistic</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Don’t give up! There must be an oasis nearby!</content>
+               </balloon>
+            </middle>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>hungry</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Gemma appears with a hopeful look, but Betty and Alfie’s faces show their exhaustion.</below>
+            <setting>desert</setting>
+         </panel>
+
+         <!-- Panel 4: All three crawling and reaching, desperate -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>crawling and reaching</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>crawling and reaching</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>crawling and reaching</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>The group crawls across the sand, arms outstretched, desperate for water.</below>
+            <setting>desert</setting>
+         </panel>
+
+         <!-- Panel 5: They find a cactus, Alfie tries to break it open, Betty and Gemma hopeful -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>breaking mirror</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>hopeful</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <right>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>hopeful</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Maybe there’s water inside!</content>
+               </balloon>
+            </right>
+            <below>Alfie tries to crack open a cactus while Betty and Gemma watch hopefully.</below>
+            <setting>desert</setting>
+         </panel>
+
+         <!-- Panel 6: Alfie spills a few drops from the cactus, the group shares a laugh despite everything -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>spilling drink while seated</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Well, it's not much, but it's something!</content>
+               </balloon>
+            </left>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>laughing</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <right>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>laughing</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>A few drops of water spill out as Alfie cracks the cactus open. Betty and Gemma laugh, grateful for even the smallest relief.</below>
+            <setting>desert</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

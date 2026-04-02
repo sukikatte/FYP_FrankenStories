@@ -1,0 +1,210 @@
+<comic>
+   <figures/>
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>sick</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>evaluating</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Let me check your temperature</content>
+               </balloon>
+            </right>
+            <below>Betty examines the ill Alfie</below>
+            <setting>hospital</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>vomiting</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I don't feel well...</content>
+               </balloon>
+            </middle>
+            <below>Alfie's condition worsens</below>
+            <setting>hospital</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>unconscious</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>operating</pose>
+                  <facing>right</facing>
+               </figure>
+            </right>
+            <below>Betty administers emergency treatment</below>
+            <setting>hospital</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>regaining consciousness</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Where am I?</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>swallowing</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie wakes up disoriented</below>
+            <setting>hospital</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>yawning</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>throwing water</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Drink this, it'll help</content>
+               </balloon>
+            </right>
+            <below>Betty brings Alfie water</below>
+            <setting>hospital</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>sick</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Thank you for helping me</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>defensive</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie expresses gratitude</below>
+            <setting>hospital</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>running away</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Time for your check-up!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>evaluating</pose>
+                  <facing>right</facing>
+               </figure>
+            </right>
+            <below>Betty prepares for the next examination</below>
+            <setting>hospital</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>breakfasting</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I'm feeling much better now</content>
+               </balloon>
+            </middle>
+            <below>Alfie recovers enough to eat</below>
+            <setting>kitchen</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

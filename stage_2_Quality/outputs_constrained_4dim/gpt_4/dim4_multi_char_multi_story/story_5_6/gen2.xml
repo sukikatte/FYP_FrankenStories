@@ -1,0 +1,193 @@
+<comic>
+   <figures>
+   </figures>
+   <scenes>
+      <scene>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>mixing</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Betty, can you pass me the beaker?</content>
+               </balloon>
+            </middle>
+            <below>Alfie stands in the laboratory, carefully mixing chemicals and asks Betty for help.</below>
+            <setting>laboratory</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>reacting</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>mixing</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Thanks, Betty! I think this experiment will be a success.</content>
+               </balloon>
+            </right>
+            <below>Betty reacts to Alfie's request and hands him the beaker, watching his actions closely.</below>
+            <setting>laboratory</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>lighting cigar</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>plugging ears</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Alfie, that's dangerous! Don't light that in here!</content>
+               </balloon>
+            </right>
+            <below>Alfie lights a cigar near the experiment while Betty covers her ears, worried about the outcome.</below>
+            <setting>laboratory</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>exploding</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Uh oh!</content>
+               </balloon>
+            </middle>
+            <below>The chemicals suddenly explode, causing a loud bang and surprising Alfie.</below>
+            <setting>laboratory</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>running away</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>on fire</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Help! I'm on fire!</content>
+               </balloon>
+            </right>
+            <below>Betty flees the scene as Alfie finds himself caught in the aftermath, flames rising around him.</below>
+            <setting>laboratory</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>burnt</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>That was a close call. Maybe I should listen to Betty next time.</content>
+               </balloon>
+            </middle>
+            <below>Alfie sits on the floor, burnt but safe, reflecting on the lesson learned from the experiment.</below>
+            <setting>laboratory</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>drinking coffee</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Let's take a break, Alfie. You need it!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>reacting</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Betty offers Alfie a cup of coffee, and he gratefully accepts, smiling at her.</below>
+            <setting>laboratory</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>rebellious</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Next time, let's try something safer!</content>
+               </balloon>
+            </middle>
+            <below>Betty stands confidently, suggesting a new approach for their next experiment.</below>
+            <setting>laboratory</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

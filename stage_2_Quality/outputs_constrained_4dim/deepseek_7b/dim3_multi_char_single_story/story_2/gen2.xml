@@ -1,0 +1,188 @@
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!--
+            ComicXML STRUCTURE_GUIDE,
+            Panel 1: Left position with Alfie, pose "all wet", facing left
+         -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance default="true"/>
+                  <skin default="true"/>
+                  <hair default="true"/>
+                  <lips red="true"/>
+                  <pose>all wet</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Alfie, where are you?</content>
+               </balloon>
+            </left>
+
+            <below>Alfie is splashing in shallow water on the gravel path.</below>
+            <setting>Gravel path</setting>
+         </panel>
+
+         <!--
+            Panel 2: Middle position with Betty, pose "falling off horse", facing right
+         -->
+         <scene>
+            <panel>
+               <middle>
+                  <figure>
+                     <id>Betty</id>
+                     <name>Betty</name>
+                     <appearance default="true"/>
+                     <skin default="true"/>
+                     <hair default="true"/>
+                     <lips default="true"/>
+                     <pose>falling off horse</pose>
+                     <facing>right</facing>
+                  </figure>
+                  <balloon status="speech">
+                     <content>What's happening here?</content>
+                  </balloon>
+               </middle>
+               <balloon status="speech" content="Betty's question about Alfie's disappearance">
+                  <content>What's happening here?</content>
+               </balloon>
+               <below>Betty is looking around confusedly.</below>
+            </middle>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance default="true"/>
+                  <skin default="true"/>
+                  <hair default="true"/>
+                  <lips red="true"/>
+                  <pose>all wet</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Betty asks Alfie about their disappearance.</below>
+         </panel>
+
+         <!--
+            Panel 3: Right position with Alfie, pose "regaining consciousness", facing left
+         -->
+         <scene>
+            <panel>
+               <right>
+                  <figure>
+                     <id>Alfie</id>
+                     <name>Alfie</name>
+                     <appearance default="true"/>
+                     <skin default="true"/>
+                     <hair default="true"/>
+                     <lips red="true"/>
+                     <pose>regaining consciousness</pose>
+                     <facing>left</facing>
+                  </figure>
+                  <balloon status="speech">
+                     <content>Alfie, are you okay?</content>
+                  </balloon>
+               </right>
+               <below>Alfie is slowly regaining consciousness after the splash.</below>
+            </right>
+            <setting>Gravel path</setting>
+         </panel>
+
+         <!--
+            Panel 4: Left and middle positions with Alfie and Betty, both in water pose
+         -->
+         <scene>
+            <panel>
+               <left>
+                  <figure>
+                     <id>Alfie</id>
+                     <name>Alfie</name>
+                     <appearance default="true"/>
+                     <skin default="true"/>
+                     <hair default="true"/>
+                     <lips red="true"/>
+                     <pose>all wet</pose>
+                     <facing>left</facing>
+                  </figure>
+                  <balloon status="speech" content="Betty is splashing in shallow water too">
+                     <content>Betty's question</content>
+                  </balloon>
+               </left>
+               <middle>
+                  <figure>
+                     <id>Betty</id>
+                     <name>Betty</name>
+                     <appearance default="true"/>
+                     <skin default="true"/>
+                     <hair default="true"/>
+                     <lips default="true"/>
+                     <pose>all wet</pose>
+                     <facing>right</facing>
+                  </figure>
+                  <balloon status="speech" content="Alfie, what happened to us">
+                     <content>Alfie's question</content>
+                  </balloon>
+               </middle>
+            </left-middle>
+            <below>Betty asks Alfie about their disappearance, and Alfie asks about the splash.</below>
+         </panel>
+
+         <!--
+            Panel 5: Middle position with Alfie, pose "throwing water", facing right
+         -->
+         <scene>
+            <panel>
+               <middle>
+                  <figure>
+                     <id>Alfie</id>
+                     <name>Alfie</name>
+                     <appearance default="true"/>
+                     <skin default="true"/>
+                     <hair default="true"/>
+                     <lips red="true"/>
+                     <pose>throwing water</pose>
+                     <facing>right</facing>
+                  </figure>
+                  <balloon status="speech">
+                     <content>Let's get out of here!</content>
+                  </balloon>
+               </middle>
+               <below>Alfie is throwing water at Betty to get her out of the splash zone.</below>
+            </middle>
+            <setting>Gravel path</setting>
+         </panel>
+
+         <!--
+            Panel 6: Right position with Betty, pose "slopping", facing left
+         -->
+         <scene>
+            <panel>
+               <right>
+                  <figure>
+                     <id>Betty</id>
+                     <name>Betty</name>
+                     <appearance default="true"/>
+                     <skin default="true"/>
+                     <hair default="true"/>
+                     <lips default="true"/>
+                     <pose>slopping</pose>
+                     <facing>left</facing>
+                  </figure>
+                  <balloon status="speech">
+                     <content>Get out of here, Alfie!</content>
+                  </balloon>
+               </right>
+               <below>Betty slumps and leaves the scene.</below>
+            </right>
+            <setting>Gravel path</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

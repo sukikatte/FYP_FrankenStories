@@ -1,0 +1,197 @@
+<comic>
+   <figures/>
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>sick</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>evaluating</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Alfie, I'm Dr. Betty. How are you feeling?</content>
+               </balloon>
+            </right>
+            <below>Dr. Betty checks on her new patient</below>
+            <setting>hospital</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>sick</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Terrible... fever and chills...</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>experimenting</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Dr. Betty prepares test equipment</below>
+            <setting>hospital</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>operating</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I need to run some blood tests.</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>defensive</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie reacts nervously to the needle</below>
+            <setting>hospital</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>running away</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <below>Alfie panics and tries to leave</below>
+            <setting>hospital</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>dispatched</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Please wait! This is important!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>defensive</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Dr. Betty intercepts Alfie in the hallway</below>
+            <setting>hospital</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>evaluating</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Results show bacterial infection. Antibiotics will help.</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>sick</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Dr. Betty reviews test findings with Alfie</below>
+            <setting>hospital</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>experimenting</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Take these medications regularly. You'll recover soon.</content>
+               </balloon>
+            </middle>
+            <below>Dr. Betty prepares the treatment plan</below>
+            <setting>hospital</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

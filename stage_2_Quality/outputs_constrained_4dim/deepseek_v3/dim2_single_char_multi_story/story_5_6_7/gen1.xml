@@ -1,0 +1,160 @@
+<comic>
+   <figures>
+   </figures>
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>cycling</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>What a beautiful day for a bike ride!</content>
+               </balloon>
+            </left>
+            <below>Alfie enjoys his morning ride through the city</below>
+            <setting>boulevard</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>reading on bicycle</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>This book is so interesting, I can't put it down!</content>
+               </balloon>
+            </middle>
+            <below>Alfie tries to read while cycling</below>
+            <setting>boulevard</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>falling off bicycle</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Whoaaaa!</content>
+               </balloon>
+            </left>
+            <below>Disaster strikes as Alfie loses control</below>
+            <setting>boulevard</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>broken legs</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Owwww! My legs!</content>
+               </balloon>
+            </middle>
+            <below>Alfie lies injured on the pavement</below>
+            <setting>boulevard</setting>
+         </panel>
+         <panel>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>on crutch</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>These crutches are harder than they look!</content>
+               </balloon>
+            </right>
+            <below>Alfie struggles with his new mobility aids</below>
+            <setting>hospital exterior</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>rollerskating</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Maybe I should try something safer...</content>
+               </balloon>
+            </left>
+            <below>Alfie attempts a new mode of transportation</below>
+            <setting>park bench</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>falling on rollerskates</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Not again!</content>
+               </balloon>
+            </middle>
+            <below>History repeats itself</below>
+            <setting>park bench</setting>
+         </panel>
+         <panel>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>drinking coffee</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Maybe I'll just stay indoors from now on.</content>
+               </balloon>
+            </right>
+            <below>Alfie decides to play it safe</below>
+            <setting>kitchen</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

@@ -1,0 +1,237 @@
+<comic>
+   <figures>
+   </figures>
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>mixing</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>reacting</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Alfie, what are you making?</content>
+               </balloon>
+            </right>
+            <below>Alfie stirs ingredients in the kitchen while Betty watches curiously.</below>
+            <setting>kitchen</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>mixing</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>It's a secret recipe. You'll see soon!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>reacting</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Betty tries to peek into Alfie's bowl, but he keeps it hidden.</below>
+            <setting>kitchen</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>rebellious</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I don't like secrets! Tell me now!</content>
+               </balloon>
+            </middle>
+            <below>Betty crosses her arms and demands an answer from Alfie.</below>
+            <setting>kitchen</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>reacting</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>rebellious</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie looks surprised by Betty's insistence, while Betty stands her ground.</below>
+            <setting>kitchen</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>on soapbox</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Alright, Betty. It's for the government contest!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>reacting</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie stands proudly, revealing his motivation. Betty is taken aback.</below>
+            <setting>government</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>plugging ears</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I don't trust those contests. They're always rigged!</content>
+               </balloon>
+            </middle>
+            <below>Betty covers her ears, refusing to listen to Alfie's explanation.</below>
+            <setting>government</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>reacting</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>running away</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Betty storms out, leaving Alfie alone with his recipe.</below>
+            <setting>government</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>mixing</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Maybe Betty's right... but I have to try.</content>
+               </balloon>
+            </middle>
+            <below>Alfie continues mixing, determined yet uncertain.</below>
+            <setting>government</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>rebellious</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>on soapbox</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Will you help me, Betty?</content>
+               </balloon>
+            </right>
+            <below>Alfie appeals to Betty, hoping she'll join him in his effort.</below>
+            <setting>police state</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>reacting</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Alright, but only if we do it our way!</content>
+               </balloon>
+            </middle>
+            <below>Betty finally agrees, setting her own terms for helping Alfie.</below>
+            <setting>police state</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- No global figures defined -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Alfie discovers the strange book -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>default</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>searching</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>What's this book? I've never seen it before...</content>
+               </balloon>
+            </middle>
+            <below>Alfie stands in the library, scanning the shelves, when his eyes land on a mysterious, old book tucked away in a corner.</below>
+            <setting>library</setting>
+         </panel>
+
+         <!-- Panel 2: Betty approaches and interacts with Alfie -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>default</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>examining document</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>default</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>questioning</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Alfie, what did you find? That book looks ancient!</content>
+               </balloon>
+            </right>
+            <below>Betty notices Alfie holding the strange book and walks over, curiosity piqued.</below>
+            <setting>library</setting>
+         </panel>
+
+         <!-- Panel 3: Both react emotionally to the book's strange aura -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>default</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>alarmed</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I don't know, Betty... It feels kind of... weird.</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>default</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>apprehensive</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Maybe we shouldn't open it...</content>
+               </balloon>
+            </right>
+            <below>Both Alfie and Betty look uneasy, sensing an odd energy emanating from the book.</below>
+            <setting>library</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

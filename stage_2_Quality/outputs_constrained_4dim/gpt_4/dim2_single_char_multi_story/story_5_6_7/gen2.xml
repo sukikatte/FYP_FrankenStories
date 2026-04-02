@@ -1,0 +1,177 @@
+<comic>
+   <figures>
+   </figures>
+   <scenes>
+      <scene>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>cycling</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>What a perfect day for a ride!</content>
+               </balloon>
+            </middle>
+            <below>Alfie cycles down the boulevard, enjoying the sunny weather.</below>
+            <setting>boulevard</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>reading on bicycle</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>reacting</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Oops! I should watch where I'm going.</content>
+               </balloon>
+            </right>
+            <below>Alfie tries to read a flyer while cycling, but suddenly notices a bump ahead.</below>
+            <setting>boulevard</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>falling off bicycle</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Ahhh!</content>
+               </balloon>
+            </middle>
+            <below>Alfie loses balance and tumbles off his bicycle.</below>
+            <setting>boulevard</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>broken legs</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>reacting</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>That hurt more than I expected...</content>
+               </balloon>
+            </right>
+            <below>Alfie sits on the ground, clutching his leg, wincing in pain.</below>
+            <setting>boulevard</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>on crutch</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>At least I can still move around.</content>
+               </balloon>
+            </middle>
+            <below>Now using crutches, Alfie makes his way carefully along the hospital exterior.</below>
+            <setting>hospital exterior</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>drinking coffee</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>A warm coffee makes everything better.</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>reacting</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie relaxes on a park bench, sipping coffee and smiling despite his crutches.</below>
+            <setting>park bench</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>rebellious</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Next time, I'll keep my eyes on the road!</content>
+               </balloon>
+            </middle>
+            <below>Determined, Alfie promises himself to be more careful in the future.</below>
+            <setting>park bench</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

@@ -1,0 +1,91 @@
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!--
+            ComicXML STRUCTURE GUIDE
+         -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>falling</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <below>
+               <content>Fallen to the gravel path</content>
+            </below>
+            <setting>Gravel path</setting>
+         </panel>
+
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>lying off a horse</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <below>
+               <content>Around the bend in the gravel path</content>
+            </below>
+            <setting>Gravel path</setting>
+         </panel>
+
+         <panel>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>regaining consciousness</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <balloon status="speech">
+               <content>I think I'm okay now</content>
+            </balloon>
+            <below>
+               <content>But I'm still a bit disoriented</content>
+            </below>
+            <setting>Gravel path</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>riding</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <below>
+               <content>Riding away on his horse</content>
+            </below>
+            <setting>Gravel path</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

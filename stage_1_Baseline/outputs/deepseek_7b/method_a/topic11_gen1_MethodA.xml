@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Three-panel scene structure -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>thinking</pose>
+                  <facing>right</facing>
+               </figure>
+               <below>Alfie ponders the meaning of life while searching for water in the desert.</below>
+               <setting>dawn of man</setting>
+            </left>
+
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>desperated</pose>
+                  <facing>left</facing>
+               </figure>
+               <below>Alfie frantically searches his背包 for water bottles in the sandy dunes.</below>
+               <setting>dawn of man</setting>
+            </middle>
+
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>crying</pose>
+                  <facing>right</facing>
+               </figure>
+               <below>Alfie breaks down in tears as he realizes there's no escaping this predicament.</below>
+               <setting>dawn of man</setting>
+            </right>
+         </panel>
+
+         <!-- Additional panels can be added here following the same structure -->
+      </scene>
+   </scenes>
+</comic>

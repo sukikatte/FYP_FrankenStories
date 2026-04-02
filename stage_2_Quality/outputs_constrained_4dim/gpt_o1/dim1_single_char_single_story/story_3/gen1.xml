@@ -1,0 +1,147 @@
+<comic>
+   <figures>
+   </figures>
+   <scenes>
+      <scene>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>running away</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I'm feeling terrible. I need to see a doctor!</content>
+               </balloon>
+            </middle>
+            <below>Alfie rushes into the hospital, feeling a sharp pain in his side.</below>
+            <setting>hospital</setting>
+         </panel>
+
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>defensive</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Where is the emergency ward? I can barely stand.</content>
+               </balloon>
+            </middle>
+            <below>He stops at the front desk, uncertain where to go.</below>
+            <setting>hospital</setting>
+         </panel>
+
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>sick</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I hope it's not something serious...</content>
+               </balloon>
+            </middle>
+            <below>Alfie clutches his stomach, waiting to be examined.</below>
+            <setting>hospital</setting>
+         </panel>
+
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>evaluating</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I'll try to remain calm and do everything the doctor says.</content>
+               </balloon>
+            </middle>
+            <below>The staff calls him in to discuss possible tests and treatments.</below>
+            <setting>hospital</setting>
+         </panel>
+
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>experimenting</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>They've given me some medication. Let's see if this helps.</content>
+               </balloon>
+            </middle>
+            <below>He carefully reads the instructions on the bottle.</below>
+            <setting>hospital</setting>
+         </panel>
+
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>operating</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>The doctor said I need a minor procedure. I'm scared but also relieved.</content>
+               </balloon>
+            </middle>
+            <below>Alfie prepares himself mentally for the operation.</below>
+            <setting>hospital</setting>
+         </panel>
+
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>dispatched</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I'm discharged now! Time to rest at home and fully recover.</content>
+               </balloon>
+            </middle>
+            <below>With medications in hand, Alfie leaves the hospital feeling hopeful.</below>
+            <setting>hospital</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

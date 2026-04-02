@@ -1,0 +1,124 @@
+<comic>
+  <figures/>
+  <scenes>
+    <scene>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>mixing</pose>
+            <facing>left</facing>
+          </figure>
+          <balloon status="speech">
+            <content>This government is ruining everything!</content>
+          </balloon>
+        </left>
+        <below>Alfie angrily mixes ingredients while complaining</below>
+        <setting>kitchen</setting>
+      </panel>
+      <panel>
+        <right>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>reacting</pose>
+            <facing>right</facing>
+          </figure>
+          <balloon status="speech">
+            <content>Unacceptable! They're turning us into a police state!</content>
+          </balloon>
+        </right>
+        <below>Alfie reacts to news broadcast</below>
+        <setting>government</setting>
+      </panel>
+      <panel>
+        <middle>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>on soapbox</pose>
+            <facing>left</facing>
+          </figure>
+          <balloon status="speech">
+            <content>We must rebel against this oppression!</content>
+          </balloon>
+        </middle>
+        <below>Alfie delivers impassioned speech</below>
+        <setting>police state</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>rebellious</pose>
+            <facing>left</facing>
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <appearance>default</appearance>
+            <skin>default</skin>
+            <hair>default</hair>
+            <pose>government</pose>
+            <facing>right</facing>
+          </figure>
+        </right>
+        <below>Alfie defiantly confronts the system</below>
+        <setting>police state</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>plugging ears</pose>
+            <facing>right</facing>
+          </figure>
+          <balloon status="speech">
+            <content>I won't listen to your lies anymore!</content>
+          </balloon>
+        </left>
+        <below>Alfie blocks out propaganda announcements</below>
+        <setting>police state</setting>
+      </panel>
+      <panel>
+        <right>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>running away</pose>
+            <facing>right</facing>
+          </figure>
+        </right>
+        <below>Alfie makes his escape from the oppressive regime</below>
+        <setting>police state</setting>
+      </panel>
+    </scene>
+  </scenes>
+</comic>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+  <figures>
+    <figure>
+      <id>Alfie</id>
+      <name>Alfie</name>
+      <appearance>male</appearance>
+      <skin>light brown</skin>
+      <hair>dark brown</hair>
+      <lips>red</lips>
+    </figure>
+    <figure>
+      <id>Betty</id>
+      <name>Betty</name>
+      <appearance>female</appearance>
+      <skin>white</skin>
+      <hair>blonde</hair>
+      <lips>pink</lips>
+    </figure>
+    <figure>
+      <id>Gemma</id>
+      <name>Gemma</name>
+      <appearance>female</appearance>
+      <skin>olive</skin>
+      <hair>black</hair>
+      <lips>pink</lips>
+    </figure>
+  </figures>
+  <scenes>
+    <scene>
+      <!-- Panel 1: The ceremony is about to begin in the church -->
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>arriving</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>celebrating</pose>
+            <facing>left</facing>
+          </figure>
+        </right>
+        <below>The ceremony is about to begin. Alfie and Betty arrive at the front of the church.</below>
+        <setting>church</setting>
+      </panel>
+
+      <!-- Panel 2: Betty eagerly awaits the officiant, while Alfie looks tense -->
+      <panel>
+        <left>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>joy</pose>
+            <facing>left</facing>
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>nervous</pose>
+            <facing>right</facing>
+          </figure>
+        </right>
+        <below>Betty is filled with anticipation, while Alfie feels a touch of nerves before the ceremony starts.</below>
+        <setting>church</setting>
+      </panel>
+
+      <!-- Panel 3: An accident occurs when Alfie trips, causing chaos -->
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>falling</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <middle>
+          <figure>
+            <id>Gemma</id>
+            <name>Gemma</name>
+            <appearance>female</appearance>
+            <skin>olive</skin>
+            <hair>black</hair>
+            <lips>pink</lips>
+            <pose>praying</pose>
+            <facing>left</facing>
+          </figure>
+        </middle>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>alarmed</pose>
+            <facing>left</facing>
+          </figure>
+        </right>
+        <below>Alfie accidentally trips and falls right onto the wedding cake, sending pieces flying!</below>
+        <setting>church</setting>
+      </panel>
+
+      <!-- Panel 4: Aftermath of the accident, everyone is shocked and tries to regroup -->
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>sad</pose>
+            <facing>left</facing>
+          </figure>
+        </left>
+        <middle>
+          <figure>
+            <id>Gemma</id>
+            <name>Gemma</name>
+            <appearance>female</appearance>
+            <skin>olive</skin>
+            <hair>black</hair>
+            <lips>pink</lips>
+            <pose>worried</pose>
+            <facing>left</facing>
+          </figure>
+        </middle>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>scolding</pose>
+            <facing>right</facing>
+          </figure>
+        </right>
+        <below>With the ceremony in disarray, Gemma tries to help clean up, Betty scolds Alfie, and Alfie feels terrible about the accident.</below>
+        <setting>church</setting>
+      </panel>
+
+    </scene>
+  </scenes>
+</comic>

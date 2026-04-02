@@ -1,0 +1,176 @@
+<comic>
+   <figures>
+   </figures>
+
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>sick</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>operating</pose>
+                  <facing>left</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>Let me check your vitals, Alfie.</content>
+               </balloon>
+            </right>
+
+            <below>Alfie lies in a hospital bed while Betty examines him.</below>
+
+            <setting>hospital</setting>
+         </panel>
+
+         <panel>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>evaluating</pose>
+                  <facing>left</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>Your temperature is still high. We need to run more tests.</content>
+               </balloon>
+            </middle>
+
+            <below>Betty studies the medical chart with concern.</below>
+
+            <setting>hospital</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>defensive</pose>
+                  <facing>right</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>No more tests! I feel fine!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>dispatched</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+
+            <below>Alfie tries to get out of bed against Betty's advice.</below>
+
+            <setting>hospital</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>running away</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>experimenting</pose>
+                  <facing>left</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>Wait! Where are you going?</content>
+               </balloon>
+            </right>
+
+            <below>Betty rushes out while Alfie calls after her.</below>
+
+            <setting>hospital</setting>
+         </panel>
+
+         <panel>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>operating</pose>
+                  <facing>right</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>I'm getting the doctor! Stay in bed!</content>
+               </balloon>
+            </middle>
+
+            <below>Betty returns with medical equipment.</below>
+
+            <setting>hospital</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>sick</pose>
+                  <facing>right</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>Okay, okay... maybe I do feel a little dizzy.</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>evaluating</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+
+            <below>Alfie finally admits he's not feeling well as Betty prepares treatment.</below>
+
+            <setting>hospital</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

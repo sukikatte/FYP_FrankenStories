@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- No global figures defined -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Alfie's first reaction to the experiment's unexpected result -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>alarmed</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Wait, that’s not supposed to happen!</content>
+               </balloon>
+            </middle>
+            <below>Alfie stands in the laboratory, eyes wide as the experiment produces a strange glow.</below>
+            <setting>laboratory</setting>
+         </panel>
+
+         <!-- Panel 2: Betty enters and interacts with Alfie -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>arriving</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>confused</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Betty, look at this! The solution just changed color by itself!</content>
+               </balloon>
+            </right>
+            <below>Betty rushes in as Alfie points to the experiment, confusion on his face.</below>
+            <setting>laboratory</setting>
+         </panel>
+
+         <!-- Panel 3: Both characters react emotionally to the event -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>surprised</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Did you add something extra? This is incredible!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>apprehensive</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I followed the instructions exactly... I think.</content>
+               </balloon>
+            </right>
+            <below>Betty and Alfie stare at the experiment, a mix of excitement and worry on their faces.</below>
+            <setting>laboratory</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

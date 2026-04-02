@@ -1,0 +1,147 @@
+<comic>
+   <figures/>
+   <scenes>
+      <scene>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>cycling</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>What a lovely day for a ride!</content>
+               </balloon>
+            </middle>
+            <below>Alfie cycles happily down the boulevard</below>
+            <setting>boulevard</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>falling off bicycle</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <below>A sudden pothole sends Alfie tumbling</below>
+            <setting>boulevard</setting>
+         </panel>
+         <panel>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>broken legs</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>My legs! Help!</content>
+               </balloon>
+            </right>
+            <below>Pain shoots through Alfie's shattered limbs</below>
+            <setting>hospital exterior</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>on crutch</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <below>After weeks of recovery, Alfie learns to move with crutches</below>
+            <setting>hospital exterior</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>rebellious</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Enough suffering! Time for change!</content>
+               </balloon>
+            </left>
+            <below>Frustration fuels Alfie's rebellious spirit</below>
+            <setting>school hallway</setting>
+         </panel>
+         <panel>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>lighting cigar</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie seeks solace in forbidden pleasures</below>
+            <setting>park bench</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>running away</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>They'll never catch me now!</content>
+               </balloon>
+            </middle>
+            <below>Alfie flees after defying authority</below>
+            <setting>police state</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>mixing</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <below>In hiding, Alfie experiments with dangerous solutions</below>
+            <setting>laboratory</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

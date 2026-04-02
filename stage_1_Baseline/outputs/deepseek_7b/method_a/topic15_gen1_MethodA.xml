@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!--
+            ComicXML STRUCTURE GUIDE
+            
+           _PANEL STRUCTURE:
+            Each panel can be divided into 1, 2, or 3 parts using position elements:
+            
+            Single part (choose one):
+              - left element
+              
+            Two parts (choose one combination):
+              - left + right (most common)
+              
+            Three parts:
+              - left + middle + right
+            
+            ELEMENTS IN EACH PANEL:
+            Required:
+              - At least one position element (left/middle/right)
+              - setting element (placed directly in panel, after below if present)
+            
+            Optional:
+              - below element (panel description text, placed after position elements)
+              - balloon element (inside position elements where figure speaks)
+              
+            NOT used in content panels:
+              - border element (only used in cover pages)
+              - embedding element (only used in cover pages with special structure)
+            
+            Content panels setting placement:
+              - Setting is placed directly in panel (after below element)
+              - Do NOT use embedding structure
+            
+            FIGURE ELEMENTS:
+            Character figure (required attributes):
+              - id element (Alfie, Betty, or Gemma)
+              - name element
+              - appearance element
+              - pose element
+              - facing element (left or right)
+              
+            Prop figure (for objects/props):
+              - NO id or name elements
+              - appearance element with value "default"
+              - pose element (e.g., "horse prop", "wheelchair prop")
+              - facing element (left or right)
+            
+            BALLOON:
+            - Placed inside position element (left/middle/right) where the speaking figure is
+            - Can have balloon in multiple positions (if multiple figures speak)
+            - Can have no balloon at all
+            - Format: balloon element with status="speech" and content element inside
+         -->
+
+         <panel>
+            <left>
+               <figure>
+                  <id>generic-stranger</id>
+                  <name>Nervous Stranger</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>nervous</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <below>A stranger approaches the bar, holding a drink.</below>
+            <setting>coffee shop</setting>
+         </panel>
+
+         <panel>
+            <middle>
+               <figure>
+                  <appearance default />
+                  <pose>wearing a belt prop</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <below>The belt glows red as it absorbs the drink.</below>
+            <setting>coffee shop</setting>
+         </panel>
+
+         <panel>
+            <right>
+               <figure>
+                  <id>barmaid</id>
+                  <name>Attracting Barmaid</name>
+                  <appearance>default="attracting"</appearance>
+                     <appearance>default="attracting"</appearance>
+                        <appearance>default="attracting"</appearance>
+                           <appearance>default="attracting"</appearance>
+                              <appearance>default="attracting"</appearance>
+                                 <appearance>default="attracting"</appearance>
+                                    <appearance>default="attracting"</appearance>
+                                       <appearance>default="attracting"</appearance>
+                                          <appearance>default="attracting"</appearance>
+                                             <appearance>default="attracting"</appearance>
+                                                <appearance>default="attracting"</appearance>
+                                                   <appearance>default="attracting"</appearance>
+                                                      <appearance>default="attracting"</appearance>
+                                                         <appearance>default="attracting"</appearance>
+                                                            <appearance>default="attracting"</appearance>
+                                                               <appearance>default="attracting"</appearance>
+                                                                  <appearance>default="attracting"</appearance>
+             </figure>
+            </right>
+            <below>The barmaid approaches, offering a glass of wine.</below>
+            <setting>coffee shop</setting>
+         </panel>
+
+      </scene>
+   </scenes>
+</comic>

@@ -1,0 +1,97 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<comic>
+   <figures>
+      <!-- No global figures needed for content panels -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Alfie enters, apprehensive -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>apprehensive</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <below>Alfie enters the coffee shop, looking around nervously.</below>
+            <setting>coffee shop</setting>
+         </panel>
+
+         <!-- Panel 2: Betty greets Alfie; Alfie approaches apprehensively -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>apprehensive</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>confident</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Alfie, over here! Sit down, let’s talk.</content>
+               </balloon>
+            </right>
+            <below>Betty gestures for Alfie to join her. Alfie hesitantly approaches her table.</below>
+            <setting>coffee shop</setting>
+         </panel>
+
+         <!-- Panel 3: Emotional response - Betty reveals important news, Alfie surprised -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>confident</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I have something important to tell you, Alfie.</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>surprised</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Wait—what is it?</content>
+               </balloon>
+            </right>
+            <below>Betty leans in, confident and reassuring, while Alfie’s apprehension turns to surprise.</below>
+            <setting>coffee shop</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

@@ -1,0 +1,150 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!-- This template defines the standard ComicXML structure for content panels,
+to guide LLM output and allow automated validation of generated stories. -->
+
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>searching</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I'm sure the seeds must be buried somewhere around here!</content>
+               </balloon>
+            </middle>
+            <below>Alfie scans the desert floor, looking for hidden seeds.</below>
+            <setting>desert</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>arriving</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>confused</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Betty! Did you bring any tools for digging?</content>
+               </balloon>
+            </right>
+            <below>Betty steps in, curious to assist in the search.</below>
+            <setting>desert</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>pointing</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I think there's something under those rocks!</content>
+               </balloon>
+            </left>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>confrontational</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Let me clear them. Watch your step!</content>
+               </balloon>
+            </middle>
+            <right>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>carrying bowl</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I've got a bowl ready to collect all the seeds we find!</content>
+               </balloon>
+            </right>
+            <below>They coordinate their efforts, excited by the possibility of uncovering the seeds.</below>
+            <setting>desert</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>celebrating</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>We found hundreds of them!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>holding bowl</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>These seeds are perfect for generating new stories!</content>
+               </balloon>
+            </right>
+            <below>Alfie and Betty rejoice after their successful seed gathering.</below>
+            <setting>desert</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

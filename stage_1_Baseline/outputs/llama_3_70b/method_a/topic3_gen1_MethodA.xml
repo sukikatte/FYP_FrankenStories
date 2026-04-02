@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>confused</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>alarmed</pose>
+                  <facing>left</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>What's going on?!</content>
+               </balloon>
+            </right>
+
+            <below>The office is in chaos after the unexpected incident.</below>
+
+            <setting>office</setting>
+         </panel>
+
+         <panel>
+            <middle>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>worried</pose>
+                  <facing>left</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>I don't know, but we need to find out what happened!</content>
+               </balloon>
+            </middle>
+
+            <below>Gemma tries to calm everyone down and investigate the incident.</below>
+
+            <setting>office</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>determined</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>supportive</pose>
+                  <facing>left</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>Let's work together to figure this out!</content>
+               </balloon>
+            </right>
+
+            <below>The office atmosphere starts to change as the characters work together to resolve the incident.</below>
+
+            <setting>office</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

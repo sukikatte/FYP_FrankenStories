@@ -1,0 +1,146 @@
+<comic>
+   <figures>
+   </figures>
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>running away</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>evaluating</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Alfie, wait! We need to discuss this!</content>
+               </balloon>
+            </right>
+            <below>Alfie is rushing down the hospital corridor, with Betty trying to catch up.</below>
+            <setting>hospital</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>defensive</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I'm not ready to face this, Betty.</content>
+               </balloon>
+            </middle>
+            <below>Alfie stops and turns to face Betty, his expression showing hesitation.</below>
+            <setting>hospital</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>experimenting</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Let's try to find a solution together, Alfie.</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>evaluating</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Betty offers a reassuring smile, hoping to calm Alfie's nerves.</below>
+            <setting>hospital</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>operating</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>We can start by reviewing the test results.</content>
+               </balloon>
+            </middle>
+            <below>Betty suggests a practical approach to tackle the situation.</below>
+            <setting>hospital</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>dispatched</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Alright, let's do this.</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>defensive</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie finally agrees to face the challenge with Betty's support.</below>
+            <setting>hospital</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>sick</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Thank you, Betty. I couldn't do this without you.</content>
+               </balloon>
+            </middle>
+            <below>Alfie expresses his gratitude as they prepare to face the situation together.</below>
+            <setting>hospital</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

@@ -1,0 +1,205 @@
+<comic>
+   <figures>
+   </figures>
+
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>drinking coffee</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>reacting</pose>
+                  <facing>right</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>Hello Alfie, what's up?</content>
+               </balloon>
+            </right>
+
+            <below>Alfie and Betty meet in the school hallway.</below>
+
+            <setting>school hallway</setting>
+         </panel>
+
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>reacting</pose>
+                  <facing>right</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>Not much, just grabbing a coffee before class.</content>
+               </balloon>
+            </middle>
+
+            <below>Alfie responds to Betty's greeting.</below>
+
+            <setting>school hallway</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>cycling</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>motorcycling</pose>
+                  <facing>right</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>Want to race to the lab?</content>
+               </balloon>
+            </right>
+
+            <below>Alfie and Betty decide to have a friendly competition.</below>
+
+            <setting>school hallway</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>on fire</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>exploding</pose>
+                  <facing>right</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>Ahh! My bike!</content>
+               </balloon>
+            </right>
+
+            <below>Alfie and Betty's competition takes a dramatic turn.</below>
+
+            <setting>chemical plant</setting>
+         </panel>
+
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>burnt</pose>
+                  <facing>right</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>I think we should just walk from now on.</content>
+               </balloon>
+            </middle>
+
+            <below>Alfie suggests a more cautious approach.</below>
+
+            <setting>chemical plant</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>lighting cigar</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>smoking cigar</pose>
+                  <facing>right</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>I think we've had enough excitement for one day.</content>
+               </balloon>
+            </right>
+
+            <below>Alfie and Betty unwind after their ordeal.</below>
+
+            <setting>laboratory</setting>
+         </panel>
+
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>drinking coffee</pose>
+                  <facing>right</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>Back to coffee, I think.</content>
+               </balloon>
+            </middle>
+
+            <below>Alfie returns to his morning routine.</below>
+
+            <setting>school hallway</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Alfie and Betty walking near graveyard at night -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>apprehensive</pose>
+                  <facing>right</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>This shortcut through the graveyard was a bad idea...</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>scared</pose>
+                  <facing>left</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>Did you hear that? Something moved behind those graves!</content>
+               </balloon>
+            </right>
+
+            <below>Moonlight casts long shadows across the overgrown graveyard as two friends take a dangerous shortcut.</below>
+
+            <setting>graveyard</setting>
+         </panel>
+
+         <!-- Panel 2: Strange green figure emerging -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>alarmed</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>green</skin>
+                  <hair>dark green</hair>
+                  <lips>pink</lips>
+                  <pose>haunting</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+
+            <below>Betty's skin begins turning an unnatural green as an eerie glow surrounds her.</below>
+
+            <setting>graveyard with walls</setting>
+         </panel>
+
+         <!-- Panel 3: The horrifying transformation -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>green</skin>
+                  <hair>dark green</hair>
+                  <lips>pink</lips>
+                  <pose>demonic</pose>
+                  <facing>left</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>Join us, Alfie... the moonlight calls you too...</content>
+               </balloon>
+            </middle>
+
+            <below>Betty's transformation completes as she reaches toward Alfie with glowing hands.</below>
+
+            <setting>graveyard</setting>
+         </panel>
+
+         <!-- Panel 4: Alfie running in terror -->
+         <panel>
+            <left>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>gravestone prop</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>running away</pose>
+                  <facing>right</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>NO! What are you?!</content>
+               </balloon>
+            </right>
+
+            <below>Alfie stumbles backward as the gravestones begin to tremble and shift around him.</below>
+
+            <setting>graveyard with walls</setting>
+         </panel>
+
+         <!-- Panel 5: The final horror -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>green</skin>
+                  <hair>dark green</hair>
+                  <lips>pink</lips>
+                  <pose>summoning with knife</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <below>The moonlight intensifies as dozens of green hands begin emerging from the disturbed graves.</below>
+            <setting>graveyard</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

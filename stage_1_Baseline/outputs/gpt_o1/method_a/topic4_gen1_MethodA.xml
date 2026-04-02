@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+  <figures></figures>
+  <scenes>
+    <scene>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>lost</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <below>Alfie wanders into a forest, uncertain how he got there.</below>
+        <setting>forest</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>searching</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <below>He looks around desperately, hoping to spot a familiar path among the towering trees.</below>
+        <setting>forest</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>worried</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>confused</pose>
+            <facing>left</facing>
+          </figure>
+        </right>
+        <below>He encounters Betty, who is also lost in the dark forest and unsure of how to escape.</below>
+        <setting>dark forest</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>surprised</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>joy</pose>
+            <facing>left</facing>
+          </figure>
+        </right>
+        <below>Together, they discover a hidden bunker entrance concealed behind thick vines, a mysterious place that might hold answers.</below>
+        <setting>secret bunker</setting>
+      </panel>
+    </scene>
+  </scenes>
+</comic>

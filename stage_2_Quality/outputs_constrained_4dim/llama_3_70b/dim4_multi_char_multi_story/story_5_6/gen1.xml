@@ -1,0 +1,233 @@
+<comic>
+   <figures>
+   </figures>
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>reacting</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>mixing</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Hello Alfie, what's going on?</content>
+               </balloon>
+            </right>
+            <below>Alfie and Betty meet in the laboratory.</below>
+            <setting>laboratory</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>drinking coffee</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I'm just having a coffee, Betty. Care to join me?</content>
+               </balloon>
+            </middle>
+            <below>Alfie invites Betty to have a coffee with him.</below>
+            <setting>laboratory</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>on soapbox</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>plugging ears</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I'm trying to work, Betty. Please keep it down.</content>
+               </balloon>
+            </right>
+            <below>Betty starts giving a speech, and Alfie tries to focus on his work.</below>
+            <setting>laboratory</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>running away</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>reacting</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Wait, Alfie! Don't go!</content>
+               </balloon>
+            </right>
+            <below>Alfie tries to escape from Betty's speech, but she tries to stop him.</below>
+            <setting>laboratory</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>on fire</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Ahh! I'm on fire!</content>
+               </balloon>
+            </middle>
+            <below>Alfie accidentally sets himself on fire while trying to escape.</below>
+            <setting>laboratory</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>mixing</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>burnt</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Thanks for putting out the fire, Betty.</content>
+               </balloon>
+            </right>
+            <below>Betty puts out the fire and saves Alfie.</below>
+            <setting>laboratory</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>motorcycling</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>cycling</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Let's have a race, Alfie!</content>
+               </balloon>
+            </right>
+            <below>Alfie and Betty decide to have a race.</below>
+            <setting>school hallway</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>exploding</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I've got a head start!</content>
+               </balloon>
+            </middle>
+            <below>Alfie takes the lead in the race, but things take a turn for the worse.</below>
+            <setting>school hallway</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>lighting cigar</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>smoking cigar</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Congratulations, Alfie. You won the race.</content>
+               </balloon>
+            </right>
+            <below>Betty congratulates Alfie on his win.</below>
+            <setting>school hallway</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

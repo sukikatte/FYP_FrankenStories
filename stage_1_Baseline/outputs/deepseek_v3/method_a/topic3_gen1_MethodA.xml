@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+   <scenes>
+      <scene>
+         <!-- Panel 1: Normal office morning -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>drinking coffee</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Morning Betty! Ready for another exciting day?</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>working</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie arrives at work with his usual coffee, greeting Betty who's already at her desk.</below>
+            <setting>office</setting>
+         </panel>
+
+         <!-- Panel 2: The unexpected incident -->
+         <panel>
+            <middle>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>spilling coffee</pose>
+                  <facing>left</facing>
+               </figure>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>alarmed</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <below>Gemma accidentally knocks over Alfie's coffee, creating a huge mess!</below>
+            <setting>office desk</setting>
+         </panel>
+
+         <!-- Panel 3: Immediate reactions -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>all wet</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>MY NEW SHIRT!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>laughing</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Priceless expression!</content>
+               </balloon>
+            </right>
+            <below>Alfie is soaked while Betty can't stop laughing at the situation.</below>
+            <setting>office</setting>
+         </panel>
+
+         <!-- Panel 4: Resolution and changed atmosphere -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>offering coffee</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Let me make it up to you - coffee's on me all week!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>contented</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Well... I guess accidents happen!</content>
+               </balloon>
+            </right>
+            <below>The incident breaks the ice and leads to a more relaxed office atmosphere.</below>
+            <setting>coffee shop</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

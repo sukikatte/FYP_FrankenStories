@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- ComicXML STRUCTURE GUIDE -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>light brown</appearance>
+                  <skin>light brown</skin>
+                  <hair>black</hair>
+                  <lips>default</lips>
+                  <pose>lying on the ground</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <right>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <lips>default</lips>
+                  <pose>cafe table prop</pose>
+                  <facing>right</facing>
+               </figure>
+            </right>
+
+            <below>strange person approaching</below>
+            <setting>Cafe</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

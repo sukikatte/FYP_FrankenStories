@@ -1,0 +1,230 @@
+<comic>
+   <figures>
+      <figure id="Alfie">
+         <name>Alfie</name>
+         <appearance>male</appearance>
+         <skin>light brown</skin>
+         <hair>dark brown</hair>
+         <lips>red</lips>
+         <pose>breakfasting</pose>
+         <facing>right</facing>
+      </figure>
+      <figure id="Betty">
+         <name>Betty</name>
+         <appearance>female</appearance>
+         <skin>white</skin>
+         <hair>blonde</hair>
+         <lips>pink</lips>
+         <pose>high fiving</pose>
+         <facing>right</facing>
+      </figure>
+   </figures>
+
+   <scenes>
+      <scene>
+         <panel>
+            <middle>
+               <figure>
+                  <id="Alfie">
+                     <name>Alfie</name>
+                     <appearance>male</appearance>
+                     <skin>light brown</skin>
+                     <hair>dark brown</hair>
+                     <lips>red</lips>
+                     <pose>breakfasting</pose>
+                     <facing>right</facing>
+                  </figure>
+               </middle>
+               <balloon status="speech">
+                  <content>Alfie: "Good morning, sweetie!"</content>
+               </balloon>
+            </middle>
+            <below>
+               <setting>welcome mat</setting>
+            </below>
+         </panel>
+
+         <panel>
+            <middle>
+               <figure>
+                  <id="Betty">
+                     <name>Betty</name>
+                     <appearance>female</appearance>
+                     <skin>white</skin>
+                     <hair>blonde</hair>
+                     <lips>pink</lips>
+                     <pose>breakfasting</pose>
+                     <facing>right</facing>
+                  </figure>
+               </middle>
+               <balloon status="speech">
+                  <content>Betty: "Good morning, my love!"</content>
+               </balloon>
+            </middle>
+            <below>
+               <setting>breakfast table</setting>
+            </below>
+         </panel>
+      </scene>
+
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id="Alfie">
+                     <name>Alfie</name>
+                     <appearance>male</appearance>
+                     <skin>light brown</skin>
+                     <hair>dark brown</hair>
+                     <lips>red</lips>
+                     <pose>high fiving</pose>
+                     <facing>right</facing>
+                  </figure>
+               </left>
+            </left>
+            <below>
+               <setting>kitchen counter</setting>
+            </below>
+         </panel>
+
+         <panel>
+            <right>
+               <figure>
+                  <id="Betty">
+                     <name>Betty</name>
+                     <appearance>female</appearance>
+                     <skin>white</skin>
+                     <hair>blonde</hair>
+                     <lips>pink</lips>
+                     <pose>strong</pose>
+                     <facing>right</facing>
+                  </figure>
+               </right>
+            </right>
+            <below>
+               <setting>tablespoon</setting>
+            </below>
+         </panel>
+      </scene>
+
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id="Alfie">
+                     <name>Alfie</name>
+                     <appearance>male</appearance>
+                     <skin>light brown</skin>
+                     <hair>dark brown</hair>
+                     <lips>red</lips>
+                     <pose>munching</pose>
+                     <facing>right</facing>
+                  </figure>
+               </left>
+            </left>
+            <below>
+               <setting>tablespoon</below>
+            </below>
+         </panel>
+
+         <panel>
+            <middle>
+               <figure>
+                  <id="Betty">
+                     <name>Betty</name>
+                     <appearance>female</appearance>
+                     <skin>white</skin>
+                     <hair>blonde</hair>
+                     <lips>pink</lips>
+                     <pose>strong</pose>
+                     <facing>right</facing>
+                  </figure>
+               </middle>
+            </middle>
+            <below>
+               <setting>tablespoon</below>
+            </below>
+         </panel>
+      </scene>
+
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id="Alfie">
+                     <name>Alfie</name>
+                     <appearance>male</appearance>
+                     <skin>light brown</skin>
+                     <hair>dark brown</hair>
+                     <lips>red</lips>
+                     <pose>vomiting</pose>
+                     <facing>right</facing>
+                  </figure>
+               </left>
+            </left>
+            <below>
+               <setting>spitball</below>
+            </below>
+         </panel>
+
+         <panel>
+            <right>
+               <figure>
+                  <id="Betty">
+                     <name>Betty</name>
+                     <appearance>female</appearance>
+                     <skin>white</skin>
+                     <hair>blonde</hair>
+                     <lips>pink</lips>
+                     <pose>strong</pose>
+                     <facing>right</facing>
+                  </figure>
+               </right>
+            </right>
+            <below>
+               <setting>spitball</below>
+            </below>
+         </panel>
+      </scene>
+
+      <scene>
+         <panel>
+            <middle>
+               <figure>
+                  <id="Betty">
+                     <name>Betty</name>
+                     <appearance>female</appearance>
+                     <skin>white</skin>
+                     <hair>blonde</hair>
+                     <lips>pink</lips>
+                     <pose>yawning</pose>
+                     <facing>right</facing>
+                  </figure>
+               </middle>
+            </middle>
+            <below>
+               <setting>mouth</below>
+            </below>
+         </panel>
+
+         <panel>
+            <middle>
+               <figure>
+                  <id="Alfie">
+                     <name>Alfie</name>
+                     <appearance>male</appearance>
+                     <skin>light brown</skin>
+                     <hair>dark brown</hair>
+                     <lips>red</lips>
+                     <pose>yawning</pose>
+                     <facing>right</facing>
+                  </figure>
+               </middle>
+            </middle>
+            <below>
+               <setting>mouth</below>
+            </below>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

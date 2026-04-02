@@ -1,0 +1,195 @@
+<comic>
+  <figures/>
+  <scenes>
+    <scene>
+      <panel>
+        <left>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin></skin>
+            <hair></hair>
+            <lips></lips>
+            <pose>rollerskating</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <below>Betty rollerskates down the boulevard</below>
+        <setting>boulevard</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin></skin>
+            <hair></hair>
+            <lips></lips>
+            <pose>falling on rollerskates</pose>
+            <facing>left</facing>
+          </figure>
+          <balloon status="speech">
+            <content>Whoa!</content>
+          </balloon>
+        </left>
+        <below>She hits a crack and tumbles</below>
+        <setting>boulevard</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin></skin>
+            <hair></hair>
+            <lips></lips>
+            <pose>broken legs</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <below>Betty lies injured on the pavement</below>
+        <setting>boulevard</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>reading on bicycle</pose>
+            <facing>left</facing>
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin></skin>
+            <hair></hair>
+            <lips></lips>
+            <pose>broken legs</pose>
+            <facing>right</facing>
+          </figure>
+          <balloon status="speech">
+            <content>Help!</content>
+          </balloon>
+        </right>
+        <below>Alfie discovers Betty after her accident</below>
+        <setting>boulevard</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>on crutch</pose>
+            <facing>left</facing>
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin></skin>
+            <hair></hair>
+            <lips></lips>
+            <pose>broken legs</pose>
+            <facing>right</facing>
+          </figure>
+        </right>
+        <below>Alfie helps Betty to the hospital</below>
+        <setting>hospital exterior</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin></skin>
+            <hair></hair>
+            <lips></lips>
+            <pose>on crutch</pose>
+            <facing>left</facing>
+          </figure>
+          <balloon status="speech">
+            <content>Thanks for your help</content>
+          </balloon>
+        </left>
+        <right>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>reading on bicycle</pose>
+            <facing>right</facing>
+          </figure>
+        </right>
+        <below>Recovering Betty meets Alfie at the park</below>
+        <setting>park bench</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>falling off bicycle</pose>
+            <facing>right</facing>
+          </figure>
+          <balloon status="speech">
+            <content>Watch out!</content>
+          </balloon>
+        </left>
+        <below>Alfie crashes while showing off</below>
+        <setting>park bench</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin></skin>
+            <hair></hair>
+            <lips></lips>
+            <pose>on crutch</pose>
+            <facing>left</facing>
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>broken legs</pose>
+            <facing>right</facing>
+          </figure>
+        </right>
+        <below>Betty returns the favor helping injured Alfie</below>
+        <setting>park bench</setting>
+      </panel>
+    </scene>
+  </scenes>
+</comic>

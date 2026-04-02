@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+  <figures>
+    <figure>
+      <id>Alfie</id>
+      <name>Alfie</name>
+      <appearance>male</appearance>
+      <skin>light brown</skin>
+      <hair>dark brown</hair>
+      <lips>red</lips>
+    </figure>
+    <figure>
+      <id>Betty</id>
+      <name>Betty</name>
+      <appearance>female</appearance>
+      <skin>white</skin>
+      <hair>blonde</hair>
+      <lips>pink</lips>
+    </figure>
+  </figures>
+  <scenes>
+    <scene>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>arriving</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <below>Alfie steps into the quiet library.</below>
+        <setting>library</setting>
+        <balloon status="speech">I hope I can find something interesting to read.</balloon>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>searching</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <below>Alfie spots an old, dusty tome on a high shelf.</below>
+        <setting>library</setting>
+        <balloon status="speech">This book looks ancient and odd.</balloon>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>reading</pose>
+            <facing>left</facing>
+          </figure>
+        </left>
+        <below>Alfie flips through the strange book's pages.</below>
+        <setting>library</setting>
+        <balloon status="speech">Hmm, these inscriptions are eerie but intriguing.</balloon>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>surprised</pose>
+            <facing>left</facing>
+          </figure>
+        </left>
+        <below>Betty notices Alfie and the strange book.</below>
+        <setting>library</setting>
+        <balloon status="speech">Alfie, are you alright? You look a bit pale.</balloon>
+      </panel>
+    </scene>
+  </scenes>
+</comic>

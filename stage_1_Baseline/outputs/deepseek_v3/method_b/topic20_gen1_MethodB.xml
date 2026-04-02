@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Customer makes unusual request -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>demanding</pose>
+                  <facing>right</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>I want my hair to look EXACTLY like this cactus!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>cactus prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+
+            <below>Betty points enthusiastically at a spiky cactus on the salon counter.</below>
+            <setting>beauty salon</setting>
+         </panel>
+
+         <!-- Panel 2: Stylist reacts with shock -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>alarmed</pose>
+                  <facing>left</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>But... that's physically impossible!</content>
+               </balloon>
+            </middle>
+
+            <below>Gemma the stylist recoils in horror at the bizarre request.</below>
+            <setting>beauty salon</setting>
+         </panel>
+
+         <!-- Panel 3: Customer insists stubbornly -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>insisting</pose>
+                  <facing>right</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>I don't care! Make it happen! I have a desert-themed party tonight!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>worried</pose>
+                  <facing>left</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>(sweating) Maybe... some green hairspray and lots of gel...?</content>
+               </balloon>
+            </right>
+
+            <below>Gemma desperately tries to imagine how to fulfill this impossible request.</below>
+            <setting>beauty salon</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

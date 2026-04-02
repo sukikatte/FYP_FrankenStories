@@ -1,0 +1,152 @@
+<comic>
+   <figures>
+   </figures>
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>drinking coffee</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>This coffee is terrible!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>reacting</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie complains about the coffee while Betty looks on</below>
+            <setting>kitchen</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>on soapbox</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Then make your own coffee next time!</content>
+               </balloon>
+            </middle>
+            <below>Betty stands on her soapbox to lecture Alfie</below>
+            <setting>kitchen</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>rebellious</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>plugging ears</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I'm not listening!</content>
+               </balloon>
+            </right>
+            <below>Alfie rebels while Betty refuses to listen</below>
+            <setting>kitchen</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>lighting cigar</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Fine! I'll just smoke instead!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>reacting</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie lights a cigar in protest</below>
+            <setting>kitchen</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>running away</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I can't stand the smell!</content>
+               </balloon>
+            </middle>
+            <below>Betty runs away from the cigar smoke</below>
+            <setting>kitchen</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>smoking cigar</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Finally some peace and quiet!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>burnt</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie enjoys his cigar while the coffee pot burns</below>
+            <setting>kitchen</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

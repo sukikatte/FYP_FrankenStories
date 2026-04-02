@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+  <figures>
+    <figure>
+      <id>Alfie</id>
+      <name>Alfie</name>
+      <appearance>male</appearance>
+      <skin>light brown</skin>
+      <hair>dark brown</hair>
+      <lips>red</lips>
+    </figure>
+    <figure>
+      <id>Betty</id>
+      <name>Betty</name>
+      <appearance>female</appearance>
+      <skin>white</skin>
+      <hair>blonde</hair>
+      <lips>pink</lips>
+    </figure>
+    <figure>
+      <id>Gemma</id>
+      <name>Gemma</name>
+      <appearance>female</appearance>
+      <skin>olive</skin>
+      <hair>black</hair>
+      <lips>pink</lips>
+    </figure>
+  </figures>
+  <scenes>
+    <scene>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>drinking coffee</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <below>Alfie relaxes in a corner seat, savoring his morning coffee.</below>
+        <setting>coffee shop</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>running</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <below>Betty rushes past the window outside, glancing over her shoulder in distress.</below>
+        <setting>busy intersection</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Gemma</id>
+            <name>Gemma</name>
+            <appearance>female</appearance>
+            <skin>olive</skin>
+            <hair>black</hair>
+            <lips>pink</lips>
+            <pose>running</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <below>Moments later, Gemma appears, determinedly chasing Betty down the busy street.</below>
+        <setting>busy intersection</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>confused</pose>
+            <facing>left</facing>
+          </figure>
+        </left>
+        <below>Alfie steps outside to see what's happening, watching the chase vanish around the corner.</below>
+        <setting>busy intersection</setting>
+      </panel>
+    </scene>
+  </scenes>
+</comic>

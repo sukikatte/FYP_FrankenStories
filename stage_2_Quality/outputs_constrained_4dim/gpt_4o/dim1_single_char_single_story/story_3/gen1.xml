@@ -1,0 +1,122 @@
+<comic>
+   <figures>
+   </figures>
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>evaluating</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>What's the situation here?</content>
+               </balloon>
+            </left>
+            <below>Alfie arrives at the hospital to assess the emergency.</below>
+            <setting>hospital</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>experimenting</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Let's try a new approach to stabilize the patient.</content>
+               </balloon>
+            </middle>
+            <below>Alfie decides to use a new medical technique.</below>
+            <setting>hospital</setting>
+         </panel>
+         <panel>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>operating</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>We need more support here!</content>
+               </balloon>
+            </right>
+            <below>Alfie is focused on the operation, calling for assistance.</below>
+            <setting>hospital</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>defensive</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Stay calm, we can handle this.</content>
+               </balloon>
+            </middle>
+            <below>Alfie reassures the team as they work through the crisis.</below>
+            <setting>hospital</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>dispatched</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Patient is stable now. Great job, everyone!</content>
+               </balloon>
+            </left>
+            <below>Alfie acknowledges the team's effort as the situation improves.</below>
+            <setting>hospital</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>running away</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Let's prepare for the next case!</content>
+               </balloon>
+            </middle>
+            <below>Alfie moves quickly to address the next emergency.</below>
+            <setting>hospital</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

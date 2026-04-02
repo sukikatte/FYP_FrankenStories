@@ -1,0 +1,204 @@
+<comic>
+  <figures>
+    <figure id="Alfie">
+      <name>Alfie</name>
+      <appearance>male</appearance>
+      <skin>light brown</skin>
+      <hair>dark brown</hair>
+      <lips>red</lips>
+      <pose>breakfasting</pose>
+      <facing>right</facing>
+    </figure>
+    <figure id="Betty">
+      <name>Betty</name>
+      <appearance>female</appearance>
+      <skin>white</skin>
+      <hair>blonde</hair>
+      <lips>pink</lips>
+      <pose>high fiving</pose>
+      <facing>right</facing>
+    </figure>
+  </figures>
+
+  <scenes>
+    <scene>
+      <panel>
+        <left>
+          <figure id="Alfie">
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>breakfasting</pose>
+            <facing>right</facing>
+          </figure>
+          <balloon status="speech">
+            <content>Booting up the coffee machine...</content>
+          </balloon>
+        </left>
+        <right>
+          <figure id="Betty">
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>high fiving</pose>
+            <facing>right</facing>
+          </figure>
+          <balloon status="speech">
+            <content>Helping me make it perfect...</content>
+          </balloon>
+        </right>
+        <below>
+          <content>Alfie is busy cooking while Betty assists in the kitchen.</content>
+        </below>
+        <setting>kitchen</setting>
+      </panel>
+    </scene>
+
+    <scene>
+      <panel>
+        <middle>
+          <figure id="Betty">
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>reading</pose>
+            <facing>right</facing>
+          </figure>
+          <balloon status="speech">
+            <content>Just the right amount of fiction...</content>
+          </balloon>
+        </middle>
+        <below>
+          <content>Betty is absorbed in a book in the bedroom.</content>
+        </below>
+        <setting>bedroom</setting>
+      </panel>
+    </scene>
+
+    <scene>
+      <panel>
+        <right>
+          <figure id="Alfie">
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>strong</pose>
+            <facing>right</facing>
+          </figure>
+          <balloon status="speech">
+            <content>Hold it!</content>
+          </balloon>
+        </right>
+        <below>
+          <content>Alfie growls as Betty yawns in the living room.</content>
+        </below>
+        <setting>living room</setting>
+      </panel>
+    </scene>
+
+    <scene>
+      <panel>
+        <left>
+          <figure id="Alfie">
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>smiling</pose>
+            <facing>right</facing>
+          </figure>
+          <balloon status="speech">
+            <content>How about you?</content>
+          </balloon>
+        </left>
+        <right>
+          <figure id="Betty">
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>leaving</pose>
+            <facing>right</facing>
+          </figure>
+          <balloon status="speech">
+            <content>I'm leaving.</content>
+          </balloon>
+        </right>
+        <below>
+          <content>Betty departs as Alfie smiles in the welcome mat.</content>
+        </below>
+        <setting>welcome mat</setting>
+      </panel>
+    </scene>
+
+    <scene>
+      <panel>
+        <left>
+          <figure id="Alfie">
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>high fiving</pose>
+            <facing>right</facing>
+          </figure>
+          <balloon status="speech">
+            <content>Let's do it!</content>
+          </balloon>
+        </left>
+        <right>
+          <figure id="Betty">
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>high fiving</pose>
+            <facing>right</facing>
+          </figure>
+          <balloon status="speech">
+            <content>Teamwork!</content>
+          </balloon>
+        </right>
+        <below>
+          <content>Alfie and Betty high-five in the living room.</content>
+        </below>
+        <setting>living room</setting>
+      </panel>
+    </scene>
+
+    <scene>
+      <panel>
+        <middle>
+          <figure id="Betty">
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>leaving</pose>
+            <facing>right</facing>
+          </figure>
+          <balloon status="speech">
+            <content>I'm going.</content>
+          </balloon>
+        </middle>
+        <below>
+          <content>Betty exits as Alfie pouts in the bedroom.</content>
+        </below>
+        <setting>bedroom</setting>
+      </panel>
+    </scene>
+  </scenes>
+</comic>

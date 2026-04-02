@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>disappointed</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>apologetic</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I'm so sorry about the wait, sir.</content>
+               </balloon>
+            </right>
+            <below>Alfie looks unhappy as he waits for his food at the restaurant.</below>
+            <setting>restaurant</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>angry</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>This is ridiculous! I've been waiting for 20 minutes!</content>
+               </balloon>
+            </middle>
+            <below>Alfie expresses his frustration to the waiter.</below>
+            <setting>restaurant</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>concerned</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>disgusted</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>And now my food is cold!</content>
+               </balloon>
+            </right>
+            <below>Alfie is appalled by the state of his meal.</below>
+            <setting>restaurant</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

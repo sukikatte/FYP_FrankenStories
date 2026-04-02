@@ -1,0 +1,146 @@
+<comic>
+   <figures>
+   </figures>
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>riding</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>throwing water</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Hello Alfie!</content>
+               </balloon>
+            </right>
+            <below>Alfie and Betty meet on the gravel path.</below>
+            <setting>gravel path</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>regaining consciousness</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>What happened?</content>
+               </balloon>
+            </middle>
+            <below>Alfie wakes up after a fall.</below>
+            <setting>gravel path</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>all wet</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>falling off horse</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Ahh!</content>
+               </balloon>
+            </right>
+            <below>Alfie falls off his horse.</below>
+            <setting>gravel path</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>unconscious</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <below>Alfie lies unconscious on the ground.</below>
+            <setting>gravel path</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>slopping</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>riding</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Thanks for your help, Betty!</content>
+               </balloon>
+            </right>
+            <below>Alfie thanks Betty for her help.</below>
+            <setting>gravel path</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>regaining consciousness</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I'm okay now.</content>
+               </balloon>
+            </middle>
+            <below>Alfie is feeling better.</below>
+            <setting>gravel path</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

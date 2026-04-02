@@ -1,0 +1,219 @@
+<comic>
+   <figures>
+   </figures>
+
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>yawning</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>breakfasting</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Good morning, Alfie! Sleep well?</content>
+               </balloon>
+            </right>
+            <below>Alfie wakes up while Betty prepares breakfast</below>
+            <setting>bedroom</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>regaining consciousness</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Ugh... not really. Had that dream again.</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>evaluating</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie rubs his eyes while Betty looks concerned</below>
+            <setting>bedroom</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>throwing water</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Here, this will wake you up!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>all wet</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Betty throws water on Alfie to wake him up properly</below>
+            <setting>kitchen</setting>
+         </panel>
+
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>vomiting</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>BLECH! What was that for?!</content>
+               </balloon>
+            </middle>
+            <below>Alfie reacts dramatically to the cold water</below>
+            <setting>kitchen</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>operating</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>You were sleepwalking again. Nearly rode the horse into the kitchen!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>falling off horse</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Betty explains while Alfie remembers his dream</below>
+            <setting>kitchen</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>defensive</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>That explains the bruises... but couldn't you have just shaken me awake?</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>experimenting</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie complains about Betty's methods</below>
+            <setting>kitchen</setting>
+         </panel>
+
+         <panel>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>slopping</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Where's the fun in that? Now eat your breakfast!</content>
+               </balloon>
+            </middle>
+            <below>Betty plops a plate of food in front of Alfie</below>
+            <setting>kitchen</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>swallowing</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>rumbling</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>And no more midnight horse rides!</content>
+               </balloon>
+            </right>
+            <below>Alfie eats while Betty lays down the law</below>
+            <setting>kitchen</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

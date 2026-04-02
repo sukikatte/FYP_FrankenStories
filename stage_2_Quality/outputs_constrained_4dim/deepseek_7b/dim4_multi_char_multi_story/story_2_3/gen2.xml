@@ -1,0 +1,65 @@
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!--
+            ComicXML STRUCTURE_GUIDE
+         -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>default</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>default</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>default</appearance>
+                  <skin ""/>
+                  <hair ""/>
+                  <lips ""/>
+                  <pose>default</pose>
+                  <facing>right</facing>
+               </figure>
+            </right>
+
+            <below>Alfie is slopping in the gravel path. Betty looks concerned.</below>
+
+            <setting>gravel path</setting>
+         </panel>
+
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>default</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>falling off horse</pose>
+                  <facing>left</facing>
+               </figure>
+            </middle>
+            <balloon status="speech">
+               <content>Betty, you need to stop this!</content>
+            </balloon>
+         </middle>
+
+         <below>Alfie is hurt and Betty is trying to help in the hospital.</below>
+
+         <setting>hospital</setting>
+      </scene>
+   </scenes>
+</comic>

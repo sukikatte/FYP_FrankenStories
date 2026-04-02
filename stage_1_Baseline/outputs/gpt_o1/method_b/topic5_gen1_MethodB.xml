@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+    <figures>
+        <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+        </figure>
+        <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+        </figure>
+        <figure>
+            <id>Gemma</id>
+            <name>Gemma</name>
+            <appearance>female</appearance>
+            <skin>olive</skin>
+            <hair>black</hair>
+            <lips>pink</lips>
+        </figure>
+    </figures>
+    <scenes>
+        <scene>
+            <panel>
+                <border>white</border>
+                <framing>picture panel</framing>
+                <left>
+                    <figure>
+                        <id>Alfie</id>
+                        <pose>worried</pose>
+                        <facing>right</facing>
+                    </figure>
+                    <balloon status="speech">Betty, I really don’t feel good...</balloon>
+                </left>
+                <middle>
+                    <figure>
+                        <id>Betty</id>
+                        <pose>cautious</pose>
+                        <facing>left</facing>
+                    </figure>
+                    <balloon status="speech">Let’s get you inside quickly, Alfie.</balloon>
+                </middle>
+                <below>Alfie and Betty arrive at the hospital with concern.</below>
+                <setting>hospital</setting>
+            </panel>
+            <panel>
+                <border>white</border>
+                <framing>picture panel</framing>
+                <left>
+                    <figure>
+                        <id>Alfie</id>
+                        <pose>sick</pose>
+                        <facing>right</facing>
+                    </figure>
+                </left>
+                <middle>
+                    <figure>
+                        <id>Betty</id>
+                        <pose>worried</pose>
+                        <facing>left</facing>
+                    </figure>
+                </middle>
+                <right>
+                    <figure>
+                        <id>Gemma</id>
+                        <pose>treating</pose>
+                        <facing>left</facing>
+                    </figure>
+                    <balloon status="speech">Let's run some quick tests.</balloon>
+                </right>
+                <below>Gemma, the attending physician, starts examining Alfie.</below>
+                <setting>hospital</setting>
+            </panel>
+            <panel>
+                <border>white</border>
+                <framing>picture panel</framing>
+                <left>
+                    <figure>
+                        <id>Gemma</id>
+                        <pose>explaining</pose>
+                        <facing>right</facing>
+                    </figure>
+                    <balloon status="speech">I have unexpected news...</balloon>
+                </left>
+                <middle>
+                    <figure>
+                        <id>Betty</id>
+                        <pose>apprehensive</pose>
+                        <facing>right</facing>
+                    </figure>
+                </middle>
+                <right>
+                    <figure>
+                        <id>Alfie</id>
+                        <pose>confused</pose>
+                        <facing>left</facing>
+                    </figure>
+                    <balloon status="speech">Unexpected?</balloon>
+                </right>
+                <below>Gemma approaches with Alfie's test results.</below>
+                <setting>hospital</setting>
+            </panel>
+            <panel>
+                <border>white</border>
+                <framing>picture panel</framing>
+                <left>
+                    <figure>
+                        <id>Gemma</id>
+                        <pose>surprised</pose>
+                        <facing>right</facing>
+                    </figure>
+                </left>
+                <middle>
+                    <figure>
+                        <id>Alfie</id>
+                        <pose>reacting</pose>
+                        <facing>left</facing>
+                    </figure>
+                    <balloon status="speech">I never imagined I'd be… perfectly healthy?</balloon>
+                </middle>
+                <right>
+                    <figure>
+                        <id>Betty</id>
+                        <pose>celebrating</pose>
+                        <facing>left</facing>
+                    </figure>
+                    <balloon status="speech">This is fantastic news, Alfie!</balloon>
+                </right>
+                <below>They discover Alfie's symptoms were only stress-related. Relief fills the room.</below>
+                <setting>hospital</setting>
+            </panel>
+        </scene>
+    </scenes>
+</comic>

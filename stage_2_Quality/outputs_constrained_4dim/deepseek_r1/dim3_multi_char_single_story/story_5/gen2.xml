@@ -1,0 +1,210 @@
+<comic>
+  <figures/>
+  <scenes>
+    <scene>
+      <!-- Panel 1: Kitchen setting - Alfie alone -->
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>mixing</pose>
+            <facing>left</facing>
+          </figure>
+        </left>
+        <below>Alfie mixes chemicals in the dim kitchen</below>
+        <setting>kitchen</setting>
+      </panel>
+
+      <!-- Panel 2: Kitchen - Alfie and Betty together -->
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>reacting</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <pose>reacting</pose>
+            <facing>left</facing>
+          </figure>
+          <balloon status="speech">
+            <content>What are you making, Alfie?</content>
+          </balloon>
+        </right>
+        <below>Betty discovers Alfie's secret project</below>
+        <setting>kitchen</setting>
+      </panel>
+
+      <!-- Panel 3: Kitchen - Alfie explains -->
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>on soapbox</pose>
+            <facing>right</facing>
+          </figure>
+          <balloon status="speech">
+            <content>A rebellion potion! This police state ends now!</content>
+          </balloon>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <pose>plugging ears</pose>
+            <facing>left</facing>
+          </figure>
+        </right>
+        <below>Alfie reveals his dangerous plan</below>
+        <setting>kitchen</setting>
+      </panel>
+
+      <!-- Panel 4: Government setting - Confrontation -->
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>rebellious</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <pose>reacting</pose>
+            <facing>left</facing>
+          </figure>
+          <balloon status="speech">
+            <content>They're coming! Run!</content>
+          </balloon>
+        </right>
+        <below>The duo faces government agents</below>
+        <setting>government</setting>
+      </panel>
+
+      <!-- Panel 5: Police state - Escape attempt -->
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>running away</pose>
+            <facing>left</facing>
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <pose>running away</pose>
+            <facing>right</facing>
+          </figure>
+        </right>
+        <below>They flee through oppressive corridors</below>
+        <setting>police state</setting>
+      </panel>
+
+      <!-- Panel 6: Government - Alfie separated -->
+      <panel>
+        <middle>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>reacting</pose>
+            <facing>left</facing>
+          </figure>
+          <balloon status="speech">
+            <content>Betty? Where are you?</content>
+          </balloon>
+        </middle>
+        <below>Alfie loses Betty in the chaos</below>
+        <setting>government</setting>
+      </panel>
+
+      <!-- Panel 7: Police state - Betty's defiance -->
+      <panel>
+        <left>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <pose>on soapbox</pose>
+            <facing>right</facing>
+          </figure>
+          <balloon status="speech">
+            <content>You'll never silence us!</content>
+          </balloon>
+        </left>
+        <below>Betty makes a stand alone</below>
+        <setting>police state</setting>
+      </panel>
+
+      <!-- Panel 8: Kitchen - Reunion -->
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>reacting</pose>
+            <facing>right</facing>
+          </figure>
+          <balloon status="speech">
+            <content>You're safe!</content>
+          </balloon>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <pose>plugging ears</pose>
+            <facing>left</facing>
+          </figure>
+        </right>
+        <below>They reunite at their hideout</below>
+        <setting>kitchen</setting>
+      </panel>
+    </scene>
+  </scenes>
+</comic>

@@ -1,0 +1,112 @@
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!--
+            ComicXML STRUCTURE GUIDE
+         -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance default="Alfie">
+                     <pose>defending</pose>
+                     <facing>right</facing>
+                  </appearance>
+               </figure>
+            </left>
+            <below>Alfie is defending a unconscious patient with a sling.</below>
+            <setting> gravel path</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance default="Alfie">
+                     <pose>sling</pose>
+                     <facing>right</facing>
+                  </appearance>
+               </figure>
+            </left>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance default="Alfie">
+                     <pose>swinging</pose>
+                     <facing>left</facing>
+                  </appearance>
+               </figure>
+            </middle>
+            <below>A violent attack leaves Alfie injured on the gravel path.</below>
+            <setting> gravel path</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance default="Alfie">
+                     <pose>falling off horse</pose>
+                     <facing>right</facing>
+                  </appearance>
+               </figure>
+            </left>
+            <below>Alfie dismounts a horse and falls unconscious on a gravel path.</below>
+            <setting> gravel path</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance default="Alfie">
+                     <pose>defending</pose>
+                     <facing>left</facing>
+                  </appearance>
+               </figure>
+            </left>
+            <below>A patient is being defended on a gravel path.</below>
+            <setting> gravel path</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance default="Alfie">
+                     <pose>defending</pose>
+                     <facing>right</facing>
+                  </appearance>
+               </figure>
+            </left>
+            <below>A strong-arm patient is defended by Alfie on a gravel path.</below>
+            <setting> gravel path</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance default="Alfie">
+                     <pose>defending</pose>
+                     <facing>right</facing>
+                  </appearance>
+               </figure>
+            </left>
+            <below>A altercation occurs in a hospital setting.</below>
+            <setting> hospital</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

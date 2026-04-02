@@ -1,0 +1,199 @@
+<comic>
+   <figures>
+   </figures>
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>riding</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>riding</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie and Betty ride side by side along the gravel path, enjoying the fresh morning air.</below>
+            <setting>gravel path</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>riding</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Betty, watch out for that puddle ahead!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>riding</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie notices a large puddle on the gravel path and warns Betty.</below>
+            <setting>gravel path</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>falling off horse</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Oh no!</content>
+               </balloon>
+            </middle>
+            <below>Betty loses her balance and starts falling off her horse as it slips in the puddle.</below>
+            <setting>gravel path</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>unconscious</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>slopping</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Betty! Are you alright?</content>
+               </balloon>
+            </right>
+            <below>Betty lies unconscious on the gravel path while Alfie rushes to her side, worried.</below>
+            <setting>gravel path</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>throwing water</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Maybe a little water will help her wake up.</content>
+               </balloon>
+            </middle>
+            <below>Alfie quickly fetches some water and gently throws it on Betty's face, hoping to revive her.</below>
+            <setting>gravel path</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>regaining consciousness</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>What happened? Why am I all wet?</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>all wet</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Betty slowly regains consciousness, confused and dripping wet, while Alfie looks relieved.</below>
+            <setting>gravel path</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>all wet</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>You slipped and fell, but you're safe now!</content>
+               </balloon>
+            </middle>
+            <below>Alfie explains what happened, happy to see Betty awake and safe.</below>
+            <setting>gravel path</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>all wet</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>riding</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Let's head home and get you dry, Betty.</content>
+               </balloon>
+            </right>
+            <below>Betty smiles, still wet but grateful, as Alfie helps her up and they prepare to leave the gravel path together.</below>
+            <setting>gravel path</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

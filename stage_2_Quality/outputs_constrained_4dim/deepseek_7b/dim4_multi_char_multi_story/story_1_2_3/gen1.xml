@@ -1,0 +1,222 @@
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Opening panel showing Alfie waking up -->
+         <panel>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>standing</pose>
+                  <facing>right</facing>
+               </figure>
+            </right>
+            <below>Alfie wakes up after a long nap. He looks around confused.</below>
+            <setting>bedroom</setting>
+         </panel>
+
+         <!-- Panel 2: Introducing Betty as a character -->
+         <scene>
+            <panel>
+               <left>
+                  <figure>
+                     <id>Betty</id>
+                     <name>Betty</name>
+                     <appearance ""appearance"">
+                     <skin ""skin"">
+                     <hair ""hair"">
+                     <lips ""lips"">
+                     <pose>lying down</pose>
+                     <facing>left</facing>
+                  </figure>
+               </left>
+               <right>
+                  <figure>
+                     <id>Alfie</id>
+                     <name>Alfie</name>
+                     <appearance>male</appearance>
+                     <skin>light brown</skin>
+                     <hair>dark brown</hair>
+                     <lips>red</lips>
+                     <pose>lying down</pose>
+                     <facing>right</facing>
+                  </figure>
+               </right>
+               <balloon status="speech">
+                  <content>Betty: "Alfie, what happened?"</content>
+               </balloon>
+               <below>Alfie and Betty are in a hospital waiting room. Betty is looking at Alfie confused.</below>
+               <setting>hospital</setting>
+            </panel>
+         </scene>
+
+         <!-- Panel 3: Alfie and Betty playing -->
+         <scene>
+            <panel>
+               <middle>
+                  <figure>
+                     <id>Alfie</id>
+                     <name>Alfie</name>
+                     <appearance>male</appearance>
+                     <skin>light brown</skin>
+                     <hair>dark brown</hair>
+                     <lips>red</lips>
+                     <pose>running</pose>
+                     <facing>left</facing>
+                  </figure>
+               </middle>
+               <middle>
+                  <figure>
+                     <id>Betty</id>
+                     <name>Betty</name>
+                     <appearance ""appearance"">
+                     <skin ""skin"">
+                     <hair ""hair"">
+                     <lips ""lips"">
+                     <pose>running</pose>
+                     <facing>right</facing>
+                  </figure>
+               </middle>
+               <balloon status="speech">
+                  <content>Alfie: "Let's race to the park!"</content>
+               </balloon>
+               <below>Betty: "I don't like running." Alfie: "Just one more lap!"</below>
+               <setting>park</setting>
+            </middle>
+         </scene>
+
+         <!-- Panel 4: Alfie and Betty fighting -->
+         <scene>
+            <panel>
+               <left>
+                  <figure>
+                     <id>Alfie</id>
+                     <name>Alfie</name>
+                     <appearance>male</appearance>
+                     <skin>light brown</skin>
+                     <hair>dark brown</hair>
+                     <lips>red</lips>
+                     <pose>fighting</pose>
+                     <facing>left</facing>
+                  </figure>
+               </left>
+               <right>
+                  <figure>
+                     <id>Betty</id>
+                     <name>Betty</name>
+                     <appearance ""appearance"">
+                     <skin ""skin"">
+                     <hair ""hair"">
+                     <lips ""lips"">
+                     <pose>fighting</pose>
+                     <facing>right</facing>
+                  </figure>
+               </right>
+               <balloon status="speech">
+                  <content>Betty: "I give up!"</content>
+               </balloon>
+               <below>Alfie: "You're such a softie!" Betty: "I don't like being beaten!"</below>
+               <setting>living room</setting>
+            </right>
+         </scene>
+
+         <!-- Panel 5: Alfie and Betty fighting a monster -->
+         <scene>
+            <panel>
+               <left>
+                  <figure>
+                     <id>Alfie</id>
+                     <name>Alfie</name>
+                     <appearance>male</appearance>
+                     <skin>light brown</skin>
+                     <hair>dark brown</hair>
+                     <lips>red</lips>
+                     <pose>fighting</pose>
+                     <facing>left</facing>
+                  </figure>
+               </left>
+               <middle>
+                  <figure>
+                     <id>Betty</id>
+                     <name>Betty</name>
+                     <appearance ""appearance"">
+                     <skin ""skin"">
+                     <hair ""hair"">
+                     <lips ""lips"">
+                     <pose>fighting</pose>
+                     <facing>right</facing>
+                  </figure>
+               </middle>
+               <right>
+                  <figure>
+                     <appearance default>
+                     <skin default>
+                     <hair default>
+                     <lips default>
+                     <pose>monster</pose>
+                     <facing>left</facing>
+                  </figure>
+               </right>
+               <balloon status="speech">
+                  <content>Betty: "This monster is relentless!"</content>
+               </balloon>
+               <below>Alfie: "Let's throw a tantrum!" Betty: "You're such a hero!"</below>
+               <setting>living room</setting>
+            </right>
+         </scene>
+
+         <!-- Panel 6: Alfie and Betty escaping -->
+         <scene>
+            <panel>
+               <left>
+                  <figure>
+                     <id>Alfie</id>
+                     <name>Alfie</name>
+                     <appearance>male</appearance>
+                     <skin>light brown</skin>
+                     <hair>dark brown</hair>
+                     <lips>red</lips>
+                     <pose>escaping</pose>
+                     <facing>left</facing>
+                  </figure>
+               </left>
+               <middle>
+                  <figure>
+                     <id>Betty</id>
+                     <name>Betty</name>
+                     <appearance ""appearance"">
+                     <skin ""skin"">
+                     <hair ""hair"">
+                     <lips ""lips"">
+                     <pose>escaping</pose>
+                     <facing>right</facing>
+                  </figure>
+               </middle>
+               <right>
+                  <figure>
+                     <appearance default>
+                     <skin default>
+                     <hair default>
+                     <lips default>
+                     <pose>chasing</pose>
+                     <facing>left</facing>
+                  </figure>
+               </right>
+               <balloon status="speech">
+                  <content>Betty: "Alfie, let's get out of here!"</content>
+               </balloon>
+               <below>Alfie: "We'll never let you catch us!" Betty: "We need a escape vehicle!"</below>
+               <setting>outdoor parking lot</setting>
+            </right>
+         </scene>
+      </scene>
+   </scenes>
+</comic>

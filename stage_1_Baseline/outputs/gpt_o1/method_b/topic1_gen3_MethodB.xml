@@ -1,0 +1,142 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!-- This template defines the standard ComicXML structure for content panels,
+to guide LLM output and allow automated validation of generated stories. -->
+
+<comic>
+   <figures>
+      <!-- (Optional global figure definitions or leave empty) -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- PANEL 1 -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>confident</pose>
+                  <facing>right</facing>
+               </figure>
+               
+               <balloon status="speech">
+                  <content>Betty, let's gather seeds to spark new stories!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>green</skin>
+                  <hair>dark green</hair>
+                  <lips>pink</lips>
+                  <pose>thinking</pose>
+                  <facing>left</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>That’s a wonderful idea, Alfie. Let's do it!</content>
+               </balloon>
+            </right>
+
+            <below>Alfie shares his excitement about collecting “story seeds,” prompting Betty to join in the plan.</below>
+            <setting>art studio</setting>
+         </panel>
+
+         <!-- PANEL 2 -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>reading map</pose>
+                  <facing>right</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>The map leads to a hidden area in the forest. We should go there!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>green</skin>
+                  <hair>dark green</hair>
+                  <lips>pink</lips>
+                  <pose>searching pockets</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+
+            <below>Alfie consults directions while Betty rummages for anything that might help on their quest.</below>
+            <setting>forest</setting>
+         </panel>
+
+         <!-- PANEL 3 -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>celebrating</pose>
+                  <facing>right</facing>
+               </figure>
+               
+               <balloon status="speech">
+                  <content>We’ve found amazing seeds for new tales!</content>
+               </balloon>
+            </left>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>green</skin>
+                  <hair>dark green</hair>
+                  <lips>pink</lips>
+                  <pose>celebrating</pose>
+                  <facing>left</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>These will inspire incredible stories nowhere else found!</content>
+               </balloon>
+            </middle>
+            <right>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>celebrating</pose>
+                  <facing>right</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>Now we can share them with everyone!</content>
+               </balloon>
+            </right>
+
+            <below>They rejoice together, confident that their newly collected seeds will spark countless fresh narratives.</below>
+            <setting>sunny field</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- Define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!--
+            ComicXML STRUCTURE GUIDE
+            
+            Each panel can be divided into 1, 2, or 3 parts using position elements:
+            
+            Single part (choose one):
+              - left element
+            
+            ELEMENTS IN EACH PANEL:
+            Required:
+              - At least one position element (left)
+              - setting element
+            
+            Optional:
+              - below element (panel description text)
+              - balloon element (inside position element where figure speaks)
+         -->
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>default</appearance>
+                  <skin>light brown</skin>
+                  <hair>blonde</hair>
+                  <lips>red</lips>
+                  <pose>seated</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+
+            <below>Witness enters the courtroom holding a scroll, surrounded by confused jury members and a sitting judge.</below>
+
+            <setting>Setting: Courthouse interior</setting>
+         </panel>
+
+         <balloon status="speech">
+            <content>Controversial testimony will shake the foundation of the trial!</content>
+         </balloon>
+      </scene>
+   </scenes>
+</comic>

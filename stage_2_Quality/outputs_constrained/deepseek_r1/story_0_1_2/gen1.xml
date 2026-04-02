@@ -1,0 +1,218 @@
+<comic>
+  <figures/>
+  <scenes>
+    <scene>
+      <panel>
+        <middle>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>breakfasting</pose>
+            <facing>right</facing>
+          </figure>
+          <balloon status="speech">
+            <content>Good morning!</content>
+          </balloon>
+        </middle>
+        <setting>kitchen</setting>
+      </panel>
+
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>high fiving</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>high fiving</pose>
+            <facing>left</facing>
+          </figure>
+          <balloon status="speech">
+            <content>Ready for our ride?</content>
+          </balloon>
+        </right>
+        <setting>kitchen</setting>
+      </panel>
+
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>riding</pose>
+            <facing>right</facing>
+          </figure>
+          <balloon status="speech">
+            <content>Watch this gallop!</content>
+          </balloon>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>riding</pose>
+            <facing>left</facing>
+          </figure>
+        </right>
+        <setting>gravel path</setting>
+      </panel>
+
+      <panel>
+        <middle>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>falling off horse</pose>
+            <facing>left</facing>
+          </figure>
+          <balloon status="speech">
+            <content>Whoaaa!</content>
+          </balloon>
+        </middle>
+        <setting>gravel path</setting>
+      </panel>
+
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>unconscious</pose>
+            <facing>up</facing>
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>throwing water</pose>
+            <facing>left</facing>
+          </figure>
+          <balloon status="speech">
+            <content>Wake up, Alfie!</content>
+          </balloon>
+        </right>
+        <setting>gravel path</setting>
+      </panel>
+
+      <panel>
+        <middle>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>regaining consciousness</pose>
+            <facing>right</facing>
+          </figure>
+          <balloon status="speech">
+            <content>Ugh... my head...</content>
+          </balloon>
+        </middle>
+        <setting>gravel path</setting>
+      </panel>
+
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>vomiting</pose>
+            <facing>down</facing>
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>all wet</pose>
+            <facing>left</facing>
+          </figure>
+          <balloon status="speech">
+            <content>Oh no, my clothes!</content>
+          </balloon>
+        </right>
+        <setting>gravel path</setting>
+      </panel>
+
+      <panel>
+        <left>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>yawning</pose>
+            <facing>right</facing>
+          </figure>
+          <balloon status="speech">
+            <content>Let's get you to bed.</content>
+          </balloon>
+        </left>
+        <right>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>slopping</pose>
+            <facing>left</facing>
+          </figure>
+        </right>
+        <setting>welcome mat</setting>
+      </panel>
+    </scene>
+  </scenes>
+</comic>

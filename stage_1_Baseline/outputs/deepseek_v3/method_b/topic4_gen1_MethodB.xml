@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Alfie walking through the forest -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>walking with briefcase</pose>
+                  <facing>right</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>This shortcut should get me home faster...</content>
+               </balloon>
+            </middle>
+
+            <below>Alfie confidently walks through the dense forest, taking what he thinks is a shortcut.</below>
+
+            <setting>forest</setting>
+         </panel>
+
+         <!-- Panel 2: Alfie realizing he's lost -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>lost</pose>
+                  <facing>left</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>Wait... none of these trees look familiar.</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>trees prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+
+            <below>Alfie stops abruptly as he realizes he doesn't recognize his surroundings.</below>
+
+            <setting>dark forest</setting>
+         </panel>
+
+         <!-- Panel 3: Alfie sees something strange -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>pointing</pose>
+                  <facing>right</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>What's that glowing up ahead?</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>green portal prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+
+            <below>Through the trees, Alfie spots an eerie green glow coming from a strange portal.</below>
+
+            <setting>dark forest closeup</setting>
+         </panel>
+
+         <!-- Panel 4: Alfie approaches the mysterious portal -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>cautious</pose>
+                  <facing>right</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>This can't be real... should I go through?</content>
+               </balloon>
+            </middle>
+
+            <below>Alfie hesitantly steps closer to the mysterious green portal, his curiosity overcoming his fear.</below>
+
+            <setting>small green portal</setting>
+         </panel>
+
+         <!-- Panel 5: Alfie disappears into the portal -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>jumping into portal</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+
+            <below>With one last deep breath, Alfie leaps into the unknown.</below>
+
+            <setting>green portal</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

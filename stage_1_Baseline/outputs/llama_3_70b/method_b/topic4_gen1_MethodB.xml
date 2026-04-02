@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>confused</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>confused</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I think we're lost in the forest.</content>
+               </balloon>
+            </right>
+            <below>Alfie and Betty look around, trying to get their bearings.</below>
+            <setting>forest</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>determined</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Don't worry, I have a map. We'll find our way out.</content>
+               </balloon>
+            </middle>
+            <below>Alfie pulls out a map and starts studying it.</below>
+            <setting>forest</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>excited</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>excited</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Look! A mysterious place!</content>
+               </balloon>
+            </right>
+            <below>Alfie and Betty stumble upon a mysterious place in the forest.</below>
+            <setting>mysterious place</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

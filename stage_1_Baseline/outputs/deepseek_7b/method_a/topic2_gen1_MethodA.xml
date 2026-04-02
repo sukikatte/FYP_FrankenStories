@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- Global figure element -->
+   </figures>
+   
+   <scenes>
+      <scene>
+         <!-- Panel 1: Setting the scene -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>sitting</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <below>Afraid to order another coffee in this chaotic world</below>
+            <setting>coffee shop</setting>
+         </panel>
+
+         <!-- Panel 2: Meetings with the mysterious stranger -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>generic_face</id>
+                  <name>generic face</name>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <lips>default</lips>
+                  <pose>standing</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <below>generic face greets Alfie</below>
+            <setting>coffee shop</setting>
+         </panel>
+
+         <!-- Panel 3: Interaction with the stranger -->
+         <panel>
+            <right>
+               <figure>
+                  <id>generic_face</id>
+                  <name>generic face</name>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <lips>default</lips>
+                  <pose>smiling</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Generic face smiles back at Alfie</below>
+            <setting>coffee shop</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

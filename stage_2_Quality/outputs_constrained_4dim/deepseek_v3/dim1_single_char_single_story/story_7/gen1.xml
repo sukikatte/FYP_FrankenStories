@@ -1,0 +1,122 @@
+<comic>
+   <figures>
+   </figures>
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>rollerskating</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>What a beautiful day for rollerskating!</content>
+               </balloon>
+            </left>
+            <below>Alfie enjoys a sunny day on his rollerskates</below>
+            <setting>boulevard</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>falling on rollerskates</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Whoa! A pebble!</content>
+               </balloon>
+            </left>
+            <below>Alfie hits a small obstacle on the pavement</below>
+            <setting>boulevard</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>broken legs</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Owwww! My legs!</content>
+               </balloon>
+            </middle>
+            <below>Alfie lies on the ground in pain after his fall</below>
+            <setting>boulevard</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>on crutch</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>At least I can still get around...</content>
+               </balloon>
+            </left>
+            <below>Alfie hobbles around with crutches</below>
+            <setting>hospital exterior</setting>
+         </panel>
+         <panel>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>reading on bicycle</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Maybe I should try biking instead...</content>
+               </balloon>
+            </right>
+            <below>Alfie considers alternative transportation methods</below>
+            <setting>park bench</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>falling off bicycle</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Not again!!!</content>
+               </balloon>
+            </left>
+            <below>Alfie's new transportation idea doesn't go much better</below>
+            <setting>boulevard</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Alfie working at construction site -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>working</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <below>Alfie is digging at the construction site, sweat dripping from his brow.</below>
+            <setting>building site</setting>
+         </panel>
+
+         <!-- Panel 2: Alfie finds something unusual -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>surprised</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>dinosaur bones prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie's shovel hits something hard. He uncovers strange bones.</below>
+            <setting>building site</setting>
+         </panel>
+
+         <!-- Panel 3: Alfie calls Betty over -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>pointing</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Betty! Come look at this!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>confused</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie calls his coworker Betty over to see his discovery.</below>
+            <setting>building site</setting>
+         </panel>
+
+         <!-- Panel 4: They examine the find together -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>examining document</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>These look like... dinosaur bones?</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>alarmed</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Betty kneels down to examine the bones more closely.</below>
+            <setting>building site</setting>
+         </panel>
+
+         <!-- Panel 5: Decision time -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>thinking</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Should we tell the boss or call a museum?</content>
+               </balloon>
+            </middle>
+            <below>Alfie wonders what they should do with their unexpected discovery.</below>
+            <setting>building site</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

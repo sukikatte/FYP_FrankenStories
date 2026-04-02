@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+   <scenes>
+      <scene>
+         <!-- Panel 1 -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>yawning</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>yawning</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Morning, Betty. I feel so sleepy.</content>
+               </balloon>
+            </right>
+            <below>They both wake up and greet each other.</below>
+            <setting>bedroom</setting>
+         </panel>
+
+         <!-- Panel 2 -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>rumbling</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Oh, I'm starving! Let's eat.</content>
+               </balloon>
+            </middle>
+            <below>Betty's stomach growls loudly.</below>
+            <setting>kitchen</setting>
+         </panel>
+
+         <!-- Panel 3 -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>breakfasting</pose>
+                  <facing>right</facing>
+               </figure

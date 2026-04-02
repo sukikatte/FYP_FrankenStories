@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Alfie searching in the desert -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>searching</pose>
+                  <facing>right</facing>
+               </figure>
+               
+               <balloon status="speech">
+                  <content>There must be water somewhere in this desert...</content>
+               </balloon>
+            </middle>
+            
+            <below>Alfie scans the endless sand dunes, squinting against the harsh sun.</below>
+            
+            <setting>desert</setting>
+         </panel>
+
+         <!-- Panel 2: Alfie finds a cactus -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>pointing</pose>
+                  <facing>right</facing>
+               </figure>
+               
+               <balloon status="speech">
+                  <content>A cactus! Maybe it has water inside!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>cactus prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            
+            <below>Alfie spots a lone cactus in the distance and rushes toward it.</below>
+            
+            <setting>desert</setting>
+         </panel>
+
+         <!-- Panel 3: Alfie tries to get water from cactus -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>all wet</pose>
+                  <facing>left</facing>
+               </figure>
+               
+               <balloon status="speech">
+                  <content>Ouch! Spines everywhere! And no water!</content>
+               </balloon>
+            </middle>
+            
+            <below>Alfie's attempt to extract water leaves him covered in cactus spines and frustration.</below>
+            
+            <setting>desert</setting>
+         </panel>
+
+         <!-- Panel 4: Alfie sees a mirage -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>confused</pose>
+                  <facing>right</facing>
+               </figure>
+               
+               <balloon status="speech">
+                  <content>An oasis! Wait... is that real?</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>water prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            
+            <below>Dehydration sets in as Alfie sees a shimmering mirage of water in the distance.</below>
+            
+            <setting>desert</setting>
+         </panel>
+
+         <!-- Panel 5: Alfie collapses -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>falling</pose>
+                  <facing>right</facing>
+               </figure>
+               
+               <balloon status="speech">
+                  <content>I... can't... go on...</content>
+               </balloon>
+            </middle>
+            
+            <below>Exhausted and dehydrated, Alfie collapses onto the burning sand.</below>
+            
+            <setting>desert</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

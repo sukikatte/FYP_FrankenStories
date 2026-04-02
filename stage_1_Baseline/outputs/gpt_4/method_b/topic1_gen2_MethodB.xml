@@ -1,0 +1,127 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<comic>
+   <figures>
+      <!-- No global figures definition needed for this story seed collection -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Alfie and Betty search for story seeds in a library -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>searching</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>searching pockets</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Did you find any story seeds in this section, Alfie?</content>
+               </balloon>
+            </right>
+            <below>Alfie scans the shelves while Betty checks her pockets for a lost story seed.</below>
+            <setting>library</setting>
+         </panel>
+
+         <!-- Panel 2: Gemma arrives, hopeful, carrying a briefcase of seeds -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>arriving with passport</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Good news—I brought a whole briefcase of story seeds to share!</content>
+               </balloon>
+            </middle>
+            <below>Gemma enters triumphantly, waving her passport and carrying a bulging briefcase.</below>
+            <setting>library</setting>
+         </panel>
+
+         <!-- Panel 3: The trio gather and excitedly sift through the story seeds -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>evaluating</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <middle>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>carrying bowl</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>excited</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>The team sits together, sorting different shimmering seeds from Gemma's briefcase into a bowl.</below>
+            <setting>library</setting>
+         </panel>
+
+         <!-- Panel 4: Betty declares, the seeds will generate endless comic adventures -->
+         <panel>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>inspired</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>With these, we can create any comic story we imagine!</content>
+               </balloon>
+            </right>
+            <below>Betty beams at the seeds, as Alfie and Gemma grin with excitement, ready to start a new adventure.</below>
+            <setting>library</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

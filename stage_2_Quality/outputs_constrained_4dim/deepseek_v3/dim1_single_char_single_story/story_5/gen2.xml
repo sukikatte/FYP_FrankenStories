@@ -1,0 +1,119 @@
+<comic>
+   <figures>
+   </figures>
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>mixing</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Time to make my special brew!</content>
+               </balloon>
+            </left>
+            <below>Alfie prepares his secret recipe in the kitchen.</below>
+            <setting>kitchen</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>reacting</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>This will show them all!</content>
+               </balloon>
+            </middle>
+            <below>Alfie has a rebellious thought.</below>
+            <setting>kitchen</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>rebellious</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Down with the system!</content>
+               </balloon>
+            </left>
+            <below>Alfie declares his intentions.</below>
+            <setting>government</setting>
+         </panel>
+         <panel>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>on soapbox</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>The people deserve freedom!</content>
+               </balloon>
+            </right>
+            <below>Alfie makes his public speech.</below>
+            <setting>government</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>plugging ears</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I can't hear your oppression!</content>
+               </balloon>
+            </middle>
+            <below>Alfie resists the authorities.</below>
+            <setting>police state</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>running away</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <below>Alfie makes his escape from the authorities.</below>
+            <setting>police state</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

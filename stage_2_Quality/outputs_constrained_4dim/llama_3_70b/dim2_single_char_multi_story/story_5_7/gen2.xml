@@ -1,0 +1,179 @@
+<comic>
+   <figures>
+   </figures>
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>rollerskating</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I'm so excited to try out my new rollerskates!</content>
+               </balloon>
+            </left>
+            <below>Alfie is standing on the boulevard, wearing his new rollerskates and looking excited.</below>
+            <setting>boulevard</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>falling on rollerskates</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Whoa, this is harder than it looks!</content>
+               </balloon>
+            </middle>
+            <below>Alfie is trying to rollerskate, but he's having trouble balancing and falls down.</below>
+            <setting>boulevard</setting>
+         </panel>
+         <panel>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>on crutch</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Ow, I think I twisted my ankle.</content>
+               </balloon>
+            </right>
+            <below>Alfie is now sitting on a bench, using a crutch to support his injured ankle.</below>
+            <setting>park bench</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>reacting</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I guess I need to be more careful next time.</content>
+               </balloon>
+            </left>
+            <below>Alfie is looking disappointed and frustrated with himself for getting hurt.</below>
+            <setting>park bench</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>mixing</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I'm going to make some ice packs to help my ankle feel better.</content>
+               </balloon>
+            </middle>
+            <below>Alfie is in the kitchen, making ice packs to treat his injured ankle.</below>
+            <setting>kitchen</setting>
+         </panel>
+         <panel>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>on soapbox</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I've learned a valuable lesson about being careful when trying new things.</content>
+               </balloon>
+            </right>
+            <below>Alfie is standing on a soapbox, looking determined and reflective.</below>
+            <setting>government</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>plugging ears</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I don't want to hear any more lectures about being careful.</content>
+               </balloon>
+            </left>
+            <below>Alfie is covering his ears, looking annoyed and frustrated.</below>
+            <setting>hospital exterior</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>rebellious</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I'm going to do what I want, no matter what anyone says.</content>
+               </balloon>
+            </middle>
+            <below>Alfie is looking defiant and rebellious, with a determined expression on his face.</below>
+            <setting>police state</setting>
+         </panel>
+         <panel>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>running away</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I'm out of here!</content>
+               </balloon>
+            </right>
+            <below>Alfie is running away, looking excited and free.</below>
+            <setting>boulevard</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

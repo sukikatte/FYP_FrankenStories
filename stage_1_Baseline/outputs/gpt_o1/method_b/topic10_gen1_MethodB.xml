@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+  <figures></figures>
+  <scenes>
+    <scene>
+      <!-- Panel 1 -->
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>reading menu</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <below>Alfie arrives at the restaurant, looking forward to a good meal.</below>
+        <balloon balloon_status="speech">
+          <speaker>Alfie</speaker>
+          <text>"I hope the service lives up to the hype."</text>
+        </balloon>
+        <setting>restaurant</setting>
+      </panel>
+
+      <!-- Panel 2 -->
+      <panel>
+        <left>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>serving dinner</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>impatient</pose>
+            <facing>left</facing>
+          </figure>
+        </right>
+        <below>Betty brings a plate to Alfie, but it's not what he ordered.</below>
+        <balloon balloon_status="speech">
+          <speaker>Betty</speaker>
+          <text>"Here is your pasta... Wait, this isn't the dish you asked for."</text>
+        </balloon>
+        <setting>restaurant</setting>
+      </panel>
+
+      <!-- Panel 3 -->
+      <panel>
+        <left>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+</comic>

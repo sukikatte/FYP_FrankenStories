@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- Global figure element -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>default="light brown", skin="light brown", hair="dark brown", lips="red"</appearance></appearance>
+                  <pose>lying on sandy soil</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <below>Alfie is exhausted from his long walk across the desert</below>
+            <setting>sandy soil</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>default="light brown", skin="light brown", hair="dark brown", lips="red"</appearance></appearance>
+                  <pose>cactus</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>default="white", skin="white", hair="blonde", lips="pink"</appearance></appearance>
+                  <pose>holding oasis bottle</pose>
+                  <facing>left</facing>
+               </figure>
+            </middle>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>default="light brown", skin="light brown", hair="dark brown", lips="red"</appearance></appearance>
+                  <pose>with Betty</pose>
+                  <facing>right</facing>
+               </figure>
+            </right>
+            <below>Alfie and Betty discuss finding water in the desert</below>
+            <setting>cactus oasis</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>default="light brown", skin="light brown", hair="dark brown", lips="red"</appearance></appearance>
+                  <pose>with camel</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <below>Alfie successfully finds water using the camel to carry oasis bottle</below>
+            <setting>cactus oasis</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

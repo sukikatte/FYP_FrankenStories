@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>confused</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>accusing</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>What's going on with the animals, Alfie?</content>
+               </balloon>
+            </right>
+            <below>The farm is in chaos as animals behave strangely.</below>
+            <setting>farm</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>thinking</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I've been researching and I think I found the cause.</content>
+               </balloon>
+            </middle>
+            <below>Gemma ponders the strange occurrences on the farm.</below>
+            <setting>farm</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>horse prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>amazed</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Wow, the horses are doing tricks on their own!</content>
+               </balloon>
+            </right>
+            <below>The animals' strange behavior continues to astonish the farmhands.</below>
+            <setting>farm</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

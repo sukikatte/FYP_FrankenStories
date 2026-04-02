@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>confused</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>alarmed</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>What's going on? Why are all these doctors rushing in?</content>
+               </balloon>
+            </right>
+            <below>The hospital room was filled with the sound of beeping machines and murmuring voices.</below>
+            <setting>hospital</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>assertive</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I've never seen anything like this before. We need to get to the bottom of it.</content>
+               </balloon>
+            </middle>
+            <below>Dr. Gemma looked at the patient's chart, trying to make sense of the unusual readings.</below>
+            <setting>hospital</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>hospital equipment prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>worried</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Is he going to be okay? What's happening to him?</content>
+               </balloon>
+            </right>
+            <below>The machines surrounding the patient's bed began to beep even louder, and the room fell silent.</below>
+            <setting>hospital</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

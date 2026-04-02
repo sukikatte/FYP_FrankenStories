@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+   <scenes>
+      <scene>
+         <!-- Panel 1: First encounter -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>drinking coffee</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>carrying coffee</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>"Mind if I join you? Every other table is taken..."</content>
+               </balloon>
+            </right>
+            <below>Alfie looks up from his coffee as a stranger approaches his table</below>
+            <setting>coffee shop</setting>
+         </panel>
+
+         <!-- Panel 2: Strange behavior -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>green</skin>
+                  <hair>dark green</hair>
+                  <lips>pink</lips>
+                  <pose>spilling coffee</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>"Oops! My hand's acting up again..."</content>
+               </balloon>
+            </middle>
+            <below>Betty's skin suddenly turns green as she spills her coffee</below>
+            <setting>coffee shop</setting>
+         </panel>
+
+         <!-- Panel 3: Reaction -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>alarmed</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>"What the—?!"</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>green</skin>
+                  <hair>dark green</hair>
+                  <lips>pink</lips>
+                  <pose>embarrassed</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>"I should probably explain..."</content>
+               </balloon>
+            </right>
+            <below>Alfie recoils in shock as Betty tries to explain her transformation</below>
+            <setting>coffee shop</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

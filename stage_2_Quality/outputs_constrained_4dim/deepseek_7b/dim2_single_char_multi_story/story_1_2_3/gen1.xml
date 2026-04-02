@@ -1,0 +1,169 @@
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!--
+            ComicXML STRUCTURE_GUIDE
+            This is a generated story using only Alfie character
+         -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance default="male">
+                     <lips red/>
+                  </appearance>
+                  <pose sitting</pose>
+                  <facing left/>
+               </figure>
+               <balloon status="speech">
+                  <content>Dining out is so much fun!</content>
+               </balloon>
+               <below>Alfie is enjoying a cozy evening in the bedroom.</below>
+            </left>
+
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance default="male">
+                     <lips red/>
+                  </appearance>
+                  <pose standing</pose>
+                  <facing left/>
+               </figure>
+               <balloon status="speech">
+                  <content>Can't wait to go to the kitchen!</content>
+               </balloon>
+               <below>Alfie stands tall in the kitchen preparing food.</below>
+            </right>
+
+            <setting>Kitchen</setting>
+         </panel>
+
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance default="male">
+                     <lips red/>
+                  </appearance>
+                  <pose running</pose>
+                  <facing left/>
+               </figure>
+               <balloon status="speech">
+                  <content>Ready to run! 🚴♂️</content>
+               </balloon>
+               <below>Alfie dashes off to the gravel path.</below>
+            </middle>
+
+            <setting>Gravel Path</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance default="male">
+                     <lips red/>
+                  </appearance>
+                  <pose evaluating</pose>
+                  <facing left/>
+               </figure>
+               <balloon status="speech">
+                  <content>It's time for evaluation!</content>
+               </balloon>
+               <below>Alfie is being evaluated in the hospital.</below>
+            </left>
+
+            <setting> Hospital</setting>
+         </panel>
+
+         <panel>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance default="male">
+                     <lips red/>
+                  </appearance>
+                  <pose dispatching</pose>
+                  <facing left/>
+               </figure>
+               <balloon status="speech">
+                  <content>Time to dispatch!</content>
+               </balloon>
+               <below>A truck is rolling down the gravel path.</below>
+            </right>
+
+            <setting>Gravel Path</setting>
+         </panel>
+
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance default="male">
+                     <lips red/>
+                  </appearance>
+                  <pose regaining consciousness</pose>
+                  <facing left/>
+               </figure>
+               <balloon status="speech">
+                  <content>I'm regaining consciousness...</content>
+               </balloon>
+               <below>Alfie is being monitored in the hospital room.</below>
+            </middle>
+
+            <setting> Hospital Room</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance default="male">
+                     <lips red/>
+                  </appearance>
+                  <pose sleeping</pose>
+                  <facing left/>
+               </figure>
+               <balloon status="speech">
+                  <content>Dog is sleeping beside me...</content>
+               </balloon>
+               <below>A golden retriever is snoring in the gravel path.</below>
+            </left>
+
+            <setting>Gravel Path</setting>
+         </panel>
+
+         <panel>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance default="male">
+                     <lips red/>
+                  </appearance>
+                  <pose yawning</pose>
+                  <facing left/>
+               </figure>
+               <balloon status="speech">
+                  <content>Yawning...</content>
+               </balloon>
+               <below>Alfie is yawning in the gravel path.</below>
+            </right>
+
+            <setting>Gravel Path</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

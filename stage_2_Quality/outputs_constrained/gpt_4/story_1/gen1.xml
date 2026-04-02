@@ -1,0 +1,115 @@
+<comic>
+   <figures>
+   </figures>
+   <scenes>
+      <scene>
+         <!-- Panel 1: Betty and Alfie are having breakfast in the kitchen -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>breakfasting</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>breakfasting</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Good morning, Betty! Did you sleep well?</content>
+               </balloon>
+            </right>
+            <below>Betty and Alfie sit together, enjoying breakfast.</below>
+            <setting>kitchen</setting>
+         </panel>
+         
+         <!-- Panel 2: Betty responds, feeling sleepy and yawning -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>yawning</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I’m still sleepy, Alfie. I stayed up late reading.</content>
+               </balloon>
+            </middle>
+            <below>Betty yawns, admitting she didn’t sleep much.</below>
+            <setting>kitchen</setting>
+         </panel>
+         
+         <!-- Panel 3: Alfie's stomach rumbles loudly -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>rumbling</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Oops, my stomach is rumbling!</content>
+               </balloon>
+            </middle>
+            <below>Alfie clutches his stomach as it growls.</below>
+            <setting>kitchen</setting>
+         </panel>
+         
+         <!-- Panel 4: Betty laughs and suggests making pancakes -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>one</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Let’s make pancakes! That’ll fix your rumbling tummy.</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>one</pose>
+                  <facing>right</facing>
+               </figure>
+            </right>
+            <below>Betty cheers Alfie up with the promise of pancakes.</below>
+            <setting>kitchen</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

@@ -1,0 +1,167 @@
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>cycling</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>motorcycling</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+
+            <below>Alfie races through the school hallway on his bicycle, narrowly avoiding a collision with a motorcyclist.</below>
+
+            <setting>school hallway</setting>
+         </panel>
+
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>reacting</pose>
+                  <facing>left</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>Whoa! That was close!</content>
+               </balloon>
+            </middle>
+
+            <below>Alfie reacts to the near miss, his heart racing.</below>
+
+            <setting>school hallway</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>drinking coffee</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+
+            <below>Alfie stops at a nearby café to calm his nerves with a cup of coffee.</below>
+
+            <setting>school hallway</setting>
+         </panel>
+
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>lighting cigar</pose>
+                  <facing>right</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>Time to relax a bit.</content>
+               </balloon>
+            </middle>
+
+            <below>Alfie lights a cigar, enjoying the moment of peace.</below>
+
+            <setting>school hallway</setting>
+         </panel>
+
+         <panel>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>smoking cigar</pose>
+                  <facing>left</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>This is just what I needed.</content>
+               </balloon>
+            </right>
+
+            <below>Alfie savors the cigar, feeling the tension melt away.</below>
+
+            <setting>school hallway</setting>
+         </panel>
+
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>on fire</pose>
+                  <facing>left</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>Oh no! My shirt!</content>
+               </balloon>
+            </middle>
+
+            <below>Suddenly, Alfie's shirt catches fire from the cigar.</below>
+
+            <setting>school hallway</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>burnt</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+
+            <below>Alfie manages to extinguish the flames, but his shirt is left burnt.</below>
+
+            <setting>school hallway</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

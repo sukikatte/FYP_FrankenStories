@@ -1,0 +1,242 @@
+<comic>
+    <figures>
+        <!-- Define global figure element here, or keep empty -->
+    </figures>
+
+    <scenes>
+        <scene>
+            <!--
+            ComicXML STRUCTURE:
+            This scene shows Alfie standing in a hospital hallway.
+            Alfie is holding a clipboard with medical notes.
+            The setting is a hospital corridor.
+            Alfie is facing left with a neutral expression.
+            Balloon text indicates he is speaking to a patient.
+            -->
+            <panel>
+                <position left>
+                    <figure>
+                        <id>Alfie</id>
+                        <name>Alfie</name>
+                        <appearance default="true" skin="light brown" hair="dark brown" lips="red"/>
+                        <pose>standing</pose>
+                        <facing left/>
+                        <skin default="true"/>
+                        <hair default="true"/>
+                        <lips default="true"/>
+                    </figure>
+                </position>
+                <balloon status="speech">
+                    <content>Dr. Grant is evaluating your condition...</content>
+                </balloon>
+                <below>Alfie spots a patient with a severe injury...</below>
+                <setting>hospital corridor</setting>
+            </panel>
+
+            <scene>
+                <!--
+                This scene shows Betty sitting in a medical examination room.
+                She is examining a report from Alfie.
+                The setting is a hospital examination room.
+                Betty is facing right with a concerned expression.
+                Balloon text indicates she is taking notes.
+                -->
+                <panel>
+                    <position middle>
+                        <figure>
+                            <id>Alfie</id>
+                            <name>Alfie</name>
+                            <appearance default="true" skin="light brown" hair="dark brown" lips="red"/>
+                            <pose>holding</pose>
+                            <facing right/>
+                            <skin default="true"/>
+                            <hair default="true"/>
+                            <lips default="true"/>
+                        </figure>
+                    </position>
+                    <position middle>
+                        <figure>
+                            <id>Betty</id>
+                            <name>Betty</name>
+                            <appearance default="true" skin="light brown" hair="light brown" lips="red"/>
+                            <pose>examining</pose>
+                            <facing right/>
+                            <skin default="true"/>
+                            <hair default="true"/>
+                            <lips default="true"/>
+                        </figure>
+                    </position>
+                    <balloon status="speech">
+                        <content>These results are alarming...</content>
+                    </balloon>
+                    <below>Betty takes detailed notes on the report...</below>
+                    <setting>hospital examination room</setting>
+                </panel>
+
+            <scene>
+                <!--
+                This scene shows Alfie and Betty in a hospital waiting room.
+                They are waiting for further tests.
+                The setting is a hospital waiting room.
+                Alfie is facing left, Betty is facing right.
+                Balloon text indicates they are waiting for results.
+                -->
+                <panel>
+                    <position left>
+                        <figure>
+                            <id>Alfie</id>
+                            <name>Alfie</name>
+                            <appearance default="true" skin="light brown" hair="dark brown" lips="red"/>
+                            <pose>waiting</pose>
+                            <facing left/>
+                            <skin default="true"/>
+                            <hair default="true"/>
+                            <lips default="true"/>
+                        </figure>
+                    </position>
+                    <position right>
+                        <figure>
+                            <id>Betty</id>
+                            <name>Betty</name>
+                            <appearance default="true" skin="light brown" hair="light brown" lips="red"/>
+                            <pose>waiting</pose>
+                            <facing right/>
+                            <skin default="true"/>
+                            <hair default="true"/>
+                            <lips default="true"/>
+                        </figure>
+                    </position>
+                    <balloon status="speech">
+                        <content>We need to proceed with the tests as scheduled...</content>
+                    </balloon>
+                    <below>Alfie and Betty sit quietly in the waiting room...</below>
+                    <setting>hospital waiting room</setting>
+                </panel>
+
+            <scene>
+                <!--
+                This scene shows Alfie and Betty in a hospital corridor outside the exam room.
+                They are waiting for their turn.
+                The setting is a hospital corridor outside an exam room.
+                Alfie is facing left, Betty is facing right.
+                Balloon text indicates they are waiting for their appointment.
+                -->
+                <panel>
+                    <position left>
+                        <figure>
+                            <id>Alfie</id>
+                            <name>Alfie</name>
+                            <appearance default="true" skin="light brown" hair="dark brown" lips="red"/>
+                            <pose>waiting</pose>
+                            <facing left/>
+                            <skin default="true"/>
+                            <hair default="true"/>
+                            <lips default="true"/>
+                        </figure>
+                    </position>
+                    <position right>
+                        <figure>
+                            <id>Betty</id>
+                            <name>Betty</id>
+                            <appearance default="true" skin="light brown" hair="light brown" lips="red"/>
+                            <pose>waiting</pose>
+                            <facing right/>
+                            <skin default="true"/>
+                            <hair default="true"/>
+                            <lips default="true"/>
+                        </figure>
+                    </position>
+                    <balloon status="speech">
+                        <content>Our appointment is in an hour...</content>
+                    </balloon>
+                    <below>Alfie and Betty stand outside the exam room...</below>
+                    <setting>hospital corridor outside exam room</setting>
+                </panel>
+
+            <scene>
+                <!--
+                This scene shows Alfie and Betty in a hospital examination room after tests.
+                The results are discussed by the doctors.
+                The setting is a hospital examination room.
+                Alfie is facing left, Betty is facing right.
+                Balloon text indicates the doctors are reviewing the results.
+                -->
+                <panel>
+                    <position left>
+                        <figure>
+                            <id>Alfie</id>
+                            <name>Alfie</name>
+                            <appearance default="true" skin="light brown" hair="dark brown" lips="red"/>
+                            <pose>listening</pose>
+                            <facing left/>
+                            <skin default="true"/>
+                            <hair default="true"/>
+                            <lips default="true"/>
+                        </figure>
+                    </position>
+                    <position right>
+                        <figure>
+                            <id>Betty</id>
+                            <name>Betty</name>
+                            <appearance default="true" skin="light brown" hair="light brown" lips="red"/>
+                            <pose>listening</pose>
+                            <facing right/>
+                            <skin default="true"/>
+                            <hair default="true"/>
+                            <lips default="true"/>
+                        </figure>
+                    </position>
+                    <balloon status="speech">
+                        <content>Dr. Smith: The results are concerning...</content>
+                    </balloon>
+                    <below>Doctors discuss the test results with Alfie and Betty...</below>
+                    <setting>hospital examination room</setting>
+                </panel>
+
+            <scene>
+                <!--
+                This scene shows Alfie and Betty in a hospital hallway after their examination.
+                They are leaving for their next appointment.
+                The setting is a hospital corridor.
+                Alfie is facing left, Betty is facing right.
+                Balloon text indicates they are leaving for the day.
+                -->
+                <panel>
+                    <position left>
+                        <figure>
+                            <id>Alfie</id>
+                            <name>Alfie</name>
+                            <appearance default="true" skin="light brown" hair="dark brown" lips="red"/>
+                            <pose>leaving</pose>
+                            <facing left/>
+                            <skin default="true"/>
+                            <hair default="true"/>
+                            <lips default="true"/>
+                        </figure>
+                    </position>
+                    <position right>
+                        <figure>
+                            <id>Betty</id>
+                            <name>Betty</name>
+                            <appearance default="true" skin="light brown" hair="light brown" lips="red"/>
+                            <pose>leaving</pose>
+                            <facing right/>
+                            <skin default="true"/>
+                            <hair default="true"/>
+                            <lips default="true"/>
+                        </figure>
+                    </position>
+                    <balloon(status="speech">
+                        <content>Goodbye, Dr. Smith. We'll see you next time...</content>
+                    </balloon>
+                    <below>Alfie and Betty walk out of the hospital corridor...</below>
+                    <setting>hospital corridor</setting>
+                </panel>
+            </scene>
+        </figures>
+    </figures>
+
+    <comic>
+        <!-- This template defines the standard ComicXML structure for content panels,
+        to guide LLM output and allow automated validation of generated stories. -->
+    </comic>

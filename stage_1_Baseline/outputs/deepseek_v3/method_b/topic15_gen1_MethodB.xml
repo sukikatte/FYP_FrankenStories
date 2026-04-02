@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Establishing shot of the bar -->
+         <panel>
+            <middle>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>bottles prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </middle>
+            <below>A dimly lit bar with a few patrons scattered around</below>
+            <setting>bar</setting>
+         </panel>
+
+         <!-- Panel 2: Alfie sitting at the bar -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>drinking in seat</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>bar counter prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie sits alone at the bar, nursing his drink</below>
+            <setting>bar</setting>
+         </panel>
+
+         <!-- Panel 3: The stranger approaches -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>arriving</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>surprised</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>A mysterious blonde woman approaches Alfie at the bar</below>
+            <setting>bar</setting>
+         </panel>
+
+         <!-- Panel 4: The strange request -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>demanding</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I need you to hold onto this for me... and never ask what's inside.</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>confused</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Wait, what? Who are you?</content>
+               </balloon>
+            </right>
+            <below>The woman slides a mysterious briefcase across the bar to Alfie</below>
+            <setting>bar</setting>
+         </panel>
+
+         <!-- Panel 5: The briefcase reveal -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>holding briefcase</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>briefcase prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie examines the strange briefcase, noticing it's slightly... warm?</below>
+            <setting>bar</setting>
+         </panel>
+
+         <!-- Panel 6: The stranger disappears -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>looking around confused</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Hey! Wait! Where did she—</content>
+               </balloon>
+            </middle>
+            <below>Alfie turns back to find the woman has vanished without a trace</below>
+            <setting>bar</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

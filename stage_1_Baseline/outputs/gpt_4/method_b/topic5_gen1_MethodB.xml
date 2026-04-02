@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- No global figures needed for this story -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Alfie arrives nervously at the hospital. -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>apprehensive</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <below>Alfie stands at the hospital entrance, looking nervous as he prepares to check in.</below>
+            <setting>hospital exterior</setting>
+         </panel>
+
+         <!-- Panel 2: Betty greets Alfie inside the hospital. -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>apprehensive</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>greeting</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Good morning, Alfie! Are you here for your checkup?</content>
+               </balloon>
+            </right>
+            <below>Betty, the nurse, greets Alfie with a warm smile near the reception desk.</below>
+            <setting>hospital</setting>
+         </panel>
+
+         <!-- Panel 3: Suddenly, Gemma bursts in, alarmed. -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>alarmed</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>confused</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <right>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>alarmed</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Did anyone else hear that loud crash from the storage room?</content>
+               </balloon>
+            </right>
+            <below>Gemma rushes in, looking alarmed, interrupting the calm check-in.</below>
+            <setting>hospital</setting>
+         </panel>
+
+         <!-- Panel 4: The unexpected pile of tin cans is revealed. -->
+         <panel>
+            <middle>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>a pile of tin cans prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </middle>
+            <below>A huge pile of tin cans is stacked in the middle of the hallway, blocking the way.</below>
+            <setting>hospital</setting>
+         </panel>
+
+         <!-- Panel 5: Everyone reacts in surprise. -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>surprised</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>surprised</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>How did all those cans get here?</content>
+               </balloon>
+            </middle>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>surprised</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>All three stare at the cans, shocked by the unexpected mess in the hospital.</below>
+            <setting>hospital</setting>
+         </panel>
+
+         <!-- Panel 6: Betty tries to make light of the situation. -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>chuckling</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Well, I guess it’s recycling day—who’s up for some cleanup?</content>
+               </balloon>
+            </middle>
+            <below>Betty laughs, trying to lighten the mood as Alfie and Gemma smile reluctantly.</below>
+            <setting>hospital</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

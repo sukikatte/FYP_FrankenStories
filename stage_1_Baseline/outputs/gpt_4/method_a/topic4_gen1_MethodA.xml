@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- No global figures defined -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Main character's first reaction in the forest -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>lost</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Where am I? These trees all look the same...</content>
+               </balloon>
+            </middle>
+            <below>Alfie stands alone, looking around in confusion as he realizes he is lost in the forest.</below>
+            <setting>forest</setting>
+         </panel>
+
+         <!-- Panel 2: New action or interaction between characters -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>searching</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>arriving</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Hey! Are you lost too?</content>
+               </balloon>
+            </right>
+            <below>Betty appears from behind the trees, surprising Alfie with her sudden arrival.</below>
+            <setting>forest</setting>
+         </panel>
+
+         <!-- Panel 3: Emphasize emotional reaction or response to the event -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>alarmed</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>You scared me! I thought I was alone out here.</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>apprehensive</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Sorry! I’ve been wandering for hours. Maybe we can find a way out together?</content>
+               </balloon>
+            </right>
+            <below>Both characters show a mix of relief and nervousness, realizing they are not alone in the mysterious forest.</below>
+            <setting>forest</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

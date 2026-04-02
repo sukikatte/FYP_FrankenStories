@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- No global figures declared -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- PANEL 1: Alfie and Betty waiting, Alfie frustrated -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>impatient</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>confused</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Do you think they'll announce our flight soon?</content>
+               </balloon>
+            </right>
+            <below>Alfie taps his foot, Betty glances at the departure board.</below>
+            <setting>airport</setting>
+         </panel>
+
+         <!-- PANEL 2: Gemma arrives, looking alarmed -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>alarmed</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>The monitor just flashed “Delayed” for our gate!</content>
+               </balloon>
+            </middle>
+            <below>Gemma rushes up to Alfie and Betty, waving her phone.</below>
+            <setting>airport</setting>
+         </panel>
+
+         <!-- PANEL 3: Alfie gets angry, Betty stressed, Gemma worried -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>angry</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>stressed</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <right>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>worried</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>What if we miss our meeting?</content>
+               </balloon>
+            </right>
+            <below>Alfie clenches his fists, Betty rubs her temples, Gemma bites her lip.</below>
+            <setting>airport</setting>
+         </panel>
+
+         <!-- PANEL 4: Chaos erupts, crowd arguing, Alfie tries to get attention -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>accusing</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Excuse me! Can someone tell us what’s happening?</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>confused</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Passengers argue, a child cries, Alfie tries to get a staff member’s attention.</below>
+            <setting>airport</setting>
+         </panel>
+
+         <!-- PANEL 5: Gemma and Betty sit on their luggage, Alfie on phone -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>sad</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>miserable</pose>
+                  <facing>left</facing>
+               </figure>
+            </middle>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>telephoning</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I’m calling customer service. Wish me luck.</content>
+               </balloon>
+            </right>
+            <below>Gemma and Betty slump on their suitcases. Alfie dials his phone, determined.</below>
+            <setting>airport</setting>
+         </panel>
+
+         <!-- PANEL 6: Announcement, everyone reacts -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>surprised</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>They’re boarding! Quick, grab your bags!</content>
+               </balloon>
+            </middle>
+            <below>A loudspeaker announces boarding. Everyone jumps up, scrambling for their things.</below>
+            <setting>airport</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

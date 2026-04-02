@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- No global figures needed for content panels -->
+   </figures>
+   <scenes>
+      <scene>
+         <!-- Panel 1: Alfie notices a strange person (Betty) in the coffee shop -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>apprehensive</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>drinking coffee</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie glances nervously at Betty, who sits alone sipping coffee and staring into space.</below>
+            <setting>coffee shop</setting>
+         </panel>
+
+         <!-- Panel 2: Alfie decides to approach and greet Betty -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>arriving</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>confused</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Oh, hello... Do I know you?</content>
+               </balloon>
+            </right>
+            <below>Alfie walks up and tries to make conversation. Betty seems taken aback.</below>
+            <setting>coffee shop</setting>
+         </panel>
+
+         <!-- Panel 3: Emotional reaction – Alfie feels awkward, Betty is alarmed -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>apprehensive</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Sorry, I just thought you looked familiar...</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>alarmed</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Betty reacts with surprise, and Alfie feels his cheeks flush with embarrassment.</below>
+            <setting>coffee shop</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

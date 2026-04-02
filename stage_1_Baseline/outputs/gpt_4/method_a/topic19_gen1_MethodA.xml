@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- No global figures defined -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Main character's first reaction in the scene -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>default</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>alarmed</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Oh no! What just happened?</content>
+               </balloon>
+            </middle>
+            <below>Alfie stands at the front of the church, startled as a loud crash echoes through the ceremony.</below>
+            <setting>church</setting>
+         </panel>
+
+         <!-- Panel 2: A new action or interaction between characters -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>default</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>accusing</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Alfie, did you knock over those candles?</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>default</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>confused</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I didn't mean to! It was an accident!</content>
+               </balloon>
+            </right>
+            <below>Betty points at Alfie, who looks bewildered and tries to explain himself as the congregation murmurs.</below>
+            <setting>church</setting>
+         </panel>
+
+         <!-- Panel 3: Emphasize the characters' emotional reaction or response to the event -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>default</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>shocked</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>This is a disaster! The ceremony is ruined!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>default</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>sad</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I'm so sorry, everyone...</content>
+               </balloon>
+            </right>
+            <below>Gemma gasps in dismay while Alfie hangs his head, overwhelmed by guilt as the church fills with anxious whispers.</below>
+            <setting>church</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

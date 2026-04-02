@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+   <scenes>
+      <scene>
+         <!-- Panel 1: Initial delay announcement -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>annoyed</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Another delay? We've been here for hours!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>flight information board prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Passengers react to yet another delay announcement on the board</below>
+            <setting>airport</setting>
+         </panel>
+
+         <!-- Panel 2: Frustration builds -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>angry</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>This is ridiculous! I'm missing my connecting flight!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>pleading</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Please, sir, can we get any compensation?</content>
+               </balloon>
+            </right>
+            <below>Tensions rise as passengers confront the airline staff</below>
+            <setting>airport</setting>
+         </panel>
+
+         <!-- Panel 3: Chaos erupts -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>screaming</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <middle>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>suitcase prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </middle>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>throwing box</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>The situation escalates as frustrated passengers lose their cool</below>
+            <setting>airport</setting>
+         </panel>
+
+         <!-- Panel 4: Exhaustion sets in -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>sleepy</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I give up... just wake me when we board...</content>
+               </balloon>
+            </middle>
+            <below>After hours of waiting, exhaustion overtakes frustration</below>
+            <setting>airport</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

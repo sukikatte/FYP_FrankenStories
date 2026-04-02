@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- No global figures needed -->
+   </figures>
+   <scenes>
+      <scene>
+         <!-- Panel 1: Alfie drinking, Betty serving -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>default</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>drinking</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>default</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>serving</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie enjoys a quiet drink while Betty wipes down the bar.</below>
+            <setting>bar</setting>
+         </panel>
+         
+         <!-- Panel 2: Gemma arrives, Alfie and Betty notice -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>default</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>arriving</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>default</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>apprehensive</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Gemma enters the bar, catching the attention of both Alfie and Betty.</below>
+            <setting>bar</setting>
+         </panel>
+
+         <!-- Panel 3: Gemma makes her strange request to Alfie -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>default</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>offering</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Excuse me, could you watch my pet cactus while I step outside?</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>default</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>confused</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Gemma approaches Alfie with an unusual request.</below>
+            <setting>bar</setting>
+         </panel>
+         
+         <!-- Panel 4: Alfie is surprised, Betty is alarmed -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>default</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>surprised</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Uh... sure?</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>default</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>alarmed</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie is baffled, while Betty looks alarmed at the odd request.</below>
+            <setting>bar</setting>
+         </panel>
+
+         <!-- Panel 5: Gemma leaves cactus prop and exits -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>default</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>arriving</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <middle>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>cactus prop</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>default</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>confused</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Gemma places her cactus on the bar and heads for the door, leaving Alfie staring at it.</below>
+            <setting>bar</setting>
+         </panel>
+
+         <!-- Panel 6: Alfie and Betty look at cactus, confused -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>default</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>confused</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>default</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>confused</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie and Betty stare at the cactus, both wondering what just happened.</below>
+            <setting>bar</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

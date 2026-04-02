@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Strange morning on the farm -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>confused</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>pig prop</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Oink! I demand better working conditions!</content>
+               </balloon>
+            </right>
+            <below>Alfie discovers the pigs have started organizing a labor union</below>
+            <setting>farm</setting>
+         </panel>
+
+         <!-- Panel 2: The chicken revolution -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>alarmed</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>The chickens are... flying?!</content>
+               </balloon>
+            </middle>
+            <below>Betty watches in horror as chickens soar over the barn</below>
+            <setting>farm</setting>
+         </panel>
+
+         <!-- Panel 3: The cows' secret -->
+         <panel>
+            <left>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>horse prop</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>We've been practicing yoga. Watch this downward cow!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>surprised</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>The cows reveal their newfound flexibility to Gemma</below>
+            <setting>farm</setting>
+         </panel>
+
+         <!-- Panel 4: The final straw -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>angry</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>That's it! The sheep are knitting sweaters for themselves!</content>
+               </balloon>
+            </left>
+            <middle>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>bird prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </middle>
+            <right>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>dog prop</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Woof! I'm the farm manager now!</content>
+               </balloon>
+            </right>
+            <below>Chaos reigns as the animals completely take over the farm</below>
+            <setting>farm</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

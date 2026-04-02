@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+   <scenes>
+      <scene>
+         <!-- Panel 1: Ceremony in progress -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>blessing</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>praying</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Gemma leads the ceremony while Alfie prays devoutly</below>
+            <setting>church</setting>
+         </panel>
+
+         <!-- Panel 2: Accident occurs -->
+         <panel>
+            <middle>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>falling chandelier prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </middle>
+            <below>A chandelier comes crashing down from the ceiling</below>
+            <setting>church</setting>
+         </panel>
+
+         <!-- Panel 3: Immediate reactions -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>screaming</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>LOOK OUT!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>alarmed</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Betty screams a warning as Alfie reacts in alarm</below>
+            <setting>church</setting>
+         </panel>
+
+         <!-- Panel 4: Aftermath -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>worried</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Is everyone okay?</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>checking for injuries</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Gemma checks on the congregation while Betty tends to potential injuries</below>
+            <setting>church</setting>
+         </panel>
+
+         <!-- Panel 5: Resolution -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>pointing</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>The support rope was completely frayed! This was no accident!</content>
+               </balloon>
+            </middle>
+            <below>Alfie discovers evidence of sabotage on the chandelier's mechanism</below>
+            <setting>church</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Define scene with multiple panels -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>standing</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <below>Alice wakes up in the morning</below>
+            <setting>kitchen</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>sipping coffee</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <below>Alfie tending to his coffee</below>
+            <setting>coffee shop</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>pickup</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <below>Alfie receives a package</below>
+            <setting>living room</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>cleaning brush</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <below>Alfie finds a cleaning brush</below>
+            <setting>kitchen</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>walking</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <below>Alfie walks out of the house</below>
+            <setting>street</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

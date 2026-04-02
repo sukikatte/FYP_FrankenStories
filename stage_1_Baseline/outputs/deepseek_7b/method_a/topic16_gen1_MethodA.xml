@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!--
+            ComicXML STRUCTURE GUIDE
+            Panels can be divided into 1, 2, or 3 parts using position elements:
+            
+            Left panel (most common):
+              <left>
+                 <figure>
+                    <id>Alfie</id>
+                    <name>Alfie</name>
+                    <appearance>male</appearance>
+                    <skin>light brown</skin>
+                    <hair>dark brown</hair>
+                    <lips>red</lips>
+                    <pose>seated</pose>
+                    <facing>right</facing>
+                 </figure>
+                 <balloon status="speech">
+                    <content>Alfie takes a deep breath, looking at the coffee in front of him with a satisfied smile.</content>
+                 </balloon>
+                 <below>A cozy coffee shop with ivy-covered windows and soft lighting.</below>
+                 <setting>cozy coffee shop</setting>
+              </left>
+         </scene>
+      </scene>
+
+      <!-- Add additional scenes as needed -->
+   </scenes>
+</comic>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Witnessing the chase begin -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>surprised</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Hey! Stop that guy!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>running</pose>
+                  <facing>right</facing>
+               </figure>
+            </right>
+            <below>A busy city street as Alfie notices a thief running past</below>
+            <setting>boulevard</setting>
+         </panel>
+
+         <!-- Panel 2: The chase intensifies -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>running with determination</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>He took my purse!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>briefcase prop</pose>
+                  <facing>left</facing>
+               </figure>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>running away</pose>
+                  <facing>right</facing>
+               </figure>
+            </right>
+            <below>Betty chases the thief who's clutching her stolen briefcase</below>
+            <setting>busy intersection</setting>
+         </panel>
+
+         <!-- Panel 3: The chase reaches a climax -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>falling</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <middle>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>pile of money prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </middle>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>arresting</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Got you!</content>
+               </balloon>
+            </right>
+            <below>The thief trips over spilled cash as Betty catches up</below>
+            <setting>city of towers</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

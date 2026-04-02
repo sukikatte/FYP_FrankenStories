@@ -1,0 +1,156 @@
+<comic>
+   <figures/>
+   <scenes>
+      <scene>
+         <!-- Panel 1 -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>slopping</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Must water these plants...</content>
+               </balloon>
+            </middle>
+            <below>Alfie carries a water bucket along the path.</below>
+            <setting>gravel path</setting>
+         </panel>
+
+         <!-- Panel 2 -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>falling off horse</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Whoa!</content>
+               </balloon>
+            </middle>
+            <below>Alfie slips on the gravel.</below>
+            <setting>gravel path</setting>
+         </panel>
+
+         <!-- Panel 3 -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>unconscious</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <below>Alfie lies unconscious on the path.</below>
+            <setting>gravel path</setting>
+         </panel>
+
+         <!-- Panel 4 -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>riding</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>unconscious</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <balloon status="speech">
+               <content>Alfie! Wake up!</content>
+            </balloon>
+            <below>Betty discovers Alfie unconscious.</below>
+            <setting>gravel path</setting>
+         </panel>
+
+         <!-- Panel 5 -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>throwing water</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>all wet</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <balloon status="speech">
+               <content>This should help!</content>
+            </balloon>
+            <below>Betty throws water on Alfie.</below>
+            <setting>gravel path</setting>
+         </panel>
+
+         <!-- Panel 6 -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>regaining consciousness</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>slopping</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <balloon status="speech">
+               <content>What happened?</content>
+            </balloon>
+            <below>Alfie wakes up confused.</below>
+            <setting>gravel path</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!--
+            ComicXML STRUCTURE GUIDE
+            
+            Each panel can be divided into 1, 2, or 3 parts using position elements:
+            
+            Single part (choose one):
+              - left element
+            
+            Two parts (choose one combination):
+              - left + right (most common)
+            
+            Three parts:
+              - left + middle + right
+            
+            ELEMENTS IN EACH PANEL:
+            Required:
+              - At least one position element (left)
+              - setting element
+            
+            Optional:
+              - below element (panel description text)
+              - balloon element (inside position elements where figure speaks)
+         
+         -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>sitting</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <below>Afraid to meet him, Alfie sits down in the corner of the coffee shop.</below>
+            <setting>coffee shop</setting>
+         </panel>
+
+         <panel>
+            <right>
+               <figure>
+                  <id>Stranger</id>
+                  <name>Stranger</name>
+                  <appearance>average human</appearance>
+                  <skin>green kryptonite on pedestal prop</skin>
+                  <hair>dark</hair>
+                  <lips>black</lips>
+                  <pose>approaching</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Stranger approaches Alfie with a confident smirk.</below>
+            <setting>coffee shop</setting>
+         </panel>
+
+         <!-- Example 2: Two part panel (left + right) - most common pattern -->
+         <scene>
+            <panel>
+               <left>
+                  <figure>
+                     <id>Alfie</id>
+                     <name>Alfie</name>
+                     <appearance>male</appearance>
+                     <skin>light brown</skin>
+                     <hair>dark brown</hair>
+                     <lips>red</lips>
+                     <pose>sitting</pose>
+                     <facing>right</facing>
+                  </figure>
+               </left>
+               <below>Afraid to meet him, Alfie sits down in the corner of the coffee shop.</below>
+               <setting>coffee shop</setting>
+            </panel>
+
+            <panel>
+               <right>
+                  <figure>
+                     <id>Stranger</id>
+                     <name>Stranger</name>
+                     <appearance>average human</appearance>
+                     <skin>green kryptonite on pedestal prop</skin>
+                     <hair>dark</hair>
+                     <lips>black</lips>
+                     <pose>approaching</pose>
+                     <facing>left</facing>
+                  </figure>
+               </right>
+               <below>Stranger approaches Alfie with a confident smirk.</below>
+               <setting>coffee shop</setting>
+            </panel>
+         </scene>
+      </scene>
+   </scenes>
+</comic>

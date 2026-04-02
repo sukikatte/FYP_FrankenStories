@@ -1,0 +1,142 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<comic>
+   <figures>
+      <!-- No global figure definitions for this story -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Betty and Gemma gather to brainstorm -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>thinking</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>confused</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I can't decide which comic idea to start with, Betty.</content>
+               </balloon>
+            </right>
+            <below>Betty ponders while Gemma looks indecisive. They're brainstorming comic story seeds.</below>
+            <setting>library</setting>
+         </panel>
+
+         <!-- Panel 2: Alfie arrives, energetic, bringing props for ideas -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>arriving</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Why not collect a bunch of wild story seeds and then pick?</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>impressed</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie bursts in with excitement and an idea, Betty is intrigued.</below>
+            <setting>library</setting>
+         </panel>
+
+         <!-- Panel 3: The trio brainstorm together with fun props -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>painting</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <middle>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>breaking mirror</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>stacking</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>See? Every prop could spark a different story plot!</content>
+               </balloon>
+            </right>
+            <below>All three try out various props—a paintbrush, a mirror, a stack of notes—to inspire story seeds.</below>
+            <setting>library</setting>
+         </panel>
+
+         <!-- Panel 4: Gemma is now inspired, ready to generate new stories -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>inspired</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>This seed collection approach is brilliant! I’m ready to create a new comic story!</content>
+               </balloon>
+            </middle>
+            <below>Gemma, energized by the collection of ideas, is ready to generate stories for the ComicXML format.</below>
+            <setting>library</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

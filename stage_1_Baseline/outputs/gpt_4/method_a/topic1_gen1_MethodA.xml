@@ -1,0 +1,96 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<comic>
+   <figures>
+      <!-- No global figures defined -->
+   </figures>
+   <scenes>
+      <scene>
+         <!-- Panel 1: Alfie's first reaction entering the coffee shop -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>apprehensive</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <below>Alfie enters the busy coffee shop, looking around with visible nerves as he notices someone familiar across the room.</below>
+            <setting>coffee shop</setting>
+         </panel>
+
+         <!-- Panel 2: Alfie approaches Betty, who greets him warmly -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>apprehensive</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>confident</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Hi Alfie! It’s good to see you.</content>
+               </balloon>
+            </right>
+            <below>Alfie approaches Betty’s table, looking uncertain. Betty greets him with a friendly smile, inviting him to sit down.</below>
+            <setting>coffee shop</setting>
+         </panel>
+
+         <!-- Panel 3: Alfie’s nervous response, Betty reassures him -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>alarmed</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Uh, hi Betty... I wasn’t sure you’d want to see me.</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>confident</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Of course I do, Alfie! Don’t worry, I’m glad you’re here.</content>
+               </balloon>
+            </right>
+            <below>Alfie’s face shows obvious nervousness as he speaks. Betty’s confident, gentle reply visibly alleviates some of his apprehension.</below>
+            <setting>coffee shop</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

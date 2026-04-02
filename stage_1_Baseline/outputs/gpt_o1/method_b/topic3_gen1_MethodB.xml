@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+  <figures>
+    <figure>
+      <id>Alfie</id>
+      <name>Alfie</name>
+      <appearance>male</appearance>
+      <skin>light brown</skin>
+      <hair>dark brown</hair>
+      <lips>red</lips>
+    </figure>
+    <figure>
+      <id>Betty</id>
+      <name>Betty</name>
+      <appearance>female</appearance>
+      <skin>white</skin>
+      <hair>blonde</hair>
+      <lips>pink</lips>
+    </figure>
+    <figure>
+      <id>Gemma</id>
+      <name>Gemma</name>
+      <appearance>female</appearance>
+      <skin>olive</skin>
+      <hair>black</hair>
+      <lips>pink</lips>
+    </figure>
+  </figures>
+  <scenes>
+    <scene>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>working</pose>
+            <facing>left</facing>
+          </figure>
+        </left>
+        <middle>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>serving coffee</pose>
+            <facing>right</facing>
+          </figure>
+        </middle>
+        <below>Alfie and Betty get an early start at the office, focusing on reports and coffee runs.</below>
+        <setting>office</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Gemma</id>
+            <name>Gemma</name>
+            <appearance>female</appearance>
+            <skin>olive</skin>
+            <hair>black</hair>
+            <lips>pink</lips>
+            <pose>arriving</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <below>Gemma rushes in, breathless with urgent news she can barely contain.</below>
+        <setting>office</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>alarmed</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <middle>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>spilling coffee</pose>
+            <facing>left</facing>
+          </figure>
+        </middle>
+        <below>In her hurry, Betty accidentally spills coffee on crucial documents, shocking everyone.</below>
+        <setting>office</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>accusing</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <middle>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>worried</pose>
+            <facing>left</facing>
+          </figure>
+        </middle>
+        <right>
+          <figure>
+            <id>Gemma</id>
+            <name>Gemma</name>
+            <appearance>female</appearance>
+            <skin>olive</skin>
+            <hair>black</hair>
+            <lips>pink</lips>
+            <pose>confused</pose>
+            <facing>left</facing>
+          </figure>
+        </right>
+        <below>Tensions rise as blame and panic spread, transforming the morning into total chaos.</below>
+        <setting>office</setting>
+      </panel>
+    </scene>
+  </scenes>
+</comic>

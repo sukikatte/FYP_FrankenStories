@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+  <figures>
+    <figure>
+      <id>Alfie</id>
+      <name>Alfie</name>
+      <appearance>male</appearance>
+      <skin>light brown</skin>
+      <hair>dark brown</hair>
+      <lips>red</lips>
+    </figure>
+    <figure>
+      <id>Betty</id>
+      <name>Betty</name>
+      <appearance>female</appearance>
+      <skin>white</skin>
+      <hair>blonde</hair>
+      <lips>pink</lips>
+    </figure>
+    <figure>
+      <id>Gemma</id>
+      <name>Gemma</name>
+      <appearance>female</appearance>
+      <skin>olive</skin>
+      <hair>black</hair>
+      <lips>pink</lips>
+    </figure>
+  </figures>
+  <scenes>
+    <scene>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>holding tickets</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>drinking coffee</pose>
+            <facing>left</facing>
+          </figure>
+        </right>
+        <below>Alfie and Betty arrive at the airport, only to discover their flight is heavily delayed.</below>
+        <setting>airport</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Gemma</id>
+            <name>Gemma</name>
+            <appearance>female</appearance>
+            <skin>olive</skin>
+            <hair>black</hair>
+            <lips>pink</lips>
+            <pose>worried</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <right>
+</comic>

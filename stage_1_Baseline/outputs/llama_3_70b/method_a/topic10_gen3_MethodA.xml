@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>disappointed</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>confused</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I've never seen such poor service in my life!</content>
+               </balloon>
+            </right>
+            <below>The scene is set in a busy restaurant with long waiting times.</below>
+            <setting>restaurant</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>apologetic</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I'm so sorry about the wait. Let me see what's causing the delay.</content>
+               </balloon>
+            </middle>
+            <below>Gemma, the waitress, approaches the table to address the issue.</below>
+            <setting>restaurant</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>angry</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>sad</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>This is ridiculous. We've been waiting for over an hour.</content>
+               </balloon>
+            </right>
+            <below>Alfie and Betty express their frustration with the long wait times.</below>
+            <setting>restaurant</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

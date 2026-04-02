@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+   <scenes>
+      <scene>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>reading</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>This book seems really old and mysterious.</content>
+               </balloon>
+            </middle>
+            <below>Alfie is browsing through a dusty bookshelf in the library.</below>
+            <setting>library</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>confused</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>curious</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>What's that you've found, Alfie?</content>
+               </balloon>
+            </right>
+            <below>Alfie shows the book to Betty, who looks intrigued.</below>
+            <setting>library</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>examining document</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>thinking</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I'm not sure, but it looks like some sort of ancient diary.</content>
+               </balloon>
+            </middle>
+            <right>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>book prop</pose>
+                  <facing>right</facing>
+               </figure>
+            </right>
+            <below>Betty begins to examine the book more closely, while Alfie ponders its significance.</below>
+            <setting>library</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- Global figure element here, or keep empty -->
+   </figures>
+   
+   <scenes>
+      <!-- Scene 1: Waiting Room -->
+      <scene>
+         <!-- Panel 1: Betty Waiting -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>fair</skin>
+                  <hair>Blonde</hair>
+                  <lips>pink</lips>
+                  <pose>waiting</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <below>Betty is waiting for her customer.</below>
+            <setting>salon waiting room</setting>
+         </panel>
+
+         <!-- Panel 2: Alfie Entering -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>approaching</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <below>Alfie approaches Betty.</below>
+            <setting>salon waiting room</setting>
+         </panel>
+
+         <!-- Panel 3: Alfie Flinging Door -->
+         <panel>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>flinging door</pose>
+                  <facing>right</facing>
+               </figure>
+            </right>
+            <below>Alfie flings the salon door open.</below>
+            <setting>salon door</setting>
+         </panel>
+      </scene>
+
+      <!-- Scene 2: Salon Door Scene -->
+      <scene>
+         <!-- Panel 1: Gemma Reacting -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>light green</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>smirking</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <below>Gemma smirks at Alfie as he flings the door.</below>
+            <setting>salon door</setting>
+         </panel>
+
+         <!-- Panel 2: Alfie Flinging Door (continued) -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>flinging door</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <below>Alfie continues to fling the door open.</below>
+            <setting>salon door</setting>
+         </panel>
+
+         <!-- Panel 3: Gemma's Reaction (continued) -->
+         <panel>
+            <right>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>light green</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>laughing</pose>
+                  <facing>right</facing>
+               </figure>
+            </right>
+            <below>Gemma laughs as Alfie continues to fling the door open.</below>
+            <setting>salon door</setting>
+         </panel>
+      </scene>
+
+      <!-- Scene 3: Gemma's Room -->
+      <scene>
+         <!-- Panel 1: Gemma Reacting (continued) -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>light green</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>laughing</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <below>Gemma laughs as Alfie continues to fling the door open.</below>
+            <setting>Gemma's room</setting>
+         </panel>
+
+         <!-- Panel 2: Alfie Continuing to Fling Door -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>flinging door</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <below>Alfie continues to fling the door open, causing chaos in the salon.</below>
+            <setting>Gemma's room</setting>
+         </panel>
+
+         <!-- Panel 3: Gemma's Confrontation -->
+         <panel>
+            <right>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>light green</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>angry</pose>
+                  <facing>right</facing>
+               </figure>
+            </right>
+            <below>Gemma confronts Alfie about his actions.</below>
+            <setting>Gemma's room</setting>
+         </panel>
+      </scene>
+
+      <!-- Scene 4: Confrontation Scene -->
+      <scene>
+         <!-- Panel 1: Betty Confronting Gemma -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>fair</skin>
+                  <hair>Blonde</hair>
+                  <lips>pink</lips>
+                  <pose>standing</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <below>Betty confronts Gemma about her request.</below>
+            <setting>salon waiting room</setting>
+         </panel>
+
+         <!-- Panel 2: Gemma Defending Herself -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>light green</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>defensive</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <below>Gemma defends herself while Alfie is angry.</below>
+            <setting>Gemma's room</setting>
+         </panel>
+
+         <!-- Panel 3: Alfie's Defeat -->
+         <panel>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>falling</pose>
+                  <facing>right</facing>
+               </figure>
+            </right>
+            <below>Alfie falls to the floor as Gemma defends herself.</below>
+            <setting>Gemma's room</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

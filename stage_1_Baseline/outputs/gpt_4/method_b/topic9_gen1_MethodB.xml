@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- No global figures needed -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Alfie and Betty browsing shelves -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>searching</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>searching</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+
+            <below>Alfie and Betty browse the shelves, searching for something interesting.</below>
+            <setting>library</setting>
+         </panel>
+
+         <!-- Panel 2: Gemma spots the strange book -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>pointing</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Hey, look at that book! It's glowing!</content>
+               </balloon>
+            </middle>
+            <below>Gemma points toward a strange, glowing book on the shelf.</below>
+            <setting>library</setting>
+         </panel>
+
+         <!-- Panel 3: Alfie picks up the book, Betty alarmed -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>cautious</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>alarmed</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Alfie, are you sure that's safe?</content>
+               </balloon>
+            </right>
+            <below>Alfie carefully picks up the glowing book while Betty watches, alarmed.</below>
+            <setting>library</setting>
+         </panel>
+
+         <!-- Panel 4: All three gather around, curious -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>examining document</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>inspired by book</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>examining document</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>What do you think it is?</content>
+               </balloon>
+            </right>
+            <below>The trio gathers around the mysterious book, curiosity in their eyes.</below>
+            <setting>library</setting>
+         </panel>
+
+         <!-- Panel 5: Alfie opens the book, everyone surprised -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>surprised</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>surprised</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Whoa... did you see that?</content>
+               </balloon>
+            </middle>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>surprised</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie opens the book, and a mysterious light shines out. All three are surprised.</below>
+            <setting>library</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

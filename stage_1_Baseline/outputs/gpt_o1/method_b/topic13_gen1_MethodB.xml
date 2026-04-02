@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+  <figures>
+    <!-- Characters used in the story -->
+    <figure>
+      <id>Alfie</id>
+      <name>Alfie</name>
+      <appearance>male</appearance>
+      <skin>light brown</skin>
+      <hair>dark brown</hair>
+      <lips>red</lips>
+    </figure>
+    <figure>
+      <id>Betty</id>
+      <name>Betty</name>
+      <appearance>female</appearance>
+      <skin>white</skin>
+      <hair>blonde</hair>
+      <lips>pink</lips>
+    </figure>
+    <figure>
+      <id>Gemma</id>
+      <name>Gemma</name>
+      <appearance>female</appearance>
+      <skin>olive</skin>
+      <hair>black</hair>
+      <lips>pink</lips>
+    </figure>
+  </figures>
+  <scenes>
+    <scene>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>impatient</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <below>Alfie checks the departure board, growing frustrated as another delay is announced.</below>
+        <setting>airport</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>worried</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <below>Betty tries to reassure Alfie, but the crowd starts muttering, concerned about missed connections.</below>
+        <setting>airport</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Gemma</id>
+            <name>Gemma</name>
+            <appearance>female</appearance>
+            <skin>olive</skin>
+            <hair>black</hair>
+            <lips>pink</lips>
+            <pose>stressed</pose>
+            <facing>left</facing>
+          </figure>
+        </left>
+        <below>Gemma goes in search of an airline representative, worried she'll miss her connecting flight.</below>
+        <setting>airport</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>demanding</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <below>Alfie confronts a frazzled airline staff, determined to get any update on their flight situation.</below>
+        <setting>airport</setting>
+      </panel>
+    </scene>
+  </scenes>
+</comic>

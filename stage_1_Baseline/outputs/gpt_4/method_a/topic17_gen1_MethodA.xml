@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- No global figures defined -->
+   </figures>
+   <scenes>
+      <scene>
+         <!-- Panel 1: Main character's first reaction -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>digging deeper</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Whoa, what is this buried here?</content>
+               </balloon>
+            </middle>
+            <below>Alfie pauses mid-dig, staring at something unusual in the dirt.</below>
+            <setting>building site</setting>
+         </panel>
+
+         <!-- Panel 2: New action or interaction between characters -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>digging deeper</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>alarmed</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Alfie, did you find something?</content>
+               </balloon>
+            </right>
+            <below>Betty approaches, noticing Alfie's surprise and the object in the ground.</below>
+            <setting>building site</setting>
+         </panel>
+
+         <!-- Panel 3: Emphasize emotional reaction -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>alarmed</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I think it's... bones. Should we call someone?</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>apprehensive</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>This is serious, Alfie. Let's get the foreman.</content>
+               </balloon>
+            </right>
+            <below>Both workers react with shock and concern as the gravity of the discovery sinks in.</below>
+            <setting>building site</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

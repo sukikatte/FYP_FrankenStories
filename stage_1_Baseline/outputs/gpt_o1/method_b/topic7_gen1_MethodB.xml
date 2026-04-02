@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+    <figures></figures>
+    <scenes>
+        <scene>
+            <panel>
+                <left>
+                    <figure>
+                        <id>Alfie</id>
+                        <name>Alfie</name>
+                        <appearance>male</appearance>
+                        <skin>light brown</skin>
+                        <hair>dark brown</hair>
+                        <lips>red</lips>
+                        <pose>experimenting</pose>
+                        <facing>right</facing>
+                    </figure>
+                </left>
+                <right>
+                    <figure>
+                        <id>Betty</id>
+                        <name>Betty</name>
+                        <appearance>female</appearance>
+                        <skin>white</skin>
+                        <hair>blonde</hair>
+                        <lips>pink</lips>
+                        <pose>cautious</pose>
+                        <facing>left</facing>
+                    </figure>
+                </right>
+                <below>Alfie begins a new experiment at the lab bench, while Betty stands by, observing each step carefully.</below>
+                <setting>laboratory</setting>
+            </panel>
+            <panel>
+                <left>
+                    <figure>
+                        <id>Alfie</id>
+                        <name>Alfie</name>
+                        <appearance>male</appearance>
+                        <skin>light brown</skin>
+                        <hair>dark brown</hair>
+                        <lips>red</lips>
+                        <pose>confused</pose>
+                        <facing>right</facing>
+                    </figure>
+                </left>
+                <right>
+                    <figure>
+                        <id>Betty</id>
+                        <name>Betty</name>
+                        <appearance>female</appearance>
+                        <skin>white</skin>
+                        <hair>blonde</hair>
+                        <lips>pink</lips>
+                        <pose>scared</pose>
+                        <facing>left</facing>
+                    </figure>
+                </right>
+                <below>A strange reaction occurs in the flask, leaving Alfie perplexed and Betty growing worried.</below>
+                <setting>laboratory</setting>
+            </panel>
+            <panel>
+                <left>
+                    <figure>
+                        <id>Alfie</id>
+                        <name>Alfie</name>
+                        <appearance>male</appearance>
+                        <skin>light brown</skin>
+                        <hair>dark brown</hair>
+                        <lips>red</lips>
+                        <pose>exploding</pose>
+                        <facing>right</facing>
+                    </figure>
+                </left>
+                <right>
+                    <figure>
+                        <id>Betty</id>
+                        <name>Betty</name>
+                        <appearance>female</appearance>
+                        <skin>white</skin>
+                        <hair>blonde</hair>
+                        <lips>pink</lips>
+                        <pose>covering eyes</pose>
+                        <facing>left</facing>
+                    </figure>
+                </right>
+                <below>A sudden burst of heat and light erupts from the apparatus, catching both Alfie and Betty off guard.</below>
+                <setting>laboratory</setting>
+            </panel>
+            <panel>
+                <left>
+                    <figure>
+                        <id>Alfie</id>
+                        <name>Alfie</name>
+                        <appearance>male</appearance>
+                        <skin>light brown</skin>
+                        <hair>dark brown</hair>
+                        <lips>red</lips>
+                        <pose>surprised</pose>
+                        <facing>right</facing>
+                    </figure>
+                </left>
+                <right>
+                    <figure>
+                        <id>Betty</id>
+                        <name>Betty</name>
+                        <appearance>female</appearance>
+                        <skin>white</skin>
+                        <hair>blonde</hair>
+                        <lips>pink</lips>
+                        <pose>surprised</pose>
+                        <facing>left</facing>
+                    </figure>
+                </right>
+                <below>As the smoke clears, Alfie and Betty discover the experiment has produced a glowing green substance—an unexpected result indeed.</below>
+                <setting>laboratory</setting>
+            </panel>
+        </scene>
+    </scenes>
+</comic>

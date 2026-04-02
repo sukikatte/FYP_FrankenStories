@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- Empty: figures defined in each panel -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Alfie and Betty realize they're lost in the forest -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>lost</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>confused</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Alfie, are you sure this is the right way? Everything looks the same.</content>
+               </balloon>
+            </right>
+            <below>Alfie and Betty stand among tall trees, looking around uncertainly.</below>
+            <setting>forest</setting>
+         </panel>
+
+         <!-- Panel 2: They wander into the dark forest, feeling uneasy -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>searching</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>cautious</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I think we should turn back. This place is starting to creep me out.</content>
+               </balloon>
+            </right>
+            <below>The sunlight fades as they move deeper, shadows growing thicker around them.</below>
+            <setting>dark forest</setting>
+         </panel>
+
+         <!-- Panel 3: Gemma appears mysteriously in a swamp hollow -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>alarmed</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <middle>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>mysterious</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>You shouldn't be here... but maybe I can help you.</content>
+               </balloon>
+            </middle>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>surprised</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>In a misty swamp hollow, Gemma suddenly appears, startling Alfie and Betty.</below>
+            <setting>swamp hollow</setting>
+         </panel>
+
+         <!-- Panel 4: Gemma leads them to a secret bunker -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>leading</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Follow me. There's something you need to see.</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>apprehensive</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Gemma gestures toward a hidden entrance in the ground. Alfie hesitates, but curiosity wins.</below>
+            <setting>secret bunker</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

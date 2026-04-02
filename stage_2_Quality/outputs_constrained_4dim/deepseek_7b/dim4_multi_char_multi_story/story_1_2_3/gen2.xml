@@ -1,0 +1,167 @@
+<comic>
+    <figures>
+        <!-- define global figure element here, or keep empty -->
+    </figures>
+
+    <scenes>
+        <!-- Scene 1: Alfie wakes Betty up -->
+        <scene>
+            <panel>
+                <left>
+                    <figure>
+                        <id>Alfie</id>
+                        <name>Alfie</name>
+                        <appearance default="Alfie" />
+                        <pose>standing</pose>
+                        <facing>right</facing>
+                    </figure>
+                    <balloon status="speech">
+                        <content>Alfie</content>
+                    </balloon>
+                </left>
+                <right>
+                    <figure>
+                        <id>Betty</id>
+                        <name>Betty</name>
+                        <appearance default="Betty" />
+                        <pose>lying down</pose>
+                        <facing>left</facing>
+                    </figure>
+                    <balloon status="speech">
+                        <content>Betty</content>
+                    </balloon>
+                </right>
+                <below>Alfie: "You're still so sleepy." Betty: "I'll help you get ready."</below>
+                <setting>bedroom</setting>
+            </panel>
+        </scene>
+
+        <!-- Scene 2: Betty gets Alfie dressed -->
+        <scene>
+            <panel>
+                <left>
+                    <figure>
+                        <id>Alfie</id>
+                        <name>Alfie</name>
+                        <appearance default="Alfie" />
+                        <pose>dressed</pose>
+                        <facing>right</facing>
+                    </figure>
+                    <balloon status="speech">
+                        <content>Betty: "Get ready to leave." Alfie: "I need my uniform."</content>
+                    </balloon>
+                </left>
+                <right>
+                    <figure>
+                        <id>Betty</id>
+                        <name>Betty</name>
+                        <appearance default="Betty" />
+                        <pose>standing</pose>
+                        <facing>left</facing>
+                    </figure>
+                    <balloon status="speech">
+                        <content>Alfie: "Where is the uniform?" Betty: "It's in the kitchen."</content>
+                    </balloon>
+                </right>
+                <below>Alfie: "I don't have one." Betty: "We can make one if you like."</below>
+                <setting>bedroom</setting>
+            </panel>
+        </scene>
+
+        <!-- Scene 3: Breakfast in the kitchen -->
+        <scene>
+            <panel>
+                <left>
+                    <figure>
+                        <id>Alfie</id>
+                        <name>Alfie</name>
+                        <appearance default="Alfie" />
+                        <pose>eating</pose>
+                        <facing>right</facing>
+                    </figure>
+                    <balloon status="speech">
+                        <content>Betty: "Let's have breakfast." Alfie: "I'm starving."</content>
+                    </balloon>
+                </left>
+                <right>
+                    <figure>
+                        <id>Betty</id>
+                        <name>Betty</name>
+                        <appearance default="Betty" />
+                        <pose>eating</pose>
+                        <facing>left</facing>
+                    </figure>
+                    <balloon status="speech">
+                        <content>Alfie: "This toast is delicious." Betty: "I'll make it extra special."</content>
+                    </balloon>
+                </right>
+                <below>Alfie: "I need to take this uniform to work." Betty: "You can't leave without it."</below>
+                <setting>kitchen</setting>
+            </panel>
+        </scene>
+
+        <!-- Scene 4: Alfie injured at the hospital -->
+        <scene>
+            <panel>
+                <left>
+                    <figure>
+                        <id>Alfie</id>
+                        <name>Alfie</name>
+                        <appearance default="Alfie" />
+                        <pose>lying down</pose>
+                        <facing>right</facing>
+                    </figure>
+                    <balloon status="speech">
+                        <content>Betty: "We need to take Alfie to the hospital."</content>
+                    </balloon>
+                </left>
+                <right>
+                    <figure>
+                        <id>Betty</id>
+                        <name>Betty</name>
+                        <appearance default="Betty" />
+                        <pose>running</pose>
+                        <facing>left</facing>
+                    </figure>
+                    <balloon status="speech">
+                        <content>Alfie: "I'm hurt." Betty: "I'll take you to the hospital."</content>
+                    </balloon>
+                </right>
+                <below>Alfie: "I hurt my leg." Betty: "We need to get you to the hospital immediately."</below>
+                <setting>hospital room</setting>
+            </panel>
+        </scene>
+
+        <!-- Scene 5: Alfie gets dressed and leaves -->
+        <scene>
+            <panel>
+                <left>
+                    <figure>
+                        <id>Alfie</id>
+                        <name>Alfie</name>
+                        <appearance default="Alfie" />
+                        <pose>dressed</pose>
+                        <facing>right</facing>
+                    </figure>
+                    <balloon status="speech">
+                        <content>Betty: "Take care." Alfie: "I'll be okay." Betty: "See you tomorrow."</content>
+                    </balloon>
+                </left>
+                <right>
+                    <figure>
+                        <id>Betty</id>
+                        <name>Betty</name>
+                        <appearance default="Betty" />
+                        <pose>leaving</pose>
+                        <facing>left</facing>
+                    </figure>
+                    <balloon status="speech">
+                        <content>Alfie: "Goodbye." Betty: "Take care of yourself." Alfie: "I'll see you tomorrow." Betty: "Goodbye."</content>
+                    </balloon>
+                </right>
+                <below>Alfie: "I'll be home soon." Betty: "Take care." Alfie: "See you tomorrow." Betty: "Take care of yourself."</below>
+                <setting>hospital room</setting>
+            </panel>
+        </scene>
+    </scenes>
+</comic>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>accusing</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>defensive</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I'm telling the truth, I swear!</content>
+               </balloon>
+            </right>
+            <below>The courtroom falls silent as the witness's words hang in the air.</below>
+            <setting>courtroom</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>confused</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>But that's not what you said earlier. Are you lying now or were you lying then?</content>
+               </balloon>
+            </middle>
+            <below>The judge bangs his gavel, calling the court to order.</below>
+            <setting>courtroom</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>gavel prop</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>angry</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Objection, your honor! The witness is being badgered!</content>
+               </balloon>
+            </right>
+            <below>The courtroom erupts into chaos as the lawyers argue and the judge struggles to maintain order.</below>
+            <setting>courtroom</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

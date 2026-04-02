@@ -1,0 +1,151 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!-- This template defines the standard ComicXML structure for content panels,
+to guide LLM output and allow automated validation of generated stories. -->
+
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Two-part panel (left + right) -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>black</skin>
+                  <hair>black</hair>
+                  <lips>red</lips>
+                  <pose>reading</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>confident</pose>
+                  <facing>left</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>Are you collecting new story seeds, Alfie?</content>
+               </balloon>
+            </right>
+
+            <below>Alfie is deep in thought while reading about story generation.</below>
+            <setting>tech office</setting>
+         </panel>
+
+         <!-- Panel 2: Single-part panel (middle) -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>black</skin>
+                  <hair>black</hair>
+                  <lips>red</lips>
+                  <pose>explaining</pose>
+                  <facing>left</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>Yes, I want to create a collection of creative seeds.</content>
+               </balloon>
+            </middle>
+
+            <below>He is thrilled about the potential for new stories.</below>
+            <setting>tech office</setting>
+         </panel>
+
+         <!-- Panel 3: Two-part panel (left + right) -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>accusing with hand over eye</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>surprised</pose>
+                  <facing>left</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>I found a hidden trove of plot ideas!</content>
+               </balloon>
+            </right>
+
+            <below>Betty and Gemma discover more than they expected.</below>
+            <setting>tech office</setting>
+         </panel>
+
+         <!-- Panel 4: Three-part panel (left + middle + right) -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>black</skin>
+                  <hair>black</hair>
+                  <lips>red</lips>
+                  <pose>pointing</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <middle>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>a pile of tin cans prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </middle>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>celebrating</pose>
+                  <facing>left</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>This is the perfect seed to spark new comics!</content>
+               </balloon>
+            </right>
+
+            <below>The group collects unconventional ideas for future use.</below>
+            <setting>tech office</setting>
+         </panel>
+
+      </scene>
+   </scenes>
+</comic>

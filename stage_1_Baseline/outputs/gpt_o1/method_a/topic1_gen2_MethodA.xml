@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- No global figures defined -->
+   </figures>
+   <scenes>
+      <scene>
+         <!-- Panel 1: Alfie's startled reaction -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>alarmed</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>What... Where am I? This isn't what I expected!</content>
+               </balloon>
+            </middle>
+            <below>Alfie jolts upright, overwhelmed by confusion.</below>
+            <setting>coffee shop</setting>
+         </panel>
+
+         <!-- Panel 2: Betty appears, reassuring Alfie -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>confident</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Alfie, relax! I called you here to talk about our new plan.</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>apprehensive</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I’m still a bit on edge, but I’ll hear you out.</content>
+               </balloon>
+            </right>
+            <below>Betty’s calm demeanor soothes Alfie’s initial shock.</below>
+            <setting>coffee shop</setting>
+         </panel>
+
+         <!-- Panel 3: Alfie regains composure and agrees to move forward -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>inspired</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Alright, Betty—I’m ready to hear all about this plan. Let's do it!</content>
+               </balloon>
+            </middle>
+            <below>Alfie’s initial alarm turns into excitement as he musters his courage to tackle what’s ahead.</below>
+            <setting>coffee shop</setting>
+         </panel>
+
+         <!-- Panel 4: Betty serves coffee to Alfie -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>serving coffee</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Here’s a fresh cup, Alfie. Take a moment to collect yourself.</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>drinking coffee</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Thanks, Betty. This really helps me calm down and think straight.</content>
+               </balloon>
+            </right>
+            <below>Betty offers Alfie a steaming cup of coffee, easing his nerves further.</below>
+            <setting>coffee shop</setting>
+         </panel>
+
+         <!-- Panel 5: Emphasizing emotional reactions to the uncertain future -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>worried</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Betty, I can’t shake the feeling that something big is coming next...</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>inspiring</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Believe in our plan, Alfie. We're in this together, no matter what happens.</content>
+               </balloon>
+            </right>
+            <below>Although Alfie still worries about the uncertain future, Betty’s unwavering calm gives him courage.</below>
+            <setting>coffee shop</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

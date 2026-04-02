@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Alfie sitting in coffee shop -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>drinking coffee</pose>
+                  <facing>left</facing>
+               </figure>
+               
+               <balloon status="speech">
+                  <content>Just another quiet afternoon at the cafe...</content>
+               </balloon>
+            </middle>
+            
+            <setting>coffee shop</setting>
+         </panel>
+
+         <!-- Panel 2: Strange green woman enters -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>surprised</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>green</skin>
+                  <hair>dark green</hair>
+                  <lips>pink</lips>
+                  <pose>arriving</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            
+            <below>Alfie notices a strangely colored woman entering the coffee shop</below>
+            <setting>coffee shop</setting>
+         </panel>
+
+         <!-- Panel 3: The strange woman sits down -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>green</skin>
+                  <hair>dark green</hair>
+                  <lips>pink</lips>
+                  <pose>sitting</pose>
+                  <facing>right</facing>
+               </figure>
+               
+               <balloon status="speech">
+                  <content>Mind if I join you? Humans fascinate me.</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>confused</pose>
+                  <facing>left</facing>
+               </figure>
+               
+               <balloon status="speech">
+                  <content>Uh... humans? Aren't you... human?</content>
+               </balloon>
+            </right>
+            
+            <setting>coffee shop</setting>
+         </panel>
+
+         <!-- Panel 4: The revelation -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>green</skin>
+                  <hair>dark green</hair>
+                  <lips>pink</lips>
+                  <pose>explaining</pose>
+                  <facing>right</facing>
+               </figure>
+               
+               <balloon status="speech">
+                  <content>Oh dear, you can see my true form? This complicates things...</content>
+               </balloon>
+            </middle>
+            
+            <below>Alfie's coffee cup shakes in his hand as the strange woman's eyes begin to glow</below>
+            <setting>coffee shop</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

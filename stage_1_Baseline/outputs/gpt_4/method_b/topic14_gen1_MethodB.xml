@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- No global figure definitions for this story -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Alfie and Betty arrive at the farm, noticing animals acting odd -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>arriving</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>alarmed</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Alfie, have you ever seen chickens doing the conga?</content>
+               </balloon>
+            </right>
+            <below>Alfie and Betty stand at the gate, watching a line of chickens dancing in a conga around the barn.</below>
+            <setting>farm</setting>
+         </panel>
+
+         <!-- Panel 2: Gemma joins, pointing out the sheep -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>pointing</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Look! The sheep are forming a pyramid!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>confused</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Gemma points at a group of sheep stacked one on top of the other like circus acrobats.</below>
+            <setting>farm</setting>
+         </panel>
+
+         <!-- Panel 3: Betty inspects a pig, who is reading a newspaper -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>examining document</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>This pig is reading the morning news. What is going on?</content>
+               </balloon>
+            </middle>
+            <below>Betty leans over as a pig sits calmly with a newspaper, flipping the pages with its snout.</below>
+            <setting>farm</setting>
+         </panel>
+
+         <!-- Panel 4: Alfie tries to ask the animals what's happening -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>questioning</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Is there something in the water?</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>confused</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie and Gemma stare at a cow painting a landscape on an easel.</below>
+            <setting>farm</setting>
+         </panel>
+
+         <!-- Panel 5: Betty finds the source - a spilled bag of circus flyers -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>discovering</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Here’s the culprit! The animals found circus flyers!</content>
+               </balloon>
+            </middle>
+            <below>Betty holds up a colorful circus flyer, while animals gather around, practicing tricks.</below>
+            <setting>farm</setting>
+         </panel>
+
+         <!-- Panel 6: Gemma laughs, Alfie shrugs, Betty joins the fun -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>laughing</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>shrugging</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>celebrating</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Let’s join the show!</content>
+               </balloon>
+            </right>
+            <below>The trio joins the animals in a farmyard circus, everyone laughing.</below>
+            <setting>farm</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

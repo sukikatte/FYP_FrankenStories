@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>sitting</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Stranger</id>
+                  <name>Stranger</name>
+                  <appearance>male</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>standing</pose>
+                  <facing>left</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>I'll give you $100 if you wear this funny hat for the rest of the night.</content>
+               </balloon>
+            </right>
+
+            <below>Alfie looks surprised and unsure about the stranger's request.</below>
+
+            <setting>bar</setting>
+         </panel>
+
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>thinking</pose>
+                  <facing>right</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>What's so special about this hat?</content>
+               </balloon>
+            </middle>
+
+            <below>Alfie is intrigued by the stranger's offer and wants to know more.</below>
+
+            <setting>bar</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Stranger</id>
+                  <name>Stranger</name>
+                  <appearance>male</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>smiling</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>laughing</pose>
+                  <facing>left</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>Okay, deal! But if I wear this hat, you have to buy me a drink.</content>
+               </balloon>
+            </right>
+
+            <below>Alfie agrees to wear the hat and the stranger is pleased.</below>
+
+            <setting>bar</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

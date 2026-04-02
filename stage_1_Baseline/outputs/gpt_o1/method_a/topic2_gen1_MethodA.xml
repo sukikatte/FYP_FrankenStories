@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+  <figures>
+    <figure>
+      <id>Alfie</id>
+      <name>Alfie</name>
+      <appearance>male</appearance>
+      <skin>light brown</skin>
+      <hair>dark brown</hair>
+      <lips>red</lips>
+    </figure>
+    <figure>
+      <id>Betty</id>
+      <name>Betty</name>
+      <appearance>female</appearance>
+      <skin>green</skin>
+      <hair>dark green</hair>
+      <lips>pink</lips>
+    </figure>
+  </figures>
+  <scenes>
+    <scene>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <pose>drinking coffee</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <below>Alfie sits alone, enjoying his morning coffee.</below>
+        <text balloon_status="speech" figure="Alfie">I hope today is less hectic than yesterday.</text>
+        <setting>coffee shop</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Betty</id>
+            <appearance>female</appearance>
+            <skin>green</skin>
+            <hair>dark green</hair>
+            <lips>pink</lips>
+            <pose>arriving</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <below>A strange figure enters the coffee shop.</below>
+        <text balloon_status="speech" figure="Betty">Excuse me, is this seat taken?</text>
+        <setting>coffee shop</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <pose>questioning</pose>
+            <facing>left</facing>
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <appearance>female</appearance>
+            <skin>green</skin>
+            <hair>dark green</hair>
+            <lips>pink</lips>
+            <pose>offering coffee</pose>
+            <facing>right</facing>
+          </figure>
+        </right>
+        <below>Alfie and the newcomer engage in conversation.</below>
+        <text balloon_status="speech" figure="Alfie">Sure, have a seat. Are you new around here?</text>
+        <text balloon_status="speech" figure="Betty">Yes, just passing through on a...unique journey.</text>
+        <setting>coffee shop</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Betty</id>
+            <appearance>female</appearance>
+            <skin>green</skin>
+            <hair>dark green</hair>
+            <lips>pink</lips>
+            <pose>smirking</pose>
+            <facing>left</facing>
+          </figure>
+        </left>
+        <below>They find common ground in their shared curiosity.</below>
+        <text balloon_status="speech" figure="Betty">You seem kind. Perhaps I'll stay for a while.</text>
+        <text balloon_status="speech" figure="Alfie">I'd like that. Another coffee?</text>
+        <setting>coffee shop</setting>
+      </panel>
+    </scene>
+  </scenes>
+</comic>

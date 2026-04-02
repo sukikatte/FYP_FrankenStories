@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- No global figures defined -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Main character's first reaction in the desert -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>searching</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>It's so hot... I hope we find water soon.</content>
+               </balloon>
+            </middle>
+            <below>Alfie scans the endless desert, sweat trickling down his brow.</below>
+            <setting>desert</setting>
+         </panel>
+
+         <!-- Panel 2: New action or interaction between characters -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>searching pockets</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>searching</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Did you bring any water, Alfie?</content>
+               </balloon>
+            </right>
+            <below>Betty joins Alfie, both rummaging through their bags in desperation.</below>
+            <setting>desert</setting>
+         </panel>
+
+         <!-- Panel 3: Emphasize emotional reaction -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>alarmed</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>No... I thought you had some!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>alarmed</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Oh no! What do we do now?</content>
+               </balloon>
+            </right>
+            <below>Both Alfie and Betty panic as they realize they are out of water in the scorching desert.</below>
+            <setting>desert</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- No global figures defined -->
+   </figures>
+   <scenes>
+      <scene>
+         <!-- Panel 1: Alfie alone, first reaction -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>alarmed</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Did you hear that?</content>
+               </balloon>
+            </middle>
+            <below>Alfie stands at the edge of the graveyard, startled by a strange noise in the darkness.</below>
+            <setting>graveyard</setting>
+         </panel>
+
+         <!-- Panel 2: Betty joins, interaction -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>apprehensive</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>apprehensive</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Something's moving over there...</content>
+               </balloon>
+            </right>
+            <below>Betty approaches Alfie, both tense as a shadow flickers behind a gravestone.</below>
+            <setting>graveyard</setting>
+         </panel>
+
+         <!-- Panel 3: Emotional response, gravestone rattles -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>scared</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>scared</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Run!</content>
+               </balloon>
+            </right>
+            <below>A gravestone rattles violently as Alfie and Betty's fear peaks.</below>
+            <setting>graveyard</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

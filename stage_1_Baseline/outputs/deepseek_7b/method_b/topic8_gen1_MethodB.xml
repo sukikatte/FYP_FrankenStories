@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!--
+            ComicXML STRUCTURE GUIDE
+            Panels structure: Two part panel (left + right)
+            -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>default</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>running</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <right>
+               <!-- Setting elements -->
+               <bus prop>
+                  <appearance>bus</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>default</pose>
+                  <facing>right</facing>
+               </bus>
+               <street_lamp prop>
+                  <appearance>street_lamp</appearance>
+                  <skin>black</skin>
+                  <hair>black</hair>
+                  <lips>red</lips>
+                  <pose>default</pose>
+                  <facing>right</facing>
+               </street_lamp>
+               <bench prop>
+                  <appearance>bench</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>default</pose>
+                  <facing>right</facing>
+               </bench>
+            </right>
+
+            <below>Scene description: A city street with a bus, street lamps, and a bench. A male figure (Alfie) is running towards a female figure (Betty) holding a shopping bag.</below>
+
+            <setting>city street</setting>
+         </panel>
+
+         <!--
+            ComicXML STRUCTURE GUIDE
+            Panels structure: Two part panel (left + right)
+            -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>default</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>default</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>default</appearance>
+                  <skin>green</skin>
+                  <hair>dark green</hair>
+                  <lips>pink</lips>
+                  <pose>holding bag</pose>
+                  <facing>right</facing>
+               </figure>
+            </right>
+
+            <below>Scene description: Betty is standing stationary, holding a shopping bag while being chased by Alfie on a city street.</below>
+
+            <setting>city street</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

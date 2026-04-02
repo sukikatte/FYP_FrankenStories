@@ -1,0 +1,81 @@
+<comic>
+   <figures>
+   </figures>
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>yawning</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <below>Alfie yawns as he enters the kitchen in the morning.</below>
+            <setting>kitchen</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>breakfasting</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Time for a big breakfast!</content>
+               </balloon>
+            </middle>
+            <below>Alfie sits down, ready to eat his breakfast.</below>
+            <setting>kitchen</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>munching</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Mmm, delicious!</content>
+               </balloon>
+            </middle>
+            <below>Alfie munches happily on his meal.</below>
+            <setting>kitchen</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>strong</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Now I feel strong and ready for the day!</content>
+               </balloon>
+            </middle>
+            <below>After breakfast, Alfie flexes his muscles, feeling energized.</below>
+            <setting>welcome mat</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+   <scenes>
+      <scene>
+         <!-- Panel 1: Customer makes unusual request -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>demanding</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I want my hair EXACTLY like this 18th century portrait!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>confused</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Customer shows an elaborate historical hairstyle from her phone</below>
+            <setting>beauty salon</setting>
+         </panel>
+
+         <!-- Panel 2: Stylist's shocked reaction -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>alarmed</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>But...that style requires powdered wigs and whalebone supports!</content>
+               </balloon>
+            </middle>
+            <below>Stylist realizes the impossibility of the request</below>
+            <setting>beauty salon</setting>
+         </panel>
+
+         <!-- Panel 3: Compromise attempt -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>offering a tissue</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>How about a modern interpretation with extensions?</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>bitter</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>No! I want authentic Marie Antoinette or nothing!</content>
+               </balloon>
+            </right>
+            <below>The stylist tries to negotiate while the customer remains stubborn</below>
+            <setting>beauty salon</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

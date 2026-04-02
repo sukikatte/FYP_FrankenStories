@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- No global figures defined -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Main character's first reaction -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>alarmed</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Wait, did you just say what I think you said?</content>
+               </balloon>
+            </middle>
+            <below>Alfie reacts with shock as the witness gives unexpected testimony.</below>
+            <setting>courtroom</setting>
+         </panel>
+
+         <!-- Panel 2: Action/interaction between characters -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>accusing</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>confused</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>That's not what happened! You're twisting the truth!</content>
+               </balloon>
+            </right>
+            <below>Betty points at Alfie, making a bold accusation. Alfie protests, confused and defensive.</below>
+            <setting>courtroom</setting>
+         </panel>
+
+         <!-- Panel 3: Emotional response to the event -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>apprehensive</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>This is getting out of hand. Should we call for a recess?</content>
+               </balloon>
+            </middle>
+            <below>Gemma, another courtroom participant, looks worried as the tension rises.</below>
+            <setting>courtroom</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

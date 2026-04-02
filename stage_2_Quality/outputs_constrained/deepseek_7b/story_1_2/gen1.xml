@@ -1,0 +1,261 @@
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>light brown</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>riding</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <below>Alfie is riding a horse across the gravel path.</below>
+            <setting>Gravel path</setting>
+         </panel>
+
+         <scene>
+            <panel>
+               <left>
+                  <figure>
+                     <id>Betty</id>
+                     <name>Betty</name>
+                     <appearance>white</appearance>
+                     <skin>white</skin>
+                     <hair>blonde</hair>
+                     <lips>pink</lips>
+                     <pose>sleeping</pose>
+                     <facing>left</facing>
+                  </figure>
+                  <balloon status="speech">
+                     <content>Betty is sleeping peacefully.</content>
+                  </balloon>
+               </left>
+               <right>
+                  <figure>
+                     <id>Betty</id>
+                     <name>Betty</name>
+                     <appearance>white</appearance>
+                     <skin>white</skin>
+                     <hair>blonde</hair>
+                     <lips>pink</lips>
+                     <pose>swallowing</pose>
+                     <facing>right</facing>
+                  </figure>
+                  <balloon status="speech">
+                     <content>Betty is swallowing something.</content>
+                  </balloon>
+               </right>
+               <below>Betty seems startled out of her sleep.</below>
+               <setting>Gravel path</setting>
+            </panel>
+
+         </scene>
+
+         <scene>
+            <panel>
+               <left>
+                  <figure>
+                     <id>Betty</id>
+                     <name>Betty</name>
+                     <appearance>white</appearance>
+                     <skin>white</skin>
+                     <hair>blonde</hair>
+                     <lips>pink</lips>
+                     <pose>awakening</pose>
+                     <facing>left</facing>
+                  </figure>
+                  <balloon status="speech">
+                     <content>Betty: "What happened?"</content>
+                  </balloon>
+               </left>
+               <right>
+                  <figure>
+                     <id>Alfie</id>
+                     <name>Alfie</name>
+                     <appearance>light brown</appearance>
+                     <skin>light brown</skin>
+                     <hair>dark brown</hair>
+                     <lips>red</lips>
+                     <pose>startled</pose>
+                     <facing>right</facing>
+                  </figure>
+                  <balloon status="speech">
+                     <content>Alfie: "I hit something!"</content>
+                  </balloon>
+               </right>
+               <below>Betty looks shocked at Alfie's reaction.</below>
+               <setting>Gravel path</setting>
+            </panel>
+
+         </scene>
+
+         <scene>
+            <panel>
+               <left>
+                  <figure>
+                     <id>Betty</id>
+                     <name>Betty</name>
+                     <appearance>white</appearance>
+                     <skin>white</skin>
+                     <hair>blonde</hair>
+                     <lips>pink</lips>
+                     <pose>looking around</pose>
+                     <facing>left</facing>
+                  </figure>
+               </left>
+               <right>
+                  <figure>
+                     <id>Betty</id>
+                     <name>Betty</name>
+                     <appearance>white</appearance>
+                     <skin>white</skin>
+                     <hair>blonde</hair>
+                     <lips>pink</lips>
+                     <pose>shaking</pose>
+                     <facing>right</facing>
+                  </figure>
+               </right>
+               <below>Betty is shaking after the fall.</below>
+               <setting>Gravel path</setting>
+            </panel>
+
+         </scene>
+
+         <scene>
+            <panel>
+               <left>
+                  <figure>
+                     <id>Alfie</id>
+                     <name>Alfie</id>
+                     <appearance>light brown</appearance>
+                     <skin>light brown</skin>
+                     <hair>dark brown</hair>
+                     <lips>red</lips>
+                     <pose>falling off horse</pose>
+                     <facing>left</facing>
+                  </figure>
+               </left>
+               <right>
+                  <figure>
+                     <id>Betty</id>
+                     <name>Betty</name>
+                     <appearance>white</appearance>
+                     <skin>white</skin>
+                     <hair>blonde</hair>
+                     <lips>pink</lips>
+                     <pose>lying on gravel</pose>
+                     <facing>right</facing>
+                  </figure>
+               </right>
+               <below>Betty lies motionless after Alfie's fall.</below>
+               <setting>Korean/Tales rubric</setting>
+            </panel>
+
+         </scene>
+
+         <scene>
+            <panel>
+               <left>
+                  <figure>
+                     <id>Betty</id>
+                     <name>Betty</name>
+                     <appearance>white</appearance>
+                     <skin>white</skin>
+                     <hair>blonde</hair>
+                     <lips>pink</lips>
+                     <pose>awakening</pose>
+                     <facing>left</facing>
+                  </figure>
+               </left>
+               <right>
+                  <figure>
+                     <id>Betty</id>
+                     <name>Betty</name>
+                     <appearance>white</appearance>
+                     <skin>white</skin>
+                     <hair>blonde</hair>
+                     <lips>pink</lips>
+                     <pose>shaking</pose>
+                     <facing>right</facing>
+                  </figure>
+               </right>
+               <below>Betty is trembling as she looks at Alfie.</below>
+               <setting>Korean/Tales rubric</setting>
+            </panel>
+
+         </scene>
+
+         <scene>
+            <panel>
+               <left>
+                  <figure>
+                     <id>Betty</id>
+                     <name>Betty</name>
+                     <appearance>white</appearance>
+                     <skin>white</skin>
+                     <hair>blonde</hair>
+                     <lips>pink</lips>
+                     <pose>looking at Alfie</pose>
+                     <facing>left</facing>
+                  </figure>
+               </left>
+               <right>
+                  <figure>
+                     <id>Betty</id>
+                     <name>Betty</name>
+                     <appearance>white</appearance>
+                     <skin>white</skin>
+                     <hair>blonde</hair>
+                     <lips>pink</lips>
+                     <pose>looking at Alfie</pose>
+                     <facing>right</facing>
+                  </figure>
+               </right>
+               <below>Betty is staring at Alfie, who is sitting on the gravel path.</below>
+               <setting>Korean/Tales rubric</setting>
+            </panel>
+
+         </scene>
+
+         <scene>
+            <panel>
+               <left>
+                  <figure>
+                     <id>Betty</id>
+                     <name>Betty</name>
+                     <appearance>white</appearance>
+                     <skin>white</skin>
+                     <hair>blonde</hair>
+                     <lips>pink</lips>
+                     <pose>shaking</pose>
+                     <facing>left</facing>
+                  </figure>
+               </left>
+               <right>
+                  <figure>
+                     <id>Betty</id>
+                     <name>Betty</name>
+                     <appearance>white</appearance>
+                     <skin>white</skin>
+                     <hair>blonde</hair>
+                     <lips>pink</lips>
+                     <pose>shaking</pose>
+                     <facing>right</facing>
+                  </figure>
+               </right>
+               <below>Betty is sitting motionless, looking at the gravel path.</below>
+               <setting>Korean/Tales rubric</setting>
+            </panel>
+
+         </scene>
+      </figures>
+   </comic>

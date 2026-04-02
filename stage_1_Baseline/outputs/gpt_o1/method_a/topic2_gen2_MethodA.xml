@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+  <figures>
+    <figure>
+      <id>Alfie-default</id>
+      <name>Alfie</name>
+      <appearance>male</appearance>
+      <skin>light brown</skin>
+      <hair>dark brown</hair>
+      <lips>red</lips>
+    </figure>
+    <figure>
+      <id>Betty-green_male</id>
+      <name>Betty</name>
+      <appearance>male</appearance>
+      <skin>green</skin>
+      <hair>green</hair>
+      <lips>pink</lips>
+    </figure>
+  </figures>
+  <scenes>
+    <scene>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie-default</id>
+            <pose>drinking coffee</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <below>Alfie enjoys a quiet morning at his favorite coffee shop.</below>
+        <setting>coffee shop</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie-default</id>
+            <pose>drinking coffee</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <id>Betty-green_male</id>
+            <pose>arriving</pose>
+            <facing>left</facing>
+          </figure>
+        </right>
+        <below>Suddenly, a peculiar green-skinned individual enters and spots Alfie.</below>
+        <setting>coffee shop</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie-default</id>
+            <pose>questioning</pose>
+            <facing>right</facing>
+          </figure>
+          <balloon status="speech">Excuse me, do I know you?</balloon>
+        </left>
+        <right>
+          <figure>
+            <id>Betty-green_male</id>
+            <pose>confident</pose>
+            <facing>left</facing>
+          </figure>
+          <balloon status="speech">I don't believe so. Mind if I join you?</balloon>
+        </right>
+        <below>Alfie's curiosity piques upon seeing the stranger's vibrant skin tone.</below>
+        <setting>coffee shop</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie-default</id>
+            <pose>introducing oneself</pose>
+            <facing>right</facing>
+          </figure>
+          <balloon status="speech">Sure, I'm Alfie. Nice to meet you...</balloon>
+        </left>
+        <right>
+          <figure>
+            <id>Betty-green_male</id>
+            <pose>inviting</pose>
+            <facing>left</facing>
+          </figure>
+          <balloon status="speech">I'm Betty. Let's chat over coffee!</balloon>
+        </right>
+        <below>They settle in and strike up a lively conversation, intrigued by each other's stories.</below>
+        <setting>coffee shop</setting>
+      </panel>
+    </scene>
+  </scenes>
+</comic>

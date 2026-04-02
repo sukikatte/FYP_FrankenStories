@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Establishing shot of park bench -->
+         <panel>
+            <middle>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>park bench</pose>
+                  <facing>left</facing>
+               </figure>
+            </middle>
+            <below>A sunny afternoon in the park. Birds chirp in the background.</below>
+            <setting>park bench</setting>
+         </panel>
+
+         <!-- Panel 2: Alfie arrives -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>arriving</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>park bench</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie approaches the empty bench, looking for a place to rest.</below>
+            <setting>park bench</setting>
+         </panel>
+
+         <!-- Panel 3: Betty arrives -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>arriving</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>sitting</pose>
+                  <facing>right</facing>
+               </figure>
+            </right>
+            <below>Betty arrives just as Alfie sits down. They exchange glances.</below>
+            <setting>park bench</setting>
+         </panel>
+
+         <!-- Panel 4: First words -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>greeting</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Beautiful day, isn't it?</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>reacting</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>It really is. Perfect for people watching.</content>
+               </balloon>
+            </right>
+            <below>The ice is broken with some small talk about the weather.</below>
+            <setting>park bench</setting>
+         </panel>
+
+         <!-- Panel 5: Conversation continues -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>thinking</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Do you come here often? I've never seen you before.</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>explaining</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>First time actually. Just moved to the neighborhood.</content>
+               </balloon>
+            </right>
+            <below>The conversation turns more personal as they get to know each other.</below>
+            <setting>park bench</setting>
+         </panel>
+
+         <!-- Panel 6: Connection made -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>laughing</pose>
+                  <facing>right</facing>
+               </figure>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>laughing</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Well, welcome to the neighborhood! Maybe we'll bump into each other again.</content>
+               </balloon>
+            </middle>
+            <below>They share a laugh as the sun begins to set.</below>
+            <setting>park bench</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+  <figures>
+    <figure>
+      <id>Alfie</id>
+      <name>Alfie</name>
+      <appearance>male</appearance>
+      <skin>light brown</skin>
+      <hair>dark brown</hair>
+      <lips>red</lips>
+    </figure>
+    <figure>
+      <id>Betty</id>
+      <name>Betty</name>
+      <appearance>female</appearance>
+      <skin>white</skin>
+      <hair>blonde</hair>
+      <lips>pink</lips>
+    </figure>
+    <figure>
+      <id>Gemma</id>
+      <name>Gemma</name>
+      <appearance>female</appearance>
+      <skin>olive</skin>
+      <hair>black</hair>
+      <lips>pink</lips>
+    </figure>
+  </figures>
+  <scenes>
+    <scene>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>praying</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <middle>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>praying</pose>
+            <facing>left</facing>
+          </figure>
+        </middle>
+        <right>
+          <figure>
+            <id>Gemma</id>
+            <name>Gemma</name>
+            <appearance>female</appearance>
+            <skin>olive</skin>
+            <hair>black</hair>
+            <lips>pink</lips>
+            <pose>praying</pose>
+            <facing>left</facing>
+          </figure>
+        </right>
+        <below>Alfie, Betty, and Gemma gather at the church for a solemn ceremony.</below>
+        <setting>church</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>celebrating</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <middle>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>hands on hips</pose>
+            <facing>left</facing>
+          </figure>
+        </middle>
+        <right>
+          <figure>
+            <id>Gemma</id>
+            <name>Gemma</name>
+            <appearance>female</appearance>
+            <skin>olive</skin>
+            <hair>black</hair>
+            <lips>pink</lips>
+            <pose>praying</pose>
+            <facing>left</facing>
+          </figure>
+        </right>
+        <below>The ceremony begins and everyone seems cheerful, anticipating a joyful event.</below>
+        <setting>church</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>falling</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <middle>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>alarmed</pose>
+            <facing>left</facing>
+          </figure>
+        </middle>
+        <right>
+          <figure>
+            <id>Gemma</id>
+            <name>Gemma</name>
+            <appearance>female</appearance>
+            <skin>olive</skin>
+            <hair>black</hair>
+            <lips>pink</lips>
+            <pose>scared</pose>
+            <facing>left</facing>
+          </figure>
+        </right>
+        <below>Suddenly, Alfie trips over a loose rug, toppling a large candlestick and causing a loud crash.</below>
+        <setting>church</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>confused</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <middle>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>cowering</pose>
+            <facing>left</facing>
+          </figure>
+        </middle>
+        <right>
+          <figure>
+            <id>Gemma</id>
+            <name>Gemma</name>
+            <appearance>female</appearance>
+            <skin>olive</skin>
+            <hair>black</hair>
+            <lips>pink</lips>
+            <pose>helping</pose>
+            <facing>left</facing>
+          </figure>
+        </right>
+        <below>The startled crowd rushes forward to help. Despite the mishap, the ceremony continues with concern and support.</below>
+        <setting>church</setting>
+      </panel>
+    </scene>
+  </scenes>
+</comic>

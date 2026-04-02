@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+  <figures></figures>
+  <scenes>
+    <scene>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>drinking coffee</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <below>Alfie enjoys a cup of coffee while waiting for Betty to arrive.</below>
+        <setting>coffee shop</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>sick</pose>
+            <facing>left</facing>
+          </figure>
+        </left>
+        <below>Suddenly, Alfie feels dizzy and decides to head to the hospital.</below>
+        <setting>coffee shop</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>worried</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>treating</pose>
+            <facing>left</facing>
+          </figure>
+        </right>
+        <below>At the hospital, Betty, a caring nurse, reassures the anxious Alfie.</below>
+        <setting>hospital</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>alarmed</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>green</skin>
+            <hair>dark green</hair>
+            <lips>pink</lips>
+            <pose>surprised</pose>
+            <facing>left</facing>
+          </figure>
+        </right>
+        <below>Suddenly, Betty's skin turns green, revealing a completely unexpected secret!</below>
+        <setting>hospital</setting>
+      </panel>
+    </scene>
+  </scenes>
+</comic>

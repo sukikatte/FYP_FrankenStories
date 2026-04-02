@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+  <figures>
+    <figure>
+      <id>Alfie</id>
+      <name>Alfie</name>
+      <appearance>male</appearance>
+      <skin>light brown</skin>
+      <hair>dark brown</hair>
+      <lips>red</lips>
+    </figure>
+    <figure>
+      <id>Gemma</id>
+      <name>Gemma</name>
+      <appearance>female</appearance>
+      <skin>olive</skin>
+      <hair>black</hair>
+      <lips>pink</lips>
+    </figure>
+  </figures>
+  <scenes>
+    <scene>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <pose>on treadmill</pose>
+            <facing>right</facing>
+          </figure>
+          <figure>
+            <id>Gemma</id>
+            <pose>training</pose>
+            <facing>left</facing>
+          </figure>
+        </left>
+        <balloon status="speech">"Hey Gemma, watch me go! I'm feeling pumped today."</balloon>
+        <below>Alfie and Gemma start their workout routine</below>
+        <setting>gym</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <pose>running</pose>
+            <facing>right</facing>
+          </figure>
+          <figure>
+            <id>Gemma</id>
+            <pose>worried</pose>
+            <facing>left</facing>
+          </figure>
+        </left>
+        <balloon status="speech">"Alfie, be careful! That speed is too high!"</balloon>
+        <below>Gemma warns Alfie about going too fast</below>
+        <setting>gym</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <pose>falling off treadmill</pose>
+            <facing>right</facing>
+          </figure>
+          <figure>
+            <id>Gemma</id>
+            <pose>alarmed</pose>
+            <facing>left</facing>
+          </figure>
+        </left>
+        <balloon status="speech">"AHHHH!"</balloon>
+        <below>Alfie suddenly slips and falls from the treadmill</below>
+        <setting>gym</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <pose>on crutch</pose>
+            <facing>right</facing>
+          </figure>
+          <figure>
+            <id>Gemma</id>
+            <pose>worried</pose>
+            <facing>left</facing>
+          </figure>
+        </left>
+        <balloon status="speech">"I'm okay... just a bruised ego, Gemma."</balloon>
+        <below>Gemma helps Alfie after his minor injury</below>
+        <setting>gym</setting>
+      </panel>
+    </scene>
+  </scenes>
+</comic>

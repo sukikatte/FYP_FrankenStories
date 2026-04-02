@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Alfie waking up groggy -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>groggy</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <below>Alfie rubs his eyes as he wakes up, hearing strange noises from the kitchen</below>
+            <setting>bedroom</setting>
+         </panel>
+
+         <!-- Panel 2: Alfie entering kitchen to find chaos -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>alarmed</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>spilt coffee prop</pose>
+                  <facing>left</facing>
+               </figure>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>pile of tin cans prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>The kitchen is a disaster - spilled coffee and cans everywhere</below>
+            <setting>kitchen</setting>
+         </panel>
+
+         <!-- Panel 3: Alfie confronts Betty about the mess -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>accusing</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Betty! What happened in here?</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>goofy</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I was trying to make breakfast... and maybe redecorate?</content>
+               </balloon>
+            </right>
+            <below>Alfie finds Betty standing in the middle of the chaos with a guilty smile</below>
+            <setting>kitchen</setting>
+         </panel>
+
+         <!-- Panel 4: Gemma appears with a solution -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>offering coffee</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I brought coffee. You're going to need it.</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>contented</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Thank goodness for small mercies!</content>
+               </balloon>
+            </right>
+            <below>Gemma arrives with fresh coffee, saving the morning</below>
+            <setting>kitchen</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

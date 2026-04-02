@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Alfie getting lost in the forest -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>lost</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>trees prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie stumbles through the dense forest, completely lost and disoriented.</below>
+            <setting>dark forest</setting>
+         </panel>
+
+         <!-- Panel 2: Alfie reacts with alarm to strange sounds -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>alarmed</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>What was that sound?!</content>
+               </balloon>
+            </middle>
+            <below>Alfie freezes as he hears an eerie rustling in the bushes.</below>
+            <setting>dark forest</setting>
+         </panel>
+
+         <!-- Panel 3: Alfie discovers the mysterious clearing -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>surprised</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>monolith prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie pushes through the foliage and discovers a strange stone monolith in a clearing.</below>
+            <setting>sunny field</setting>
+         </panel>
+
+         <!-- Panel 4: Alfie approaches cautiously -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>cautious</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>This doesn't look natural...</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>monolith prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie cautiously approaches the mysterious structure.</below>
+            <setting>sunny field</setting>
+         </panel>
+
+         <!-- Panel 5: Alfie touches the monolith -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>touching monolith</pose>
+                  <facing>left</facing>
+               </figure>
+            </middle>
+            <below>As Alfie's fingers make contact, the monolith begins to glow faintly.</below>
+            <setting>sunny field</setting>
+         </panel>
+
+         <!-- Panel 6: The mysterious green figure appears -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>scared</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Who... what are you?!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>green</skin>
+                  <hair>dark green</hair>
+                  <lips>pink</lips>
+                  <pose>emerging from portal</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>A green portal opens and a mysterious green woman steps out.</below>
+            <setting>sunny field</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+  <figures>
+    <figure>
+      <id>Alfie</id>
+      <name>Alfie</name>
+      <variant>default</variant>
+    </figure>
+    <figure>
+      <id>Betty</id>
+      <name>Betty</name>
+      <variant>default</variant>
+    </figure>
+  </figures>
+  <scenes>
+    <scene>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>arriving</pose>
+            <facing>right</facing>
+          </figure>
+          <balloon>
+            <who>Alfie</who>
+            <status>speech</status>
+            <text>Is this seat taken?</text>
+          </balloon>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>reading newspaper</pose>
+            <facing>left</facing>
+          </figure>
+          <balloon>
+            <who>Betty</who>
+            <status>speech</status>
+            <text>No, not at all.</text>
+          </balloon>
+        </right>
+        <below>Alfie notices Betty sitting on a bench and decides to sit down.</below>
+        <setting>park bench</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>introducing oneself</pose>
+            <facing>right</facing>
+          </figure>
+          <balloon>
+            <who>Alfie</who>
+            <status>speech</status>
+            <text>Hello, I'm Alfie. It's a nice day, isn't it?</text>
+          </balloon>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>smirking</pose>
+            <facing>left</facing>
+          </figure>
+          <balloon>
+            <who>Betty</who>
+            <status>speech</status>
+            <text>Yes, it is. I'm Betty.</text>
+          </balloon>
+        </right>
+        <below>They exchange greetings and introduce themselves.</below>
+        <setting>park bench</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>questioning</pose>
+            <facing>right</facing>
+          </figure>
+          <balloon>
+            <who>Alfie</who>
+            <status>speech</status>
+            <text>Do you come here often?</text>
+          </balloon>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+</comic>

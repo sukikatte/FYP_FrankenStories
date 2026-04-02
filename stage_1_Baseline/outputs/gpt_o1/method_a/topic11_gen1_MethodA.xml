@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+  <figures></figures>
+  <scenes>
+    <scene>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>searching</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <below>Alfie trudges across the scorching desert sands, eyes peeled for any hint of water.</below>
+        <setting>desert</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>crawling and reaching</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <below>He falls to his knees, panting and desperately reaching towards the horizon.</below>
+        <setting>desert</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>starving</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>worried</pose>
+            <facing>left</facing>
+          </figure>
+        </right>
+        <below>Betty approaches, worried, offering Alﬁe her canteen to share as they search together.</below>
+        <setting>desert</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>disappointed</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>sad</pose>
+            <facing>left</facing>
+          </figure>
+        </right>
+        <below>They discover the canteen is nearly dry, realizing they must push on to find water.</below>
+        <setting>desert</setting>
+      </panel>
+    </scene>
+  </scenes>
+</comic>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+   <scenes>
+      <scene>
+         <!-- Panel 1: Experiment in progress -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>experimenting</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>This formula should turn water blue...</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>bottles prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie carefully mixes chemicals in the laboratory</below>
+            <setting>laboratory</setting>
+         </panel>
+
+         <!-- Panel 2: Unexpected reaction -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>alarmed</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>ALFIE! The mixture is glowing green!</content>
+               </balloon>
+            </middle>
+            <below>The chemical reaction produces an eerie green glow</below>
+            <setting>laboratory window</setting>
+         </panel>
+
+         <!-- Panel 3: Transformation begins -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>transforming</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I don't feel so good...</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>scared</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie starts changing color as the fumes affect him</below>
+            <setting>chemical plant</setting>
+         </panel>
+
+         <!-- Panel 4: Full transformation -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>green</skin>
+                  <hair>dark green</hair>
+                  <lips>pink</lips>
+                  <pose>green_female</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Oh no! It's affecting me too!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>green</skin>
+                  <hair>green</hair>
+                  <lips>red</lips>
+                  <pose>charmed</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>The green transformation spreads to both scientists</below>
+            <setting>laboratory</setting>
+         </panel>
+
+         <!-- Panel 5: Surprising outcome -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>laughing</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Actually... this green skin looks kinda cool!</content>
+               </balloon>
+            </middle>
+            <below>Gemma finds the silver lining in their accidental transformation</below>
+            <setting>laboratory</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

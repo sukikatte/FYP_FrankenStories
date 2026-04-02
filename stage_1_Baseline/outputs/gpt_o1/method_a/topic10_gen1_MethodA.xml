@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+  <figures></figures>
+  <scenes>
+    <scene>
+      <!-- Panel 1 -->
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>arriving</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>serving dinner</pose>
+            <facing>left</facing>
+          </figure>
+          <balloon status="speech">Welcome to our restaurant! Your table is ready.</balloon>
+        </right>
+        <below>Alfie enters the restaurant, greeted by Betty, who shows him to a table.</below>
+        <setting>restaurant</setting>
+      </panel>
+
+      <!-- Panel 2 -->
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>reading menu</pose>
+            <facing>right</facing>
+          </figure>
+          <balloon status="speech">I’ve been waiting for 15 minutes. Is anyone taking orders?</balloon>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>sad</pose>
+            <facing>left</facing>
+          </figure>
+          <balloon status="speech">I’m so sorry! We’re short-staffed today.</balloon>
+        </right>
+        <below>Alfie grows impatient at the slow service, and Betty apologizes and explains the situation.</below>
+        <setting>restaurant</setting>
+      </panel>
+
+      <!-- Panel 3 -->
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>angry</pose>
+            <facing>right</facing>
+          </figure>
+          <balloon status="speech">This is unacceptable! I might just leave.</balloon>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>pleading</pose>
+            <facing>left</facing>
+          </figure>
+          <balloon status="speech">Please, let us make this right for you!</balloon>
+        </right>
+        <below>Alfie vents his frustration over the poor service, while Betty pleads for a chance to fix the problems.</below>
+        <setting>restaurant</setting>
+      </panel>
+    </scene>
+  </scenes>
+</comic>

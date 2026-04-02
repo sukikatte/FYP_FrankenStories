@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- ComicXML STRUCTURE GUIDE -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Stranger</id>
+                  <name>Unknown Stranger</name>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <lips>default</lips>
+                  <pose>default</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <below>Bar in a dark forest</below>
+            <setting>Dark forest</setting>
+            <balloon status="speech">
+               <content>Stranger: "I need to buy something special for my secret laboratory."</content>
+            </balloon>
+            <middle>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <lips>default</lips>
+                  <pose>default</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <right>
+               <figure>
+                  <appearance>green_kryptonite_belt prop default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <lips>default</lips>
+                  <pose>default</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

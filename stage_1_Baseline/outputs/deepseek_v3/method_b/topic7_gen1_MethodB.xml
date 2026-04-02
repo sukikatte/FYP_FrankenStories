@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Scientists preparing the experiment -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>experimenting</pose>
+                  <facing>right</facing>
+               </figure>
+               
+               <balloon status="speech">
+                  <content>This new formula should create harmless green smoke...</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>mixing</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            
+            <below>Two scientists prepare an experiment in their laboratory</below>
+            <setting>laboratory</setting>
+         </panel>
+
+         <!-- Panel 2: Experiment goes wrong -->
+         <panel>
+            <middle>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>brundlefly prop</pose>
+                  <facing>right</facing>
+               </figure>
+               
+               <balloon status="speech">
+                  <content>SCREEEECH!</content>
+               </balloon>
+            </middle>
+            
+            <below>A strange creature emerges from the chemical reaction</below>
+            <setting>laboratory</setting>
+         </panel>
+
+         <!-- Panel 3: Betty's transformation begins -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>alarmed</pose>
+                  <facing>right</facing>
+               </figure>
+               
+               <balloon status="speech">
+                  <content>Alfie! I don't feel so good...</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>surprised</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            
+            <below>Betty starts feeling strange effects from the experiment</below>
+            <setting>laboratory</setting>
+         </panel>
+
+         <!-- Panel 4: Betty's transformation completes -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>green</skin>
+                  <hair>dark green</hair>
+                  <lips>pink</lips>
+                  <pose>transforming</pose>
+                  <facing>right</facing>
+               </figure>
+               
+               <balloon status="speech">
+                  <content>What's happening to me?!</content>
+               </balloon>
+            </middle>
+            
+            <below>Betty completes her transformation into a green-skinned being</below>
+            <setting>laboratory</setting>
+         </panel>
+
+         <!-- Panel 5: The aftermath -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>confused</pose>
+                  <facing>right</facing>
+               </figure>
+               
+               <balloon status="speech">
+                  <content>Well... this wasn't in the research papers.</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>green</skin>
+                  <hair>dark green</hair>
+                  <lips>pink</lips>
+                  <pose>angry</pose>
+                  <facing>left</facing>
+               </figure>
+               
+               <balloon status="speech">
+                  <content>FIX THIS, ALFIE!</content>
+               </balloon>
+            </right>
+            
+            <below>The scientists face the unexpected consequences of their experiment</below>
+            <setting>laboratory</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

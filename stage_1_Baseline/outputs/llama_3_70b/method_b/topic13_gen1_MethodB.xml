@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>impatient</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>confused</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I hate it when our flights are delayed!</content>
+               </balloon>
+            </right>
+            <below>Alfie and Betty are waiting at the airport for their flight.</below>
+            <setting>airport</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>frustrated</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>This is the third time this month our flight has been delayed!</content>
+               </balloon>
+            </middle>
+            <below>Gemma expresses her frustration with the frequent delays.</below>
+            <setting>airport</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>angry</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>defensive</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>It's not like we can control the weather, Alfie!</content>
+               </balloon>
+            </right>
+            <below>Alfie and Betty argue about the delay.</below>
+            <setting>airport</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

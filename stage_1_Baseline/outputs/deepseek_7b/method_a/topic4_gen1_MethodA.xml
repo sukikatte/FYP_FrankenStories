@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <panel>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>sitting</pose>
+                  <facing>right</facing>
+               </figure>
+            </right>
+            <below>Alice found him sitting on a clearing in the forest</below>
+            <setting>forest clearing</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>falling into a hole</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <below>Alice watched him fall into a deep, dark hole</below>
+            <setting>forest clearing</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>sitting</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <below>Alice found him sitting by a small, mysterious book</below>
+            <setting>forest clearing</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

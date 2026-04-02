@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+  <figures>
+    <figure>
+      <id>Alfie</id>
+      <name>Alfie</name>
+      <appearance>male</appearance>
+      <skin>light brown</skin>
+      <hair>dark brown</hair>
+      <lips>red</lips>
+    </figure>
+    <figure>
+      <id>Betty</id>
+      <name>Betty</name>
+      <appearance>female</appearance>
+      <skin>white</skin>
+      <hair>blonde</hair>
+      <lips>pink</lips>
+    </figure>
+    <figure>
+      <id>Gemma</id>
+      <name>Gemma</name>
+      <appearance>female</appearance>
+      <skin>olive</skin>
+      <hair>black</hair>
+      <lips>pink</lips>
+    </figure>
+  </figures>
+  <scenes>
+    <scene>
+      <!-- Panel 1 -->
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>explaining</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <below>Alfie takes the witness stand, explaining his side of the story.</below>
+        <setting>courtroom</setting>
+      </panel>
+      <!-- Panel 2 -->
+      <panel>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>cross-examining</pose>
+            <facing>left</facing>
+          </figure>
+        </right>
+        <below>Betty steps forward and begins her cross-examination, challenging Alfie’s testimony.</below>
+        <setting>courtroom</setting>
+      </panel>
+      <!-- Panel 3 -->
+      <panel>
+        <middle>
+          <figure>
+            <id>Gemma</id>
+            <name>Gemma</name>
+            <appearance>female</appearance>
+            <skin>olive</skin>
+            <hair>black</hair>
+            <lips>pink</lips>
+            <pose>commanding</pose>
+            <facing>left</facing>
+          </figure>
+        </middle>
+        <below>Judge Gemma intervenes, demanding order in the court.</below>
+        <setting>courtroom</setting>
+      </panel>
+      <!-- Panel 4 -->
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>confused</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>accusing</pose>
+            <facing>left</facing>
+          </figure>
+        </right>
+        <below>As tensions rise, Alfie looks confused while Betty accuses him of hiding more details.</below>
+        <setting>courtroom</setting>
+      </panel>
+      <!-- Panel 5 -->
+      <panel>
+        <middle>
+          <figure>
+            <id>Gemma</id>
+            <name>Gemma</name>
+            <appearance>female</appearance>
+            <skin>olive</skin>
+            <hair>black</hair>
+            <lips>pink</lips>
+            <pose>demanding</pose>
+            <facing>left</facing>
+          </figure>
+        </middle>
+        <below>Judge Gemma demands clarity, ordering Alfie to reveal the full truth.</below>
+        <setting>courtroom</setting>
+      </panel>
+    </scene>
+  </scenes>
+</comic>

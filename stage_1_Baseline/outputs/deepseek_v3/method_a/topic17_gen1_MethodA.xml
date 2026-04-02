@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- Empty as we define figures within panels -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Worker discovering something -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>digging deeper</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>What the...?</content>
+               </balloon>
+            </middle>
+            <below>Alfie stops digging when his shovel hits something metallic</below>
+            <setting>building site</setting>
+         </panel>
+
+         <!-- Panel 2: Revealing the discovery -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>alarmed</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>dinosaur bones prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie uncovers what appears to be fossilized bones</below>
+            <setting>building site</setting>
+         </panel>
+
+         <!-- Panel 3: Calling for help -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>shouting</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Betty! Come quick!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>running</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie calls his coworker Betty to see the discovery</below>
+            <setting>building site</setting>
+         </panel>
+
+         <!-- Panel 4: Examining the find together -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>pointing</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <middle>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>dinosaur bones prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </middle>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>surprised</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>These look ancient! We need to call the museum!</content>
+               </balloon>
+            </right>
+            <below>The coworkers examine the mysterious bones together</below>
+            <setting>building site</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

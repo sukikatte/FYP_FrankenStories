@@ -1,0 +1,140 @@
+<comic>
+   <figures>
+      <figure>
+         <id>Alfie</id>
+         <name>Alfie</name>
+         <appearance>male</appearance>
+         <skin>light brown</skin>
+         <hair>dark brown</hair>
+         <lips>red</lips>
+         <pose>breakfasting</pose>
+         <facing>right</facing>
+      </figure>
+      <figure>
+         <id>Betty</id>
+         <name>Betty</name>
+         <appearance>female</appearance>
+         <skin>white</skin>
+         <hair>blonde</hair>
+         <lips>pink</lips>
+         <pose>high fiving</pose>
+         <facing>right</facing>
+      </figure>
+   </figures>
+
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>breakfasting</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <below>Alfie is Enjoying his breakfast</below>
+            <setting>breakfast</setting>
+         </panel>
+      </scene>
+
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>high fiving</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <below>Betty high fives Alfie</below>
+            <setting>breakfast</setting>
+         </panel>
+      </scene>
+
+      <scene>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>strong</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <below>Alfie is about to rumble</below>
+            <setting>breakfast</setting>
+         </panel>
+      </scene>
+
+      <scene>
+         <panel>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>swallowing</pose>
+                  <facing>right</facing>
+               </figure>
+            </right>
+            <below>Betty is about to swallow</below>
+            <setting>breakfast</setting>
+         </panel>
+      </scene>
+
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>vomiting</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <below>Betty is about to vomit</below>
+            <setting>breakfast</setting>
+         </panel>
+      </scene>
+
+      <scene>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>yawning</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <below>Alfie is about to yawn</below>
+            <setting>breakfast</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

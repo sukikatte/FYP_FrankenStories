@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <!-- Scene 1: Laboratory Setting -->
+      <scene>
+         <!-- Panel 1 -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>standing</pose>
+                  <facing>right</facing>
+               </figure>
+               <below>Alice's lab. The equipment is sparking.</below>
+               <setting>lab</setting>
+            </left>
+
+            <!-- Panel 2 -->
+            <panel>
+               <middle>
+                  <figure>
+                     <id>Betty</id>
+                     <name>Betty</name>
+                     <appearance>female</appearance>
+                     <skin>light green</skin>
+                     <hair>auburn</hair>
+                     <lips>ros="red<"/lips>
+                     <pose>holding vial</pose>
+                     <facing>left</facing>
+                  </figure>
+                  <balloon status="speech">
+                     <content>Searching for a cure for the plague.</content>
+                  </balloon>
+               </middle>
+               <below>Betty fumbles with vial.</below>
+               <setting>lab</setting>
+            </middle>
+
+            <!-- Panel 3 -->
+            <panel>
+               <right>
+                  <figure>
+                     <id>Gemma</id>
+                     <name>Gemma</name>
+                     <appearance>female</appearance>
+                     <skin>dark green</skin>
+                     <hair>dark green</hair>
+                     <lips>pink="red<"/lips>
+                     <pose>helping assistant</pose>
+                     <facing>right</facing>
+                  </figure>
+                  <balloon status="speech">
+                     <content>Assisting Betty in her search.</content>
+                  </balloon>
+               </right>
+               <below>Gemma200 feet above, working on sabotage.</below>
+               <setting>lab</setting>
+            </right>
+         </panel>
+      </scene>
+
+      <!-- Scene 2: Underground Bunkers -->
+      <scene>
+         <!-- Panel 1 -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>concentrating</pose>
+                  <facing>right</facing>
+               </figure>
+               <below>A high-tech underground bunker. Alfie is working on a chemical experiment.</below>
+               <setting>underground bunker</setting>
+            </left>
+
+            <!-- Panel 2 -->
+            <panel>
+               <middle>
+                  <figure>
+                     <id>Betty</id>
+                     <name>Betty</name>
+                     <appearance>female</appearance>
+                     <skin>light green</skin>
+                     <hair>auburn</hair>
+                     <lips>ros="red<"/lips>
+                     <pose>preparing device</pose>
+                     <facing>left</facing>
+                  </figure>
+                  <balloon status="speech">
+                     <content>Alfie's experiments are dangerous.</content>
+                  </balloon>
+               </middle>
+               <below>Betty is200 feet below, preparing sabotage.</below>
+               <setting>underground bunker</setting>
+            </middle>
+
+            <!-- Panel 3 -->
+            <panel>
+               <right>
+                  <figure>
+                     <id>Gemma</id>
+                     <name>Gemma</name>
+                     <appearance>female</appearance>
+                     <skin>dark green</skin>
+                     <hair>dark green</hair>
+                     <lips>pink="red<"/lips>
+                     <pose>helping200 feet below</pose>
+                     <facing>right</facing>
+                  </figure>
+                  <balloon status="speech">
+                     <content>Giving orders to200 feet below.</content>
+                  </balloon>
+               </right>
+               <below>Gemma is200 feet below,200 feet below that,200 feet below that.</below>
+               <setting>underground bunker</setting>
+            </right>
+         </panel>
+      </scene>
+
+      <!-- Scene 3: Coffee Shop -->
+      <scene>
+         <!-- Panel 1 -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>fuming</pose>
+                  <facing>right</facing>
+               </figure>
+               <below>A scientist, Alfie, is frustrated in a coffee shop.</below>
+               <setting>coffee shop</setting>
+            </left>
+
+            <!-- Panel 2 -->
+            <panel>
+               <middle>
+                  <figure>
+                     <id>Betty</id>
+                     <name>Betty</name>
+                     <appearance>female</appearance>
+                     <skin>light green</skin>
+                     <hair>auburn</hair>
+                     <lips>ros="red<"/lips>
+                     <pose>holding coffee</pose>
+                     <facing>left</facing>
+                  </figure>
+                  <balloon status="speech">
+                     <content>Excited about the results of the experiment.</content>
+                  </balloon>
+               </middle>
+               <below>Betty is200 feet away, watching.</below>
+               <setting>coffee shop</setting>
+            </middle>
+
+            <!-- Panel 3 -->
+            <panel>
+               <right>
+                  <figure>
+                     <id>Gemma</id>
+                     <name>Gemma</name>
+                     <appearance>female</appearance>
+                     <skin>dark green</skin>
+                     <hair>dark green</hair>
+                     <lips>pink="red<"/lips>
+                     <pose>200 feet away</pose>
+                     <facing>right</facing>
+                  </figure>
+                  <balloon status="speech">
+                     <content>Giving orders to200 feet away.</content>
+                  </balloon>
+               </right>
+               <below>Gemma is200 feet away,200 feet below that,200 feet below that.</below>
+               <setting>coffee shop</setting>
+            </right>
+         </panel>
+      </scene>
+
+      <!-- Scene 4: Laboratory Experiments -->
+      <scene>
+         <!-- Panel 1 -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>concentrating</pose>
+                  <facing>right</facing>
+               </figure>
+               <below>A dangerous chemical experiment.</below>
+               <setting>laboratory</setting>
+            </left>
+
+            <!-- Panel 2 -->
+            <panel>
+               <middle>
+                  <figure>
+                     <id>Betty</id>
+                     <name>Betty</name>
+                     <appearance>female</appearance>
+                     <skin>light green</skin>
+                     <hair>auburn</hair>
+                     <lips>ros="red<"/lips>
+                     <pose>preparing device</pose>
+                     <facing>left</facing>
+                  </figure>
+                  <balloon status="speech">
+                     <content>Alfie's dangerous experiment could blow up.</content>
+                  </balloon>
+               </middle>
+               <below>Betty is200 feet below, preparing sabotage.</below>
+               <setting>laboratory</setting>
+            </middle>
+
+            <!-- Panel 3 -->
+            <panel>
+               <right>
+                  <figure>
+                     <id>Gemma</id>
+                     <name>Gemma</name>
+                     <appearance>female</appearance>
+                     <skin>dark green</skin>
+                     <hair>dark green</hair>
+                     <lips>pink="red<"/lips>
+                     <pose>helping200 feet below</pose>
+                     <facing>right</facing>
+                  </figure>
+                  <balloon status="speech">
+                     <content>Giving orders to200 feet below.</content>
+                  </balloon>
+               </right>
+               <below>Gemma is200 feet below,200 feet below that,200 feet below that.</below>
+               <setting>laboratory</setting>
+            </right>
+         </panel>
+      </scene>
+   </scenes>
+</comic></lips></panel></lips></panel></lips></panel></lips></panel></lips></panel></lips></panel></lips></panel></lips></panel></lips></panel></lips></panel></lips></panel></lips></panel>

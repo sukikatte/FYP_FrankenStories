@@ -1,0 +1,210 @@
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!--
+            ComicXML STRUCTURE GUIDE
+         -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>dispatching</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I'm here to help</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>dispatching</pose>
+                  <facing>right</facing>
+               </figure>
+               <below>
+                  <content>Alfie is now in a meditative state, regaining his consciousness slowly</content>
+               </below>
+            </right>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>reaching</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>He is regaining his strength</content>
+               </balloon>
+            </left>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>vomiting</pose>
+                  <facing>right</facing>
+               </figure>
+               <below>
+                  <content>His condition is unstable, with severe abdominal distress</content>
+               </below>
+            </middle>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>reaching</pose>
+                  <facing>right</facing>
+               </figure>
+            </right>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>dispatching</pose>
+                  <facing>right</facing>
+               </figure>
+               <prop>
+                  <appearance default</appearance>
+                  <skin default</skin>
+                  <hair default</hair>
+                  <pose>all wet</pose>
+                  <facing>right</facing>
+               </prop>
+               <balloon status="speech">
+                  <content>Be careful, he's still sick</content>
+               </balloon>
+            </left>
+            <below>
+               <content>Alfie is lying in a hospital bed, recovering from an accident</content>
+            </below>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>dispatching</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I am not yet fully recovered</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>dispatching</pose>
+                  <facing>right</facing>
+               </figure>
+               <below>
+                  <content>He is sleeping, but his condition has slightly improved</content>
+               </below>
+            </right>
+         </panel>
+
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>dispatching</pose>
+                  <facing>right</facing>
+               </figure>
+               <below>
+                  <content>Alfie is in a deep sleep, showing signs of improvement</content>
+               </below>
+            </middle>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>dispatching</pose>
+                  <facing>right</facing>
+               </figure>
+            </right>
+         </panel>
+      </scene>
+      <!-- Example 2: Two part panel (left + right) - most common pattern -->
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>dispatching</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>dispatching</pose>
+                  <facing>right</facing>
+               </figure>
+            </right>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

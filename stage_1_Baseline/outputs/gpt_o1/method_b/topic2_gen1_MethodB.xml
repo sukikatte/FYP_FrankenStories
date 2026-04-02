@@ -1,0 +1,168 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<comic>
+   <figures></figures>
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>angry</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>pleading</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Please, let's not fight!</content>
+               </balloon>
+            </right>
+            <below>Alfie fumes while Betty begs for peace.</below>
+            <setting>forest</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>
+
+<?xml version = "1.0" encoding = "UTF-8"?>
+<comic>
+   <figures></figures>
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>arriving with passport</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>inviting</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Welcome! Come right in!</content>
+               </balloon>
+            </right>
+            <below>Alfie arrives at the castle as Gemma beckons him inside.</below>
+            <setting>castle walls</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>
+
+<?xml version = "1.0" encoding = "UTF-8"?>
+<comic>
+   <figures></figures>
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>male</appearance>
+                  <skin>green</skin>
+                  <hair>green</hair>
+                  <lips>pink</lips>
+                  <pose>drinking coffee</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>black</skin>
+                  <hair>black</hair>
+                  <lips>red</lips>
+                  <pose>explaining</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I have an idea we should discuss.</content>
+               </balloon>
+            </right>
+            <below>Betty quietly sips coffee while Alfie explains a plan.</below>
+            <setting>coffee shop</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>
+
+<?xml version = "1.0" encoding = "UTF-8"?>
+<comic>
+   <figures></figures>
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>offering coffee</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Care for a warm drink?</content>
+               </balloon>
+            </left>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>drinking coffee</pose>
+                  <facing>left</facing>
+               </figure>
+            </middle>
+            <right>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>bird prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Gemma offers Betty coffee next to a curious bird.</below>
+            <setting>park bench</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

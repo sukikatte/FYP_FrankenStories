@@ -1,0 +1,103 @@
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <!-- Scene 1 -->
+      <scene>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>breakfasting</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <below>
+               <below text="Betty is vomiting in the middle of a breakfast setting."></below>
+            </below>
+            <setting>
+               <setting>bedroom</setting>
+            </setting>
+         </panel>
+
+         <!-- Scene 2 -->
+         <scene>
+            <panel>
+               <middle>
+                  <figure>
+                     <id>Alfie</id>
+                     <name>Alfie</name>
+                     <appearance>male</appearance>
+                     <skin>light brown</skin>
+                     <hair>dark brown</hair>
+                     <lips>red</lips>
+                     <pose>yawning</pose>
+                     <facing>right</facing>
+                  </figure>
+               </middle>
+               <below>
+                  <below text="Alfie is yawning in the middle of a breakfast setting."></below>
+               </below>
+               <setting>
+                  <setting>bedroom</setting>
+               </setting>
+            </panel>
+         </scene>
+
+         <!-- Scene 3 -->
+         <scene>
+            <panel>
+               <middle>
+                  <figure>
+                     <id>Betty</id>
+                     <name>Betty</name>
+                     <appearance>female</appearance>
+                     <skin>white</skin>
+                     <hair>blonde</hair>
+                     <lips>pink</lips>
+                     <pose>breakfasting</pose>
+                     <facing>right</facing>
+                  </figure>
+               </middle>
+               <below>
+                  <below text="Betty is having breakfast in the middle of a kitchen setting with a bowl of cereal."></below>
+               </below>
+               <setting>
+                  <setting>kitchen</setting>
+               </setting>
+            </panel>
+         </scene>
+
+         <!-- Scene 4 -->
+         <scene>
+            <panel>
+               <middle>
+                  <figure>
+                     <id>Alfie</id>
+                     <name>Alfie</name>
+                     <appearance>male</appearance>
+                     <skin>light brown</skin>
+                     <hair>dark brown</hair>
+                     <lips>red</lips>
+                     <pose>rumbling</pose>
+                     <facing>right</facing>
+                  </figure>
+               </middle>
+               <below>
+                  <below text="Alfie is rumbling in the middle of a bedroom setting next to Betty."></below>
+               </below>
+               <setting>
+                  <setting>bedroom</setting>
+               </setting>
+            </panel>
+         </scene>
+      </scene>
+   </scenes>
+</comic>

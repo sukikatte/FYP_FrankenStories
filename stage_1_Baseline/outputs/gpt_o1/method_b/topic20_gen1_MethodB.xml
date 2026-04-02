@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+    <figures></figures>
+    <scenes>
+        <scene>
+            <panel>
+                <left>
+                    <figure>
+                        <id>Gemma</id>
+                        <name>Gemma</name>
+                        <appearance>female</appearance>
+                        <skin>olive</skin>
+                        <hair>black</hair>
+                        <lips>pink</lips>
+                        <pose>cutting hair</pose>
+                        <facing>right</facing>
+                    </figure>
+                </left>
+                <right>
+                    <figure>
+                        <id>Betty</id>
+                        <name>Betty</name>
+                        <appearance>female</appearance>
+                        <skin>white</skin>
+                        <hair>blonde</hair>
+                        <lips>pink</lips>
+                        <pose>impatient</pose>
+                        <facing>left</facing>
+                    </figure>
+                </right>
+                <below>Gemma, the skilled hairstylist, carefully snips Betty’s hair as her client fidgets impatiently.</below>
+                <setting>beauty salon</setting>
+            </panel>
+            <panel>
+                <left>
+                    <figure>
+                        <id>Gemma</id>
+                        <name>Gemma</name>
+                        <appearance>female</appearance>
+                        <skin>olive</skin>
+                        <hair>black</hair>
+                        <lips>pink</lips>
+                        <pose>apprehensive</pose>
+                        <facing>right</facing>
+                    </figure>
+                </left>
+                <right>
+                    <figure>
+                        <id>Betty</id>
+                        <name>Betty</name>
+                        <appearance>female</appearance>
+                        <skin>white</skin>
+                        <hair>blonde</hair>
+                        <lips>pink</lips>
+                        <pose>demanding</pose>
+                        <facing>left</facing>
+                    </figure>
+                </right>
+                <below>Betty demands a bold neon style, leaving Gemma uncertain about how to proceed.</below>
+                <setting>beauty salon</setting>
+            </panel>
+            <panel>
+                <left>
+                    <figure>
+                        <id>Gemma</id>
+                        <name>Gemma</name>
+                        <appearance>female</appearance>
+                        <skin>olive</skin>
+                        <hair>black</hair>
+                        <lips>pink</lips>
+                        <pose>explaining</pose>
+                        <facing>right</facing>
+                    </figure>
+                </left>
+                <middle>
+                    <figure>
+                        <id>Alfie</id>
+                        <name>Alfie</name>
+                        <appearance>male</appearance>
+                        <skin>light brown</skin>
+                        <hair>dark brown</hair>
+                        <lips>red</lips>
+                        <pose>confused</pose>
+                        <facing>right</facing>
+                    </figure>
+                </middle>
+                <right>
+                    <figure>
+                        <id>Betty</id>
+                        <name>Betty</name>
+                        <appearance>female</appearance>
+                        <skin>white</skin>
+                        <hair>blonde</hair>
+                        <lips>pink</lips>
+                        <pose>frowning</pose>
+                        <facing>left</facing>
+                    </figure>
+                </right>
+                <below>Gemma consults Alfie, the salon manager, about the unusual request, worried it may damage Betty’s hair.</below>
+                <setting>beauty salon</setting>
+            </panel>
+            <panel>
+                <left>
+                    <figure>
+                        <id>Gemma</id>
+                        <name>Gemma</name>
+                        <appearance>female</appearance>
+</comic>

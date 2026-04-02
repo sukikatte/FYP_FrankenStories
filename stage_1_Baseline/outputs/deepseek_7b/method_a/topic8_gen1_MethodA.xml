@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!--
+            ComicXML STRUCTURE GUIDE
+            
+            PANels STRUCTURE:
+            Each panel can be divided into 1, 2, or 3 parts using position elements:
+            
+            Single part (choose one):
+              - left element
+              - middle element
+              - right element
+            
+            Two parts (choose one combination):
+              - left + right (most common)
+              - left + middle
+              - middle + right
+            
+            Three parts:
+              - left + middle + right
+            
+            ELEMENTS IN EACH PANEL:
+            Required:
+              - At least one position element (left/middle/right)
+              - setting element (placed directly in panel, after below if present)
+            
+            Optional:
+              - below element (panel description text)
+              - balloon element (inside position elements where figure speaks)
+              
+            NOT used in content panels:
+              - border element (only used in cover pages)
+              - embedding element (only used in cover pages with special structure)
+            
+            Content panels setting placement:
+              - Setting is placed directly in panel (after below element)
+              - Do NOT use embedding structure
+            
+            FIGURE ELEMENTS:
+            Character figure (required attributes):
+              - id element (Alfie, Betty, or Gemma)
+              - name element
+              - appearance element
+              - pose element
+              - facing element (left or right)
+            
+            Character figure (optional, based on variant):
+              - skin element
+              - hair element
+              - lips element
+            
+            IMPORTANT: You MUST select a complete character variant from element_library.json.
+            Do NOT mix and match attributes - each variant has a complete set of attributes.
+            
+            Prop figure (for objects/props):
+              - NO id or name elements
+              - appearance element with value "default"
+              - skin element with value "default"
+              - hair element with value "default"
+              - pose element (e.g., "horse prop", "wheelchair prop")
+              - facing element (left or right)
+            
+            BALLOON:
+            - Placed inside position element (left/middle/right) where the speaking figure is
+            - Can have balloon in multiple positions (if multiple figures speak)
+            - Can have no balloon at all
+            - Format: balloon element with status="speech" and content element inside
+         -->
+
+         <!-- Example 3: Three part panel (left + middle + right) -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>calm</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <below>Setting:咖啡馆内部</below>
+            <setting>coffee shop interior</setting>
+         </left>
+
+         <middle>
+            <figure>
+               <id>Betty</id>
+               <name>Betty</name>
+               <appearance>female</appearance>
+               <skin>light green</skin>
+               <hair>black</hair>
+               <lips>pink</lips>
+               <pose>aggressive</pose>
+               <facing>right</facing>
+            </figure>
+            <below>Panel description text</below>
+            <setting>coffee shop interior</setting>
+         </middle>
+
+         <right>
+            <figure>
+               <appearance>default</appearance>
+               <skin>default</skin>
+               <hair>default</hair>
+               <lips>default</lips>
+               <pose>stand</pose>
+               <facing>right</facing>
+            </figure>
+            <below>Panel description text</below>
+            <setting>coffee shop interior</setting>
+         </right>
+
+         <below>Panel description text</below>
+         <setting>coffee shop interior</setting>
+      </scene>
+   </scenes>
+</comic></panel>

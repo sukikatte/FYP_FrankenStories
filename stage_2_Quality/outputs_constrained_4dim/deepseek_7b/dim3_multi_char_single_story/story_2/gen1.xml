@@ -1,0 +1,85 @@
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!--
+            ComicXML STRUCTURE GUIDE
+         -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance default="false" appearance="male">
+                     <skin>light brown</skin>
+                     <hair>dark brown</hair>
+                     <lips>red</lips>
+                  </appearance>
+                  <pose>standing</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance variant="default">
+                     <skin default="false" skin="light brown"></skin>
+                     <hair default="false" hair="dark brown"></hair>
+                     <lips default="false" lips="red"></lips>
+                  </appearance>
+                  <pose>holding an umbrella</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+
+            <balloon status="speech">
+               <content>Alfie: "Don't get me wet!"</content>
+            </balloon>
+         </panel>
+         <below>While Alfie was happily browsing, Betty hurried to her umbrella stand to protect herself from the rain.</below>
+         <setting>Library</setting>
+      </scene>
+      <scene>
+         <scene>
+            <panel>
+               <left>
+                  <figure>
+                     <id>Alfie</id>
+                     <name>Alfie</name>
+                     <appearance default="false" appearance="male">
+                        <skin default="false" skin="light brown"></skin>
+                        <hair default="false" hair="dark brown"></hair>
+                        <lips default="false" lips="red"></lips>
+                     </appearance>
+                     <pose>giving a book to Betty</pose>
+                     <facing>right</facing>
+                  </figure>
+               </left>
+               <right>
+                  <figure>
+                     <id>Betty</id>
+                     <name>Betty</name>
+                     <appearance variant="default">
+                        <skin default="false" skin="light brown"></skin>
+                        <hair default="false" hair="dark brown"></hair>
+                        <lips default="false" lips="red"></lips>
+                     </appearance>
+                     <pose>accepting the book</pose>
+                     <facing>left</facing>
+                  </figure>
+               </right>
+
+               <balloon status="speech">
+                  <content>Betty: "Thank you for the book!"</content>
+               </balloon>
+            </panel>
+            <below>Alfie and Betty exchanged a grateful smile as they left the library together.</below>
+            <setting>Library</setting>
+         </scene>
+      </scene>
+   </scenes>
+</comic>

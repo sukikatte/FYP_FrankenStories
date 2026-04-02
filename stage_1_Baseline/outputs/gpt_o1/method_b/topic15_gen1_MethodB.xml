@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+  <figures></figures>
+  <scenes>
+    <scene>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>drinking</pose>
+            <facing>left</facing>
+          </figure>
+        </left>
+        <speech status="speech">Alfie: "Just another quiet night at the bar."</speech>
+        <below>Alfie sits alone, nursing his drink in a dimly lit bar.</below>
+        <setting>bar</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>arriving</pose>
+            <facing>left</facing>
+          </figure>
+        </left>
+        <speech status="speech">Betty: "Good evening. Mind if I sit here?"</speech>
+        <below>A stranger steps into the bar and approaches Alfie with a polite smile.</below>
+        <setting>bar</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>begging</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <speech status="speech">Betty: "I know this sounds odd, but could you pretend to be a goldfish for five minutes?"</speech>
+        <below>She makes the strangest request, leaving Alfie at a loss for words.</below>
+        <setting>bar</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>confused</pose>
+            <facing>left</facing>
+          </figure>
+        </left>
+        <speech status="speech">Alfie: "You...want me to do what now?"</speech>
+        <below>Alfie is utterly baffled, unsure how to respond to such a bizarre plea.</below>
+        <setting>bar</setting>
+      </panel>
+    </scene>
+  </scenes>
+</comic>

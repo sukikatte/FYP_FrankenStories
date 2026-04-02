@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+  <figures/>
+  <scenes>
+    <scene>
+      <!-- Panel 1 -->
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>reading in seat</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>sad</pose>
+            <facing>left</facing>
+          </figure>
+        </right>
+        <below>Alfie and Betty sit quietly on a park bench, each lost in thought.</below>
+        <setting>park bench</setting>
+      </panel>
+
+      <!-- Panel 2 -->
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>introducing oneself</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>sad</pose>
+            <facing>left</facing>
+          </figure>
+        </right>
+        <below>Alfie decides to speak to Betty.</below>
+        <setting>park bench</setting>
+        <balloon status="speech" who="Alfie">Hello, I'm Alfie. Mind if I sit here?</balloon>
+        <balloon status="speech" who="Betty">Sure, go ahead.</balloon>
+      </panel>
+
+      <!-- Panel 3 -->
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>confident</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>introducing oneself</pose>
+            <facing>left</facing>
+          </figure>
+        </right>
+        <below>They begin talking and discover they share common interests.</below>
+        <setting>park bench</setting>
+        <balloon status="speech" who="Betty">I'm Betty. It's nice to meet you.</balloon>
+        <balloon status="speech" who="Alfie">Likewise! It's a lovely day, isn't it?</balloon>
+      </panel>
+
+      <!-- Panel 4 -->
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>contented</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>contented</
+</comic>

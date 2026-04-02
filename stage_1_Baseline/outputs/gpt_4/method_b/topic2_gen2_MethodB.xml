@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- No global figure element for this story -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- PANEL 1: Alfie enters coffee shop and notices Betty, who looks unusual -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>arriving</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>green</skin>
+                  <hair>dark green</hair>
+                  <lips>pink</lips>
+                  <pose>drinking coffee</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie pushes open the door and is immediately drawn to a green-skinned woman sipping coffee alone.</below>
+            <setting>coffee shop</setting>
+         </panel>
+
+         <!-- PANEL 2: Alfie orders coffee, glancing at Betty with curiosity -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>carrying coffee</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>green</skin>
+                  <hair>dark green</hair>
+                  <lips>pink</lips>
+                  <pose>confident</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie collects his coffee from the counter, stealing glances at Betty, who seems unbothered by the attention.</below>
+            <setting>coffee shop</setting>
+         </panel>
+
+         <!-- PANEL 3: Alfie decides to approach Betty -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>apprehensive</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>green</skin>
+                  <hair>dark green</hair>
+                  <lips>pink</lips>
+                  <pose>reading newspaper</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie hesitates, then walks over to Betty, who is now absorbed in a newspaper.</below>
+            <setting>coffee shop</setting>
+         </panel>
+
+         <!-- PANEL 4: Alfie greets Betty, Betty responds mysteriously -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>greeting</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Hi, mind if I join you?</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>green</skin>
+                  <hair>dark green</hair>
+                  <lips>pink</lips>
+                  <pose>smirking</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Only if you like stories stranger than your coffee.</content>
+               </balloon>
+            </right>
+            <below>Alfie tries to be friendly, but Betty's response is cryptic and playful.</below>
+            <setting>coffee shop</setting>
+         </panel>
+
+         <!-- PANEL 5: Conversation gets more curious -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>confused</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Uh... what do you mean?</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>green</skin>
+                  <hair>dark green</hair>
+                  <lips>pink</lips>
+                  <pose>chuckling</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Let's just say I'm not from around here. Not even from this planet.</content>
+               </balloon>
+            </right>
+            <below>Alfie is taken aback as Betty hints at an otherworldly origin.</below>
+            <setting>coffee shop</setting>
+         </panel>
+
+         <!-- PANEL 6: Alfie reacts with disbelief, Betty remains calm -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>alarmed</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Wait, are you serious?</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>green</skin>
+                  <hair>dark green</hair>
+                  <lips>pink</lips>
+                  <pose>contented</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>As serious as intergalactic travel and coffee with extra sugar.</content>
+               </balloon>
+            </right>
+            <below>Alfie stares, unsure whether to laugh or run, while Betty calmly sips her coffee.</below>
+            <setting>coffee shop</setting>
+         </panel>
+
+         <!-- PANEL 7: Betty offers Alfie a chance to hear her story -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>green</skin>
+                  <hair>dark green</hair>
+                  <lips>pink</lips>
+                  <pose>offering coffee</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Want to hear how I got here? It's a wild tale.</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>curious</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Okay... I'm listening.</content>
+               </balloon>
+            </right>
+            <below>Betty slides her coffee toward Alfie, inviting him into her strange story.</below>
+            <setting>coffee shop</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

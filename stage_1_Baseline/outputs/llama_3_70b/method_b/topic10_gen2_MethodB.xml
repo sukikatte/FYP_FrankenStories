@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>angry</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>This service is terrible!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>defensive</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I'm sorry, sir. Let me see what I can do.</content>
+               </balloon>
+            </right>
+            <below>Alfie and Betty stand at a counter in a busy restaurant.</below>
+            <setting>restaurant</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>confused</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Um, excuse me. I've been waiting for my food for 20 minutes.</content>
+               </balloon>
+            </middle>
+            <below>Gemma sits alone at a table, looking frustrated.</below>
+            <setting>restaurant</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>angry</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>This is ridiculous. I demand to see the manager!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>apologetic</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Okay, sir. I'll go get them for you.</content>
+               </balloon>
+            </right>
+            <below>Alfie and Betty continue to argue at the counter.</below>
+            <setting>restaurant</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

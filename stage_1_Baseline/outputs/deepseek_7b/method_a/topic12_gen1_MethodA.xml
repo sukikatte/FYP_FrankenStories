@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- Empty figures section as per requirement -->
+   </figures>
+   
+   <scenes>
+      <!-- Scene 1: Left panel -->
+      <panel>
+         <left>
+            <figure>
+               <id>Alfie</id>
+               <name>Alfie</name>
+               <appearance>male</appearance>
+               <skin>light brown</skin>
+               <hair>dark brown</hair>
+               <lips>red</lips>
+               <pose>push-up</pose>
+               <facing>right</facing>
+            </figure>
+            <below>Alice is checking Alfie's equipment as he prepares to train</below>
+            <setting>gym</setting>
+         </left>
+      </panel>
+
+      <!-- Scene 2: Middle panel -->
+      <panel>
+         <middle>
+            <figure>
+               <id>Betty</id>
+               <name>Betty</name>
+               <appearance>female</appearance>
+               <skin>wavy black</skin>
+               <hair>dark green</hair>
+               <lips)pink</lips>
+               <pose>guilty</pose>
+               <facing>left</facing>
+            </figure>
+            <below>Betty enters the gym with a guilty look on her face</below>
+            <setting>gym</setting>
+         </middle>
+      </panel>
+
+      <!-- Scene 3: Right panel -->
+      <panel>
+         <right>
+            <figure>
+               <appearance>default</appearance>
+               <skin>default</skin>
+               <hair>default</hair>
+               <lips>default</lips>
+               <pose>bandage</pose>
+               <facing>right</facing>
+            </figure>
+            <below>Alfie is lying on the floor, covered in bandages</below>
+            <setting>gym</setting>
+         </right>
+      </panel>
+   </scenes>
+</comic>

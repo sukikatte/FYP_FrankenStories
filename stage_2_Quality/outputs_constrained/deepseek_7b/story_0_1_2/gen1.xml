@@ -1,0 +1,311 @@
+<comic>
+  <figures>
+    <!-- Global figure element -->
+  </figures>
+  
+  <scenes>
+    <scene>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>dark brown</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>breakfasting</pose>
+            <facing>right</facing>
+          </figure>
+          <balloon status="speech">
+            <content>Breakfast is calling, Alfie!</content>
+          </balloon>
+        </left>
+        <middle>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>blonde</appearance>
+            <skin>white</skin>
+            <hair>light brown</hair>
+            <lips>pink</lips>
+            <pose>all wet</pose>
+            <facing>left</facing>
+          </figure>
+          <balloon status="speech">
+            <content>Mmm, eggs are delicious!</content>
+          </balloon>
+        </middle>
+        <right>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>dark brown</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>all wet</pose>
+            <facing>right</facing>
+          </figure>
+        </right>
+      </panel>
+      <below>Alfie and Betty are in the kitchen, preparing breakfast.</below>
+      <setting>bedroom</setting>
+    </scene>
+
+    <scene>
+      <panel>
+        <left>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>blonde</appearance>
+            <skin>white</skin>
+            <hair>light brown</hair>
+            <lips>pink</lips>
+            <pose>falling off horse</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>dark brown</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>all wet</pose>
+            <facing>left</facing>
+          </figure>
+        </right>
+        <balloon status="speech">
+          <content>Don't worry, Betty, I'm here!</content>
+        </balloon>
+      </panel>
+      <below>Betty has fallen off a horse, and Alfie is helping her up.</below>
+      <setting>gravel path</setting>
+    </scene>
+
+    <scene>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>dark brown</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>high fiving</pose>
+            <facing>left</facing>
+          </figure>
+          <balloon status="speech">
+            <content>High five! Let's go!</content>
+          </balloon>
+        </left>
+        <middle>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>blonde</appearance>
+            <skin>white</skin>
+            <hair>light brown</hair>
+            <lips>pink</lips>
+            <pose>high fiving</pose>
+            <facing>right</facing>
+          </figure>
+          <balloon status="speech">
+            <content>Join in, Betty!</content>
+          </balloon>
+        </middle>
+        <right>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>dark brown</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>high fiving</pose>
+            <facing>left</facing>
+          </figure>
+        </right>
+      </panel>
+      <below>Alfie and Betty high-five in the middle of the room.</below>
+      <setting>bedroom</setting>
+    </scene>
+
+    <scene>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>dark brown</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>regaining consciousness</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <middle>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>blonde</appearance>
+            <skin>white</skin>
+            <hair>light brown</hair>
+            <lips>pink</lips>
+            <pose>regaining consciousness</pose>
+            <facing>left</facing>
+          </figure>
+        </middle>
+        <right>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>dark brown</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>regaining consciousness</pose>
+            <facing>right</facing>
+          </figure>
+        </right>
+      </panel>
+      <below>Alfie and Betty are in the kitchen, trying to regain consciousness after an accident.</below>
+      <setting>bedroom</setting>
+    </scene>
+
+    <scene>
+      <panel>
+        <left>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>blonde</appearance>
+            <skin>white</skin>
+            <hair>light brown</hair>
+            <lips>pink</lips>
+            <pose>sommer</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <middle>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>dark brown</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>sommer</pose>
+            <facing>left</facing>
+          </figure>
+        </middle>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>blonde</appearance>
+            <skin>white</skin>
+            <hair>light brown</hair>
+            <lips>pink</lips>
+            <pose>sommer</pose>
+            <facing>right</facing>
+          </figure>
+        </right>
+      </panel>
+      <below>Betty is chasing a ball in the gravel path, while Alfie follows closely.</below>
+      <setting>gravel path</setting>
+    </scene>
+
+    <scene>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>dark brown</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>swallowing</pose>
+            <facing>left</facing>
+          </figure>
+        </left>
+        <middle>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>blonde</appearance>
+            <skin>white</skin>
+            <hair>light brown</hair>
+            <lips>pink</lips>
+            <pose>swallowing</pose>
+            <facing>right</facing>
+          </figure>
+        </middle>
+        <right>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>dark brown</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>swallowing</pose>
+            <facing>left</facing>
+          </figure>
+        </right>
+      </panel>
+      <below>Betty is swallowing something, while Alfie watches from the side.</below>
+      <setting>kitchen</setting>
+    </scene>
+
+    <scene>
+      <panel>
+        <left>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>blonde</appearance>
+            <skin>white</skin>
+            <hair>light brown</hair>
+            <lips>pink</lips>
+            <pose>rumbling</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <middle>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>dark brown</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>rumbling</pose>
+            <facing>left</facing>
+          </figure>
+        </middle>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>blonde</appearance>
+            <skin>white</skin>
+            <hair>light brown</hair>
+            <lips>pink</lips>
+            <pose>rumbling</pose>
+            <facing>right</facing>
+          </figure>
+        </right>
+      </panel>
+      <below>Betty is rumbling in the bedroom, while Alfie sits nearby.</below>
+      <setting>bedroom</setting>
+    </scene>
+  </scenes>
+</comic>

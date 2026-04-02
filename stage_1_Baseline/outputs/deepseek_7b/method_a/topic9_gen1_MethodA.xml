@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!--
+            ComicXML STRUCTURE GUIDE
+            
+            PANEL STRUCTURE:
+            Each panel can be divided into 1, 2, or 3 parts using position elements:
+            
+            Single part (choose one):
+              - left element
+              
+            Two parts (choose one combination):
+              - left + right (most common)
+              
+            Three parts:
+              - left + middle + right
+            
+            ELEMENTS IN EACH PANEL:
+            Required:
+              - At least one position element (left)
+              - setting element
+              
+            Optional:
+              - below element (panel description text)
+              
+            NOT used in content panels:
+              - border element (only used in cover pages)
+              - embedding element (only used in cover pages with special structure)
+            
+            Content panels setting placement:
+              - Setting is placed directly in panel (after below element)
+              - Do NOT use embedding structure
+            
+            FIGURE ELEMENTS:
+            Character figure (required attributes):
+              - id element (Alfie)
+              - name element (Alfie)
+              - appearance element
+              - pose element
+              - facing element (right)
+              
+            Balloon element:
+              - Placed inside position element where the speaking figure is
+              
+         -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>reading a book</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+
+            <below>Alfie is absorbed in reading when he suddenly discovers a strange book filled with mysterious pictures.</below>
+
+            <setting>library</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>holding a strange book</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+
+            <below>Alfie gasps in shock as he holds a peculiar book filled with strange symbols.</below>
+
+            <setting>library</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+  <figures></figures>
+  <scenes>
+    <scene>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>drinking coffee</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <below>Alfie relaxes in a corner of the café, savoring his morning brew.</below>
+        <setting>coffee shop</setting>
+      </panel>
+
+      <panel>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>green</skin>
+            <hair>dark green</hair>
+            <lips>pink</lips>
+            <pose>arriving</pose>
+            <facing>left</facing>
+          </figure>
+        </right>
+        <below>A mysterious green-skinned woman steps up to Alfie's table.</below>
+        <setting>coffee shop</setting>
+      </panel>
+
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>confused</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <below>Surprised by her unusual appearance, Alfie still tries to be polite.</below>
+        <setting>coffee shop</setting>
+      </panel>
+
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>drinking coffee</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>green</skin>
+            <hair>dark green</hair>
+            <lips>pink</lips>
+            <pose>carrying coffee</pose>
+            <facing>left</facing>
+          </figure>
+        </right>
+        <below>They chat amiably, discovering unexpected common ground.</below>
+        <setting>coffee shop</setting>
+      </panel>
+    </scene>
+  </scenes>
+</comic>

@@ -1,0 +1,144 @@
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!--
+            ComicXML STRUCTURE:
+            <scene>
+               <panel>
+                  <middle>
+                     <figure>
+                        <id>Alfie</id>
+                        <name>Alfie</name>
+                        <appearance>male</appearance>
+                        <skin>light brown</skin>
+                        <hair>dark brown</hair>
+                        <lips>red</lips>
+                        <pose>all wet</pose>
+                        <facing>left</facing>
+                     </figure>
+                     <balloon status="speech">
+                        <content>I'm just having fun! 🌊</content>
+                     </balloon>
+                     <below>Alfie ended up in a puddle after playing near the stream. His expression is wide-eyed and curious.</below>
+                     <setting>gravel path</setting>
+                  </middle>
+               </panel>
+            </scene>
+         <scene>
+            <scene>
+               <panel>
+                  <left>
+                     <figure>
+                        <id>Alfie</id>
+                        <name>Alfie</name>
+                        <appearance>male</appearance>
+                        <skin>light brown</skin>
+                        <hair>dark brown</hair>
+                        <lips>red</lips>
+                        <pose>falling off horse</pose>
+                        <facing>left</facing>
+                     </figure>
+                     <balloon status="speech">
+                        <content>I think I hit something!</content>
+                     </balloon>
+                     <below>Alfie is lying on his back, blood streaming from a cut on his leg. He's in a lot of pain.</below>
+                     <setting>gravel path</setting>
+                  </left>
+               </panel>
+            </scene>
+         <scene>
+            <scene>
+               <panel>
+                  <right>
+                     <figure>
+                        <id>Alfie</id>
+                        <name>Alfie</name>
+                        <appearance>male</appearance>
+                        <skin>light brown</skin>
+                        <hair>dark brown</hair>
+                        <lips>red</lips>
+                        <pose>unconscious</pose>
+                        <facing>left</facing>
+                     </figure>
+                     <balloon status="speech">
+                        <content>I'm sorry, I'm unconscious now.</content>
+                     </balloon>
+                     <below>Alfie is lying on the gravel path, unresponsive. Emergency services are on their way.</below>
+                     <setting>gravel path</setting>
+                  </right>
+               </panel>
+            </scene>
+         <scene>
+            <scene>
+               <panel>
+                  <middle>
+                     <figure>
+                        <id>Alfie</id>
+                        <name>Alfie</name>
+                        <appearance>male</appearance>
+                        <skin>light brown</skin>
+                        <hair>dark brown</hair>
+                        <lips>red</lips>
+                        <pose>riding</pose>
+                        <facing>right</facing>
+                     </figure>
+                     <balloon status="speech">
+                        <content>I'm back! Finally!</content>
+                     </balloon>
+                     <below>I'm okay now, but I need to ride more carefully. My leg will need some rest.</below>
+                     <setting>gravel path</setting>
+                  </middle>
+               </panel>
+            </scene>
+         <scene>
+            <scene>
+               <panel>
+                  <left>
+                     <figure>
+                        <id>Alfie</id>
+                        <name>Alfie</name>
+                        <appearance>male</appearance>
+                        <skin>light brown</skin>
+                        <hair>dark brown</hair>
+                        <lips>red</lips>
+                        <pose>slopping</pose>
+                        <facing>right</facing>
+                     </figure>
+                     <balloon status="speech">
+                        <content>I'm just too tired to do anything else.</content>
+                     </balloon>
+                     <below>I think I'll just rest for a while. Maybe I'll fall asleep on the gravel path.</below>
+                     <setting>gravel path</setting>
+                  </left>
+               </panel>
+            </scene>
+         <scene>
+            <scene>
+               <panel>
+                  <right>
+                     <figure>
+                        <id>Alfie</id>
+                        <name>Alfie</name>
+                        <appearance>male</appearance>
+                        <skin>light brown</skin>
+                        <hair>dark brown</hair>
+                        <lips>red</lips>
+                        <pose>throwing water</pose>
+                        <facing>right</facing>
+                     </figure>
+                     <balloon status="speech">
+                        <content>Let me throw some water for the fire!</content>
+                     </balloon>
+                     <below>I hope no one gets hurt. Alfie is quite the little troublemaker!</below>
+                     <setting>gravel path</setting>
+                  </right>
+               </panel>
+            </scene>
+         </scene>
+      </scenes>
+   </figures>
+</comic>

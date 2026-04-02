@@ -1,0 +1,99 @@
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <!-- Scene 1 -->
+      <scene>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>breakfasting</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Alfie: I'm starting my breakfast...</content>
+               </balloon>
+            </middle>
+            <below>Alfie is sitting at a kitchen table, looking towards the camera.</below>
+            <setting>kitchen</setting>
+         </panel>
+      </scene>
+
+      <!-- Scene 2 -->
+      <scene>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>high fiving</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Alfie: Let's high five!</content>
+               </balloon>
+            </middle>
+            <below>Alfie is high fiving a friend in the kitchen.</below>
+            <setting>kitchen</setting>
+         </panel>
+      </scene>
+
+      <!-- Scene 3 -->
+      <scene>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>munching</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Alfie: Time for snacks!</content>
+               </balloon>
+            </middle>
+            <below>Alfie is munching on cookies at a kitchen table.</below>
+            <setting>kitchen</setting>
+         </panel>
+      </scene>
+
+      <!-- Scene 4 -->
+      <scene>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</id>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>yawning</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Alfie: Okay, I'm yawning...</content>
+               </balloon>
+            </middle>
+            <below>Alfie is lying on a welcome mat, looking content.</below>
+            <setting>welcome mat</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

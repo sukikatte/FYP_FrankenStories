@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This template defines the standard ComicXML structure for content panels,
+to guide LLM output and allow automated validation of generated stories. -->
+
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance default="true" left brown dark brown red</appearance>
+                  <skin light brown</skin>
+                  <hair dark brown</hair>
+                  <lips red</lips>
+                  <pose default="sitting"</pose>
+                  <facing left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Alfie is drenched in water!</content>
+               </balloon>
+            </left>
+
+            <below>Gravel path in the rain</below>
+
+            <setting>Gravel path</setting>
+         </panel>
+
+         <scene>
+            <panel>
+               <left>
+                  <figure>
+                     <id>Alfie</id>
+                     <name>Alfie</name>
+                     <appearance default="true" left brown dark brown red</appearance>
+                     <skin light brown</skin>
+                     <hair dark brown</hair>
+                     <lips red</lips>
+                     <pose default="evaluating"</pose>
+                     <facing right</facing>
+                  </figure>
+                  <balloon status="speech">
+                     <content>Do you need help?</content>
+                  </balloon>
+               </left>
+               <right>
+                  <figure>
+                     <id>Alfie</id>
+                     <name>Alfie</name>
+                     <appearance default="true" left brown dark brown red</appearance>
+                     <skin light brown</skin>
+                     <hair dark brown</hair>
+                     <lips red</lips>
+                     <pose default="riding"</pose>
+                     <facing right</facing>
+                  </figure>
+                  <balloon status="speech">
+                     <content>Yes, I'm wet and cold!</content>
+                  </balloon>
+               </right>
+
+               <below>Alfie being helped off the path</below>
+
+               <setting>Gravel path</setting>
+            </panel>
+
+            <scene>
+               <panel>
+                  <left>
+                     <figure>
+                        <id>Alfie</id>
+                        <name>Alfie</name>
+                        <appearance default="true" left brown dark brown red</appearance>
+                        <skin light brown</skin>
+                        <hair dark brown</hair>
+                        <lips red</lips>
+                        <pose default="dispatched"</pose>
+                        <facing left</facing>
+                     </figure>
+                     <balloon status="speech">
+                        <content>Take me to the hospital, Alfie!</content>
+                     </balloon>
+                  </left>
+                  <right>
+                     <figure>
+                        <id>Alfie</id>
+                        <name>Alfie</name>
+                        <appearance default="true" left brown dark brown red</appearance>
+                        <skin light brown</skin>
+                        <hair dark brown</hair>
+                        <lips red</lips>
+                        <pose default="evaluating"</pose>
+                        <facing right</facing>
+                     </figure>
+                     <balloon status="speech">
+                        <content>Me too, pretty boy!</content>
+                     </balloon>
+                  </right>
+
+                  <below>A horse carrying Alfie</below>
+
+                  <setting>Gravel path</setting>
+               </panel>
+
+            <scene>
+               <panel>
+                  <left>
+                     <figure>
+                        <id>Alfie</id>
+                        <name>Alfie</name>
+                        <appearance default="true" left brown dark brown red</appearance>
+                        <skin light brown</skin>
+                        <hair dark brown</hair>
+                        <lips red</lips>
+                        <pose default="dispatched"</pose>
+                        <facing left</facing>
+                     </figure>
+                     <balloon status="speech">
+                        <content>Where am I going?</content>
+                     </balloon>
+                  </left>
+                  <right>
+                     <figure>
+                        <id>Alfie</id>
+                        <name>Alfie</name>
+                        <appearance default="true" left brown dark brown red</appearance>
+                        <skin light brown</skin>
+                        <hair dark brown</hair>
+                        <lips red</lips>
+                        <pose default="evaluating"</pose>
+                        <facing right</facing>
+                     </figure>
+                     <balloon status="speech">
+                        <content>Take me straight to the hospital, Alfie!</content>
+                     </balloon>
+                  </right>
+
+                  <below>A horse being ridden towards the hospital</below>
+
+                  <setting>Gravel path</setting>
+               </panel>
+
+            <scene>
+               <panel>
+                  <left>
+                     <figure>
+                        <id>Alfie</id>
+                        <name>Alfie</name>
+                        <appearance default="true" left brown dark brown red</appearance>
+                        <skin light brown</skin>
+                        <hair dark brown</hair>
+                        <lips red</lips>
+                        <pose default="riding"</pose>
+                        <facing left</facing>
+                     </figure>
+                     <balloon status="speech">
+                        <content>Am I going anywhere?</content>
+                     </balloon>
+                  </left>
+                  <right>
+                     <figure>
+                        <id>Alfie</id>
+                        <name>Alfie</name>
+                        <appearance default="true" left brown dark brown red</appearance>
+                        <skin light brown</skin>
+                        <hair dark brown</hair>
+                        <lips red</lips>
+                        <pose default="evaluating"</pose>
+                        <facing right</facing>
+                     </figure>
+                     <balloon status="speech">
+                        <content>Just to the hospital, Alfie!</content>
+                     </balloon>
+                  </right>
+
+                  <below>A horse approaching the hospital</below>
+
+                  <setting>Gravel path</setting>
+               </panel>
+
+            <scene>
+               <panel>
+                  <left>
+                     <figure>
+                        <id>Alfie</id>
+                        <name>Alfie</name>
+                        <appearance default="true" left brown dark brown red</appearance>
+                        <skin light brown</skin>
+                        <hair dark brown</hair>
+                        <lips red</lips>
+                        <pose default="riding"</pose>
+                        <facing left</facing>
+                     </figure>
+                     <balloon status="speech">
+                        <content>Am I going to the hospital?</content>
+                     </balloon>
+                  </left>
+                  <right>
+                     <figure>
+                        <id>Alfie</id>
+                        <name>Alfie</name>
+                        <appearance default="true" left brown dark brown red</appearance>
+                        <skin light brown</skin>
+                        <hair dark brown</hair>
+                        <lips red</lips>
+                        <pose default="evaluating"</pose>
+                        <facing right</facing>
+                     </figure>
+                     <balloon status="speech">
+                        <content>Yes, straight to the hospital!</content>
+                     </balloon>
+                  </right>
+
+                  <below>A horse arriving at the hospital</below>
+
+                  <setting>Hospital</setting>
+               </panel>
+
+            <scene>
+               <panel>
+                  <left>
+                     <figure>
+                        <id>Alfie</id>
+                        <name>Alfie</name>
+                        <appearance default="true" left brown dark brown red</appearance>
+                        <skin light brown</skin>
+                        <hair dark brown</hair>
+                        <lips red</lips>
+                        <pose default="evaluating"</pose>
+                        <facing left</facing>
+                     </figure>
+                     <balloon status="speech">
+                        <content>Are you okay, Alfie?</content>
+                     </balloon>
+                  </left>
+                  <right>
+                     <figure>
+                        <id>Alfie</id>
+                        <name>Alfie</name>
+                        <appearance default="true" left brown dark brown red</appearance>
+                        <skin light brown</skin>
+                        <hair dark brown</hair>
+                        <lips red</lips>
+                        <pose default="evaluating"</pose>
+                        <facing right</facing>
+                     </figure>
+                     <balloon status="speech">
+                        <content>Yes, but I'm very cold and wet!</content>
+                     </balloon>
+                  </right>
+
+                  <below>A bed in the hospital</below>
+
+                  <setting>Hospital</setting>
+               </panel>
+
+            <scene>
+               <panel>
+                  <left>
+                     <figure>
+                        <id>Alfie</id>
+                        <name>Alfie</name>
+                        <appearance default="true" left brown dark brown red</appearance>
+                        <skin light brown</skin>
+                        <hair dark brown</hair>
+                        <lips red</lips>
+                        <pose default="dispatched"</pose>
+                        <facing left</facing>
+                     </figure>
+                     <balloon status="speech">
+                        <content>Let me help you, Alfie!</content>
+                     </balloon>
+                  </left>
+                  <right>
+                     <figure>
+                        <id>Alfie</id>
+                        <name>Alfie</name>
+                        <appearance default="true" left brown dark brown red</appearance>
+                        <skin light brown</skin>
+                        <hair dark brown</hair>
+                        <lips red</lips>
+                        <pose default="evaluating"</pose>
+                        <facing right</facing>
+                     </figure>
+                     <balloon status="speech">
+                        <content>I'm very cold and wet!</content>
+                     </balloon>
+                  </right>
+
+                  <below>A bed with a blanket in the hospital</below>
+
+                  <setting>Hospital</setting>
+               </panel>
+
+            <scene>
+               <panel>
+                  <left>
+                     <figure>
+                        <id>Alfie</id>
+                        <name>Alfie</name>
+                        <appearance default="true" left brown dark brown red</appearance>
+                        <skin light brown</skin>
+                        <hair dark brown</hair>
+                        <lips red</lips>
+                        <pose default="evaluating"</pose>
+                        <facing left</facing>
+                     </figure>
+                     <balloon status="speech">
+                        <content>Are you okay, Alfie?</content>
+                     </balloon>
+                  </left>
+                  <right>
+                     <figure>
+                        <id>Alfie</id>
+                        <name>Alfie</name>
+                        <appearance default="true" left brown dark brown red</appearance>
+                        <skin light brown</skin>
+                        <hair dark brown</hair>
+                        <lips red</lips>
+                        <pose default="evaluating"</pose>
+                        <facing right</facing>
+                     </figure>
+                     <balloon status="speech">
+                        <content>I'm very cold and wet!</content>
+                     </balloon>
+                  </right>
+
+                  <below>A bed in the hospital with a blanket</below>
+
+                  <setting>Hospital</setting>
+               </panel>
+
+            <scene>
+               <panel>
+                  <left>
+                     <figure>
+                        <id>Alfie</id>
+                        <name>Alfie</name>
+                        <appearance default="true" left brown dark brown red</appearance>
+                        <skin light brown</skin>
+                        <hair dark brown</hair>
+                        <lips red</lips>
+                        <pose default="dispatched"</pose>
+                        <facing left</facing>
+                     </figure>
+                     <balloon status="speech">
+                        <content>Let me help you, Alfie!</content>
+                     </balloon>
+                  </left>
+                  <right>
+                     <figure>
+                        <id>Alfie</id>
+                        <name>Alfie</name>
+                        <appearance default="true" left brown dark brown

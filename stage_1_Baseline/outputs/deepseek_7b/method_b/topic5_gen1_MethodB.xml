@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!--
+            ComicXML STRUCTURE GUIDE
+            
+            PANEL STRUCTURE:
+            Each panel can be divided into 1, 2, or 3 parts using position elements:
+            
+            Single part (choose one):
+              - left element
+              - middle element
+              - right element
+            
+            Two parts (choose one combination):
+              - left + right (most common)
+              - left + middle
+              - middle + right
+            
+            Three parts:
+              - left + middle + right
+            
+            ELEMENTS IN EACH PANEL:
+            Required:
+              - At least one position element (left/middle/right)
+              - setting element (placed directly in panel, after below element)
+            
+            Optional:
+              - below element (panel description text, placed after position elements)
+              - balloon element (inside position elements where figure speaks)
+            
+            NOT used in content panels:
+              - border element (only used in cover pages)
+              - embedding element (only used in cover pages with special structure)
+            
+            Content panels setting placement:
+              - Setting is placed directly in panel (after below element)
+              - Do NOT use embedding structure
+            
+            FIGURE ELEMENTS:
+            Character figure (required attributes):
+              - id element (Alfie, Betty, or Gemma)
+              - name element
+              - appearance element
+              - pose element
+              - facing element (left or right)
+            
+            Character figure (optional, based on variant):
+              - skin element
+              - hair element
+              - lips element
+            
+            IMPORTANT: You MUST select a complete character variant from element_library.json.
+            Do NOT mix and match attributes - each variant has a complete set of attributes.
+            
+            Prop figure (for objects/props):
+              - NO id or name elements
+              - appearance element with value "default"
+              - skin element with value "default"
+              - hair element with value "default"
+              - pose element (e.g., "horse prop", "wheelchair prop")
+              - facing element (left or right)
+            
+            BALLOON:
+            - Placed inside position element (left/middle/right) where the speaking figure is
+            - Can have balloon in multiple positions (if multiple figures speak)
+            - Can have no balloon at all
+            - Format: balloon element with status="speech" and content element inside
+         -->
+
+         <!-- Example 1: Single part panel (middle) -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance default="true"/>
+                  <skin default="true"/>
+                  <hair default="true"/>
+                  <lips default="true"/>
+                  <pose>default</pose>
+                  <facing>left</facing>
+               </figure>
+
+               <below>Emergency lights flickering in the hallway</below>
+
+               <setting>Hospital corridor, dim lighting, emergency lights flickering</setting>
+            </middle>
+
+            <balloon status="speech">
+               <content>Betty: "Oh no, what happened?"</content>
+            </balloon>
+         </panel>
+
+         <!-- Example 2: Two part panel (left + right) - most common pattern -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance default="true"/>
+                  <skin default="true"/>
+                  <hair default="true"/>
+                  <lips default="true"/>
+                  <pose>default</pose>
+                  <facing>left</facing>
+               </figure>
+
+               <below>Left panel description text</below>
+
+               <setting>Hospital corridor, dim lighting, emergency lights flickering</setting>
+            </left>
+
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance default="true"/>
+                  <skin default="true"/>
+                  <hair default="true"/>
+                  <lips default="true"/>
+                  <pose default="true"/>
+                  <facing>left</facing>
+               </figure>
+
+               <below>Right panel description text</below>
+
+               <setting>Hospital corridor, dim lighting, emergency lights flickering</setting>
+            </right>
+
+            <balloon status="speech">
+               <content>Betty: "Oh no, what happened?"</content>
+            </balloon>
+         </panel>
+
+         <!-- 
+            NOTES:
+            - Panel count is flexible based on story length
+            - Use any combination of the patterns shown above
+            - All panels should be content panels (no cover page structure)
+            - Setting is always placed directly in panel (NOT in embedding)
+            - Do NOT use framing, border or embedding elements (they are only for cover pages)
+         -->
+      </scene>
+   </scenes>
+</comic>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Witness taking the stand -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>assertive</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>lawyer</pose>
+                  <facing>left</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>Please state your full name for the record.</content>
+               </balloon>
+            </right>
+
+            <below>The witness takes the stand as the prosecutor prepares to question her.</below>
+
+            <setting>courtroom</setting>
+         </panel>
+
+         <!-- Panel 2: Controversial testimony begins -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>making a point</pose>
+                  <facing>right</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>I saw the defendant at the scene... but he wasn't alone. There was someone else there too!</content>
+               </balloon>
+            </middle>
+
+            <below>Gasps fill the courtroom as the witness drops a bombshell revelation.</below>
+
+            <setting>courtroom</setting>
+         </panel>
+
+         <!-- Panel 3: Defense attorney objects -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>accusing</pose>
+                  <facing>right</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>Objection, Your Honor! This is completely new information not in the discovery!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>judge prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+
+            <below>The defense attorney jumps to her feet in protest as the judge considers the objection.</below>
+
+            <setting>courtroom</setting>
+         </panel>
+
+         <!-- Panel 4: Courtroom erupts in chaos -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>shouting</pose>
+                  <facing>right</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>This changes everything! The defense has been hiding evidence!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>angry</pose>
+                  <facing>left</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>We knew nothing about this! The witness is lying!</content>
+               </balloon>
+            </right>
+
+            <below>The courtroom erupts in chaos as both attorneys shout over each other.</below>
+
+            <setting>courtroom</setting>
+         </panel>
+
+         <!-- Panel 5: Judge restores order -->
+         <panel>
+            <middle>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>judge prop</pose>
+                  <facing>right</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>Order! Order in the court! We'll take a recess to review this new testimony.</content>
+               </balloon>
+            </middle>
+
+            <below>The judge bangs the gavel, calling for order as the controversial testimony throws the trial into turmoil.</below>
+
+            <setting>courtroom</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

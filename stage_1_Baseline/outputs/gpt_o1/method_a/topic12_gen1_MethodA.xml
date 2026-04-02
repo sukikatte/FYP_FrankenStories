@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+  <figures>
+    <figure>
+      <id>Alfie</id>
+      <appearance>male</appearance>
+      <skin>light brown</skin>
+      <hair>dark brown</hair>
+      <lips>red</lips>
+    </figure>
+    <figure>
+      <id>Betty</id>
+      <appearance>female</appearance>
+      <skin>white</skin>
+      <hair>blonde</hair>
+      <lips>pink</lips>
+    </figure>
+  </figures>
+  <scenes>
+    <scene>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>training</pose>
+            <facing>right</facing>
+          </figure>
+          <balloon status="speech">"Let's get started on our workout!"</balloon>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>training</pose>
+            <facing>left</facing>
+          </figure>
+          <balloon status="speech">"Yes, I'm ready to burn some calories!"</balloon>
+        </right>
+        <below>Alfie and Betty arrive at the gym, excited to begin their exercise routine.</below>
+        <setting>gym</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>on treadmill</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>on treadmill</pose>
+            <facing>left</facing>
+          </figure>
+          <balloon status="speech">"Keep a steady pace, Alfie!"</balloon>
+        </right>
+        <below>The pair warms up on adjacent treadmills.</below>
+        <setting>gym</setting>
+      </panel>
+      <panel>
+        <middle>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>falling off treadmill</pose>
+            <facing>left</facing>
+          </figure>
+        </middle>
+        <below>Suddenly, Alfie missteps on the treadmill and takes a tumble!</below>
+        <setting>gym</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>alarmed</pose>
+            <facing>right</facing>
+          </figure>
+          <balloon status="speech">"Oh no! Are you hurt?"</balloon>
+        </left>
+        <right>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>on crutch</pose>
+            <facing>left</facing>
+          </figure>
+          <balloon status="speech">"I'll be okay—just a little sore. Let's try a safer exercise next time."</balloon>
+        </right>
+        <below>Betty helps Alfie up, relieved that he only bruised his ego.</below>
+        <setting>gym</setting>
+      </panel>
+    </scene>
+  </scenes>
+</comic>

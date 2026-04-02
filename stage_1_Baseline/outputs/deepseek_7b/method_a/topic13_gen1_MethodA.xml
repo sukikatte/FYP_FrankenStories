@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Define scene with multiple panels -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>disheveled</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>medical bag prop</pose>
+                  <facing>right</facing>
+               </figure>
+               <below>Afraid to check in on his flight</below>
+               <setting>airport</setting>
+            </left>
+
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>light green</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>pink</lips>
+                  <pose>checked bag prop</pose>
+                  <facing>right</facing>
+               </figure>
+               <below>Missed her flight! Now what?</below>
+               <setting>airport</setting>
+            </middle>
+
+            <right>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>green</appearance>
+                  <skin>black</skin>
+                  <hair/blonde/kurls>black</hairs>
+                  <lips>pink</lips>
+                  <pose>security guard prop</pose>
+                  <facing>right</facing>
+               </figure>
+               <below>Staying calm, but not really</below>
+               <setting>airport</setting>
+            </right>
+         </panel>
+
+         <!-- Add more panels as needed -->
+      </scene>
+   </scenes>
+</comic>

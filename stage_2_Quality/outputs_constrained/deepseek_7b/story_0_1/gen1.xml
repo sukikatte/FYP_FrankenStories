@@ -1,0 +1,244 @@
+<comic>
+   <figures>
+      <figure id="Alfie">
+         <name>Alfie</name>
+         <appearance>male</appearance>
+         <skin>light brown</skin>
+         <hair>dark brown</hair>
+         <lips>red</lips>
+         <pose>breakfasting</pose>
+         <facing>right</facing>
+      </figure>
+      <figure id="Betty">
+         <name>Betty</name>
+         <appearance>female</appearance>
+         <skin>white</skin>
+         <hair>blonde</hair>
+         <lips>pink</lips>
+         <pose>high fiving</pose>
+         <facing>right</facing>
+      </figure>
+   </figures>
+
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure id="Alfie">
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>breakfasting</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Betty, let's get breakfast started!</content>
+               </balloon>
+            </left>
+            <below>Alfie is sitting at the breakfast table, looking excited.</below>
+            <setting>breakfast table</setting>
+         </panel>
+
+         <panel>
+            <right>
+               <figure id="Betty">
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>high fiving</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Alfie, can I high five you?</content>
+               </balloon>
+            </right>
+            <below>Betty is holding out her hand for a high five.</below>
+            <setting>breakfast table</setting>
+         </panel>
+      </scene>
+
+      <scene>
+         <panel>
+            <left>
+               <figure id="Alfie">
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>strong</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Yeah, I can!</content>
+               </balloon>
+            </left>
+            <below>Alfie is pushing Betty on the swing set.</below>
+            <setting>swings</setting>
+         </panel>
+
+         <panel>
+            <right>
+               <figure id="Betty">
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>swinging</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Whoa, that was strong!</content>
+               </balloon>
+            </right>
+            <below>Betty is impressed by Alfie's strength.</below>
+            <setting>swings</setting>
+         </panel>
+      </scene>
+
+      <scene>
+         <panel>
+            <left>
+               <figure id="Alfie">
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>swallowing</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Betty, I think we should...</content>
+               </balloon>
+            </left>
+            <below>Alfie is holding a balloon in his mouth.</below>
+            <setting>living room</setting>
+         </panel>
+
+         <panel>
+            <middle>
+               <figure id="Betty">
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>swallowing</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Alfie, let's try something new!</content>
+               </balloon>
+            </middle>
+            <below>Betty is trying to swallow a balloon but fails.</below>
+            <setting>living room</setting>
+         </panel>
+
+         <right>
+            <figure id="Alfie">
+               <name>Alfie</name>
+               <appearance>male</appearance>
+               <skin>light brown</skin>
+               <hair>dark brown</hair>
+               <lips>red</lips>
+               <pose>swallowing</pose>
+               <facing>right</facing>
+            </figure>
+            <balloon status="speech">
+               <content>Betty, you're such a cutie!</content>
+            </balloon>
+         </right>
+         <below>Alfie is giving Betty a playful smile.</below>
+         <setting>living room</setting>
+         <balloon status="speech">
+            <content>Alfie!</content>
+         </balloon>
+      </scene>
+
+      <scene>
+         <panel>
+            <left>
+               <figure id="Alfie">
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>yawning</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Betty, did you see that?</content>
+               </balloon>
+            </left>
+            <below>Alfie is yawning in the bedroom.</below>
+            <setting>bedroom</setting>
+         </panel>
+
+         <panel>
+            <right>
+               <figure id="Betty">
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>yawning</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Alfie, what's going on?</content>
+               </balloon>
+            </right>
+            <below>Betty is trying to understand what Alfie is yawning at.</below>
+            <setting>bedroom</setting>
+         </panel>
+      </scene>
+
+      <scene>
+         <panel>
+            <left>
+               <figure id="Alfie">
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>breakfasting</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Let's give it up for our conversation...</content>
+               </balloon>
+            </left>
+            <below>Alfie is finishing his breakfast, looking satisfied.</below>
+            <setting>breakfast table</setting>
+         </panel>
+
+         <panel>
+            <right>
+               <figure id="Betty">
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>breakfasting</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>That was the best conversation so far!</content>
+               </balloon>
+            </right>
+            <below>Betty is impressed by Alfie's breakfast.</below>
+            <setting>breakfast table</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

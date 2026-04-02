@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Coffee Shop Meeting -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>leaning against wall</pose>
+                  <facing>right</facing>
+               </figure>
+               <below>Alice walks up to Alfie leaning against the counter.</below>
+               <setting>coffee shop interior</setting>
+            </left>
+            <right>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <lips>default</lips>
+                  <pose>book</pose>
+                  <facing>right</facing>
+               </figure>
+               <below>Stranger hands Alfie a book, muttering something about the unknown.</below>
+               <setting>coffee shop interior</setting>
+            </right>
+         </panel>
+
+         <panel>
+            <middle>
+               <figure>
+                  <id>Stranger</id>
+                  <name>Unknown</name>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <lips>default</lips>
+                  <pose>reading magazine</pose>
+                  <facing>right</facing>
+               </figure>
+               <below>Stranger sits across from Alfie, reading a magazine.</below>
+               <setting>coffee shop interior</setting>
+            </middle>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

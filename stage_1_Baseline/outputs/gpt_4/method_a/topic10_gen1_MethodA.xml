@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- No global figures defined -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Main character's first reaction in the scene -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>default</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>confused</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Excuse me, we've been waiting for our order for quite a while...</content>
+               </balloon>
+            </middle>
+            <below>Alfie sits at a table, looking around uncertainly as he notices the slow service.</below>
+            <setting>restaurant</setting>
+         </panel>
+
+         <!-- Panel 2: New action or interaction between characters -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>default</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>impatient</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>default</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>serving</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Sorry for the delay, sir. I'll check on your order right away.</content>
+               </balloon>
+            </right>
+            <below>Betty, the waitress, finally approaches Alfie's table, trying to reassure him.</below>
+            <setting>restaurant</setting>
+         </panel>
+
+         <!-- Panel 3: Emphasize the characters' emotional reaction or response to the event -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>default</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>disappointed</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>This is really frustrating. I hope the food is worth the wait.</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>default</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>apologetic</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie sighs, visibly disappointed, while Betty looks apologetic and worried.</below>
+            <setting>restaurant</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Alfie’s first reaction -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <!-- Alfie default variant -->
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>alarmed</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>What just happened?!</content>
+               </balloon>
+            </middle>
+            <below>Alfie jumps in surprise as the espresso machine makes a sudden, startling noise.</below>
+            <setting>coffee shop</setting>
+         </panel>
+
+         <!-- Panel 2: Betty reacts to Alfie’s alarm -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <!-- Betty default variant -->
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>apprehensive</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <!-- Alfie default variant -->
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>accusing with hand over eye</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>That noise nearly gave me a heart attack!</content>
+               </balloon>
+            </right>
+            <below>Betty tries to calm Alfie down, urging him to breathe.</below>
+            <setting>coffee shop</setting>
+         </panel>
+
+         <!-- Panel 3: Alfie regains composure -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <!-- Alfie default variant -->
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>contented</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I guess it was just the machine. I'll be fine.</content>
+               </balloon>
+            </middle>
+            <below>Alfie realizes the source of the noise and settles down.</below>
+            <setting>coffee shop</setting>
+         </panel>
+
+         <!-- Panel 4: Betty offers a fresh cup to Alfie -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <!-- Betty default variant -->
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>carrying coffee</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Let me get you a fresh cup to calm your nerves.</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <!-- Alfie default variant -->
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>contented</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Thanks, Betty, that would help. I appreciate it!</content>
+               </balloon>
+            </right>
+            <below>Betty kindly hands Alfie a comforting cup of coffee.</below>
+            <setting>coffee shop</setting>
+         </panel>
+
+         <!-- Panel 5: Both visibly shaken by the sudden scare -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <!-- Alfie default variant -->
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>scared</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I can still feel my heart racing...</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <!-- Betty default variant -->
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>apprehensive</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Me too. I didn’t expect that at all!</content>
+               </balloon>
+            </right>
+            <below>They both openly share their lingering anxiety, showing how deeply the noise has shaken them.</below>
+            <setting>coffee shop</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- No global figures defined -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Main character's first reaction in the scene -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>confused</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Good afternoon! What kind of style are you thinking of today?</content>
+               </balloon>
+            </middle>
+            <below>Gemma, the hairstylist, greets the customer with a friendly but slightly uncertain smile as she prepares for the appointment.</below>
+            <setting>beauty salon</setting>
+         </panel>
+
+         <!-- Panel 2: New action or interaction between characters -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>assertive</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I want something bold—can you dye my hair neon green and shave a lightning bolt on the side?</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>alarmed</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Betty makes an unusual and daring request, leaving Gemma visibly startled and unsure how to respond.</below>
+            <setting>beauty salon</setting>
+         </panel>
+
+         <!-- Panel 3: Emphasize emotional reaction or response to the event -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>apprehensive</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Um... that's definitely bold! Are you sure about the lightning bolt?</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>confident</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Absolutely! I want to stand out.</content>
+               </balloon>
+            </right>
+            <below>Gemma hesitates, worried about the request, while Betty remains enthusiastic and determined.</below>
+            <setting>beauty salon</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- ComicXML STRUCTURE GUIDE -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>light brown</appearance>
+                  <skin>light brown</skin>
+                  <hair>blonde</hair>
+                  <lips>default</lips>red</lips>
+                  <pose>standing</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>blonde</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>default</lips>pink</lips>
+                  <pose>standing</pose>
+                  <facing>middle</facing>
+               </figure>
+            </middle>
+            <right>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>olive</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>default</lips>pink</lips>
+                  <pose>standing</pose>
+                  <facing>right</facing>
+               </figure>
+            </right>
+            <balloon status="speech">
+               <content>Alfie: "What the hell is this?"</content>
+            </balloon>
+            <balloon status="speech" pos="middle">
+               <content>Betty: "It looks like a mystery!"</content>
+            </balloon>
+            <balloon status="speech">
+               <content>Gemma: "It's definitely something strange."</content>
+            </balloon>
+            <below>Standing in the library</below>
+            <setting>library</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>light brown</appearance>
+                  <skin>light brown</skin>
+                  <hair>blonde</hair>
+                  <lips>default</lips>red</lips>
+                  <pose>looking at book</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>blonde</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>default</lips>pink</lips>
+                  <pose>looking at book</pose>
+                  <facing>middle</facing>
+               </figure>
+            </middle>
+            <right>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>olive</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>default</lips>pink</lips>
+                  <pose>looking at book</pose>
+                  <facing>right</facing>
+               </figure>
+            </right>
+            <balloon status="speech">
+               <content>Alfie: "This is definitely magic!"</content>
+            </balloon>
+            <balloon status="speech" pos="middle">
+               <content>Betty: "It's a mystery book!"</content>
+            </balloon>
+            <balloon status="speech">
+               <content>Gemma: "It looks like a secret notebook."</content>
+            </balloon>
+            <below>Examining the strange book</below>
+            <setting>library exterior</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>light brown</appearance>
+                  <skin>light brown</skin>
+                  <hair>blonde</hair>
+                  <lips>default</lips>red</lips>
+                  <pose>looking outside</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>blonde</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>default</lips>pink</lips>
+                  <pose>looking outside</pose>
+                  <facing>middle</facing>
+               </figure>
+            </middle>
+            <right>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>olive</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>default</lips>pink</lips>
+                  <pose>looking outside</pose>
+                  <facing>right</facing>
+               </figure>
+            </right>
+            <balloon status="speech">
+               <content>Alfie: "Let's go!"</content>
+            </balloon>
+            <balloon status="speech" pos="middle">
+               <content>Betty: "We need to find the owner!"</content>
+            </balloon>
+            <balloon status="speech">
+               <content>Gemma: "This is going to be exciting!"</content>
+            </balloon>
+            <below>Leaving the library</below>
+            <setting>library exterior</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

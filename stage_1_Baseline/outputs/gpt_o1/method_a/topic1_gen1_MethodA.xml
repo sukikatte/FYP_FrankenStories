@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- No global figures defined -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Alfie’s first reaction -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>alarmed</pose>
+                  <facing>right</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>What on earth just happened?</content>
+               </balloon>
+            </middle>
+
+            <below>Alfie spins around in shock, eyes wide with sudden alarm.</below>
+            <setting>farm</setting>
+         </panel>
+
+         <!-- Panel 2: Betty rushes in, concerned -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>pointing</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>confused</pose>
+                  <facing>left</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>Alfie, are you alright? You look terrified!</content>
+               </balloon>
+            </right>
+
+            <below>Betty moves closer, trying to understand what has Alfie so uneasy.</below>
+            <setting>farm</setting>
+         </panel>
+
+         <!-- Panel 3: Determination to investigate -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>sighing</pose>
+                  <facing>right</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>I can’t shake this feeling... Something’s really off here.</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>accusing</pose>
+                  <facing>left</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>Stay calm. We’ll figure out what’s going on, together.</content>
+               </balloon>
+            </right>
+
+            <below>They take a breath and decide to search for the source of the strange disturbance.</below>
+            <setting>farm</setting>
+         </panel>
+
+         <!-- Panel 4: A new action where Alfie offers Betty coffee -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>carrying coffee</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Here, Betty. Maybe this will help clear our heads.</content>
+               </balloon>
+            </left>
+
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>sipping</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>You're right. We’ll need a clear mind for what’s coming next.</content>
+               </balloon>
+            </right>
+
+            <below>Alfie offers Betty a hot cup of coffee, hoping it will ease their nerves.</below>
+            <setting>farm</setting>
+         </panel>
+
+         <!-- Panel 5: Emphasizing their emotional reaction -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>worried</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>My heart is still racing. It’s like we’re caught in a lingering shock.</content>
+               </balloon>
+            </left>
+
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>worried</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I feel it too... I never realized how tense it could get in an instant.</content>
+               </balloon>
+            </right>
+
+            <below>Their faces reveal the weight of the moment, both trying to brace themselves for whatever comes next.</below>
+            <setting>farm</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

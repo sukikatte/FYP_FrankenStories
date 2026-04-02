@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+  <figures></figures>
+  <scenes>
+    <scene>
+      <!-- Panel 1: Alfie notices a commotion from inside the coffee shop -->
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>drinking coffee</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <below>Alfie sits by the window, enjoying his latte when a sudden commotion outside catches his eye.</below>
+        <setting>coffee shop</setting>
+      </panel>
+
+      <!-- Panel 2: Alfie steps outside, sees Betty running at the intersection -->
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>surprised</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>running</pose>
+            <facing>right</facing>
+          </figure>
+        </right>
+        <below>Alfie rushes out and spots Betty sprinting down the street, chasing someone ahead.</below>
+        <setting>red light at intersection</setting>
+      </panel>
+
+      <!-- Panel 3: Betty pursues Gemma down the boulevard -->
+      <panel>
+        <left>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>running</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <id>Gemma</id>
+            <name>Gemma</name>
+            <appearance>female</appearance>
+            <skin>olive</skin>
+            <hair>black</hair>
+            <lips>pink</lips>
+            <pose>running away</pose>
+            <facing>right</facing>
+          </figure>
+        </right>
+        <below>Betty keeps up the chase as Gemma darts through the crowds, both racing down the boulevard.</below>
+        <setting>boulevard</setting>
+      </panel>
+
+      <!-- Panel 4: Betty catches Gemma with Alfie clapping at the busy intersection -->
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>clapping</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <middle>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>arresting</pose>
+            <facing>right</facing>
+          </figure>
+        </middle>
+        <right>
+          <figure>
+            <id>Gemma</id>
+            <name>Gemma</name>
+            <appearance>female</appearance>
+            <skin>olive</skin>
+            <hair>black</hair>
+            <lips>pink</lips>
+            <pose>defeated</pose>
+            <facing>left</facing>
+          </figure>
+        </right>
+        <below>Betty finally apprehends Gemma, while Alfie applauds the heroic takedown in the middle of traffic.</below>
+        <setting>busy intersection</setting>
+      </panel>
+</comic>

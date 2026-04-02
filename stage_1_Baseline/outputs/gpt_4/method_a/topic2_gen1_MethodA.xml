@@ -1,0 +1,117 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Betty is alarmed in the art studio -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>alarmed</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>What was that noise?</content>
+               </balloon>
+            </middle>
+            <below>Betty jumps, startled by an unexpected sound.</below>
+            <setting>art studio</setting>
+         </panel>
+
+         <!-- Panel 2: Alfie enters, asserts, and responds to Betty's alarm -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>assertive</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>alarmed</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Did you see anything?</content>
+               </balloon>
+            </right>
+            <below>Alfie approaches, concerned by Betty’s alarm.</below>
+            <setting>art studio</setting>
+         </panel>
+
+         <!-- Panel 3: Alfie responds, trying to calm Betty -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>assertive</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>It's probably nothing. Stay calm.</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>alarmed</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie reassures Betty, who remains tense.</below>
+            <setting>art studio</setting>
+         </panel>
+
+         <!-- Panel 4: Betty starts to relax but remains unsure -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>apprehensive</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I hope you're right...</content>
+               </balloon>
+            </middle>
+            <below>Betty takes a deep breath, still uneasy after Alfie's reassurance.</below>
+            <setting>art studio</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

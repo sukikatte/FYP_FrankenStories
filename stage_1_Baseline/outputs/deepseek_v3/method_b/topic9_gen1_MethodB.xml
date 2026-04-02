@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Alfie browsing in the library -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>reading</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>bookshelf prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie browses the library shelves, searching for something interesting to read.</below>
+            <setting>library</setting>
+         </panel>
+
+         <!-- Panel 2: Alfie notices a strange book -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>surprised</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Huh? This book wasn't here before...</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>strange book prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie spots a mysterious book that seems out of place among the others.</below>
+            <setting>library</setting>
+         </panel>
+
+         <!-- Panel 3: Alfie hesitates before opening the book -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>apprehensive</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Something feels... off about this. Should I open it?</content>
+               </balloon>
+            </middle>
+            <below>Alfie hesitates, feeling an unusual energy coming from the book.</below>
+            <setting>library</setting>
+         </panel>
+
+         <!-- Panel 4: Alfie opens the book and Betty notices -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>inspired by book</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>alarmed</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Alfie! What are you doing with that book?</content>
+               </balloon>
+            </right>
+            <below>As Alfie opens the book, Betty arrives and seems shocked to see it.</below>
+            <setting>library</setting>
+         </panel>
+
+         <!-- Panel 5: The book begins to glow -->
+         <panel>
+            <middle>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>glowing book prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </middle>
+            <below>The strange book suddenly begins to glow with an eerie light.</below>
+            <setting>library</setting>
+         </panel>
+
+         <!-- Panel 6: Alfie and Betty react to the glowing book -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>scared</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Whoa! What's happening?</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>covering eyes</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie and Betty shield their eyes as the book's glow intensifies.</below>
+            <setting>library</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

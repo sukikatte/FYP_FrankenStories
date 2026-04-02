@@ -1,0 +1,523 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+   <scenes>
+      <!-- Comic Story 1: Method A, Theme: Preventing Hallucination - stability test 1 -->
+      <scene>
+         <!-- Panel 1 -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>reading</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>questioning</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie studies a book while Betty watches curiously in a library.</below>
+            <setting>library</setting>
+         </panel>
+         <!-- Panel 2 -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>asking</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>What are you looking for, Alfie?</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>confused</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Betty asks a question as Alfie seems uncertain.</below>
+            <setting>library</setting>
+         </panel>
+         <!-- Panel 3 -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>examining document</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I need facts, not imaginary stories!</content>
+               </balloon>
+            </middle>
+            <below>Alfie insists he wants real information.</below>
+            <setting>library</setting>
+         </panel>
+         <!-- Panel 4 -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>confident</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I can help you avoid confusion!</content>
+               </balloon>
+            </middle>
+            <below>Betty offers to help Alfie find credible sources.</below>
+            <setting>library</setting>
+         </panel>
+      </scene>
+
+      <!-- Comic Story 2: Method B, Theme: Element Library Proof - stability test 2 -->
+      <scene>
+         <!-- Panel 1 -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>searching pockets</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <below>Gemma looks for her notes in a tech office.</below>
+            <setting>tech office</setting>
+         </panel>
+         <!-- Panel 2 -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>taking notes</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>presenting document</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Gemma writes while Betty hands her a report.</below>
+            <setting>tech office</setting>
+         </panel>
+         <!-- Panel 3 -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>explaining</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>This is from the approved database!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>impressed</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Betty assures Gemma everything is verified.</below>
+            <setting>tech office</setting>
+         </panel>
+         <!-- Panel 4 -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>joy</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I trust these sources now!</content>
+               </balloon>
+            </middle>
+            <below>Gemma is happy to know the information is reliable.</below>
+            <setting>tech office</setting>
+         </panel>
+      </scene>
+      
+      <!-- Comic Story 3: Method A, Theme: Prevent Hallucination - stability test 3 -->
+      <scene>
+         <!-- Panel 1 -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>reading newspaper</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>light brown</hair>
+                  <lips>red</lips>
+                  <pose>confused</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Betty reads a headline as Alfie looks puzzled at a coffee shop.</below>
+            <setting>coffee shop</setting>
+         </panel>
+         <!-- Panel 2 -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>light brown</hair>
+                  <lips>red</lips>
+                  <pose>questioning</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Is that news story true?</content>
+               </balloon>
+            </middle>
+            <below>Alfie doubts the facts in the newspaper.</below>
+            <setting>coffee shop</setting>
+         </panel>
+         <!-- Panel 3 -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>evaluating</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>light brown</hair>
+                  <lips>red</lips>
+                  <pose>apprehensive</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Betty considers the story while Alfie waits anxiously.</below>
+            <setting>coffee shop</setting>
+         </panel>
+         <!-- Panel 4 -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>convincing</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Let's check the facts online together.</content>
+               </balloon>
+            </middle>
+            <below>Betty suggests working together to verify the story.</below>
+            <setting>coffee shop</setting>
+         </panel>
+      </scene>
+
+      <!-- Comic Story 4: Method B, Theme: Element Library Proof - stability test 4 -->
+      <scene>
+         <!-- Panel 1 -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>confused</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <below>Gemma is unsure about some data in a laboratory.</below>
+            <setting>laboratory</setting>
+         </panel>
+         <!-- Panel 2 -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>experimenting</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>black</skin>
+                  <hair>black</hair>
+                  <lips>red</lips>
+                  <pose>explaining</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Gemma runs a test while Alfie explains procedures.</below>
+            <setting>laboratory</setting>
+         </panel>
+         <!-- Panel 3 -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>black</skin>
+                  <hair>black</hair>
+                  <lips>red</lips>
+                  <pose>presenting data</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>This is how you avoid errors.</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>inspired</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie shares clear instructions to Gemma.</below>
+            <setting>laboratory</setting>
+         </panel>
+         <!-- Panel 4 -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>joy</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Now my results make sense!</content>
+               </balloon>
+            </middle>
+            <below>Gemma is satisfied with her corrected data.</below>
+            <setting>laboratory</setting>
+         </panel>
+      </scene>
+      
+      <!-- Comic Story 5: Method A, Theme: Prevent Hallucination - stability test 5 -->
+      <scene>
+         <!-- Panel 1 -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>raising while playing cards</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <below>Gemma plays cards at a busy intersection.</below>
+            <setting>busy intersection</setting>
+         </panel>
+         <!-- Panel 2 -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>black</skin>
+                  <hair>black</hair>
+                  <lips>red</lips>
+                  <pose>confused while playing cards</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>assertive</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Follow the official rules, Alfie!</content>
+               </balloon>
+            </right>
+            <below>Gemma corrects Alfie as they play.</below>
+            <setting>busy intersection</setting>
+         </panel>
+         <!-- Panel 3 -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>black</skin>
+                  <hair>black</hair>
+                  <lips>red</lips>
+                  <pose>questioning</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Are you sure these are the right rules?</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>convincing</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie questions the instructions.</below>
+            <setting>busy intersection</setting>
+         </panel>
+         <!-- Panel 4 -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>contented</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>They're straight from the card handbook!</content>
+               </balloon>
+            </middle>
+            <below>Gemma shows her confidence in the source.</below>
+            <setting>busy intersection</setting>
+         </panel>
+      </scene>
+
+   </scenes>
+</comic>

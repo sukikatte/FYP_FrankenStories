@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Initial discovery of water shortage -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>searching pockets</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>empty cage prop</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Empty! Not a drop left...</content>
+               </balloon>
+            </right>
+            <below>Alfie checks his water container and finds it completely dry</below>
+            <setting>desert</setting>
+         </panel>
+
+         <!-- Panel 2: Emotional reaction to the crisis -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>desperate</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>This can't be happening! I'll never survive out here!</content>
+               </balloon>
+            </middle>
+            <below>Alfie collapses to his knees in despair under the scorching sun</below>
+            <setting>desert</setting>
+         </panel>
+
+         <!-- Panel 3: Unexpected help arrives -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>offering a carrot</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Here, this cactus has water inside!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>surprised</pose>
+                  <facing>left</facing>
+               </figure>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>cactus prop</pose>
+                  <facing>right</facing>
+               </figure>
+            </right>
+            <below>Betty appears with survival knowledge, showing Alfie how to find water</below>
+            <setting>desert</setting>
+         </panel>
+
+         <!-- Panel 4: Working together to survive -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>drinking from bottle</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>pointing</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>There's an oasis just beyond those dunes!</content>
+               </balloon>
+            </right>
+            <below>The pair work together, with Alfie drinking cactus water while Betty spots hope</below>
+            <setting>desert</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

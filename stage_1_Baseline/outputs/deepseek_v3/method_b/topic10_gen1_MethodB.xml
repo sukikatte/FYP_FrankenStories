@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+   <scenes>
+      <scene>
+         <!-- Panel 1: Customer arrives at restaurant -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>arriving</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Table for one, please.</content>
+               </balloon>
+            </middle>
+            <below>Alfie arrives at the restaurant looking forward to his meal.</below>
+            <setting>restaurant</setting>
+         </panel>
+
+         <!-- Panel 2: Waiter ignores customer -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>drinking coffee while on phone</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>impatient</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Excuse me? I've been waiting 15 minutes...</content>
+               </balloon>
+            </right>
+            <below>Betty the waitress ignores Alfie while chatting on her phone.</below>
+            <setting>restaurant</setting>
+         </panel>
+
+         <!-- Panel 3: Wrong order arrives -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>serving dinner</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Here's your steak, medium rare!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>disgusted</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I ordered the vegetarian pasta!</content>
+               </balloon>
+            </right>
+            <below>Betty brings the wrong order to Alfie's table.</below>
+            <setting>restaurant</setting>
+         </panel>
+
+         <!-- Panel 4: Customer complains to manager -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>assertive</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I'm the manager, how can I help?</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>angry</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>This is the worst service I've ever experienced!</content>
+               </balloon>
+            </right>
+            <below>Alfie angrily complains to the manager about the poor service.</below>
+            <setting>restaurant</setting>
+         </panel>
+
+         <!-- Panel 5: Customer storms out -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>running off</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I'm never coming back here again!</content>
+               </balloon>
+            </middle>
+            <below>Frustrated, Alfie storms out of the restaurant without eating.</below>
+            <setting>restaurant exterior</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

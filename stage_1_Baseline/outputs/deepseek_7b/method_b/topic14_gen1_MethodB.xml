@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- ComicXML STRUCTURE GUIDE -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance default="true"/>
+                  <skin default="true"/>
+                  <hair default="true"/>
+                  <lips default="true"/>
+                  <pose default="true"/>
+                  <facing left="true"/>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance default="true"/>
+                  <skin default="true"/>
+                  <hair default="true"/>
+                  <lips default="true"/>
+                  <pose lucky="true"/>
+                  <facing left="true"/>
+               </figure>
+               <balloon status="speech">
+                  <content>The animals are gathered for an unusual meeting</content>
+               </balloon>
+            </right>
+
+            <below>
+               <below>panel="Alfie"</below>
+                  <below>figure="Alfie"</below>
+                     <below>description="The farm"</below>
+                        <below>Alfie is sitting on a wooden bench, looking expectantly at Betty holding a lucky gem.</below>
+                     </below>
+                  </below>
+               </below>
+               <below>panel="Betty"</below>
+                  <below>figure="Betty"</below>
+                     <below>description="The farm"</below>
+                        <below>Betty is holding a small, faceted gem, her eyes gleaming with mischief as she smiles at Alfie.</below>
+                     </below>
+                  </below>
+               </below>
+            </below>
+
+            <setting>
+               <setting>panel="Alfie"</setting>
+                  <below>Farmer's barn</below>
+               </setting>
+               <setting>panel="Betty"</setting>
+                  <below>Luck charm on the farm</below>
+               </setting>
+            </setting>
+         </panel>
+
+         <!-- Example 2: Two part panel (left + right) - most common pattern -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance default="true"/>
+                  <skin default="true"/>
+                  <hair default="true"/>
+                  <lips default="true"/>
+                  <pose default="true"/>
+                  <facing left="true"/>
+               </figure>
+            </left>
+            <right>
+               <!-- Prop figure example (no id/name, uses default values) -->
+               <figure>
+                  <appearance default="true"/>
+                  <skin default="true"/>
+                  <hair default="true"/>
+                  <pose lucky="true"/>
+                  <facing left="true"/>
+               </figure>
+            </right>
+
+            <balloon status="speech">
+               <content>The animals are gathered for an unusual meeting</content>
+            </balloon>
+
+            <below>
+               <below>figure="Alfie"</below>
+                  <below>description="The farm"</below>
+                     <below>Alfie is sitting on a wooden bench, looking expectantly at Betty holding a lucky gem.</below>
+                  </below>
+               </below>
+               <below>figure="Betty"</below>
+                  <below>description="The farm"</below>
+                     <below>Betty is holding a small, faceted gem, her eyes gleaming with mischief as she smiles at Alfie.</below>
+                  </below>
+               </below>
+            </below>
+
+            <setting>
+               <setting>panel="Alfie"</setting>
+                  <below>Farmer's barn</below>
+               </setting>
+               <setting>panel="Betty"</setting>
+                  <below>Luck charm on the farm</below>
+               </setting>
+            </setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

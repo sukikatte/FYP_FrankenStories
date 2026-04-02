@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- No global figure elements needed for this story -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Alfie greets Betty, the customer, at the beauty salon -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>greeting</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Good morning, Betty! What can I do for you today?</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>confident</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie greets Betty as she arrives at the salon, ready for her appointment.</below>
+            <setting>beauty salon</setting>
+         </panel>
+
+         <!-- Panel 2: Betty makes an unusual request -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>assertive</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I want you to dye my hair green and shave a lightning bolt into the side.</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>alarmed</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Betty confidently asks for a bold and unconventional hairstyle, surprising Alfie.</below>
+            <setting>beauty salon</setting>
+         </panel>
+
+         <!-- Panel 3: Alfie hesitates, worried about the request -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>apprehensive</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Are you sure? That's a pretty dramatic change... And I'm not sure about the green dye on your hair type.</content>
+               </balloon>
+            </middle>
+            <below>Alfie expresses concern, unsure if the request is a good idea or technically possible.</below>
+            <setting>beauty salon</setting>
+         </panel>
+
+         <!-- Panel 4: Betty insists, putting Alfie in a difficult position -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>insisting</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I know what I want. Please, just do it!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>stressed</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Betty insists on her request, while Alfie feels the pressure of her demand.</below>
+            <setting>beauty salon</setting>
+         </panel>
+
+         <!-- Panel 5: Alfie contemplates the ethical and professional dilemma -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>thinking</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>If this goes wrong, she'll blame me... but I also want to make her happy.</content>
+               </balloon>
+            </middle>
+            <below>Alfie is caught between his professional judgement and the customer's strong wishes.</below>
+            <setting>beauty salon</setting>
+         </panel>
+
+         <!-- Panel 6: Gemma, another stylist, quietly observes the situation -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>evaluating</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>confused</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Gemma watches Alfie, sensing the tension and difficulty of the moment.</below>
+            <setting>beauty salon</setting>
+         </panel>
+
+         <!-- Panel 7: Alfie makes a difficult decision -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>cutting hair</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Alright, Betty... Let's get started. But please know there are risks.</content>
+               </balloon>
+            </middle>
+            <below>Alfie prepares to fulfill Betty's request, having explained his concerns.</below>
+            <setting>beauty salon</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

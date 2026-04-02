@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- No global figures needed for this scene -->
+   </figures>
+   <scenes>
+      <scene>
+         <!-- Panel 1: Main character's first reaction in the bar -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>default</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>drinking</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>default</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>arriving</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Excuse me, could you hold this for a moment?</content>
+               </balloon>
+            </right>
+            <below>Alfie sits at the bar, surprised as Betty, a stranger, approaches with an odd request.</below>
+            <setting>bar</setting>
+         </panel>
+
+         <!-- Panel 2: Action/interaction between characters -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>default</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>confused</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Uh... what is it?</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>default</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>offering</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie hesitantly responds as Betty holds out a mysterious, wrapped object.</below>
+            <setting>bar</setting>
+         </panel>
+
+         <!-- Panel 3: Emotional reaction to the event -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>default</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>alarmed</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Wait, is this... ticking?</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>default</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>smirking</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie's face shows alarm as he realizes the object is making a strange noise. Betty just smirks.</below>
+            <setting>bar</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+  <figures></figures>
+  <scenes>
+    <scene>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>searching</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <below>Alfie wanders through the rows of shelves, hoping to find an intriguing new read.</below>
+        <setting>library</setting>
+      </panel>
+
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>reading</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <below>He picks up a dusty old tome titled "Ancient Secrets" and flips through its yellowed pages.</below>
+        <setting>library</setting>
+      </panel>
+
+      <panel>
+        <left>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>pointing</pose>
+            <facing>left</facing>
+          </figure>
+        </left>
+        <below>Betty notices Alfie's growing fascination and points in surprise. She wonders what secrets that book holds.</below>
+        <setting>library</setting>
+      </panel>
+
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>inspired</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <below>As he flips to a strange passage, Alfie's eyes widen. Something about this book stirs his imagination… and maybe more.</below>
+        <setting>library</setting>
+      </panel>
+    </scene>
+  </scenes>
+</comic>

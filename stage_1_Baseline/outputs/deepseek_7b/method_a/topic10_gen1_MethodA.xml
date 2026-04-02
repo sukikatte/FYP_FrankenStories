@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!--
+            ComicXML STRUCTURE GUIDE
+            
+            PANEL STRUCTURE:
+            Each panel can be divided into 1, 2, or 3 parts using position elements:
+            
+            Single part (choose one):
+              - left element
+              - middle element
+              - right element
+            
+            Two parts (choose one combination):
+              - left + right (most common)
+              - left + middle
+              - middle + right
+            
+            Three parts:
+              - left + middle + right
+            
+            ELEMENTS IN EACH PANEL:
+            Required:
+              - At least one position element (left/middle/right)
+              - setting element (placed directly in panel, after below if present)
+            
+            Optional:
+              - below element (panel description text, placed after position elements)
+              - balloon element (inside position elements where figure speaks)
+            
+            NOT used in content panels:
+              - border element (only used in cover pages)
+              - embedding element (only used in cover pages with special structure)
+            
+            Content panels setting placement:
+              - Setting is placed directly in panel (after below element)
+              - Do NOT use embedding structure
+            
+            FIGURE ELEMENTS:
+            Character figure (required attributes):
+              - id element (Alfie, Betty, or Gemma)
+              - name element
+              - appearance element
+              - pose element
+              - facing element (left or right)
+            
+            Character figure (optional, based on variant):
+              - skin element
+              - hair element
+              - lips element
+            
+            IMPORTANT: You MUST select a complete character variant from element_library.json.
+            Do NOT mix and match attributes - each variant has a complete set of attributes.
+            
+            Prop figure (for objects/props):
+              - NO id or name elements
+              - appearance element with value "default"
+              - skin element with value "default"
+              - hair element with value "default"
+              - pose element (e.g., "apple basket prop", "broken appetizer bowl")
+              - facing element (left or right)
+            
+            BALLOON:
+            - Placed inside position element (left/middle/right) where the speaking figure is
+            - Can have balloon in multiple positions (if multiple figures speak)
+            - Can have no balloon at all
+            - Format: balloon element with status="speech" and content element inside
+         -->
+
+         <!-- Example 1: Single part panel (middle) -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>smirking</pose>
+                  <facing>right</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>The broken appetizer bowl shattered in front of me!</content>
+               </balloon>
+            </middle>
+
+            <below>Alfie smudges his face in the broken bowl as Betty shoves a piece of bread into his mouth.</below>
+
+            <setting>kitchen after a heated argument</setting>
+         </panel>
+
+         <!-- Example 2: Two part panel (left + right) - most common pattern -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>confused</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>light blonde</skin>
+                  <hair>light brown</hair>
+                  <lips>pink</lips>
+                  <pose>angry</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+
+            <balloon status="speech" content="You broke my appetizer bowl, Alfie! Now I'm paying doubly for this mess!" />
+            <balloon status="speech" content="I'm leaving, you loser!" />
+            <below>Alfie and Betty argue in the chaotic kitchen</below>
+            <setting>kitchen after a heated argument</setting>
+         </panel>
+
+         <!-- Example 3: Three part panel (left + middle + right) -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>confused</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>light blonde</skin>
+                  <hair>light brown</hair>
+                  <lips>pink</lips>
+                  <pose>angry</pose>
+                  <facing>left</facing>
+               </figure>
+            </middle>
+            <right>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>empty</pose>
+                  <facing>right</facing>
+               </figure>
+            </right>
+
+            <balloon status="speech" content="You broke my appetizer bowl, Alfie! Now I'm paying doubly for this mess!" />
+            <balloon status="speech" content="I'm leaving, you loser!" />
+            <below>Alfie sulks outside the restaurant</below>
+            <setting>empty</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

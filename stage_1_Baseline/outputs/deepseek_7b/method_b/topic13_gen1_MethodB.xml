@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- Global figure element -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>light brown</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>standing</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>blonde</appearance>
+                  <skin>light white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>standing</pose>
+                  <facing>middle</facing>
+               </figure>
+            </middle>
+            <right>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>olive</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>standing</pose>
+                  <facing>right</facing>
+               </figure>
+            </right>
+            
+            <balloon status="speech">
+               <content>Alfie: "I have a ticket!"</content>
+               <content>Betty: "Ticket validation machine broken!"</content>
+               <content>Gemma: "We're almost there!"</content>
+            </balloon>
+            
+            <below>Scene: Airport Security Line</below>
+            <setting>Setting: Airport Security Line</setting>
+         </panel>
+      </scene>
+
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>light brown</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>flipping through documents</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>blonde</appearance>
+                  <skin>light white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>organizing papers</pose>
+                  <facing>middle</facing>
+               </figure>
+            </middle>
+            <right>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>olive</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>flipping through documents</pose>
+                  <facing>right</facing>
+               </figure>
+            </right>
+            
+            <balloon status="speech">
+               <content>Alfie: "I have a ticket!"</content>
+               <content>Betty: "Ticket validation machine broken!"</content>
+               <content>Gemma: "We're almost there!"</content>
+            </balloon>
+            
+            <below>Scene: Hangar</below>
+            <setting>Setting: Hangar</setting>
+         </panel>
+      </scene>
+
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>light brown</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>relaxing</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>blonde</appearance>
+                  <skin>light white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>trying to organize documents</pose>
+                  <facing>middle</facing>
+               </figure>
+            </middle>
+            <right>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>olive</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>relaxing</pose>
+                  <facing>right</facing>
+               </figure>
+            </right>
+            
+            <balloon status="speech">
+               <content>Alfie: "We're okay!"</content>
+               <content>Betty: "We're still on time!"</content>
+               <content>Gemma: "We're fine!"</content>
+            </balloon>
+            
+            <below>Scene: Aftermath</below>
+            <setting>Setting: Outside Airport</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

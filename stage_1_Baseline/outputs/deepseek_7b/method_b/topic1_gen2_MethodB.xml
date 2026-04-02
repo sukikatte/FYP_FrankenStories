@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!--
+            ComicXML STRUCTURE GUIDE
+            This is a content panel showing waking up to find a broken microwave in the kitchen.
+         -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>default=" Betty's appearance"</appearance> Betty's appearance</appearance>
+                  <skin>default=" Betty's skin"</skin> Betty's skin</skin>
+                  <hair>default=" Betty's hair"</hair> Betty's hair</hair>
+                  <lips>default=" Betty's lips"</lips> Betty's lips</lips>
+                  <pose>lying</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>default=" Betty's appearance"</appearance> Betty's appearance</appearance>
+                  <skin>default=" Betty's skin"</skin> Betty's skin</skin>
+                  <hair>default=" Betty's hair"</hair> Betty's hair</hair>
+                  <lips>default=" Betty's lips"</lips> Betty's lips</lips>
+                  <pose>holding microwave</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Oh no! The microwave is broken!</content>
+               </balloon>
+            </middle>
+            <right>
+               <figure>
+                  <appearance>default="default"</appearance>default</appearance>
+                  <skin>default="default"</skin>default</skin>
+                  <hair>default="default"</hair>default</hair>
+                  <pose>broken microwave</pose>
+                  <facing>right</facing>
+               </figure>
+            </right>
+            <below>Waking up to find my peaceful breakfast disrupted!</below>
+            <setting>kitchen counter</setting>
+         </panel>
+
+         <!--
+            ComicXML STRUCTURE GUIDE
+            This is a content panel showing the aftermath of the broken microwave incident.
+         -->
+         <panel>
+            <left>
+               <figure>
+                  <appearance>default="default"</appearance>default</appearance>
+                  <skin>default="default"</skin>default</skin>
+                  <hair>default="default"</hair>default</hair>
+                  <lips>default="default"</lips>default</lips>
+                  <pose>broken microwave on the floor</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>default=" Betty's appearance"</appearance> Betty's appearance</appearance>
+                  <skin>default=" Betty's skin"</skin> Betty's skin</skin>
+                  <hair>default=" Betty's hair"</hair> Betty's hair</hair>
+                  <lips>default=" Betty's lips"</lips> Betty's lips</lips>
+                  <pose>standing dramatically</pose>
+                  <facing>middle</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>What in the world?! The microwave is broken!</content>
+               </balloon>
+            </middle>
+            <right>
+               <figure>
+                  <appearance>default="default"</appearance>default</appearance>
+                  <skin>default="default"</skin>default</skin>
+                  <hair>default="default"</hair>default</hair>
+                  <lips>default="default"</lips>default</lips>
+                  <pose>messy floor</pose>
+                  <facing>right</facing>
+               </figure>
+            </right>
+            <below>The floor is covered in crumbs and melted floor tiles!</below>
+            <setting>kitchen floor</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

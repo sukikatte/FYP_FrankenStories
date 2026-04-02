@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Betty's controversial verdict -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>light blue</skin>
+                  <hair/blond>light</hair>
+                  <lips>pink</lips>
+                  <pose>judge</pose>
+                  <facing>left</facing>
+               </figure>
+            </middle>
+            <below>Betty delivers a controversial verdict in the court.</below>
+            <setting>courthouse</setting>
+         </panel>
+
+         <!-- Panel 2: Alfie testifies calmly -->
+         <panel>
+            <left + right>
+               <left>
+                  <figure>
+                     <id>Alfie</id>
+                     <name>Alfie</name>
+                     <appearance>male</appearance>
+                     <skin>light brown</skin>
+                     <hair>dark brown</hair>
+                     <lips>red</lips>
+                     <pose>calm</pose>
+                     <facing>right</facing>
+                  </figure>
+               </left>
+               <right>
+                  <figure>
+                     <id>Alfie</id>
+                     <name>Alfie</name>
+                     <appearance>male</appearance>
+                     <skin>light brown</skin>
+                     <hair>dark brown</hair>
+                     <lips>red</lips>
+                     <pose>calm</pose>
+                     <facing>right</facing>
+                  </figure>
+               </right>
+               <balloon status="speech">
+                  <content>Betty's statement was completely unfounded!</content>
+               </balloon>
+            </left + right>
+            <below>Alfie looks shocked as Betty leaves the stand.</below>
+            <setting>courthouse witness stand</setting>
+         </panel>
+
+         <!-- Panel 3: Jurors react -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <lips>default</lips>
+                  <pose>confused</pose>
+                  <facing>left</facing>
+               </figure>
+            </middle>
+            <below>Gemma and other jurors exchange glances.</below>
+            <setting>courthouse</setting>
+         </panel>
+
+         <!-- Panel 4: Betty reacts -->
+         <panel>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>light blue</skin>
+                  <hair/blond>light</hair>
+                  <lips>pink</lips>
+                  <pose>angry</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Betty slams her fist on the table.</below>
+            <setting>courthouse table</setting>
+         </panel>
+
+         <!-- Panel 5: Jurors reconsider -->
+         <panel>
+            <right>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <lips>default</lips>
+                  <pose>confused</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Gemma and jurors discuss the evidence.</below>
+            <setting>courthouse</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

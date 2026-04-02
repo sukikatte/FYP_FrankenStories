@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!--
+            ComicXML STRUCTURE GUIDE
+            
+            Each panel can be divided into 1, 2, or 3 parts using position elements:
+            
+            Single part (middle):
+              <middle>
+                 <figure>
+                    <id>Alfie</id>
+                    <name>Alfie</name>
+                    <appearance>male</appearance>
+                    <skin>light_brown</skin>
+                    <hair>dark_brown</hair>
+                    <lips>red</lips>
+                    <pose>apprehensive</pose>
+                    <facing>right</facing>
+                 </figure>
+                 <balloon status="speech">
+                    <content>Betty, what's that portal holding?</content>
+                 </balloon>
+                 <below>At the construction site, discussing the portal activation.</below>
+                 <setting>construction site</setting>
+              </middle>
+         
+         <!-- Two parts (left + right) -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>light_brown</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>construction_worker</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>It's holding fireball prop!</content>
+               </balloon>
+               <below>Excitedly discussing the portal activation.</below>
+               <setting>construction site</setting>
+            </left>
+            <right>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>dark</skin>
+                  <hair>dark_brown</hair>
+                  <lips>pink</lips>
+                  <pose>mechanic</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Fireball? That's dangerous!</content>
+               </balloon>
+               <below>Gemmas worried expression as Betty argues.</below>
+               <setting>construction site</setting>
+            </right>
+         </panel>
+
+         <!-- Three parts (left + middle + right) -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light_brown</skin>
+                  <hair>dark_brown</hair>
+                  <lips>red</lips>
+                  <pose>confused</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <middle>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>dark</skin>
+                  <hair>dark_brown</hair>
+                  <lips>pink</lips>
+                  <pose>confused</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light_brown</skin>
+                  <hair>dark_brown</hair>
+                  <lips>red</lips>
+                  <pose>confused</pose>
+                  <facing>right</facing>
+               </figure>
+            </right>
+            <balloon status="speech">
+               <content>Let's not get caught in the portal!</content>
+            </balloon>
+            <below>Alfie and Gemma confronting Betty over the portal.</below>
+            <setting>construction site</setting>
+         </panel>
+
+         <!-- Left + right -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light_brown</skin>
+                  <hair>dark_brown</hair>
+                  <lips>red</lips>
+                  <pose>confused</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>dark</skin>
+                  <hair>dark_brown</hair>
+                  <lips>pink</lips>
+                  <pose>confused</pose>
+                  <facing>right</facing>
+               </figure>
+            </right>
+            <balloon status="speech">
+               <content>Do you think we should activate the portal?</content>
+            </balloon>
+            <below>Alfie and Gemma discussing the portal activation.</below>
+            <setting>construction site</setting>
+         </panel>
+
+         <!-- Left + middle + right -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light_brown</skin>
+                  <hair>dark_brown</hair>
+                  <lips>red</lips>
+                  <pose>activated</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <middle>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>dark</skin>
+                  <hair>dark_brown</hair>
+                  <lips>pink</lips>
+                  <pose>activated</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light_brown</skin>
+                  <hair>dark_brown</hair>
+                  <lips>red</lips>
+                  <pose>activated</pose>
+                  <facing>right</facing>
+               </figure>
+            </right>
+            <balloon status="speech">
+               <content>Let's face it, we need to stop this portal!</content>
+            </balloon>
+            <below>Alfie and Gemma confronting the portal in the middle of the construction site.</below>
+            <setting>construction site</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

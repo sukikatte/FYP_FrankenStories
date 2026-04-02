@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+  <figures></figures>
+  <scenes>
+    <scene>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>scared</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>apprehensive</pose>
+            <facing>left</facing>
+          </figure>
+        </right>
+        <below>Alfie and Betty approach the graveyard gates under the moonlight, an eerie silence surrounding them.</below>
+        <setting>graveyard</setting>
+      </panel>
+
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>pointing</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin>white</skin>
+            <hair>blonde</hair>
+            <lips>pink</lips>
+            <pose>worried</pose>
+            <facing>left</facing>
+          </figure>
+        </right>
+        <below>They hear a faint moan from behind a tombstone. Alfie points into the darkness as Betty grows more anxious.</below>
+        <setting>graveyard</setting>
+      </panel>
+
+      <panel>
+        <left>
+          <figure>
+            <id>Gemma</id>
+            <name>Gemma</name>
+            <appearance>female</appearance>
+            <skin>olive</skin>
+            <hair>black</hair>
+            <lips>pink</lips>
+            <pose>rising from coffin</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>alarmed</pose>
+            <facing>left</facing>
+          </figure>
+        </right>
+        <below>Gemma emerges slowly from an ancient coffin, her eyes reflecting the moonlight. Alfie is visibly alarmed as Betty gasps in horror somewhere off-panel.</below>
+        <setting>graveyard</setting>
+      </panel>
+    </scene>
+  </scenes>
+</comic>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Normal hospital scene -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>serving</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Here's your medication, Mr. Smith.</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>sick</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Thank you, nurse.</content>
+               </balloon>
+            </right>
+            <below>Betty the nurse delivers medication to patient Alfie in a typical hospital room.</below>
+            <setting>hospital</setting>
+         </panel>
+
+         <!-- Panel 2: The unexpected transformation begins -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>green</skin>
+                  <hair>dark green</hair>
+                  <lips>pink</lips>
+                  <pose>transforming</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Oh no! What's happening to me?!</content>
+               </balloon>
+            </middle>
+            <below>Betty suddenly begins transforming into something green and strange.</below>
+            <setting>hospital</setting>
+         </panel>
+
+         <!-- Panel 3: Full transformation revealed -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>green</skin>
+                  <hair>dark green</hair>
+                  <lips>pink</lips>
+                  <pose>green_female</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I feel... different!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>alarmed</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Nurse Betty?! You're green!</content>
+               </balloon>
+            </right>
+            <below>Betty has fully transformed into a green-skinned being, shocking Alfie.</below>
+            <setting>hospital</setting>
+         </panel>
+
+         <!-- Panel 4: Doctor arrives -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>examining document</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>green</skin>
+                  <hair>dark green</hair>
+                  <lips>pink</lips>
+                  <pose>green_female</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Doctor Gemma, what's wrong with me?</content>
+               </balloon>
+            </right>
+            <below>Doctor Gemma arrives to examine the transformed Betty.</below>
+            <setting>hospital</setting>
+         </panel>
+
+         <!-- Panel 5: The shocking revelation -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>explaining</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>This isn't an illness... you're evolving into a new species!</content>
+               </balloon>
+            </middle>
+            <below>Doctor Gemma reveals the shocking truth about Betty's transformation.</below>
+            <setting>hospital</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

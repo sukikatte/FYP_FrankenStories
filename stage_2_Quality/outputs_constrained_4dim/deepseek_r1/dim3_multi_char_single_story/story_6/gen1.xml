@@ -1,0 +1,231 @@
+<comic>
+  <figures/>
+  <scenes>
+    <scene>
+      <panel>
+        <middle>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>lighting cigar</pose>
+            <facing>right</facing>
+          </figure>
+          <balloon status="speech">
+            <content>Perfect spot for a smoke.</content>
+          </balloon>
+        </middle>
+        <below>Alfie prepares to light his cigar in the empty hallway.</below>
+        <setting>school hallway</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin></skin>
+            <hair></hair>
+            <lips></lips>
+            <pose>reacting</pose>
+            <facing>right</facing>
+          </figure>
+          <balloon status="speech">
+            <content>Stop! That's against rules!</content>
+          </balloon>
+        </left>
+        <right>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>reacting</pose>
+            <facing>left</facing>
+          </figure>
+        </right>
+        <below>Betty catches Alfie in the act.</below>
+        <setting>school hallway</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>smoking cigar</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin></skin>
+            <hair></hair>
+            <lips></lips>
+            <pose>drinking coffee</pose>
+            <facing>left</facing>
+          </figure>
+          <balloon status="speech">
+            <content>Lab has better ventilation anyway.</content>
+          </balloon>
+        </right>
+        <below>They compromise and move to the laboratory.</below>
+        <setting>laboratory</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>exploding</pose>
+            <facing>left</facing>
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin></skin>
+            <hair></hair>
+            <lips></lips>
+            <pose>reacting</pose>
+            <facing>right</facing>
+          </figure>
+          <balloon status="speech">
+            <content>Your cigar ignited the chemicals!</content>
+          </balloon>
+        </right>
+        <below>Disaster strikes in the laboratory.</below>
+        <setting>laboratory</setting>
+      </panel>
+      <panel>
+        <middle>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>on fire</pose>
+            <facing>right</facing>
+          </figure>
+          <balloon status="speech">
+            <content>Help! I'm burning!</content>
+          </balloon>
+        </middle>
+        <below>Alfie is engulfed in flames after the explosion.</below>
+        <setting>laboratory</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin></skin>
+            <hair></hair>
+            <lips></lips>
+            <pose>reacting</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>burnt</pose>
+            <facing>left</facing>
+          </figure>
+          <balloon status="speech">
+            <content>Get me to safety!</content>
+          </balloon>
+        </right>
+        <below>Betty drags Alfie toward the chemical plant.</below>
+        <setting>chemical plant</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin></skin>
+            <hair></hair>
+            <lips></lips>
+            <pose>drinking coffee</pose>
+            <facing>left</facing>
+          </figure>
+          <balloon status="speech">
+            <content>Fire suppression system engaged.</content>
+          </balloon>
+        </left>
+        <right>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>burnt</pose>
+            <facing>right</facing>
+          </figure>
+        </right>
+        <below>The chemical plant's emergency systems activate.</below>
+        <setting>chemical plant</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance>male</appearance>
+            <skin>light brown</skin>
+            <hair>dark brown</hair>
+            <lips>red</lips>
+            <pose>burnt</pose>
+            <facing>right</facing>
+          </figure>
+          <balloon status="speech">
+            <content>Never smoking near labs again.</content>
+          </balloon>
+        </left>
+        <right>
+          <figure>
+            <id>Betty</id>
+            <name>Betty</name>
+            <appearance>female</appearance>
+            <skin></skin>
+            <hair></hair>
+            <lips></lips>
+            <pose>reacting</pose>
+            <facing>left</facing>
+          </figure>
+        </right>
+        <below>Alfie learns his lesson the hard way.</below>
+        <setting>chemical plant</setting>
+      </panel>
+    </scene>
+  </scenes>
+</comic>

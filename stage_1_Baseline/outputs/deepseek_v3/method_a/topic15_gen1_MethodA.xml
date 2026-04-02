@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Establishing shot of the bar -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>drinking</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <below>A quiet evening at the local bar</below>
+            <setting>bar</setting>
+         </panel>
+
+         <!-- Panel 2: Stranger approaches -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>introducing oneself</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Psst... I need you to swallow this goldfish.</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>confused</pose>
+                  <facing>left</facing>
+               </figure>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>fishbowl prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>A mysterious woman makes an unusual request</below>
+            <setting>bar</setting>
+         </panel>
+
+         <!-- Panel 3: Strong reaction -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>disgusted</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Are you insane?! That's a live fish!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>insisting</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie reacts with shock and disgust</below>
+            <setting>bar</setting>
+         </panel>
+
+         <!-- Panel 4: Explanation -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>explaining</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>It's for science! The fish contains... classified data.</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>skeptical</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Betty tries to justify her bizarre request</below>
+            <setting>bar</setting>
+         </panel>
+
+         <!-- Panel 5: Climax -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>pointing</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>BARTENDER! We've got a Code Goldfish over here!</content>
+               </balloon>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>bottles prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </middle>
+            <below>Alfie calls for help as Betty makes a run for it</below>
+            <setting>bar</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

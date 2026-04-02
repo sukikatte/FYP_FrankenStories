@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Alfie working out on treadmill -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>on treadmill</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>treadmill prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie is running hard on the treadmill, sweating profusely</below>
+            <setting>gym</setting>
+         </panel>
+
+         <!-- Panel 2: Accident occurs -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>falling off treadmill</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <below>Alfie loses his balance and goes flying off the treadmill</below>
+            <setting>gym</setting>
+         </panel>
+
+         <!-- Panel 3: Betty reacts to the accident -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>all wet</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>alarmed</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Oh my gosh! Are you okay?</content>
+               </balloon>
+            </right>
+            <below>Alfie lies dazed on the floor as Betty rushes over to help</below>
+            <setting>gym</setting>
+         </panel>
+
+         <!-- Panel 4: Alfie recovers -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>regaining consciousness</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I think I'm okay... just my pride that's hurt!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>laughing</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie sits up and makes light of the situation while Betty laughs</below>
+            <setting>gym</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

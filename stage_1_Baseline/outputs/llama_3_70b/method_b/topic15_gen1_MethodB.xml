@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+   <scenes>
+      <scene>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>sitting</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Excuse me, I've never seen you around here before. Mind if I join you?</content>
+               </balloon>
+            </middle>
+            <below>A stranger walks into a bar and approaches another patron.</below>
+            <setting>bar</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>sitting</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>standing</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I'm Alfie. And you are...?</content>
+               </balloon>
+            </right>
+            <below>Gemma looks up from her drink, slightly surprised by the sudden approach.</below>
+            <setting>bar</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>looking up</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I'm Gemma. Nice to meet you, Alfie. But please, call me Gem.</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>smiling</pose>
+                  <facing>right</facing>
+               </figure>
+            </right>
+            <below>Alfie smiles warmly and takes a seat next to Gemma.</below>
+            <setting>bar</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>leaning in</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Gem, I have a rather unusual request. Would you be willing to listen?</content>
+               </balloon>
+            </middle>
+            <below>Alfie's expression turns serious, and he leans in closer to Gemma.</below>
+            <setting>bar</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>raising an eyebrow</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Unusual request? You've piqued my interest, Alfie. Go on.</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>nervously smiling</pose>
+                  <facing>right</facing>
+               </figure>
+            </right>
+            <below>Gemma's curiosity is sparked, and she motions for Alfie to continue.</below>
+            <setting>bar</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

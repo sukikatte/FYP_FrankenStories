@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+<figures></figures>
+<scenes>
+<scene>
+<panel>
+<left>
+<figure>
+<id>Alfie</id>
+<name>Alfie</name>
+<appearance>male</appearance>
+<skin>light brown</skin>
+<hair>dark brown</hair>
+<lips>red</lips>
+<pose>searching</pose>
+<facing>right</facing>
+</figure>
+</left>
+<below>Alfie trudges through the scorching desert, desperately searching for water.</below>
+<setting>desert</setting>
+</panel>
+<panel>
+<left>
+<figure>
+<id>Alfie</id>
+<name>Alfie</name>
+<appearance>male</appearance>
+<skin>light brown</skin>
+<hair>dark brown</hair>
+<lips>red</lips>
+<pose>crawling and reaching</pose>
+<facing>right</facing>
+</figure>
+</left>
+<right>
+<figure>
+<id>Betty</id>
+<name>Betty</name>
+<appearance>female</appearance>
+<skin>white</skin>
+<hair>blonde</hair>
+<lips>pink</lips>
+<pose>lost</pose>
+<facing>left</facing>
+</figure>
+</right>
+<below>Feeling weak, Alfie collapses next to Betty, who is also overwhelmed by the intense heat.</below>
+<setting>desert</setting>
+</panel>
+<panel>
+<left>
+<figure>
+<id>Gemma</id>
+<name>Gemma</name>
+<appearance>female</appearance>
+<skin>olive</skin>
+<hair>black</hair>
+<lips>pink</lips>
+<pose>carrying bowl</pose>
+<facing>right</facing>
+</figure>
+</left>
+<below>Gemma arrives with a small bowl of water, guiding them toward a distant oasis.</below>
+<setting>desert</setting>
+</panel>
+</scene>
+</scenes>
+</comic>

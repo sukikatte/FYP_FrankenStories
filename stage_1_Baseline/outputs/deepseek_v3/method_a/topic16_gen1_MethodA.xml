@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Initial unsettling discovery -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>alarmed</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>gravestone prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie freezes as he notices something wrong with the gravestones</below>
+            <setting>graveyard</setting>
+         </panel>
+
+         <!-- Panel 2: Character interaction -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>scared</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Alfie! The dates... they're all wrong!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>confused</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Betty points at the altered gravestones while Alfie tries to understand</below>
+            <setting>graveyard with walls</setting>
+         </panel>
+
+         <!-- Panel 3: Emotional reaction -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>screaming</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>They're MOVING! The graves are opening!</content>
+               </balloon>
+            </middle>
+            <below>Gemma screams as the ground begins to shift unnaturally</below>
+            <setting>graveyard</setting>
+         </panel>
+
+         <!-- Panel 4: Climactic reveal -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>running away</pose>
+                  <facing>left</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>skeleton prop</pose>
+                  <facing>right</facing>
+               </figure>
+            </right>
+            <below>Alfie flees as skeletal hands emerge from the disturbed earth</below>
+            <setting>graveyard with walls</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

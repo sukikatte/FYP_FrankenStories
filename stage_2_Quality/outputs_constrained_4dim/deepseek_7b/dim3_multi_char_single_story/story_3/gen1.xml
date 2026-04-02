@@ -1,0 +1,153 @@
+<comic>
+  <figures>
+    <!-- Characters -->
+    <alfie>
+      <id>Alfie</id>
+      <name>Alfie</name>
+      <appearance>male</appearance>
+      <hair>dark brown</hair>
+      <lips>red</lips>
+      <pose>defensive</pose>
+      <facing>right</facing>
+    </alfie>
+    <betty>
+      <id>Betty</id>
+      <name>Betty</name>
+      <appearance>female</appearance>
+      <hair>light brown</hair>
+      <lips>red</lips>
+      <pose>dispatched</pose>
+      <facing>left</facing>
+    </betty>
+  </figures>
+
+  <scenes>
+    <scene>
+      <panel>
+        <middle>
+          <figure>
+            <alfie />
+          </figure>
+          <figure>
+            <betty />
+          </figure>
+        </middle>
+        <balloon status="speech">
+          <content>Betty: "We need to find a way to stop him before he gets more serious."</content>
+        </balloon>
+        <below>
+          <content>Alfie and Betty are in the middle of a tense discussion in the hospital wing. Alfie is focused on his analysis while Betty explains the urgency of the situation.</content>
+        </below>
+        <setting>hospital</setting>
+      </panel>
+    </scene>
+
+    <scene>
+      <panel>
+        <middle>
+          <figure>
+            <alfie />
+          </figure>
+          <figure>
+            <betty />
+          </figure>
+        </middle>
+        <balloon status="speech">
+          <content>Betty: "He's planning something big. We can't let him escape."</content>
+        </balloon>
+        <below>
+          <content>Alfie is trying to reassure Betty while they wait for further tests to be conducted. The tension in the air is palpable.</content>
+        </below>
+        <setting>hospital</setting>
+      </panel>
+    </scene>
+
+    <scene>
+      <panel>
+        <left>
+          <figure>
+            <alfie />
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <betty />
+          </figure>
+        </right>
+        <balloon status="speech">
+          <content>Alfie: "I think he's trying to manipulate us into giving in."</content>
+        </balloon>
+        <below>
+          <content>Betty is attempting to counter Alfie's arguments but finds herself at a disadvantage due to her injuries. The situation is getting more complicated by the minute.</content>
+        </below>
+        <setting>hospital</setting>
+      </panel>
+    </scene>
+
+    <scene>
+      <panel>
+        <left>
+          <figure>
+            <alfie />
+          </figure>
+        </left>
+        <middle>
+          <figure>
+            <betty />
+          </figure>
+        </middle>
+        <balloon status="speech">
+          <content>Betty: "We need to find a way to stop him before he gets more serious."</content>
+        </balloon>
+        <below>
+          <content>Alfie is focused on his analysis while Betty explains the urgency of the situation. They are in the hospital wing, surrounded by medical equipment.</content>
+        </below>
+        <setting>hospital</setting>
+      </panel>
+    </scene>
+
+    <scene>
+      <panel>
+        <left>
+          <figure>
+            <alfie />
+          </figure>
+        </left>
+        <right>
+          <figure>
+            <betty />
+          </figure>
+        </right>
+        <balloon status="speech">
+          <content>Betty: "He's planning something big. We can't let him escape."</content>
+        </balloon>
+        <below>
+          <content>Alfie is trying to reassure Betty while they wait for further tests to be conducted. The tension in the air is palpable.</content>
+        </below>
+        <setting>hospital</setting>
+      </panel>
+    </scene>
+
+    <scene>
+      <panel>
+        <left>
+          <figure>
+            <alfie />
+          </figure>
+        </left>
+        <middle>
+          <figure>
+            <betty />
+          </figure>
+        </middle>
+        <balloon status="speech">
+          <content>Betty: "I can't let him go unchecked."</content>
+        </balloon>
+        <below>
+          <content>Alfie is attempting to understand Betty's position but finds herself at a disadvantage due to her injuries. The situation is getting more complicated by the minute.</content>
+        </below>
+        <setting>hospital</setting>
+      </panel>
+    </scene>
+  </scenes>
+</comic>

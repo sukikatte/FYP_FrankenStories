@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- No global figures defined -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Alfie's first reaction to the flight delay -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>default</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>impatient</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>How long are we supposed to wait here?</content>
+               </balloon>
+            </middle>
+            <below>Alfie stands in the crowded airport, checking the departure board with a frustrated look.</below>
+            <setting>airport</setting>
+         </panel>
+
+         <!-- Panel 2: Betty approaches Alfie and interacts -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>default</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>confused</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>default</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>explaining</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I heard the delay might last another two hours!</content>
+               </balloon>
+            </right>
+            <below>Betty walks up to Alfie, trying to reassure him but only making him more anxious.</below>
+            <setting>airport</setting>
+         </panel>
+
+         <!-- Panel 3: Gemma joins, all show frustration -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>default</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>stressed</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>default</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>worried</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <right>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>default</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>alarmed</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>This is chaos! People are starting to argue at the gate!</content>
+               </balloon>
+            </right>
+            <below>Gemma rushes over, pointing at the commotion near the gate as all three react with growing frustration.</below>
+            <setting>airport</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+  <figures>
+    <figure>
+      <id>Alfie</id>
+      <name>Alfie</name>
+      <appearance>male</appearance>
+      <skin>light brown</skin>
+      <hair>dark brown</hair>
+      <lips>red</lips>
+    </figure>
+    <figure>
+      <id>Gemma</id>
+      <name>Gemma</name>
+      <appearance>female</appearance>
+      <skin>olive</skin>
+      <hair>black</hair>
+      <lips>pink</lips>
+    </figure>
+  </figures>
+  <scenes>
+    <scene>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <pose>drinking</pose>
+            <facing>right</facing>
+          </figure>
+        </left>
+        <below>Alfie sits at the bar, sipping his drink after a long day.</below>
+        <setting>bar</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Gemma</id>
+            <pose>arriving</pose>
+            <facing>left</facing>
+          </figure>
+        </left>
+        <below>A stranger, Gemma, arrives and quietly takes a seat next to Alfie at the bar.</below>
+        <setting>bar</setting>
+      </panel>
+      <panel>
+        <left>
+          <figure>
+            <id>Gemma</id>
+            <pose>questioning</pose>
+            <facing>right</facing>
+          </figure>
+          <figure>
+            <id>Alfie</id>
+            <pose>confused</pose>
+            <facing>left</facing>
+          </figure>
+        </left>
+        <below>Gemma leans in and makes a strange request: she asks Alfie to keep an eye on her invisible pet fish while she steps outside.</below>
+        <setting>bar</setting>
+      </panel>
+    </scene>
+  </scenes>
+</comic>

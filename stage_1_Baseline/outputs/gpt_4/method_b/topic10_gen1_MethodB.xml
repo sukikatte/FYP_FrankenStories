@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- No global figures needed -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Alfie and Betty at the table, Betty tries to get attention -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>reading menu</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>pleading</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Excuse me, could we get some service?</content>
+               </balloon>
+            </right>
+            <below>Alfie reads the menu while Betty tries to catch the waiter’s attention.</below>
+            <setting>restaurant</setting>
+         </panel>
+
+         <!-- Panel 2: Alfie impatient, Betty waves at waiter -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>impatient</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>begging</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>We've been waiting for ages...</content>
+               </balloon>
+            </right>
+            <below>Alfie looks frustrated, Betty keeps trying to get help.</below>
+            <setting>restaurant</setting>
+         </panel>
+
+         <!-- Panel 3: Gemma arrives, Betty speaks up -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>serving</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>assertive</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Can we order now, please?</content>
+               </balloon>
+            </right>
+            <below>Gemma finally arrives at the table, looking flustered. Betty asks to order.</below>
+            <setting>restaurant</setting>
+         </panel>
+
+         <!-- Panel 4: Gemma brings wrong food, Alfie angry, Betty disappointed -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>serving dinner</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>angry</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>This isn't what I ordered!</content>
+               </balloon>
+            </middle>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>disappointed</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Gemma places food on the table, but it's wrong. Alfie protests while Betty looks let down.</below>
+            <setting>restaurant</setting>
+         </panel>
+
+         <!-- Panel 5: Alfie complains, Gemma apologizes, Betty sighs -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>demanding</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>This whole experience has been disappointing.</content>
+               </balloon>
+            </left>
+            <middle>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>apologetic</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I'm so sorry for the mistakes.</content>
+               </balloon>
+            </middle>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>sighing</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie voices dissatisfaction, Gemma apologizes, and Betty sighs, disappointed.</below>
+            <setting>restaurant</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

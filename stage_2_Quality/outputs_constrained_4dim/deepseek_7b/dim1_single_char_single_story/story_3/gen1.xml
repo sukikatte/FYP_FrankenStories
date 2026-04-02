@@ -1,0 +1,107 @@
+<comic>
+  <figures>
+    <!-- Define global figure element here, or keep empty -->
+  </figures>
+
+  <scenes>
+    <scene>
+      <panel>
+        <middle>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance default="Alfie">
+              <lips red/>
+            </appearance>
+            <skin light brown/>
+            <hair dark brown/>
+            <lips red/>
+            <pose defensive</pose>
+            <facing left/>
+          </figure>
+          <balloon status="speech">
+            <content>looking intense</content>
+          </balloon>
+        </middle>
+        <below>
+          <content>Alfie's face is focused</content>
+        </below>
+        <setting>treatment room</setting>
+      </panel>
+
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance default="Alfie">
+              <lips red/>
+            </appearance>
+            <skin light brown/>
+            <hair dark brown/>
+            <lips red/>
+            <pose open mouth</pose>
+            <facing left/>
+          </figure>
+          <balloon status="speech">
+            <content>eyes wide open</content>
+          </balloon>
+        </left>
+        <below>
+          <content>Alfie's eyes are wide open</content>
+        </below>
+        <setting>treatment room</setting>
+      </panel>
+
+      <panel>
+        <right>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance default="Alfie">
+              <lips red/>
+            </appearance>
+            <skin light brown/>
+            <hair dark brown/>
+            <lips red/>
+            <pose smiling</pose>
+            <facing right/>
+          </figure>
+          <balloon status="speech">
+            <content>smiling at progress</content>
+          </balloon>
+        </right>
+        <below>
+          <content>Alfie is smiling</content>
+        </below>
+        <setting>treatment room</setting>
+      </right>
+    </scene>
+
+    <scene>
+      <panel>
+        <left>
+          <figure>
+            <id>Alfie</id>
+            <name>Alfie</name>
+            <appearance default="Alfie">
+              <lips red/>
+            </appearance>
+            <skin light brown/>
+            <hair dark brown/>
+            <lips red/>
+            <pose neutral</pose>
+            <facing left/>
+          </figure>
+          <balloon status="speech">
+            <content>no progress</content>
+          </balloon>
+        </left>
+        <below>
+          <content>Alfie looks defeated</content>
+        </below>
+        <setting>treatment room</setting>
+      </panel>
+    </scene>
+  </scenes>
+</comic>

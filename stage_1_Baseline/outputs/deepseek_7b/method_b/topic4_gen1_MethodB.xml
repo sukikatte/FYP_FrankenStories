@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Forest with Alfie -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>light brown</appearance>
+                  <skin>light brown</skin>
+                  <hair>black</hair>
+                  <lips>red</lips>
+                  <pose>standing</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <below>While lost in the forest, Alfie was trying to find his way back home.</below>
+            <setting>forest</setting>
+         </panel>
+
+         <!-- Panel 2: Cabin discovery -->
+         <scene>
+            <panel>
+               <left>
+                  <figure>
+                     <id>Alfie</id>
+                     <name>Alfie</name>
+                     <appearance>wooden</appearance>
+                     <skin>light brown</skin>
+                     <hair>black</hair>
+                     <lips>red</lips>
+                     <pose>sitting</pose>
+                     <facing>right</facing>
+                  </figure>
+               </left>
+               <right>
+                  <figure>
+                     <appearance>default</appearance>
+                     <skin>default</skin>
+                     <hair>default</hair>
+                     <lips>default</lips>
+                     <pose>cabin prop</pose>
+                     <facing>left</facing>
+                  </figure>
+               </right>
+               <below>Alfie found a small cabin with a glowing crystal inside.</below>
+               <setting>cabin</setting>
+            </panel>
+         </scene>
+
+         <!-- Panel 3: Forest with Betty and Gemma -->
+         <scene>
+            <panel>
+               <left>
+                  <figure>
+                     <id>Betty</id>
+                     <name>Betty</name>
+                     <appearance>default</appearance>
+                     <skin>default</skin>
+                     <hair>blonde</hair>
+                     <lips>pink</lips>
+                     <pose>running</pose>
+                     <facing>left</facing>
+                  </figure>
+               </left>
+               <middle>
+                  <figure>
+                     <id>Gemma</id>
+                     <name>Gemma</name>
+                     <appearance>default</appearance>
+                     <skin>default</skin>
+                     <hair>black</hair>
+                     <lips>red</lips>
+                     <pose>holding fishbowl</pose>
+                     <facing>middle</facing>
+                  </figure>
+               </middle>
+               <right>
+                  <figure>
+                     <appearance>default</appearance>
+                     <skin>default</skin>
+                     <hair>default</hair>
+                     <lips>default</lips>
+                     <pose>holding crystal prop</pose>
+                     <facing>right</facing>
+                  </figure>
+               </right>
+               <below>Betty and Gemma found a lost bear in the forest.</below>
+               <setting>forest</setting>
+            </panel>
+         </scene>
+
+         <!-- Panel 4: Underground cavern -->
+         <scene>
+            <panel>
+               <left>
+                  <figure>
+                     <id>Alfie</id>
+                     <name>Alfie</name>
+                     <appearance>default</appearance>
+                     <skin>default</skin>
+                     <hair>default</hair>
+                     <lips>default</lips>
+                     <pose>crouching</pose>
+                     <facing>left</facing>
+                  </figure>
+               </left>
+               <middle>
+                  <figure>
+                     <id>Alfie</id>
+                     <name>Alfie</name>
+                     <appearance>default</appearance>
+                     <skin>default</skin>
+                     <hair>default</hair>
+                     <lips>default</lips>
+                     <pose>holding crystal prop</pose>
+                     <facing>middle</facing>
+                  </figure>
+               </middle>
+               <right>
+                  <figure>
+                     <appearance>default</appearance>
+                     <skin>default</skin>
+                     <hair>default</hair>
+                     <lips>default</lips>
+                     <pose>cabin prop</pose>
+                     <facing>right</facing>
+                  </figure>
+               </right>
+               <below>Alfie found a mysterious glowing crystal in an underground cavern.</below>
+               <setting>cavern</setting>
+            </panel>
+         </scene>
+
+         <!-- Panel 5: Alfie returns home with crystal -->
+         <scene>
+            <panel>
+               <left>
+                  <figure>
+                     <id>Alfie</id>
+                     <name>Alfie</name>
+                     <appearance>default</appearance>
+                     <skin>default</skin>
+                     <hair>default</hair>
+                     <lips>default</lips>
+                     <pose>holding crystal prop</pose>
+                     <facing>left</facing>
+                  </figure>
+               </left>
+               <below>Alfie returned home with the mysterious glowing crystal.</below>
+               <setting>forest</setting>
+            </panel>
+         </scene>
+      </scene>
+   </scenes>
+</comic>

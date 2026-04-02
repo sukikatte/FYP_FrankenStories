@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- No global figures needed for this story -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Alfie and Betty approach the graveyard at night -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>apprehensive</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>cautious</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie and Betty walk together, the moon casting long shadows as they near the old graveyard gates.</below>
+            <setting>graveyard</setting>
+         </panel>
+
+         <!-- Panel 2: Alfie hears something and looks alarmed -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>alarmed</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Did you hear that, Betty?</content>
+               </balloon>
+            </middle>
+            <below>Alfie freezes, eyes wide, as a faint rustling sound comes from behind a gravestone.</below>
+            <setting>graveyard</setting>
+         </panel>
+
+         <!-- Panel 3: Betty tries to reassure Alfie, but looks uneasy herself -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>apprehensive</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>It's probably just a cat... right?</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>cautious</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Betty forces a smile, but glances nervously toward the source of the sound.</below>
+            <setting>graveyard with walls</setting>
+         </panel>
+
+         <!-- Panel 4: A gravestone prop shifts mysteriously -->
+         <panel>
+            <left>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>gravestone prop</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>scared</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>The gravestone seems to move ever so slightly, as if something is pushing it from underneath. Betty gasps.</below>
+            <setting>graveyard</setting>
+         </panel>
+
+         <!-- Panel 5: Alfie steps forward, determined but anxious -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>assertive</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Stay behind me. I'm going to check it out.</content>
+               </balloon>
+            </middle>
+            <below>Alfie tries to sound brave, but his voice trembles as he steps closer to the shifting gravestone.</below>
+            <setting>graveyard with walls</setting>
+         </panel>
+
+         <!-- Panel 6: Unsettling reveal – tentacles emerge from a green portal near the grave -->
+         <panel>
+            <left>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>tentacles from portal prop</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <middle>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>green portal prop</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>alarmed</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>From the earth, a glowing green portal opens and writhing tentacles begin to emerge, reaching toward Alfie and Betty.</below>
+            <setting>graveyard</setting>
+         </panel>
+
+         <!-- Panel 7: Alfie and Betty run away in terror -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>running away</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>running away</pose>
+                  <facing>right</facing>
+               </figure>
+            </right>
+            <below>Alfie and Betty sprint away from the graveyard, the unnatural tentacles slithering behind them.</below>
+            <setting>graveyard</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

@@ -1,0 +1,165 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<comic>
+   <figures>
+      <!-- No global figures defined -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Betty arrives with a bag of loot at the busy intersection, Gemma watches apprehensively -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>arriving</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>apprehensive</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Betty, where did you get that bag?</content>
+               </balloon>
+            </right>
+
+            <below>Betty steps onto the busy intersection, clutching a bag of loot. Gemma stands aside, looking concerned.</below>
+
+            <setting>busy intersection</setting>
+         </panel>
+
+         <!-- Panel 2: Alfie approaches, pointing at Betty accusingly -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>accusing</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>That looks like trouble, Betty!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>apprehensive</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+
+            <below>Alfie approaches the scene, pointing an accusing finger at Betty, who clutches the bag nervously.</below>
+
+            <setting>busy intersection</setting>
+         </panel>
+
+         <!-- Panel 3: Gemma and Alfie discuss; Betty is defensive -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>questioning</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Betty, did you collect these story seeds for everyone?</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>defensive</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Yes! I thought they'd inspire our next comics. What's all the fuss?</content>
+               </balloon>
+            </right>
+
+            <below>Gemma asks about the contents of the bag. Betty defends her actions, revealing the "story seeds" inside.</below>
+
+            <setting>busy intersection</setting>
+         </panel>
+
+         <!-- Panel 4: The trio laugh, spilling story seeds everywhere -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>laughing</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>spilling coffee</pose>
+                  <facing>left</facing>
+               </figure>
+            </middle>
+            <right>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>contented</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Looks like it’s raining ideas!</content>
+               </balloon>
+            </right>
+
+            <below>Everyone bursts out laughing as Betty tips the bag, raining "story seeds" across the intersection. A new adventure begins.</below>
+
+            <setting>busy intersection</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

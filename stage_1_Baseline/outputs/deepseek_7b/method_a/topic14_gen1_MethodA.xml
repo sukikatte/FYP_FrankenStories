@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <!-- define global figure element here, or keep empty -->
+   </figures>
+
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>disturbing</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>default</id>
+                  <name>bone</name>
+                  <appearance default="default"/>
+                  <skin default="default"/>
+                  <hair default="default"/>
+                  <lips default="default"/>
+                  <pose default="default"/>
+                  <facing default="right"/>
+               </figure>
+            </right>
+            <below>Alfie finds a bone in his pocket and becomes disturbed.</below>
+            <setting>coffee shop</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>disturbing</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>default</id>
+                  <name>hat</name>
+                  <appearance default="default"/>
+                  <skin default="default"/>
+                  <hair default="default"/>
+                  <lips default="default"/>
+                  <pose default="default"/>
+                  <facing default="right"/>
+               </figure>
+            </right>
+            <below>Alfie wears a hat and becomes more disturbed.</below>
+            <setting>coffee shop</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>sneaking</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>default</id>
+                  <name>mouse</name>
+                  <appearance default="default"/>
+                  <skin default="default"/>
+                  <hair default="default"/>
+                  <lips default="default"/>
+                  <pose default="default"/>
+                  <facing default="right"/>
+               </figure>
+            </right>
+            <below>Alfie scares a mouse in his hat, startling the animals.</below>
+            <setting>coffee shop</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

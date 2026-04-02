@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+   <scenes>
+      <scene>
+         <!-- Panel 1: Witness testimony begins -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>testifying</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>"I saw the defendant at the scene that night, holding what looked like a weapon..."</content>
+               </balloon>
+            </middle>
+            <below>Betty points confidently at the defendant while giving her testimony.</below>
+            <setting>courtroom</setting>
+         </panel>
+
+         <!-- Panel 2: Defense lawyer objects -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>objecting</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>"Objection, Your Honor! This is pure speculation!"</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>judge</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>The defense lawyer Alfie jumps to his feet while Judge Gemma listens intently.</below>
+            <setting>courtroom</setting>
+         </panel>
+
+         <!-- Panel 3: Controversial moment -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>defensive</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>"I know what I saw! He was definitely there!"</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>accusing</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>"Your Honor, the witness is making unfounded accusations!"</content>
+               </balloon>
+            </right>
+            <below>Tension rises as Betty stands by her testimony while Alfie challenges her credibility.</below>
+            <setting>courtroom</setting>
+         </panel>
+
+         <!-- Panel 4: Judge's ruling -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Gemma</id>
+                  <name>Gemma</name>
+                  <appearance>female</appearance>
+                  <skin>olive</skin>
+                  <hair>black</hair>
+                  <lips>pink</lips>
+                  <pose>gaveling</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>"Order! The testimony will stand, but the jury will disregard the speculation about the object."</content>
+               </balloon>
+            </middle>
+            <below>Judge Gemma bangs her gavel to restore order while making her ruling.</below>
+            <setting>courtroom</setting>
+         </panel>
+
+         <!-- Panel 5: Aftermath -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin>white</skin>
+                  <hair>blonde</hair>
+                  <lips>pink</lips>
+                  <pose>smirking</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>frustrated</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>"This isn't over..."</content>
+               </balloon>
+            </right>
+            <below>Betty looks satisfied while Alfie fumes at the partial victory.</below>
+            <setting>courtroom</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>
