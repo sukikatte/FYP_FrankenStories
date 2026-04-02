@@ -1,0 +1,38 @@
+{
+  "characters": {
+    "Alfie": {
+      "id": "Alfie",
+      "name": "Alfie",
+      "variants": {
+        "default": {
+          "appearance": "male",
+          "skin": "light brown",
+          "hair": "dark brown",
+          "lips": "red"
+        }
+      }
+    }
+  },
+  "poses": [
+    "communicating in spacesuit",
+    "negotiating in spacesuit",
+    "photographing in spacesuit",
+    "planting flag",
+    "surprised in spacesuit"
+  ],
+  "settings": [
+    "lunar lander ascending from the moon",
+    "lunar lander on the moon"
+  ],
+  "facings": [
+    "right"
+  ],
+  "positions": [
+    "left",
+    "middle",
+    "right"
+  ],
+  "balloon_status": [
+    "speech"
+  ]
+}

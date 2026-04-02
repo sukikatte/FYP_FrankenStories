@@ -1,0 +1,58 @@
+{
+  "characters": {
+    "Alfie": {
+      "id": "Alfie",
+      "name": "Alfie",
+      "variants": {
+        "default": {
+          "appearance": "male",
+          "skin": "light brown",
+          "hair": "light brown",
+          "lips": "red"
+        }
+      }
+    },
+    "Betty": {
+      "id": "Betty",
+      "name": "Betty",
+      "variants": {
+        "default": {
+          "appearance": "female",
+          "skin": "",
+          "hair": "",
+          "lips": ""
+        }
+      }
+    }
+  },
+  "poses": [
+    "arrested",
+    "defensive",
+    "dropping kryptonite",
+    "explaining",
+    "holding kryptonite",
+    "introducing flipped",
+    "introducing oneself",
+    "inviting",
+    "pointing gun with martini",
+    "pulling a gun",
+    "searching",
+    "stroking cat"
+  ],
+  "settings": [
+    "deathstar interior",
+    "secret bunker"
+  ],
+  "facings": [
+    "left",
+    "right"
+  ],
+  "positions": [
+    "left",
+    "middle",
+    "right"
+  ],
+  "balloon_status": [
+    "speech"
+  ]
+}

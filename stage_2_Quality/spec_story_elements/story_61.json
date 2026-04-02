@@ -1,0 +1,39 @@
+{
+  "characters": {
+    "Alfie": {
+      "id": "Alfie",
+      "name": "Alfie",
+      "variants": {
+        "default": {
+          "appearance": "male",
+          "skin": "light brown",
+          "hair": "dark brown",
+          "lips": "red"
+        }
+      }
+    }
+  },
+  "poses": [
+    "cautious",
+    "destructive",
+    "riding",
+    "riding while whistling",
+    "riding with determination",
+    "walking a horse"
+  ],
+  "settings": [
+    "dark forest",
+    "forest"
+  ],
+  "facings": [
+    "right"
+  ],
+  "positions": [
+    "left",
+    "middle",
+    "right"
+  ],
+  "balloon_status": [
+    "speech"
+  ]
+}

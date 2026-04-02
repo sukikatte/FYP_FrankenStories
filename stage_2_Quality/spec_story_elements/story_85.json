@@ -1,0 +1,57 @@
+{
+  "characters": {
+    "Alfie": {
+      "id": "Alfie",
+      "name": "Alfie",
+      "variants": {
+        "default": {
+          "appearance": "male",
+          "skin": "light brown",
+          "hair": "dark brown",
+          "lips": "red"
+        }
+      }
+    },
+    "Betty": {
+      "id": "Betty",
+      "name": "Betty",
+      "variants": {
+        "default": {
+          "appearance": "male",
+          "skin": "green",
+          "hair": "green",
+          "lips": ""
+        }
+      }
+    }
+  },
+  "poses": [
+    "biting",
+    "climbing out of toilet",
+    "fainting",
+    "hands on hips",
+    "holding mop",
+    "holding mop as weapon",
+    "holding nose",
+    "kicking",
+    "poking out of toilet",
+    "swinging mop",
+    "unconscious"
+  ],
+  "settings": [
+    "toilet",
+    "toilet no bowl"
+  ],
+  "facings": [
+    "left",
+    "right"
+  ],
+  "positions": [
+    "left",
+    "middle",
+    "right"
+  ],
+  "balloon_status": [
+    "speech"
+  ]
+}

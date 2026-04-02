@@ -1,0 +1,57 @@
+{
+  "characters": {
+    "Alfie": {
+      "id": "Alfie",
+      "name": "Alfie",
+      "variants": {
+        "default": {
+          "appearance": "male",
+          "skin": "light brown",
+          "hair": "dark brown",
+          "lips": "red"
+        }
+      }
+    },
+    "Betty": {
+      "id": "Betty",
+      "name": "Betty",
+      "variants": {
+        "default": {
+          "appearance": "female",
+          "skin": "",
+          "hair": "",
+          "lips": ""
+        }
+      }
+    }
+  },
+  "poses": [
+    "confused",
+    "dragging knuckles",
+    "inspired",
+    "inspiring",
+    "picking up bone",
+    "resilient",
+    "running away",
+    "swinging bone",
+    "taunting",
+    "touching monolith"
+  ],
+  "settings": [
+    "africa",
+    "dawn of man",
+    "dawn of man no monolith"
+  ],
+  "facings": [
+    "left",
+    "right"
+  ],
+  "positions": [
+    "left",
+    "middle",
+    "right"
+  ],
+  "balloon_status": [
+    "speech"
+  ]
+}

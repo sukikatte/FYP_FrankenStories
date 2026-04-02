@@ -1,0 +1,39 @@
+{
+  "characters": {
+    "Alfie": {
+      "id": "Alfie",
+      "name": "Alfie",
+      "variants": {
+        "default": {
+          "appearance": "male",
+          "skin": "light brown",
+          "hair": "dark brown",
+          "lips": "red"
+        }
+      }
+    }
+  },
+  "poses": [
+    "dead in coffin",
+    "defensive",
+    "mauled by dog",
+    "rewarding",
+    "walking a dog"
+  ],
+  "settings": [
+    "church",
+    "park bench"
+  ],
+  "facings": [
+    "left",
+    "right"
+  ],
+  "positions": [
+    "left",
+    "middle",
+    "right"
+  ],
+  "balloon_status": [
+    "speech"
+  ]
+}

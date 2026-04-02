@@ -1,0 +1,69 @@
+{
+  "characters": {
+    "Alfie": {
+      "id": "Alfie",
+      "name": "Alfie",
+      "variants": {
+        "default": {
+          "appearance": "male",
+          "skin": "light brown",
+          "hair": "dark brown",
+          "lips": "red"
+        }
+      }
+    },
+    "Betty": {
+      "id": "Betty",
+      "name": "Betty",
+      "variants": {
+        "default": {
+          "appearance": "female",
+          "skin": "",
+          "hair": "",
+          "lips": ""
+        }
+      }
+    },
+    "Gemma": {
+      "id": "Gemma",
+      "name": "Gemma",
+      "variants": {
+        "default": {
+          "appearance": "female",
+          "skin": "olive",
+          "hair": "black",
+          "lips": ""
+        }
+      }
+    }
+  },
+  "poses": [
+    "confused",
+    "dressing",
+    "drinking coffee",
+    "looking in mirror",
+    "offering coffee",
+    "poking",
+    "running late",
+    "slogging",
+    "smirking",
+    "spilling coffee",
+    "sprinting",
+    "yawning"
+  ],
+  "settings": [
+    "bedroom",
+    "office"
+  ],
+  "facings": [
+    "left",
+    "right"
+  ],
+  "positions": [
+    "left",
+    "right"
+  ],
+  "balloon_status": [
+    "speech"
+  ]
+}

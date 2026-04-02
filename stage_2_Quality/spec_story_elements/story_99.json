@@ -1,0 +1,72 @@
+{
+  "characters": {
+    "Alfie": {
+      "id": "Alfie",
+      "name": "Alfie",
+      "variants": {
+        "default": {
+          "appearance": "male",
+          "skin": "light brown",
+          "hair": "dark brown",
+          "lips": "red"
+        }
+      }
+    },
+    "Betty": {
+      "id": "Betty",
+      "name": "Betty",
+      "variants": {
+        "default": {
+          "appearance": "female",
+          "skin": "",
+          "hair": "",
+          "lips": ""
+        }
+      }
+    },
+    "Gemma": {
+      "id": "Gemma",
+      "name": "Gemma",
+      "variants": {
+        "default": {
+          "appearance": "female",
+          "skin": "olive",
+          "hair": "black",
+          "lips": ""
+        }
+      }
+    }
+  },
+  "poses": [
+    "accusing with hand over eye",
+    "celebrating",
+    "covering eyes",
+    "cross-examining",
+    "defensive",
+    "frowning",
+    "hit with champagne cork",
+    "holding empty glass",
+    "litigating",
+    "paying sadly",
+    "shrugging",
+    "surprised",
+    "worried"
+  ],
+  "settings": [
+    "courthouse",
+    "courtroom",
+    "office party"
+  ],
+  "facings": [
+    "left",
+    "right"
+  ],
+  "positions": [
+    "left",
+    "middle",
+    "right"
+  ],
+  "balloon_status": [
+    "speech"
+  ]
+}

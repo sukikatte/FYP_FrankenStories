@@ -1,0 +1,56 @@
+{
+  "characters": {
+    "Alfie": {
+      "id": "Alfie",
+      "name": "Alfie",
+      "variants": {
+        "default": {
+          "appearance": "male",
+          "skin": "light brown",
+          "hair": "dark brown",
+          "lips": "red"
+        }
+      }
+    },
+    "Betty": {
+      "id": "Betty",
+      "name": "Betty",
+      "variants": {
+        "default": {
+          "appearance": "female",
+          "skin": "",
+          "hair": "",
+          "lips": ""
+        }
+      }
+    }
+  },
+  "poses": [
+    "arrested",
+    "arresting",
+    "blackbag",
+    "chained",
+    "dropping knife",
+    "proud",
+    "pulling a gun",
+    "scared",
+    "summoning with knife",
+    "threatening"
+  ],
+  "settings": [
+    "dungeon",
+    "graffiti covered wall"
+  ],
+  "facings": [
+    "left",
+    "right"
+  ],
+  "positions": [
+    "left",
+    "middle",
+    "right"
+  ],
+  "balloon_status": [
+    "speech"
+  ]
+}

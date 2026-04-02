@@ -1,0 +1,38 @@
+{
+  "characters": {
+    "Alfie": {
+      "id": "Alfie",
+      "name": "Alfie",
+      "variants": {
+        "default": {
+          "appearance": "male",
+          "skin": "black",
+          "hair": "black",
+          "lips": "red"
+        }
+      }
+    }
+  },
+  "poses": [
+    "celebrating",
+    "drilling",
+    "mining",
+    "swinging pick",
+    "swinging pick over head"
+  ],
+  "settings": [
+    "low trench",
+    "marshlands",
+    "trench"
+  ],
+  "facings": [
+    "right"
+  ],
+  "positions": [
+    "left",
+    "right"
+  ],
+  "balloon_status": [
+    "speech"
+  ]
+}

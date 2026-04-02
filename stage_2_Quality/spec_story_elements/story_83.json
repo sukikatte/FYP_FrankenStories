@@ -1,0 +1,58 @@
+{
+  "characters": {
+    "Alfie": {
+      "id": "Alfie",
+      "name": "Alfie",
+      "variants": {
+        "default": {
+          "appearance": "male",
+          "skin": "light brown",
+          "hair": "dark brown",
+          "lips": "red"
+        }
+      }
+    },
+    "Betty": {
+      "id": "Betty",
+      "name": "Betty",
+      "variants": {
+        "default": {
+          "appearance": "male",
+          "skin": "green",
+          "hair": "green",
+          "lips": ""
+        }
+      }
+    }
+  },
+  "poses": [
+    "alarmed",
+    "crawling and reaching",
+    "defensive",
+    "emerging from portal",
+    "hungry",
+    "jumping into portal",
+    "playing banjo",
+    "playing saxophone",
+    "plugging ears",
+    "singing",
+    "singing loud",
+    "surprised",
+    "whistling"
+  ],
+  "settings": [
+    "nightsky",
+    "war of the worlds"
+  ],
+  "facings": [
+    "left",
+    "right"
+  ],
+  "positions": [
+    "left",
+    "right"
+  ],
+  "balloon_status": [
+    "speech"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "characters": {
+    "Alfie": {
+      "id": "Alfie",
+      "name": "Alfie",
+      "variants": {
+        "default": {
+          "appearance": "male",
+          "skin": "light brown",
+          "hair": "dark brown",
+          "lips": "red"
+        }
+      }
+    },
+    "Betty": {
+      "id": "Betty",
+      "name": "Betty",
+      "variants": {
+        "default": {
+          "appearance": "female",
+          "skin": "",
+          "hair": "",
+          "lips": ""
+        }
+      }
+    }
+  },
+  "poses": [
+    "arrested",
+    "arresting",
+    "drinking coffee",
+    "imprisoned",
+    "photographing",
+    "posing for mugshot",
+    "running off",
+    "shooting",
+    "stealing"
+  ],
+  "settings": [
+    "dungeon no bars",
+    "naples",
+    "police lineup",
+    "police station"
+  ],
+  "facings": [
+    "left",
+    "right"
+  ],
+  "positions": [
+    "left",
+    "middle",
+    "right"
+  ],
+  "balloon_status": [
+    "speech"
+  ]
+}

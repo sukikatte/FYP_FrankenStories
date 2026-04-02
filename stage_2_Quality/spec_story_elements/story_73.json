@@ -1,0 +1,51 @@
+{
+  "characters": {
+    "Alfie": {
+      "id": "Alfie",
+      "name": "Alfie",
+      "variants": {
+        "default": {
+          "appearance": "male",
+          "skin": "light brown",
+          "hair": "dark brown",
+          "lips": "red"
+        }
+      }
+    },
+    "Betty": {
+      "id": "Betty",
+      "name": "Betty",
+      "variants": {
+        "default": {
+          "appearance": "female",
+          "skin": "",
+          "hair": "",
+          "lips": ""
+        }
+      }
+    }
+  },
+  "poses": [
+    "cutting the cheese",
+    "holding pizza",
+    "kneading dough",
+    "mixing batter",
+    "rollerskating",
+    "tossing pizza",
+    "waving in chef hat"
+  ],
+  "settings": [
+    "pizza oven",
+    "pizza restaurant window"
+  ],
+  "facings": [
+    "right"
+  ],
+  "positions": [
+    "left",
+    "right"
+  ],
+  "balloon_status": [
+    "speech"
+  ]
+}

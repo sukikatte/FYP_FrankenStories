@@ -1,0 +1,53 @@
+{
+  "characters": {
+    "Alfie": {
+      "id": "Alfie",
+      "name": "Alfie",
+      "variants": {
+        "default": {
+          "appearance": "male",
+          "skin": "light brown",
+          "hair": "dark brown",
+          "lips": "red"
+        }
+      }
+    },
+    "Betty": {
+      "id": "Betty",
+      "name": "Betty",
+      "variants": {
+        "default": {
+          "appearance": "female",
+          "skin": "",
+          "hair": "",
+          "lips": ""
+        }
+      }
+    }
+  },
+  "poses": [
+    "dispatched",
+    "handshaking",
+    "hungry",
+    "impatient",
+    "reading menu",
+    "serving dinner",
+    "sneering",
+    "taking notes",
+    "tipping"
+  ],
+  "settings": [
+    "restaurant"
+  ],
+  "facings": [
+    "left",
+    "right"
+  ],
+  "positions": [
+    "left",
+    "right"
+  ],
+  "balloon_status": [
+    "speech"
+  ]
+}

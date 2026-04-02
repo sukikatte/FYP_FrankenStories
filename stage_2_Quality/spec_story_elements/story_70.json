@@ -1,0 +1,43 @@
+{
+  "characters": {
+    "Alfie": {
+      "id": "Alfie",
+      "name": "Alfie",
+      "variants": {
+        "default": {
+          "appearance": "male",
+          "skin": "light brown",
+          "hair": "dark brown",
+          "lips": "red"
+        }
+      }
+    }
+  },
+  "poses": [
+    "clinching intimately",
+    "eating",
+    "fainting",
+    "scared",
+    "sipping",
+    "smoking cigar"
+  ],
+  "settings": [
+    "bar",
+    "bedroom",
+    "cafeteria",
+    "food truck",
+    "gates of hell",
+    "restaurant exterior"
+  ],
+  "facings": [
+    "right"
+  ],
+  "positions": [
+    "left",
+    "middle",
+    "right"
+  ],
+  "balloon_status": [
+    "speech"
+  ]
+}

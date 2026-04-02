@@ -1,0 +1,57 @@
+{
+  "characters": {
+    "Alfie": {
+      "id": "Alfie",
+      "name": "Alfie",
+      "variants": {
+        "default": {
+          "appearance": "male",
+          "skin": "light brown",
+          "hair": "dark brown",
+          "lips": "red"
+        }
+      }
+    },
+    "Betty": {
+      "id": "Betty",
+      "name": "Betty",
+      "variants": {
+        "default": {
+          "appearance": "female",
+          "skin": "",
+          "hair": "",
+          "lips": ""
+        }
+      }
+    }
+  },
+  "poses": [
+    "chuckling",
+    "clapping",
+    "fainting",
+    "laughing",
+    "mocking clap",
+    "plugging ears",
+    "pulling a gun",
+    "satirizing",
+    "scared",
+    "taunting",
+    "using toy gun",
+    "ventriloquist"
+  ],
+  "settings": [
+    "comedy club"
+  ],
+  "facings": [
+    "left",
+    "right"
+  ],
+  "positions": [
+    "left",
+    "middle",
+    "right"
+  ],
+  "balloon_status": [
+    "speech"
+  ]
+}

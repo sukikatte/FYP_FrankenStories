@@ -1,0 +1,40 @@
+{
+  "characters": {
+    "Alfie": {
+      "id": "Alfie",
+      "name": "Alfie",
+      "variants": {
+        "default": {
+          "appearance": "male",
+          "skin": "light brown",
+          "hair": "dark brown",
+          "lips": "red"
+        }
+      }
+    }
+  },
+  "poses": [
+    "kneeling while angry",
+    "philosophical",
+    "riding while confused",
+    "riding while crying",
+    "riding with determination",
+    "worried"
+  ],
+  "settings": [
+    "apocalypse",
+    "apocalypse closeup",
+    "apocalypse extreme closeup",
+    "gobi desert"
+  ],
+  "facings": [
+    "right"
+  ],
+  "positions": [
+    "left",
+    "right"
+  ],
+  "balloon_status": [
+    "speech"
+  ]
+}

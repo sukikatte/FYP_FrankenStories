@@ -1,0 +1,41 @@
+{
+  "characters": {
+    "Alfie": {
+      "id": "Alfie",
+      "name": "Alfie",
+      "variants": {
+        "default": {
+          "appearance": "male",
+          "skin": "light brown",
+          "hair": "dark brown",
+          "lips": "red"
+        }
+      }
+    }
+  },
+  "poses": [
+    "exploding",
+    "falling off horse",
+    "hindering",
+    "praying",
+    "riding while whistling",
+    "riding with determination"
+  ],
+  "settings": [
+    "distant volcano",
+    "dormant volcano",
+    "lava",
+    "smoking volcano"
+  ],
+  "facings": [
+    "right"
+  ],
+  "positions": [
+    "left",
+    "middle",
+    "right"
+  ],
+  "balloon_status": [
+    "speech"
+  ]
+}

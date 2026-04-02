@@ -1,0 +1,58 @@
+{
+  "characters": {
+    "Alfie": {
+      "id": "Alfie",
+      "name": "Alfie",
+      "variants": {
+        "default": {
+          "appearance": "male",
+          "skin": "light brown",
+          "hair": "light brown",
+          "lips": "red"
+        }
+      }
+    },
+    "Betty": {
+      "id": "Betty",
+      "name": "Betty",
+      "variants": {
+        "default": {
+          "appearance": "female",
+          "skin": "",
+          "hair": "",
+          "lips": ""
+        }
+      }
+    }
+  },
+  "poses": [
+    "applying makeup",
+    "applying spray",
+    "breaking mirror",
+    "chasing with scissors",
+    "condescending",
+    "cutting hair",
+    "looking in mirror while seated",
+    "put out",
+    "reading in seat",
+    "running away",
+    "shrugging",
+    "transported",
+    "whistling"
+  ],
+  "settings": [
+    "beauty salon",
+    "salon interior"
+  ],
+  "facings": [
+    "left",
+    "right"
+  ],
+  "positions": [
+    "left",
+    "right"
+  ],
+  "balloon_status": [
+    "speech"
+  ]
+}

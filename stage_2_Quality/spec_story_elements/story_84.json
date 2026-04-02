@@ -1,0 +1,39 @@
+{
+  "characters": {
+    "Alfie": {
+      "id": "Alfie",
+      "name": "Alfie",
+      "variants": {
+        "default": {
+          "appearance": "male",
+          "skin": "light brown",
+          "hair": "dark brown",
+          "lips": "red"
+        }
+      }
+    }
+  },
+  "poses": [
+    "blocking",
+    "holding mop",
+    "proud",
+    "scrubbing on knees",
+    "throwing water"
+  ],
+  "settings": [
+    "clean toilet",
+    "sparkling toilet",
+    "toilet"
+  ],
+  "facings": [
+    "right"
+  ],
+  "positions": [
+    "left",
+    "middle",
+    "right"
+  ],
+  "balloon_status": [
+    "speech"
+  ]
+}

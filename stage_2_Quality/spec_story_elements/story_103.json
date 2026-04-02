@@ -1,0 +1,59 @@
+{
+  "characters": {
+    "Alfie": {
+      "id": "Alfie",
+      "name": "Alfie",
+      "variants": {
+        "default": {
+          "appearance": "male",
+          "skin": "light brown",
+          "hair": "dark brown",
+          "lips": "red"
+        }
+      }
+    },
+    "Betty": {
+      "id": "Betty",
+      "name": "Betty",
+      "variants": {
+        "default": {
+          "appearance": "female",
+          "skin": "",
+          "hair": "",
+          "lips": ""
+        }
+      }
+    }
+  },
+  "poses": [
+    "carrying tray",
+    "catering",
+    "drinking in seat",
+    "examining document",
+    "falling",
+    "holding tickets",
+    "playing harp with wings",
+    "reading in seat",
+    "serving drink with wings",
+    "spilling drink while seated",
+    "transported"
+  ],
+  "settings": [
+    "airplane interior",
+    "airplane interior during turbulence",
+    "airport",
+    "sun and clouds"
+  ],
+  "facings": [
+    "left",
+    "right"
+  ],
+  "positions": [
+    "left",
+    "middle",
+    "right"
+  ],
+  "balloon_status": [
+    "speech"
+  ]
+}

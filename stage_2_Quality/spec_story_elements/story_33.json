@@ -1,0 +1,37 @@
+{
+  "characters": {
+    "Alfie": {
+      "id": "Alfie",
+      "name": "Alfie",
+      "variants": {
+        "default": {
+          "appearance": "male",
+          "skin": "light brown",
+          "hair": "dark brown",
+          "lips": "red"
+        }
+      }
+    }
+  },
+  "poses": [
+    "carrying surfboard",
+    "dismounting motorcycle",
+    "motorcycling",
+    "surfing"
+  ],
+  "settings": [
+    "lighthouse",
+    "maine",
+    "tower",
+    "tower base"
+  ],
+  "facings": [
+    "right"
+  ],
+  "positions": [
+    "left"
+  ],
+  "balloon_status": [
+    "speech"
+  ]
+}

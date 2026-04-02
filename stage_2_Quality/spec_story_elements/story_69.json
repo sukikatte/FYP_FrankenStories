@@ -1,0 +1,55 @@
+{
+  "characters": {
+    "Alfie": {
+      "id": "Alfie",
+      "name": "Alfie",
+      "variants": {
+        "default": {
+          "appearance": "male",
+          "skin": "light brown",
+          "hair": "dark brown",
+          "lips": "red"
+        }
+      }
+    },
+    "Betty": {
+      "id": "Betty",
+      "name": "Betty",
+      "variants": {
+        "default": {
+          "appearance": "female",
+          "skin": "green",
+          "hair": "dark green",
+          "lips": ""
+        }
+      }
+    }
+  },
+  "poses": [
+    "begging",
+    "defensive",
+    "demon holding fireball",
+    "demonic",
+    "on fire",
+    "pleading",
+    "scared",
+    "slogging"
+  ],
+  "settings": [
+    "dark city",
+    "gates of hell",
+    "marshlands with bodies"
+  ],
+  "facings": [
+    "left",
+    "right"
+  ],
+  "positions": [
+    "left",
+    "middle",
+    "right"
+  ],
+  "balloon_status": [
+    "speech"
+  ]
+}

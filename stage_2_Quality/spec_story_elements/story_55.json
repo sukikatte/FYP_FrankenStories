@@ -1,0 +1,35 @@
+{
+  "characters": {
+    "Alfie": {
+      "id": "Alfie",
+      "name": "Alfie",
+      "variants": {
+        "default": {
+          "appearance": "male",
+          "skin": "light brown",
+          "hair": "dark brown",
+          "lips": "red"
+        }
+      }
+    }
+  },
+  "poses": [
+    "breaking mirror",
+    "dressing",
+    "looking in mirror",
+    "sad"
+  ],
+  "settings": [
+    "changing room"
+  ],
+  "facings": [
+    "right"
+  ],
+  "positions": [
+    "left",
+    "middle"
+  ],
+  "balloon_status": [
+    "speech"
+  ]
+}

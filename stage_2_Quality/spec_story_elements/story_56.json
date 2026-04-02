@@ -1,0 +1,67 @@
+{
+  "characters": {
+    "Alfie": {
+      "id": "Alfie",
+      "name": "Alfie",
+      "variants": {
+        "default": {
+          "appearance": "male",
+          "skin": "light brown",
+          "hair": "dark brown",
+          "lips": "red"
+        }
+      }
+    },
+    "Betty": {
+      "id": "Betty",
+      "name": "Betty",
+      "variants": {
+        "default": {
+          "appearance": "female",
+          "skin": "",
+          "hair": "",
+          "lips": ""
+        }
+      }
+    },
+    "Gemma": {
+      "id": "Gemma",
+      "name": "Gemma",
+      "variants": {
+        "default": {
+          "appearance": "female",
+          "skin": "olive",
+          "hair": "black",
+          "lips": ""
+        }
+      }
+    }
+  },
+  "poses": [
+    "brainwashed",
+    "exploding",
+    "killing for",
+    "offering",
+    "praying",
+    "preachy",
+    "radicalizing",
+    "rebellious",
+    "sacrificing",
+    "worshipped"
+  ],
+  "settings": [
+    "barcelona",
+    "church"
+  ],
+  "facings": [
+    "left",
+    "right"
+  ],
+  "positions": [
+    "left",
+    "right"
+  ],
+  "balloon_status": [
+    "speech"
+  ]
+}

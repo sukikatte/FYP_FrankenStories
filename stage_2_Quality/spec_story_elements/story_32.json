@@ -1,0 +1,39 @@
+{
+  "characters": {
+    "Alfie": {
+      "id": "Alfie",
+      "name": "Alfie",
+      "variants": {
+        "default": {
+          "appearance": "male",
+          "skin": "light brown",
+          "hair": "dark brown",
+          "lips": "red"
+        }
+      }
+    }
+  },
+  "poses": [
+    "offering a carrot",
+    "riding",
+    "riding with sword drawn",
+    "walking a horse"
+  ],
+  "settings": [
+    "canada",
+    "castle walls",
+    "dark forest",
+    "mexico",
+    "scotland"
+  ],
+  "facings": [
+    "right"
+  ],
+  "positions": [
+    "left",
+    "right"
+  ],
+  "balloon_status": [
+    "speech"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "characters": {
+    "Alfie": {
+      "id": "Alfie",
+      "name": "Alfie",
+      "variants": {
+        "default": {
+          "appearance": "male",
+          "skin": "light brown",
+          "hair": "dark brown",
+          "lips": "red"
+        }
+      }
+    }
+  },
+  "poses": [
+    "breakfasting",
+    "high fiving",
+    "munching",
+    "strong",
+    "yawning"
+  ],
+  "settings": [
+    "kitchen",
+    "welcome mat"
+  ],
+  "facings": [
+    "right"
+  ],
+  "positions": [
+    "left",
+    "middle"
+  ],
+  "balloon_status": [
+    "speech"
+  ]
+}

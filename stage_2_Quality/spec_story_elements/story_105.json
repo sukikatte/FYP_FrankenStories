@@ -1,0 +1,69 @@
+{
+  "characters": {
+    "Alfie": {
+      "id": "Alfie",
+      "name": "Alfie",
+      "variants": {
+        "default": {
+          "appearance": "male",
+          "skin": "light brown",
+          "hair": "dark brown",
+          "lips": "red"
+        }
+      }
+    },
+    "Betty": {
+      "id": "Betty",
+      "name": "Betty",
+      "variants": {
+        "default": {
+          "appearance": "female",
+          "skin": "",
+          "hair": "",
+          "lips": ""
+        }
+      }
+    },
+    "Gemma": {
+      "id": "Gemma",
+      "name": "Gemma",
+      "variants": {
+        "default": {
+          "appearance": "female",
+          "skin": "olive",
+          "hair": "black",
+          "lips": ""
+        }
+      }
+    }
+  },
+  "poses": [
+    "cheating",
+    "confident",
+    "confused while playing cards",
+    "destructive",
+    "dropping crystal ball",
+    "foretelling",
+    "paying sadly",
+    "playing cards",
+    "profiting",
+    "questioning",
+    "raising while playing cards"
+  ],
+  "settings": [
+    "las vegas",
+    "meditation garden",
+    "sports bar"
+  ],
+  "facings": [
+    "left",
+    "right"
+  ],
+  "positions": [
+    "left",
+    "right"
+  ],
+  "balloon_status": [
+    "speech"
+  ]
+}

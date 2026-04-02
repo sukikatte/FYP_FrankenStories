@@ -1,0 +1,5884 @@
+{
+  "story_0": {
+    "story_index": 0,
+    "story_label": 0,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      }
+    },
+    "poses": [
+      "breakfasting",
+      "high fiving",
+      "munching",
+      "strong",
+      "yawning"
+    ],
+    "settings": [
+      "kitchen",
+      "welcome mat"
+    ],
+    "facings": [
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_1": {
+    "story_index": 1,
+    "story_label": 1,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      }
+    },
+    "poses": [
+      "breakfasting",
+      "rumbling",
+      "swallowing",
+      "vomiting",
+      "yawning"
+    ],
+    "settings": [
+      "bedroom",
+      "kitchen"
+    ],
+    "facings": [
+      "right"
+    ],
+    "positions": [
+      "middle"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_2": {
+    "story_index": 2,
+    "story_label": 2,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "all wet",
+      "falling off horse",
+      "regaining consciousness",
+      "riding",
+      "slopping",
+      "throwing water",
+      "unconscious"
+    ],
+    "settings": [
+      "gravel path"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_3": {
+    "story_index": 3,
+    "story_label": 3,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "defensive",
+      "dispatched",
+      "evaluating",
+      "experimenting",
+      "operating",
+      "running away",
+      "sick"
+    ],
+    "settings": [
+      "hospital"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_4": {
+    "story_index": 4,
+    "story_label": 4,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      }
+    },
+    "poses": [
+      "falling off horse",
+      "mauled by dog",
+      "riding",
+      "riding with determination",
+      "riding with injuries"
+    ],
+    "settings": [
+      "dark forest",
+      "forest"
+    ],
+    "facings": [
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_5": {
+    "story_index": 5,
+    "story_label": 5,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "mixing",
+      "on soapbox",
+      "plugging ears",
+      "reacting",
+      "rebellious",
+      "running away"
+    ],
+    "settings": [
+      "government",
+      "kitchen",
+      "police state"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_6": {
+    "story_index": 6,
+    "story_label": 6,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "burnt",
+      "cycling",
+      "drinking coffee",
+      "exploding",
+      "lighting cigar",
+      "motorcycling",
+      "on fire",
+      "reacting",
+      "smoking cigar"
+    ],
+    "settings": [
+      "chemical plant",
+      "laboratory",
+      "school hallway"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_7": {
+    "story_index": 7,
+    "story_label": 7,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "broken legs",
+      "falling off bicycle",
+      "falling on rollerskates",
+      "on crutch",
+      "reading on bicycle",
+      "rollerskating"
+    ],
+    "settings": [
+      "boulevard",
+      "hospital exterior",
+      "park bench"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_8": {
+    "story_index": 8,
+    "story_label": 8,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "attracting",
+      "brainwashed",
+      "brainwashing",
+      "charmed",
+      "commanding",
+      "killing for",
+      "sneaky"
+    ],
+    "settings": [
+      "laundrette"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_9": {
+    "story_index": 9,
+    "story_label": 9,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "batting",
+      "dropping bat",
+      "groggy",
+      "hit with ball",
+      "pitching",
+      "running away",
+      "shrugging",
+      "swinging bat"
+    ],
+    "settings": [
+      "sports field"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_10": {
+    "story_index": 10,
+    "story_label": 10,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "charming",
+      "evaluating",
+      "goofy",
+      "on crutch",
+      "popping pills",
+      "standing on head",
+      "surprised",
+      "treating"
+    ],
+    "settings": [
+      "hospital"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_11": {
+    "story_index": 11,
+    "story_label": 11,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "battered",
+      "bowing respectfully",
+      "bullying",
+      "charging",
+      "defiant",
+      "introducing",
+      "kicking",
+      "punching",
+      "resilient",
+      "wounded"
+    ],
+    "settings": [
+      "dojo"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_12": {
+    "story_index": 12,
+    "story_label": 12,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "celebrating",
+      "drilling",
+      "impatient",
+      "insisting",
+      "joy",
+      "lawyer",
+      "mining",
+      "paying sadly",
+      "surprised",
+      "swinging pick"
+    ],
+    "settings": [
+      "oil well",
+      "stalactite"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_13": {
+    "story_index": 13,
+    "story_label": 13,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "burnt",
+      "dropping cigar",
+      "exploding",
+      "fainting",
+      "lighting cigar",
+      "on fire",
+      "punching",
+      "reacting",
+      "smoking cigar",
+      "throwing water"
+    ],
+    "settings": [
+      "laboratory"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_14": {
+    "story_index": 14,
+    "story_label": 14,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "cycling in headphones",
+      "driving",
+      "falling off bicycle",
+      "holding wheel",
+      "regaining consciousness",
+      "speeding",
+      "unconscious"
+    ],
+    "settings": [
+      "busy intersection"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_15": {
+    "story_index": 15,
+    "story_label": 15,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "dispatched",
+      "handshaking",
+      "hungry",
+      "impatient",
+      "reading menu",
+      "serving dinner",
+      "sneering",
+      "taking notes",
+      "tipping"
+    ],
+    "settings": [
+      "restaurant"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_16": {
+    "story_index": 16,
+    "story_label": 16,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "accusing",
+      "defensive",
+      "hungry",
+      "impatient",
+      "massaging",
+      "ravaging",
+      "running away",
+      "serving",
+      "starving",
+      "taking notes"
+    ],
+    "settings": [
+      "restaurant"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_17": {
+    "story_index": 17,
+    "story_label": 17,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "eating",
+      "holding mop",
+      "holding mop as weapon",
+      "massaging",
+      "paying sadly",
+      "serving",
+      "smirking",
+      "spitting",
+      "sulking",
+      "vomiting"
+    ],
+    "settings": [
+      "restaurant"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_18": {
+    "story_index": 18,
+    "story_label": 18,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      }
+    },
+    "poses": [
+      "dead in coffin",
+      "defensive",
+      "mauled by dog",
+      "rewarding",
+      "walking a dog"
+    ],
+    "settings": [
+      "church",
+      "park bench"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_19": {
+    "story_index": 19,
+    "story_label": 19,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "arriving",
+      "arriving with passport",
+      "examining document",
+      "expelled",
+      "expelling",
+      "sighing",
+      "stopping",
+      "visiting"
+    ],
+    "settings": [
+      "airport"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_20": {
+    "story_index": 20,
+    "story_label": 20,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "arriving",
+      "arriving with passport",
+      "examining document",
+      "introducing",
+      "sighing",
+      "stopping",
+      "visiting"
+    ],
+    "settings": [
+      "airport"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_21": {
+    "story_index": 21,
+    "story_label": 21,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "black",
+            "hair": "black",
+            "lips": "red"
+          }
+        }
+      }
+    },
+    "poses": [
+      "celebrating",
+      "drilling",
+      "mining",
+      "swinging pick",
+      "swinging pick over head"
+    ],
+    "settings": [
+      "low trench",
+      "marshlands",
+      "trench"
+    ],
+    "facings": [
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_22": {
+    "story_index": 22,
+    "story_label": 22,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      }
+    },
+    "poses": [
+      "apprehensive",
+      "cautious",
+      "unprepared",
+      "whistling"
+    ],
+    "settings": [
+      "trees"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_23": {
+    "story_index": 23,
+    "story_label": 23,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "casting off",
+      "chained",
+      "chained and angry",
+      "conquering",
+      "defeated",
+      "disappointed",
+      "freeing",
+      "running away",
+      "scared",
+      "whipping"
+    ],
+    "settings": [
+      "boneyard",
+      "marshlands with bodies",
+      "stone stairs"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_24": {
+    "story_index": 24,
+    "story_label": 24,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "holding bow",
+      "icarus",
+      "leaping",
+      "pointing",
+      "soaring",
+      "targeting"
+    ],
+    "settings": [
+      "city of towers",
+      "sun and clouds",
+      "tower tops"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_25": {
+    "story_index": 25,
+    "story_label": 25,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "cowering",
+      "pleading",
+      "rescuing with extra horse",
+      "riding",
+      "riding brown horse",
+      "riding with extra horse",
+      "scared"
+    ],
+    "settings": [
+      "distant volcano",
+      "lava"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_26": {
+    "story_index": 26,
+    "story_label": 26,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "hindering",
+      "offering a tissue",
+      "purposeful",
+      "running",
+      "running away",
+      "slogging",
+      "surprised",
+      "walking a dog"
+    ],
+    "settings": [
+      "green light at intersection",
+      "red light at intersection",
+      "traffic accident"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_27": {
+    "story_index": 27,
+    "story_label": 27,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "carrying bowl",
+      "chased by mosquitos",
+      "chased by wasps",
+      "eating",
+      "enticing",
+      "picnicking",
+      "poxy",
+      "spraying bugs"
+    ],
+    "settings": [
+      "picnic",
+      "sunny field"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_28": {
+    "story_index": 28,
+    "story_label": 28,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "arrested",
+      "banishing",
+      "defending",
+      "defensive",
+      "driving",
+      "examining document",
+      "speeding",
+      "stopping"
+    ],
+    "settings": [
+      "checkpoint barricade"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_29": {
+    "story_index": 29,
+    "story_label": 29,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "alarmed",
+      "gorgon",
+      "looking in mirror",
+      "mixing paint",
+      "nude",
+      "painting",
+      "preying",
+      "running away"
+    ],
+    "settings": [
+      "art studio"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_30": {
+    "story_index": 30,
+    "story_label": 30,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "biting flower",
+      "condescending",
+      "greeting",
+      "holding flower",
+      "pleading",
+      "plugging ears",
+      "posing",
+      "refusing gift",
+      "rejected",
+      "wooing"
+    ],
+    "settings": [
+      "balcony"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_31": {
+    "story_index": 31,
+    "story_label": 31,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "holding flower",
+      "holding nose",
+      "looking in mirror",
+      "offering a tissue",
+      "refusing gift",
+      "slogging",
+      "spreading",
+      "wooing"
+    ],
+    "settings": [
+      "courtyard"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_32": {
+    "story_index": 32,
+    "story_label": 32,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      }
+    },
+    "poses": [
+      "offering a carrot",
+      "riding",
+      "riding with sword drawn",
+      "walking a horse"
+    ],
+    "settings": [
+      "canada",
+      "castle walls",
+      "dark forest",
+      "mexico",
+      "scotland"
+    ],
+    "facings": [
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_33": {
+    "story_index": 33,
+    "story_label": 33,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      }
+    },
+    "poses": [
+      "carrying surfboard",
+      "dismounting motorcycle",
+      "motorcycling",
+      "surfing"
+    ],
+    "settings": [
+      "lighthouse",
+      "maine",
+      "tower",
+      "tower base"
+    ],
+    "facings": [
+      "right"
+    ],
+    "positions": [
+      "left"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_34": {
+    "story_index": 34,
+    "story_label": 34,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "dismounting motorcycle",
+      "eating",
+      "making a point",
+      "motorcycling",
+      "serving",
+      "stacking",
+      "taking notes",
+      "tipping"
+    ],
+    "settings": [
+      "food truck",
+      "ohio"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_35": {
+    "story_index": 35,
+    "story_label": 35,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "banishing",
+      "carrying",
+      "impatient",
+      "lifting for",
+      "poking",
+      "reading newspaper",
+      "shouting",
+      "slogging",
+      "sweating"
+    ],
+    "settings": [
+      "factory"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_36": {
+    "story_index": 36,
+    "story_label": 36,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "chuckling",
+      "defensive",
+      "falling off treadmill",
+      "holding ball",
+      "meditating",
+      "on treadmill",
+      "regaining consciousness",
+      "standing on head",
+      "strong",
+      "training"
+    ],
+    "settings": [
+      "gym"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_37": {
+    "story_index": 37,
+    "story_label": 37,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "dead",
+      "dead in coffin",
+      "exorcising",
+      "haunting",
+      "holding flower",
+      "miserable",
+      "rejected",
+      "sad"
+    ],
+    "settings": [
+      "graveyard with walls"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_38": {
+    "story_index": 38,
+    "story_label": 38,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "clapping",
+      "crossing arms",
+      "designing",
+      "gifting",
+      "impressed",
+      "inspiring",
+      "presenting data",
+      "put out",
+      "unimpressed",
+      "uninspired"
+    ],
+    "settings": [
+      "drawing board"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_39": {
+    "story_index": 39,
+    "story_label": 39,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "clapping",
+      "droving",
+      "farming",
+      "high fiving",
+      "holding lamb",
+      "hungry",
+      "leading",
+      "sacrificing",
+      "slopping"
+    ],
+    "settings": [
+      "farm"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_40": {
+    "story_index": 40,
+    "story_label": 40,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "accusing",
+      "blaspheming",
+      "bribing",
+      "corrupting",
+      "insisting",
+      "lawyer",
+      "paying",
+      "running away",
+      "sneaky",
+      "walking with briefcase"
+    ],
+    "settings": [
+      "courthouse",
+      "courthouse exterior"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_41": {
+    "story_index": 41,
+    "story_label": 41,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "evaluating",
+      "making a point",
+      "meditating",
+      "offering a tissue",
+      "on treadmill",
+      "praising",
+      "sweating",
+      "timekeeping",
+      "training",
+      "vain"
+    ],
+    "settings": [
+      "gym"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_42": {
+    "story_index": 42,
+    "story_label": 42,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "alarmed",
+      "assertive",
+      "charging",
+      "confrontational",
+      "destructive",
+      "fainting",
+      "optimistic",
+      "resilient",
+      "spitting",
+      "wounded"
+    ],
+    "settings": [
+      "battlefield"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_43": {
+    "story_index": 43,
+    "story_label": 43,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "bullying",
+      "confrontational",
+      "leaping with sword",
+      "lunging",
+      "riding with determination",
+      "riding with sword drawn",
+      "split in two",
+      "walking a horse"
+    ],
+    "settings": [
+      "battlefield"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_44": {
+    "story_index": 44,
+    "story_label": 44,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "commanding",
+      "cowering",
+      "dead in coffin",
+      "disappointed",
+      "killing for",
+      "mocking clap",
+      "questioning",
+      "saluting",
+      "scared",
+      "screaming"
+    ],
+    "settings": [
+      "battlefield",
+      "graveyard"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_45": {
+    "story_index": 45,
+    "story_label": 45,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "burnt",
+      "drinking",
+      "drinking from bottle",
+      "on fire",
+      "reacting",
+      "rebellious",
+      "running away",
+      "taunting"
+    ],
+    "settings": [
+      "battlefield"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_46": {
+    "story_index": 46,
+    "story_label": 46,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      }
+    },
+    "poses": [
+      "dropping torch",
+      "patriotic",
+      "running away",
+      "scared"
+    ],
+    "settings": [
+      "africa"
+    ],
+    "facings": [
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_47": {
+    "story_index": 47,
+    "story_label": 47,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "arrested",
+      "arresting",
+      "blackbag",
+      "chained",
+      "dropping knife",
+      "proud",
+      "pulling a gun",
+      "scared",
+      "summoning with knife",
+      "threatening"
+    ],
+    "settings": [
+      "dungeon",
+      "graffiti covered wall"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_48": {
+    "story_index": 48,
+    "story_label": 48,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "dropping knife",
+      "pulling a gun",
+      "running away",
+      "scared",
+      "searching pockets",
+      "shooting",
+      "squirting",
+      "summoning with knife",
+      "threatening"
+    ],
+    "settings": [
+      "naples"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_49": {
+    "story_index": 49,
+    "story_label": 49,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "all wet",
+      "banishing",
+      "carrying tray",
+      "catering",
+      "making a point",
+      "sipping",
+      "standing on head",
+      "toasting",
+      "tossing drink"
+    ],
+    "settings": [
+      "sports bar"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_50": {
+    "story_index": 50,
+    "story_label": 50,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      }
+    },
+    "poses": [
+      "casting with rod",
+      "dropping fishing rod",
+      "fishing",
+      "reeling in a tin can",
+      "running away"
+    ],
+    "settings": [
+      "boat dock"
+    ],
+    "facings": [
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_51": {
+    "story_index": 51,
+    "story_label": 51,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "carrying fishbowl",
+      "casting with rod",
+      "fishing",
+      "praying",
+      "proud",
+      "reeling in a tin can"
+    ],
+    "settings": [
+      "boat dock",
+      "living room"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_52": {
+    "story_index": 52,
+    "story_label": 52,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "green",
+            "hair": "green",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "alarmed",
+      "casting with rod",
+      "dropping fishing rod",
+      "fishing",
+      "manipulating",
+      "running away"
+    ],
+    "settings": [
+      "boat dock"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_53": {
+    "story_index": 53,
+    "story_label": 53,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "assertive",
+      "building",
+      "building a high wall",
+      "building a wall",
+      "carrying bricks",
+      "completing a high wall",
+      "destructive",
+      "leaking",
+      "measuring with ruler",
+      "slopping"
+    ],
+    "settings": [
+      "building site"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_54": {
+    "story_index": 54,
+    "story_label": 54,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "building",
+      "building a high wall",
+      "building a wall",
+      "carrying bricks",
+      "completing a high wall",
+      "reading magazine",
+      "reading newspaper",
+      "smoking cigar",
+      "snacking",
+      "spraying paint"
+    ],
+    "settings": [
+      "building site"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_55": {
+    "story_index": 55,
+    "story_label": 55,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      }
+    },
+    "poses": [
+      "breaking mirror",
+      "dressing",
+      "looking in mirror",
+      "sad"
+    ],
+    "settings": [
+      "changing room"
+    ],
+    "facings": [
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_56": {
+    "story_index": 56,
+    "story_label": 56,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      },
+      "Gemma": {
+        "id": "Gemma",
+        "name": "Gemma",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "olive",
+            "hair": "black",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "brainwashed",
+      "exploding",
+      "killing for",
+      "offering",
+      "praying",
+      "preachy",
+      "radicalizing",
+      "rebellious",
+      "sacrificing",
+      "worshipped"
+    ],
+    "settings": [
+      "barcelona",
+      "church"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_57": {
+    "story_index": 57,
+    "story_label": 57,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "angelic",
+      "blessing",
+      "blocking",
+      "dropping dead",
+      "fainting",
+      "hindering",
+      "leaping",
+      "paying",
+      "pleading",
+      "praying",
+      "saintly",
+      "sick"
+    ],
+    "settings": [
+      "church"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_58": {
+    "story_index": 58,
+    "story_label": 58,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "avenging angel",
+      "begging",
+      "blaspheming",
+      "deaf to pleas",
+      "pleading",
+      "praying",
+      "slinging mud",
+      "toppled",
+      "unconscious",
+      "worshipped"
+    ],
+    "settings": [
+      "church"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_59": {
+    "story_index": 59,
+    "story_label": 59,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "chuckling",
+      "clapping",
+      "fainting",
+      "laughing",
+      "mocking clap",
+      "plugging ears",
+      "pulling a gun",
+      "satirizing",
+      "scared",
+      "taunting",
+      "using toy gun",
+      "ventriloquist"
+    ],
+    "settings": [
+      "comedy club"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_60": {
+    "story_index": 60,
+    "story_label": 60,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "blessing",
+      "demonic",
+      "enchanting",
+      "exorcised",
+      "exorcising",
+      "falling off horse",
+      "icarus",
+      "riding",
+      "riding with determination",
+      "saintly"
+    ],
+    "settings": [
+      "dark city",
+      "dark city closeup",
+      "dark city gates"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_61": {
+    "story_index": 61,
+    "story_label": 61,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      }
+    },
+    "poses": [
+      "cautious",
+      "destructive",
+      "riding",
+      "riding while whistling",
+      "riding with determination",
+      "walking a horse"
+    ],
+    "settings": [
+      "dark forest",
+      "forest"
+    ],
+    "facings": [
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_62": {
+    "story_index": 62,
+    "story_label": 62,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "confused",
+      "dragging knuckles",
+      "inspired",
+      "inspiring",
+      "picking up bone",
+      "resilient",
+      "running away",
+      "swinging bone",
+      "taunting",
+      "touching monolith"
+    ],
+    "settings": [
+      "africa",
+      "dawn of man",
+      "dawn of man no monolith"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_63": {
+    "story_index": 63,
+    "story_label": 63,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "confrontational",
+      "convincing",
+      "digging deeper",
+      "disagreeing",
+      "insisting",
+      "introducing oneself",
+      "kicking",
+      "proud",
+      "punching",
+      "regaining consciousness",
+      "silencing",
+      "unconscious"
+    ],
+    "settings": [
+      "debate stage"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_64": {
+    "story_index": 64,
+    "story_label": 64,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      }
+    },
+    "poses": [
+      "exploding",
+      "falling off horse",
+      "hindering",
+      "praying",
+      "riding while whistling",
+      "riding with determination"
+    ],
+    "settings": [
+      "distant volcano",
+      "dormant volcano",
+      "lava",
+      "smoking volcano"
+    ],
+    "facings": [
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_65": {
+    "story_index": 65,
+    "story_label": 65,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "catering",
+      "crawling",
+      "crawling and reaching",
+      "hindering",
+      "riding while blocking sun",
+      "riding while lost",
+      "riding with determination",
+      "unconscious"
+    ],
+    "settings": [
+      "desert",
+      "egypt",
+      "gobi desert",
+      "mongolia"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_66": {
+    "story_index": 66,
+    "story_label": 66,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      }
+    },
+    "poses": [
+      "kneeling while angry",
+      "philosophical",
+      "riding while confused",
+      "riding while crying",
+      "riding with determination",
+      "worried"
+    ],
+    "settings": [
+      "apocalypse",
+      "apocalypse closeup",
+      "apocalypse extreme closeup",
+      "gobi desert"
+    ],
+    "facings": [
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_67": {
+    "story_index": 67,
+    "story_label": 67,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      },
+      "Gemma": {
+        "id": "Gemma",
+        "name": "Gemma",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "olive",
+            "hair": "black",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "confused",
+      "dressing",
+      "drinking coffee",
+      "looking in mirror",
+      "offering coffee",
+      "poking",
+      "running late",
+      "slogging",
+      "smirking",
+      "spilling coffee",
+      "sprinting",
+      "yawning"
+    ],
+    "settings": [
+      "bedroom",
+      "office"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_68": {
+    "story_index": 68,
+    "story_label": 68,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "begging",
+      "chained",
+      "charming",
+      "cracking whip",
+      "defensive",
+      "dropping whip",
+      "fainting",
+      "holding bone",
+      "picking up bone",
+      "whipping",
+      "whistling"
+    ],
+    "settings": [
+      "dungeon",
+      "stone stairs"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_69": {
+    "story_index": 69,
+    "story_label": 69,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "green",
+            "hair": "dark green",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "begging",
+      "defensive",
+      "demon holding fireball",
+      "demonic",
+      "on fire",
+      "pleading",
+      "scared",
+      "slogging"
+    ],
+    "settings": [
+      "dark city",
+      "gates of hell",
+      "marshlands with bodies"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_70": {
+    "story_index": 70,
+    "story_label": 70,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      }
+    },
+    "poses": [
+      "clinching intimately",
+      "eating",
+      "fainting",
+      "scared",
+      "sipping",
+      "smoking cigar"
+    ],
+    "settings": [
+      "bar",
+      "bedroom",
+      "cafeteria",
+      "food truck",
+      "gates of hell",
+      "restaurant exterior"
+    ],
+    "facings": [
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_71": {
+    "story_index": 71,
+    "story_label": 71,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "carrying coffee",
+      "drinking coffee",
+      "drinking coffee with headphones",
+      "escaping",
+      "flexing muscles behind bars",
+      "imprisoned",
+      "spilling coffee"
+    ],
+    "settings": [
+      "dungeon",
+      "dungeon no bars"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_72": {
+    "story_index": 72,
+    "story_label": 72,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      }
+    },
+    "poses": [
+      "drinking concoction",
+      "evaluating",
+      "hulking",
+      "reacting",
+      "transforming"
+    ],
+    "settings": [
+      "laboratory window"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_73": {
+    "story_index": 73,
+    "story_label": 73,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "cutting the cheese",
+      "holding pizza",
+      "kneading dough",
+      "mixing batter",
+      "rollerskating",
+      "tossing pizza",
+      "waving in chef hat"
+    ],
+    "settings": [
+      "pizza oven",
+      "pizza restaurant window"
+    ],
+    "facings": [
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_74": {
+    "story_index": 74,
+    "story_label": 74,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "arrested",
+      "arresting",
+      "drinking coffee",
+      "imprisoned",
+      "photographing",
+      "posing for mugshot",
+      "running off",
+      "shooting",
+      "stealing"
+    ],
+    "settings": [
+      "dungeon no bars",
+      "naples",
+      "police lineup",
+      "police station"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_75": {
+    "story_index": 75,
+    "story_label": 75,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      },
+      "Gemma": {
+        "id": "Gemma",
+        "name": "Gemma",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "olive",
+            "hair": "black",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "applying makeup",
+      "condescending",
+      "directing",
+      "letting dog off leash",
+      "mauled by dog",
+      "proud",
+      "purposeful",
+      "running away",
+      "running off",
+      "shouting",
+      "walking dog on leash"
+    ],
+    "settings": [
+      "north by northwest"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_76": {
+    "story_index": 76,
+    "story_label": 76,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "battered",
+      "letting dog off leash",
+      "mauled by dog",
+      "poking",
+      "preying",
+      "proud",
+      "rewarding",
+      "scary",
+      "stalking",
+      "surprised",
+      "walking dog on leash"
+    ],
+    "settings": [
+      "nightsky"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_77": {
+    "story_index": 77,
+    "story_label": 77,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "defensive",
+      "drinking coffee",
+      "drinking coffee while on phone",
+      "insisting",
+      "passing telephone",
+      "poking",
+      "pouring coffee",
+      "screaming on phone",
+      "scrubbing on knees",
+      "taking notes",
+      "telephoning",
+      "working"
+    ],
+    "settings": [
+      "tech office"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_78": {
+    "story_index": 78,
+    "story_label": 78,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      }
+    },
+    "poses": [
+      "bitter",
+      "confident",
+      "contented",
+      "explaining",
+      "pooped on",
+      "whistling"
+    ],
+    "settings": [
+      "park bench",
+      "rainbow",
+      "statue",
+      "statue with pooping birds"
+    ],
+    "facings": [
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_79": {
+    "story_index": 79,
+    "story_label": 79,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "arresting",
+      "booing",
+      "campaigning",
+      "campaigning against",
+      "disgusted",
+      "gagged",
+      "gagged ventriloquist",
+      "mocking clap",
+      "on soapbox",
+      "plugging ears",
+      "shouting",
+      "silencing"
+    ],
+    "settings": [
+      "police state",
+      "protest march"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_80": {
+    "story_index": 80,
+    "story_label": 80,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "accusing",
+      "angry",
+      "callous",
+      "hit with box",
+      "kicking box",
+      "offering a tissue",
+      "regaining consciousness",
+      "spitting",
+      "throwing box",
+      "unconscious",
+      "voting against",
+      "voting for"
+    ],
+    "settings": [
+      "polling station"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_81": {
+    "story_index": 81,
+    "story_label": 81,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "bowing respectfully",
+      "bullying",
+      "charging",
+      "competing",
+      "competing with",
+      "defensive",
+      "dunking",
+      "falling",
+      "groggy",
+      "mocking clap",
+      "regaining consciousness",
+      "running with ball"
+    ],
+    "settings": [
+      "sports field"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_82": {
+    "story_index": 82,
+    "story_label": 82,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "green",
+            "hair": "green",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "crossing arms",
+      "demanding",
+      "emerging from portal",
+      "examining document",
+      "hungry",
+      "introducing",
+      "presenting document",
+      "purposeful",
+      "stopping",
+      "surprised",
+      "whistling"
+    ],
+    "settings": [
+      "nightsky",
+      "war of the worlds"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_83": {
+    "story_index": 83,
+    "story_label": 83,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "green",
+            "hair": "green",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "alarmed",
+      "crawling and reaching",
+      "defensive",
+      "emerging from portal",
+      "hungry",
+      "jumping into portal",
+      "playing banjo",
+      "playing saxophone",
+      "plugging ears",
+      "singing",
+      "singing loud",
+      "surprised",
+      "whistling"
+    ],
+    "settings": [
+      "nightsky",
+      "war of the worlds"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_84": {
+    "story_index": 84,
+    "story_label": 84,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      }
+    },
+    "poses": [
+      "blocking",
+      "holding mop",
+      "proud",
+      "scrubbing on knees",
+      "throwing water"
+    ],
+    "settings": [
+      "clean toilet",
+      "sparkling toilet",
+      "toilet"
+    ],
+    "facings": [
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_85": {
+    "story_index": 85,
+    "story_label": 85,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "green",
+            "hair": "green",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "biting",
+      "climbing out of toilet",
+      "fainting",
+      "hands on hips",
+      "holding mop",
+      "holding mop as weapon",
+      "holding nose",
+      "kicking",
+      "poking out of toilet",
+      "swinging mop",
+      "unconscious"
+    ],
+    "settings": [
+      "toilet",
+      "toilet no bowl"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_86": {
+    "story_index": 86,
+    "story_label": 86,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "blackbag",
+      "carrying garbage",
+      "disgusted",
+      "eating",
+      "holding nose",
+      "insisting",
+      "put out",
+      "questioning",
+      "rooting in blackbag",
+      "searching"
+    ],
+    "settings": [
+      "muddy rubbish dump"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_87": {
+    "story_index": 87,
+    "story_label": 87,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      }
+    },
+    "poses": [
+      "dropping spray can",
+      "rowing",
+      "spraying bugs",
+      "stepping into rowing boat",
+      "stepping out of rowing boat",
+      "swarmed by mosquitos"
+    ],
+    "settings": [
+      "swamp",
+      "swamp gas",
+      "swamp hollow"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_88": {
+    "story_index": 88,
+    "story_label": 88,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "groggy",
+      "popping pills",
+      "pouring coffee",
+      "regaining consciousness",
+      "running late",
+      "sleepy",
+      "unconscious",
+      "yawning"
+    ],
+    "settings": [
+      "bedroom"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_89": {
+    "story_index": 89,
+    "story_label": 89,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "clapping and singing",
+      "drinking coffee",
+      "hands on hips",
+      "pouring coffee",
+      "serving coffee",
+      "sleepy",
+      "stepping up",
+      "stressed",
+      "thinking",
+      "unconscious",
+      "yawning"
+    ],
+    "settings": [
+      "bedroom",
+      "coffee shop",
+      "office desk"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_90": {
+    "story_index": 90,
+    "story_label": 90,
+    "characters": {
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      },
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      }
+    },
+    "poses": [
+      "angry",
+      "bowing respectfully",
+      "emerging from portal",
+      "enchanting",
+      "farming",
+      "high fiving",
+      "holding wand",
+      "introducing oneself",
+      "laughing",
+      "pigfaced",
+      "scolding",
+      "stepping over"
+    ],
+    "settings": [
+      "kentucky"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_91": {
+    "story_index": 91,
+    "story_label": 91,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "bullying",
+      "campaigning",
+      "campaigning against",
+      "charging",
+      "goading",
+      "offering a tissue",
+      "on soapbox",
+      "patriotic",
+      "screaming",
+      "shouting",
+      "sweating",
+      "voting against",
+      "voting for",
+      "waving flag"
+    ],
+    "settings": [
+      "government",
+      "polling station",
+      "protest march"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_92": {
+    "story_index": 92,
+    "story_label": 92,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "all wet",
+      "burning flag",
+      "campaigning",
+      "campaigning against",
+      "dropping torch",
+      "patriotic",
+      "screaming",
+      "shouting",
+      "squirting",
+      "throwing water",
+      "waving burning flag",
+      "waving flag"
+    ],
+    "settings": [
+      "protest march"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_93": {
+    "story_index": 93,
+    "story_label": 93,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "all wet",
+      "burning flag",
+      "burnt and wet",
+      "campaigning",
+      "campaigning against",
+      "drinking",
+      "on fire",
+      "screaming",
+      "shouting",
+      "throwing water",
+      "tossing drink",
+      "waving flag"
+    ],
+    "settings": [
+      "protest march"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_94": {
+    "story_index": 94,
+    "story_label": 94,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "charming",
+      "discarding book",
+      "drinking in seat",
+      "holding tickets",
+      "inspired by book",
+      "lost",
+      "questioning",
+      "reading",
+      "reading in seat",
+      "reading map",
+      "slogging",
+      "visiting"
+    ],
+    "settings": [
+      "airplane interior",
+      "islam",
+      "map room"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_95": {
+    "story_index": 95,
+    "story_label": 95,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "battered",
+      "blaspheming",
+      "disagreeing",
+      "hit with microphone",
+      "hit with shoe",
+      "insisting",
+      "introducing oneself",
+      "lunging with microphone",
+      "proud",
+      "screaming",
+      "swinging microphone",
+      "wounded"
+    ],
+    "settings": [
+      "debate stage"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_96": {
+    "story_index": 96,
+    "story_label": 96,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "angry",
+      "decapitating",
+      "philosophical",
+      "rewarding",
+      "running away",
+      "running off",
+      "scolding",
+      "slinging mud",
+      "stepping over",
+      "swinging baguette",
+      "walking a dog"
+    ],
+    "settings": [
+      "frankfurt",
+      "guillotine",
+      "paris"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_97": {
+    "story_index": 97,
+    "story_label": 97,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "blessing",
+      "dead in coffin",
+      "exorcising",
+      "hammering",
+      "kicking down door",
+      "preying",
+      "riding with determination",
+      "rising from coffin",
+      "staked thru the heart",
+      "staking",
+      "walking a horse"
+    ],
+    "settings": [
+      "city gates",
+      "crypt",
+      "scotland"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_98": {
+    "story_index": 98,
+    "story_label": 98,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "blowing balloon",
+      "falling with book",
+      "popping balloon",
+      "reading in headphones",
+      "reading on bicycle",
+      "screaming",
+      "silencing",
+      "whispering",
+      "whistling while reading"
+    ],
+    "settings": [
+      "library",
+      "library exterior"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_99": {
+    "story_index": 99,
+    "story_label": 99,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      },
+      "Gemma": {
+        "id": "Gemma",
+        "name": "Gemma",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "olive",
+            "hair": "black",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "accusing with hand over eye",
+      "celebrating",
+      "covering eyes",
+      "cross-examining",
+      "defensive",
+      "frowning",
+      "hit with champagne cork",
+      "holding empty glass",
+      "litigating",
+      "paying sadly",
+      "shrugging",
+      "surprised",
+      "worried"
+    ],
+    "settings": [
+      "courthouse",
+      "courtroom",
+      "office party"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_100": {
+    "story_index": 100,
+    "story_label": 100,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "light brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "applying makeup",
+      "applying spray",
+      "breaking mirror",
+      "chasing with scissors",
+      "condescending",
+      "cutting hair",
+      "looking in mirror while seated",
+      "put out",
+      "reading in seat",
+      "running away",
+      "shrugging",
+      "transported",
+      "whistling"
+    ],
+    "settings": [
+      "beauty salon",
+      "salon interior"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_101": {
+    "story_index": 101,
+    "story_label": 101,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "light brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "arrested",
+      "defensive",
+      "dropping kryptonite",
+      "explaining",
+      "holding kryptonite",
+      "introducing flipped",
+      "introducing oneself",
+      "inviting",
+      "pointing gun with martini",
+      "pulling a gun",
+      "searching",
+      "stroking cat"
+    ],
+    "settings": [
+      "deathstar interior",
+      "secret bunker"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_102": {
+    "story_index": 102,
+    "story_label": 102,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "light brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "corrupting",
+      "devious",
+      "impressed",
+      "introducing flipped",
+      "introducing oneself",
+      "inviting",
+      "searching",
+      "sipping",
+      "sipping martini with olive",
+      "sneaky",
+      "stroking cat",
+      "tipping"
+    ],
+    "settings": [
+      "crypto",
+      "secret bunker"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_103": {
+    "story_index": 103,
+    "story_label": 103,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "carrying tray",
+      "catering",
+      "drinking in seat",
+      "examining document",
+      "falling",
+      "holding tickets",
+      "playing harp with wings",
+      "reading in seat",
+      "serving drink with wings",
+      "spilling drink while seated",
+      "transported"
+    ],
+    "settings": [
+      "airplane interior",
+      "airplane interior during turbulence",
+      "airport",
+      "sun and clouds"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_104": {
+    "story_index": 104,
+    "story_label": 104,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "battered",
+      "shielding behind umbrella",
+      "shielding with umbrella",
+      "swept up",
+      "treating",
+      "using umbrella",
+      "whirlwind"
+    ],
+    "settings": [
+      "clouds",
+      "dam",
+      "hospital",
+      "rain",
+      "rain and clouds",
+      "tornado"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_105": {
+    "story_index": 105,
+    "story_label": 105,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "",
+            "hair": "",
+            "lips": ""
+          }
+        }
+      },
+      "Gemma": {
+        "id": "Gemma",
+        "name": "Gemma",
+        "variants": {
+          "default": {
+            "appearance": "female",
+            "skin": "olive",
+            "hair": "black",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "cheating",
+      "confident",
+      "confused while playing cards",
+      "destructive",
+      "dropping crystal ball",
+      "foretelling",
+      "paying sadly",
+      "playing cards",
+      "profiting",
+      "questioning",
+      "raising while playing cards"
+    ],
+    "settings": [
+      "las vegas",
+      "meditation garden",
+      "sports bar"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_106": {
+    "story_index": 106,
+    "story_label": 106,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      }
+    },
+    "poses": [
+      "communicating in spacesuit",
+      "negotiating in spacesuit",
+      "photographing in spacesuit",
+      "planting flag",
+      "surprised in spacesuit"
+    ],
+    "settings": [
+      "lunar lander ascending from the moon",
+      "lunar lander on the moon"
+    ],
+    "facings": [
+      "right"
+    ],
+    "positions": [
+      "left",
+      "middle",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  },
+  "story_107": {
+    "story_index": 107,
+    "story_label": 107,
+    "characters": {
+      "Alfie": {
+        "id": "Alfie",
+        "name": "Alfie",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "light brown",
+            "hair": "dark brown",
+            "lips": "red"
+          }
+        }
+      },
+      "Betty": {
+        "id": "Betty",
+        "name": "Betty",
+        "variants": {
+          "default": {
+            "appearance": "male",
+            "skin": "green",
+            "hair": "green",
+            "lips": ""
+          }
+        }
+      }
+    },
+    "poses": [
+      "angry",
+      "biting",
+      "condescending",
+      "dropping flashlight",
+      "explaining",
+      "frowning",
+      "hungry",
+      "inspired",
+      "inspiring",
+      "recollecting",
+      "searching",
+      "sneaky",
+      "spitting",
+      "thinking",
+      "whistling"
+    ],
+    "settings": [
+      "stalactite"
+    ],
+    "facings": [
+      "left",
+      "right"
+    ],
+    "positions": [
+      "left",
+      "right"
+    ],
+    "balloon_status": [
+      "speech"
+    ]
+  }
+}
