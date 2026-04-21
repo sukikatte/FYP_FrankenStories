@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures/>
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>experimenting</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>evaluating</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>The reaction is unstable, Alfie. This could be dangerous.</content>
+               </balloon>
+            </right>
+            <below>Alfie conducts an experiment while Betty evaluates the results with concern.</below>
+            <setting>laboratory</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>reacting</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>defensive</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Step back! The chemicals are reacting violently!</content>
+               </balloon>
+            </right>
+            <below>Alfie continues mixing as Betty reacts defensively to the escalating reaction.</below>
+            <setting>laboratory</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>exploding</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <below>The mixture explodes, sending Alfie flying across the lab.</below>
+            <setting>laboratory</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>throwing water</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>on fire</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Betty throws water on Alfie to extinguish the flames engulfing him.</below>
+            <setting>laboratory</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>all wet</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>dispatched</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Stay here! I'll get help from the hospital!</content>
+               </balloon>
+            </right>
+            <below>Soaking wet and injured, Alfie remains while Betty rushes for medical assistance.</below>
+            <setting>laboratory</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>running away</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>hospital prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Betty runs toward the hospital exterior to find help for Alfie.</below>
+            <setting>hospital exterior</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>operating</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>unconscious</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Medical staff operate on an unconscious Alfie while Betty assists.</below>
+            <setting>hospital</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>regaining consciousness</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>drinking coffee</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>You're awake! How do you feel?</content>
+               </balloon>
+            </right>
+            <below>Alfie awakens in the hospital bed as Betty drinks coffee nearby.</below>
+            <setting>hospital</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>broken legs</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>on crutch</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Both your legs are broken, but you'll recover.</content>
+               </balloon>
+            </right>
+            <below>Alfie sits in a wheelchair while Betty explains his injuries.</below>
+            <setting>hospital</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

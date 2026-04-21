@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures></figures>
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>experimenting</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>evaluating</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Betty conducts an experiment while Alfie observes.</below>
+            <setting>laboratory</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>reacting</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>defensive</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>The mixture begins to react violently.</below>
+            <setting>laboratory</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>running away</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>on fire</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>A sudden explosion sets Alfie on fire.</below>
+            <setting>laboratory</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>throwing water</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>all wet</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Betty douses Alfie with a bucket of water.</below>
+            <setting>laboratory</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>defensive</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>unconscious</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie collapses unconscious; Betty calls an ambulance.</below>
+            <setting>laboratory</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>dispatched</pose>
+                  <facing>right</facing>
+               </figure>
+            </middle>
+            <below>Betty rushes to the hospital.</below>
+            <setting>hospital exterior</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>unconscious</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>evaluating</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie lies in a coma in the hospital.</below>
+            <setting>hospital</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>regaining consciousness</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>defensive</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Alfie! I'm so sorry!</content>
+               </balloon>
+            </right>
+            <below>Alfie awakens to Betty's apology.</below>
+            <setting>hospital</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>swallowing</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>It's okay... accidents happen.</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>defensive</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie forgives Betty.</below>
+            <setting>hospital</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

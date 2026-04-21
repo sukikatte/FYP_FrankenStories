@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>breakfasting</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>drinking coffee</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Good morning, Alfie!</content>
+               </balloon>
+            </right>
+            <below>Alfie and Betty have breakfast together in the kitchen.</below>
+            <setting>kitchen</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>evaluating</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>mixing</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I'm making your favorite smoothie!</content>
+               </balloon>
+            </right>
+            <below>Betty starts preparing a smoothie while Alfie checks his phone.</below>
+            <setting>kitchen</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>reacting</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>throwing water</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Gotcha!</content>
+               </balloon>
+            </right>
+            <below>Betty playfully throws water at Alfie.</below>
+            <setting>kitchen</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>all wet</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Ahh, you got me!</content>
+               </balloon>
+            </middle>
+            <below>Alfie stands in the kitchen, soaked from the water.</below>
+            <setting>kitchen</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>cycling</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>rollerskating</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Race you to the park!</content>
+               </balloon>
+            </right>
+            <below>Alfie and Betty decide to have a race to the park.</below>
+            <setting>gravel path</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>falling off bicycle</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>falling on rollerskates</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Whoa, are you okay?</content>
+               </balloon>
+            </right>
+            <below>Both Alfie and Betty fall during their race.</below>
+            <setting>gravel path</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>on crutch</pose>
+                  <facing>right</facing>
+               </figure>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>on crutch</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I think we need to walk from here.</content>
+               </balloon>
+            </middle>
+            <below>Alfie and Betty decide to walk after their falls.</below>
+            <setting>gravel path</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>defensive</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>defensive</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I'm not going to lose this argument!</content>
+               </balloon>
+            </right>
+            <below>Alfie and Betty get into a defensive argument.</below>
+            <setting>park bench</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

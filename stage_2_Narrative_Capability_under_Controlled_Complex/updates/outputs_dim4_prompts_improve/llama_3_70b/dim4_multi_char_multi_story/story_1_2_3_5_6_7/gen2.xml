@@ -1,0 +1,293 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>breakfasting</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>drinking coffee</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Good morning, Alfie!</content>
+               </balloon>
+            </right>
+            <below>Alfie and Betty have breakfast together in the kitchen.</below>
+            <setting>kitchen</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>evaluating</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>mixing</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I'm making your favorite smoothie!</content>
+               </balloon>
+            </right>
+            <below>Betty starts preparing a smoothie while Alfie checks his phone.</below>
+            <setting>kitchen</setting>
+         </panel>
+
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>reacting</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Wow, that looks amazing!</content>
+               </balloon>
+            </middle>
+            <below>Alfie reacts to the smoothie Betty made for him.</below>
+            <setting>kitchen</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>cycling</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>running away</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Catch me if you can!</content>
+               </balloon>
+            </right>
+            <below>Alfie and Betty decide to have a fun race in the park.</below>
+            <setting>park bench</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>falling off bicycle</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>defensive</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Are you okay, Alfie?</content>
+               </balloon>
+            </right>
+            <below>Alfie falls off his bicycle during the race.</below>
+            <setting>park bench</setting>
+         </panel>
+
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>regaining consciousness</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I think I need to get up...</content>
+               </balloon>
+            </middle>
+            <below>Alfie starts to get up after falling off his bicycle.</below>
+            <setting>park bench</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>helping Alfie up</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>on crutch</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Thanks for helping me, Betty!</content>
+               </balloon>
+            </right>
+            <below>Betty helps Alfie up after his fall.</below>
+            <setting>park bench</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>smoking cigar</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>lighting cigar</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Celebrating our fun day!</content>
+               </balloon>
+            </right>
+            <below>Alfie and Betty celebrate their fun day with cigars.</below>
+            <setting>park bench</setting>
+         </panel>
+
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>yawning</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I'm getting a bit tired...</content>
+               </balloon>
+            </middle>
+            <below>Alfie starts to feel tired after their long day.</below>
+            <setting>park bench</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <skin></skin>
+                  <hair></hair>
+                  <lips></lips>
+                  <pose>on soapbox</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>plugging ears</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>I'm trying to give a speech, Alfie!</content>
+               </balloon>
+            </right>
+            <below>Betty tries to give a speech, but Alfie is not interested.</below>
+            <setting>park bench</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

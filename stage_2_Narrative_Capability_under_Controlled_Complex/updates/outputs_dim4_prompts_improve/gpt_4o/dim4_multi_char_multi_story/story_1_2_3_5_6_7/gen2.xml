@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>cycling</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>walking</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Watch out, Alfie!</content>
+               </balloon>
+            </right>
+            <below>Alfie is cycling towards Betty on the boulevard.</below>
+            <setting>boulevard</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>falling off bicycle</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Whoa!</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>defensive</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie loses balance and falls off his bicycle.</below>
+            <setting>boulevard</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>on crutch</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>evaluating</pose>
+                  <facing>left</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Are you okay, Alfie?</content>
+               </balloon>
+            </right>
+            <below>Betty checks on Alfie who is now on crutches.</below>
+            <setting>hospital exterior</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>yawning</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Just a bit tired, but I'll be fine.</content>
+               </balloon>
+            </middle>
+            <below>Alfie reassures Betty with a yawn.</below>
+            <setting>hospital</setting>
+         </panel>
+         <panel>
+            <left>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>mixing</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Let me make you some tea.</content>
+               </balloon>
+            </left>
+            <right>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>drinking coffee</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Betty prepares tea while Alfie drinks coffee.</below>
+            <setting>kitchen</setting>
+         </panel>
+         <panel>
+            <middle>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>on soapbox</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Remember, safety first!</content>
+               </balloon>
+            </middle>
+            <below>Betty gives a safety speech to a small crowd.</below>
+            <setting>school hallway</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>

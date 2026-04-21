@@ -1,0 +1,192 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<comic>
+   <figures>
+   </figures>
+
+   <scenes>
+      <scene>
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>cycling</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>reading on bicycle</pose>
+                  <facing>left</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>Watch out, Alfie!</content>
+               </balloon>
+            </right>
+
+            <below>Alfie and Betty cycle down the boulevard.</below>
+
+            <setting>boulevard</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>falling off bicycle</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>defensive</pose>
+                  <facing>left</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>Oh no, are you okay?</content>
+               </balloon>
+            </right>
+
+            <below>Alfie falls off his bicycle as Betty watches in shock.</below>
+
+            <setting>boulevard</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>on crutch</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>evaluating</pose>
+                  <facing>left</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>Let's get you to the hospital.</content>
+               </balloon>
+            </right>
+
+            <below>Betty helps Alfie who is now on crutches.</below>
+
+            <setting>hospital exterior</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>broken legs</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>experimenting</pose>
+                  <facing>left</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>The doctor will see you now.</content>
+               </balloon>
+            </right>
+
+            <below>Alfie waits in a wheelchair as Betty talks to the doctor.</below>
+
+            <setting>hospital</setting>
+         </panel>
+
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>regaining consciousness</pose>
+                  <facing>left</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>I'm feeling much better now, thank you!</content>
+               </balloon>
+            </middle>
+
+            <below>Alfie recovers after treatment at the hospital.</below>
+
+            <setting>hospital</setting>
+         </panel>
+
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>breakfasting</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <id>Betty</id>
+                  <name>Betty</name>
+                  <appearance>female</appearance>
+                  <pose>drinking coffee</pose>
+                  <facing>left</facing>
+               </figure>
+
+               <balloon status="speech">
+                  <content>Glad to have you back on your feet!</content>
+               </balloon>
+            </right>
+
+            <below>Alfie and Betty enjoy breakfast together.</below>
+
+            <setting>kitchen</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>
