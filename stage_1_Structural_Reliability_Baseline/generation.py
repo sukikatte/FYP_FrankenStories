@@ -18,7 +18,7 @@ from openai import OpenAI
 # Paths / resources
 ROOT = Path(__file__).resolve().parent
 SEEDS_FILE = ROOT / "seeds" / "story_seeds.json"
-ELEMENT_LIBRARY_FILE = ROOT / "element_library.json"
+ELEMENT_LIBRARY_FILE = ROOT / "library" / "element_library.json"
 TEMPLATE_FILE = ROOT / "template.xml"
 OUTPUT_BASE = ROOT / "outputs"
 

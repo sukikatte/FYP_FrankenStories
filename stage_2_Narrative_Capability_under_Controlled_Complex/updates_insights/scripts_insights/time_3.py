@@ -36,7 +36,7 @@ XML_DECLARATION = '<?xml version="1.0" encoding="UTF-8"?>'
 SCRIPT_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = SCRIPT_DIR.parent
 POSE_EXP_DIR = PROJECT_ROOT / "constrained_4dim_pose_db"
-SPEC_STORY_ELEMENTS_DIR = PROJECT_ROOT / "spec_story_elements"
+SPEC_STORY_ELEMENTS_DIR = PROJECT_ROOT / "spec_library"
 TEMPLATE_FILE = PROJECT_ROOT / "template.xml"
 _XLSX_DEFAULT = PROJECT_ROOT / "pose database.xlsx"
 DEFAULT_POSE_DB = _XLSX_DEFAULT if _XLSX_DEFAULT.exists() else (POSE_EXP_DIR / "pose_database.json")

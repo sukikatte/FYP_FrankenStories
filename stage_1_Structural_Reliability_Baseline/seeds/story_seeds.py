@@ -28,8 +28,8 @@ OPENAI_API_KEY = ""
 OPENAI_BASE_URL = ""  # Optional; leave empty for official endpoint
 MODEL_ID = "gpt-4.1"
 
-ROOT = Path(__file__).resolve().parent
-ELEMENT_LIBRARY_FILE = ROOT / "element_library.json"
+ROOT = Path(__file__).resolve().parents[1]
+ELEMENT_LIBRARY_FILE = ROOT / "library" / "element_library.json"
 OUTPUT_FILE = ROOT / "seeds" / "story_seeds_generated.json"
 
 

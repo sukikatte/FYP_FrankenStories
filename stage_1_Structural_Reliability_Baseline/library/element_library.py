@@ -151,7 +151,7 @@ def build_element_library(spec_path: Path):
 
 
 def main():
-    spec_path = Path("../specification.xml")
+    spec_path = Path(__file__).resolve().parents[2] / "specification.xml"
     output_path = Path("element_library_output.json")
     library = build_element_library(spec_path)
     output_path.write_text(json.dumps(library, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")

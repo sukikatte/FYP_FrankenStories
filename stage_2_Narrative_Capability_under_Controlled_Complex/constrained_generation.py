@@ -29,7 +29,7 @@ TOGETHER_MODEL_DEEPSEEK_R1 = "deepseek-ai/DeepSeek-R1"
 TOGETHER_MODEL_LLAMA = "meta-llama/Llama-3.3-70B-Instruct-Turbo"
 
 ROOT = Path(__file__).resolve().parent
-SPEC_STORY_ELEMENTS_DIR = ROOT / "spec_story_elements"
+SPEC_STORY_ELEMENTS_DIR = ROOT / "spec_library"
 TEMPLATE_FILE = ROOT / "template.xml"
 OUTPUT_BASE = ROOT / "outputs_constrained"
 
