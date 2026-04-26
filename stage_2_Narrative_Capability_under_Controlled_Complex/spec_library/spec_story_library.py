@@ -158,7 +158,7 @@ def main() -> None:
     parser.add_argument(
         "--out-dir",
         default=str(Path(__file__).resolve().parent),
-        help="Directory to write story_*.json and all_stories_elements.json",
+        help="Directory to write story_*.json and all_stories_library.json",
     )
     parser.add_argument(
         "--overwrite",
