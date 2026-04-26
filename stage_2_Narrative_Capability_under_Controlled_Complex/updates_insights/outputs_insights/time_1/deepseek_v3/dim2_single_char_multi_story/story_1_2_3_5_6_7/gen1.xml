@@ -1,0 +1,177 @@
+Here is the complete ComicXML following all constraints:
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<comic>
+   <figures>
+      <figure>
+         <id>Alfie</id>
+         <name>Alfie</name>
+         <appearance>male</appearance>
+         <skin>light brown</skin>
+         <hair>dark brown</hair>
+         <lips>red</lips>
+      </figure>
+   </figures>
+
+   <scenes>
+      <scene>
+         <!-- Panel 1: Setup -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>breakfasting</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>horse prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie eats breakfast while his horse waits impatiently</below>
+            <setting>kitchen</setting>
+         </panel>
+
+         <!-- Panel 2: Conflict -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>riding</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>horse prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie rides his horse through the countryside</below>
+            <setting>boulevard</setting>
+         </panel>
+
+         <!-- Panel 3: Complication -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>falling off horse</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>horse prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie falls off his horse and injures himself</below>
+            <setting>gravel path</setting>
+         </panel>
+
+         <!-- Panel 4: Consequences -->
+         <panel>
+            <middle>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>broken legs</pose>
+                  <facing>right</facing>
+               </figure>
+               <balloon status="speech">
+                  <content>Ouch! My legs!</content>
+               </balloon>
+            </middle>
+            <below>Alfie sits in a wheelchair with two broken legs</below>
+            <setting>hospital</setting>
+         </panel>
+
+         <!-- Panel 5: Recovery -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>on crutch</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>horse prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie hobbles around on crutches while his horse watches</below>
+            <setting>hospital exterior</setting>
+         </panel>
+
+         <!-- Panel 6: Resolution -->
+         <panel>
+            <left>
+               <figure>
+                  <id>Alfie</id>
+                  <name>Alfie</name>
+                  <appearance>male</appearance>
+                  <skin>light brown</skin>
+                  <hair>dark brown</hair>
+                  <lips>red</lips>
+                  <pose>defensive</pose>
+                  <facing>right</facing>
+               </figure>
+            </left>
+            <right>
+               <figure>
+                  <appearance>default</appearance>
+                  <skin>default</skin>
+                  <hair>default</hair>
+                  <pose>horse prop</pose>
+                  <facing>left</facing>
+               </figure>
+            </right>
+            <below>Alfie cautiously approaches his horse again</below>
+            <setting>park bench</setting>
+         </panel>
+      </scene>
+   </scenes>
+</comic>
+```

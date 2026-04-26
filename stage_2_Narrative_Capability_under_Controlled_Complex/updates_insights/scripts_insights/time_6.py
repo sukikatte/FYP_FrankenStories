@@ -14,30 +14,21 @@ from typing import Any, Dict, List
 
 import openai
 
-# ---------------------------------------------------------------------------
 # CONFIG — paste keys and model ids here
-# ---------------------------------------------------------------------------
 OPENAI_API_KEY = ""
 TOGETHER_API_KEY = ""
 
-# Leave empty to use the official OpenAI endpoint; set only if you use a custom base.
 OPENAI_BASE_URL = ""
 TOGETHER_BASE_URL = "https://api.together.xyz/v1"
 
 # API model strings (change if your account uses different slugs)
 OPENAI_MODEL_GPT41 = "gpt-4.1"
 OPENAI_MODEL_GPT4O = "gpt-4o"
-# DeepSeek-V3.1 on Together is commonly offered as **serverless** (check your dashboard for the exact id).
-# It is not byte-identical to older DeepSeek-V3 checkpoints, but it is the closest practical successor
-# in the same model family for this project pipeline.
 TOGETHER_MODEL_DEEPSEEK_V3 = "deepseek-ai/DeepSeek-V3.1"
 TOGETHER_MODEL_DEEPSEEK_R1 = "deepseek-ai/DeepSeek-R1"
 TOGETHER_MODEL_LLAMA = "meta-llama/Llama-3.3-70B-Instruct-Turbo"
 
-# ComicXML for 6–12 panels + dialogue often exceeds 4k completion tokens; raise if outputs truncate.
 MAX_TOKENS = 8192
-# If the first reply still has no closing </comic>, retry once with this cap (lower if your provider errors).
-MAX_TOKENS_RETRY = 16384
 TEMPERATURE = 0.4
 SLEEP_BETWEEN_CALLS = 1.0
 
@@ -47,11 +38,11 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = SCRIPT_DIR.parent
 POSE_EXP_DIR = PROJECT_ROOT / "constrained_4dim_pose_db"
 SPEC_STORY_ELEMENTS_DIR = PROJECT_ROOT / "spec_story_elements"
-TEMPLATE_FILE = POSE_EXP_DIR / "template.xml"
+TEMPLATE_FILE = PROJECT_ROOT / "template.xml"
 _XLSX_DEFAULT = PROJECT_ROOT / "pose database.xlsx"
 DEFAULT_POSE_DB = _XLSX_DEFAULT if _XLSX_DEFAULT.exists() else (POSE_EXP_DIR / "pose_database.json")
 
-OUTPUT_BASE = PROJECT_ROOT / "outputs_dim4_speech_openai_together"
+OUTPUT_BASE = PROJECT_ROOT / "outputs_insights" / "time_6"
 DIMENSION_ID = "dim4_multi_char_multi_story"
 
 DEFAULT_POSE_FALLBACK_DESCRIPTION = (
@@ -285,29 +276,35 @@ ComicXML template (STRUCTURE GUIDE, not actual values):
 IMPORTANT CONSTRAINTS:
 1. XML must be well-formed (proper tag closure and nesting).
 2. XML must follow the template structure (no missing required elements).
-3. Use only elements (characters, poses, settings, positions, facings, balloon_status) from
-   the element library above. For **poses**, each entry is `CANONICAL_NAME (description)`.
-   The canonical name may contain spaces; it is the substring **before the first ` (`**
-   (space + opening parenthesis). Put **only** that canonical name inside `<pose>...</pose>`,
-   never the parenthetical description.
-4. You MAY reuse elements across panels, but do not invent new ones.
-5. Panel count must be between 6 and 12.
-6. For multi-character dimensions, most panels should contain multiple characters.
-7. Pay close attention to facing directions in multi-character panels.
-8. If two characters are in a face-to-face conversation across left and right positions, the usual orientation is:
+3. **STRICT LIBRARY ENFORCEMENT (HIGHEST PRIORITY):** Use ONLY elements from the provided library (characters, poses, settings, positions, facings, balloon_status). Never invent new values.
+4. For **poses**, each entry is `CANONICAL_NAME (description)`. The canonical name may contain spaces; it is the substring **before the first ` (`** (space + opening parenthesis). Put **only** that canonical pose name inside `<pose>...</pose>`, never the parenthetical description.
+5. **Character variant fields:** For character figures, keep `appearance/skin/hair/lips` consistent with allowed library variants. If a field is empty in the library variant, write an empty tag (e.g., `<skin></skin>`). **Never write `default` for character skin/hair/lips.**
+6. You MAY reuse elements across panels, but do not invent new ones.
+7. Panel count must be between 6 and 12.
+8. For multi-character dimensions, most panels should contain multiple characters.
+9. Pay close attention to facing directions in multi-character panels.
+10. **Side-by-side motion rule (HIGH PRIORITY):** If two characters are moving shoulder-to-shoulder in the same direction (e.g., riding side by side, walking side by side, running side by side), they must face the **same** direction in that panel.
+   - Example (moving to the right): left character facing="right", right character facing="right"
+   - Example (moving to the left): left character facing="left", right character facing="left"
+   - Do NOT force face-to-face orientation in side-by-side travel shots.
+11. **Character Position Consistency Rule (HIGH PRIORITY):** Maintain consistent visual positioning across panels when both characters co-appear.
+   - Default mapping: **Alfie on `left`**, **Betty on `right`**.
+   - Keep this left/right assignment stable across the story whenever both are present.
+   - Only change this arrangement when the narrative explicitly requires it (e.g., chasing/crossing paths, confrontation repositioning, camera-reversal shot, or explicit scene transition), and mention the reason in `<below>` or dialogue.
+12. If two characters are in a face-to-face conversation across left and right positions, the usual orientation is:
    - left-position character: facing="right"
    - right-position character: facing="left"
-9. In non-conversational or non-face-to-face situations, choose facing directions according to the narrative context of that panel.
-10. **Cast visibility across panels (multi-character dimensions):**
+13. In non-conversational or non-face-to-face situations, choose facing directions according to the narrative context of that panel.
+14. **Cast visibility across panels (multi-character dimensions):**
    - Default: If panel N and panel N+1 depict the **same ongoing scene** and the **same interaction or conversation** continues, keep the **same characters visibly on stage** in panel N+1 unless the story motivates a change.
    - Do **not** drop a co-present character between adjacent panels **without a clear diegetic reason** (e.g. they exit on-panel, the `<below>` caption states a time jump or location change, or the dialogue explicitly addresses their absence).
    - A **single-character panel** is allowed when: (a) the story **explicitly** moves to a new beat with only one character; (b) a `<below>` caption states a transition; or (c) the plot states the other character left or is off-screen for a named reason.
    - After **physical actions involving two characters** (rescuing, dousing, grabbing, face-to-face dialogue), the **next panel should normally still show both**, repositioned if needed, rather than removing one character for a solo middle composition without motivation.
-11. **Layout:** When two characters are **co-present in the same narrative beat**, prefer **left+right** (or **left+middle+right**) over a **solo `<middle>`** panel. Do not use solo middle only to emphasize a speech balloon if both characters should still be in the scene.
-12. **`<below>` captions:** For panels where **multiple characters share a beat** (especially immediately after joint action or dialogue), write each relevant `<below>` so it **mentions where each of them is** (stance or position relative to the other), not only one of them — unless a transition or solo beat is intentional and stated in that caption.
-13. **Global story logic and continuity:** The whole comic must read as one coherent story arc (setup -> development -> consequence/resolution), not disconnected moments. Maintain clear cause-effect links across adjacent panels. If the story changes location, time, or cast composition, explicitly signal that change in `<below>` and/or dialogue.
-14. **Element whitelist (strict):** Do not output any out-of-library value, including near-synonyms or morphology variants (e.g. `laughing` when only `reacting` exists). If an intended action is unavailable, pick the closest allowed element from the provided library.
-15. **Cross-panel position consistency (multi-character dimensions):** If the same two characters continue the same interaction across adjacent panels in the same scene, keep their screen sides stable by default (the character on `left` stays on `left`, `right` stays on `right`). Only swap sides when there is a clear motivated reason (camera reversal, explicit movement across frame, cut/transition), and state that change in `<below>` or dialogue.
+15. **Layout:** When two characters are **co-present in the same narrative beat**, prefer **left+right** (or **left+middle+right**) over a **solo `<middle>`** panel. Do not use solo middle only to emphasize a speech balloon if both characters should still be in the scene.
+16. **`<below>` captions:** For panels where **multiple characters share a beat** (especially immediately after joint action or dialogue), write each relevant `<below>` so it **mentions where each of them is** (stance or position relative to the other), not only one of them — unless a transition or solo beat is intentional and stated in that caption.
+17. **Global story logic and continuity:** The whole comic must read as one coherent story arc (setup -> development -> consequence/resolution), not disconnected moments. Maintain clear cause-effect links across adjacent panels. If the story changes location, time, or cast composition, explicitly signal that change in `<below>` and/or dialogue.
+18. **Element whitelist (strict):** Do not output any out-of-library value, including near-synonyms or morphology variants (e.g. `laughing` when only `reacting` exists). If an intended action is unavailable, pick the closest allowed element from the provided library.
+19. **Cross-panel position consistency (multi-character dimensions):** If the same two characters continue the same interaction across adjacent panels in the same scene, keep their screen sides stable by default (the character on `left` stays on `left`, `right` stays on `right`). Only swap sides when there is a clear motivated reason (camera reversal, explicit movement across frame, cut/transition), and state that change in `<below>` or dialogue.
 
 Output:
 - Return ONLY the final <comic> XML, no extra explanation.
@@ -317,14 +314,14 @@ Output:
 
 def inject_speech_constraints(prompt: str) -> str:
     extra = (
-        "16. **Speech coverage (default):** Unless the scene is explicitly and naturally non-verbal "
+        "20. **Speech coverage (default):** Unless the scene is explicitly and naturally non-verbal "
         "(e.g., establishing shot, silent transition, purely physical action beat), include speech content "
         "in the panel.\n"
-        "17. **One speech per panel:** Each panel should contain at most ONE `<balloon status=\"speech\">` "
+        "21. **One speech per panel:** Each panel should contain at most ONE `<balloon status=\"speech\">` "
         "with one `<content>`.\n"
-        "18. **Dialogue distribution:** If a conversation is longer, spread it across multiple panels "
+        "22. **Dialogue distribution:** If a conversation is longer, spread it across multiple panels "
         "rather than adding multiple speech balloons in one panel.\n"
-        "19. **`<below>` brevity:** Keep each `<below>` to ONE concise sentence. Do not add speculative "
+        "23. **`<below>` brevity:** Keep each `<below>` to ONE concise sentence. Do not add speculative "
         "details that are not supported by the panel context.\n"
     )
     marker = "\nOutput:\n"
@@ -380,24 +377,21 @@ def chat_completion(client: openai.OpenAI, model: str, messages: list, max_token
         params["max_completion_tokens"] = max_tokens
     else:
         params["max_tokens"] = max_tokens
-    for attempt in range(3):
-        try:
-            resp = client.chat.completions.create(**params)
-            choice = resp.choices[0]
-            content = (choice.message.content or "").strip()
-            fr = getattr(choice, "finish_reason", None)
-            if fr == "length":
-                print(
-                    f"[WARN] Completion hit max_tokens limit (finish_reason=length, cap={max_tokens}). "
-                    "Increase MAX_TOKENS / MAX_TOKENS_RETRY or shorten the prompt."
-                )
-            if content:
-                return content
-            print(f"[WARN] Empty content, attempt {attempt + 1}")
-        except Exception as e:
-            print(f"[WARN] API call failed attempt {attempt + 1}: {e}")
-        time.sleep(2.0)
-    raise RuntimeError("API call failed after 3 attempts or returned empty content.")
+    try:
+        resp = client.chat.completions.create(**params)
+        choice = resp.choices[0]
+        content = (choice.message.content or "").strip()
+        fr = getattr(choice, "finish_reason", None)
+        if fr == "length":
+            print(
+                f"[WARN] Completion hit max_tokens limit (finish_reason=length, cap={max_tokens}). "
+                "Increase MAX_TOKENS or shorten the prompt."
+            )
+        if content:
+            return content
+        raise RuntimeError("API returned empty content.")
+    except Exception as e:
+        raise RuntimeError(f"API call failed: {e}") from e
 
 
 def pick_client(
@@ -494,14 +488,6 @@ def main() -> None:
             print(f"  -> gen {gen_idx}/{gen_per_model} ...")
             try:
                 raw = chat_completion(client, api_model, messages, MAX_TOKENS, TEMPERATURE)
-                if "</comic>" not in raw.lower():
-                    print(
-                        f"     [WARN] First pass missing </comic>; retrying with "
-                        f"max_tokens={MAX_TOKENS_RETRY} ..."
-                    )
-                    raw = chat_completion(
-                        client, api_model, messages, MAX_TOKENS_RETRY, TEMPERATURE
-                    )
             except RuntimeError as e:
                 out_err = (
                     OUTPUT_BASE
