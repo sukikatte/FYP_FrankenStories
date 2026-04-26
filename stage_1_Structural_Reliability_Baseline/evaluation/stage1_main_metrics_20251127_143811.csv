@@ -1,0 +1,11 @@
+﻿Model,Method,XML Well-formedness,Schema Validity,Content Validity,Hallucination Rate,Variant Consistency,Redundancy Rate,Diversity Score,Avg Panels,N
+gpt-4,MethodA,1.000,1.000,0.802,0.198,0.600,0.412,0.831,3.0,20
+gpt-4,MethodB,1.000,1.000,0.968,0.032,0.932,0.439,0.853,5.7,20
+o1,MethodA,0.400,0.700,0.699,0.301,0.637,0.256,0.566,2.6,20
+o1,MethodB,0.400,0.700,0.699,0.301,0.600,0.267,0.537,2.8,20
+DeepSeek-R1-Distill-Qwen-7B,MethodA,0.350,0.500,0.341,0.609,0.500,0.159,0.368,1.9,20
+DeepSeek-R1-Distill-Qwen-7B,MethodB,0.500,0.500,0.153,0.847,0.000,0.151,0.402,1.2,20
+DeepSeek-V3,MethodA,1.000,1.000,0.982,0.018,0.983,0.316,0.876,4.2,20
+DeepSeek-V3,MethodB,1.000,1.000,0.990,0.010,0.977,0.338,0.767,4.5,20
+llama-3.3-70b,MethodA,1.000,1.000,0.928,0.072,1.000,0.347,0.853,3.0,20
+llama-3.3-70b,MethodB,1.000,1.000,0.949,0.051,1.000,0.369,0.860,3.1,20
