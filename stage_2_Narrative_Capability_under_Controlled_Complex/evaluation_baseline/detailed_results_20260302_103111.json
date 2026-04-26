@@ -1,0 +1,6541 @@
+[
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim1_single_char_single_story/story_5/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 66,
+      "valid_elements": 66,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "llama_3_70b",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "5"
+  },
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim1_single_char_single_story/story_5/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 115,
+      "valid_elements": 115,
+      "hallucinated_elements": [],
+      "panel_count": 9
+    },
+    "model": "llama_3_70b",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "5"
+  },
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim1_single_char_single_story/story_2/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 87,
+      "valid_elements": 87,
+      "hallucinated_elements": [],
+      "panel_count": 8
+    },
+    "model": "llama_3_70b",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "2"
+  },
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim1_single_char_single_story/story_2/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 72,
+      "valid_elements": 72,
+      "hallucinated_elements": [],
+      "panel_count": 7
+    },
+    "model": "llama_3_70b",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "2"
+  },
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim1_single_char_single_story/story_3/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": false,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 82,
+      "valid_elements": 82,
+      "hallucinated_elements": [],
+      "panel_count": 5
+    },
+    "model": "llama_3_70b",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "3"
+  },
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim1_single_char_single_story/story_3/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": false,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 82,
+      "valid_elements": 82,
+      "hallucinated_elements": [],
+      "panel_count": 5
+    },
+    "model": "llama_3_70b",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "3"
+  },
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim1_single_char_single_story/story_6/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 116,
+      "valid_elements": 116,
+      "hallucinated_elements": [],
+      "panel_count": 9
+    },
+    "model": "llama_3_70b",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "6"
+  },
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim1_single_char_single_story/story_6/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 95,
+      "valid_elements": 95,
+      "hallucinated_elements": [],
+      "panel_count": 7
+    },
+    "model": "llama_3_70b",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "6"
+  },
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim1_single_char_single_story/story_7/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 0.9886363636363636,
+    "hallucination_rate": 0.011363636363636364,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [
+        [
+          "sitting on park bench",
+          "pose",
+          "Scene1_Panel4_left"
+        ]
+      ],
+      "total_elements": 88,
+      "valid_elements": 87,
+      "hallucinated_elements": [
+        [
+          "pose",
+          "sitting on park bench",
+          "Scene1_Panel4_left"
+        ]
+      ],
+      "panel_count": 8
+    },
+    "model": "llama_3_70b",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "7"
+  },
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim1_single_char_single_story/story_7/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 77,
+      "valid_elements": 77,
+      "hallucinated_elements": [],
+      "panel_count": 7
+    },
+    "model": "llama_3_70b",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "7"
+  },
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim2_single_char_multi_story/story_5_6/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 93,
+      "valid_elements": 93,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "llama_3_70b",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "5_6"
+  },
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim2_single_char_multi_story/story_5_6/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 115,
+      "valid_elements": 115,
+      "hallucinated_elements": [],
+      "panel_count": 9
+    },
+    "model": "llama_3_70b",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "5_6"
+  },
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim2_single_char_multi_story/story_1_2_3/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 95,
+      "valid_elements": 95,
+      "hallucinated_elements": [],
+      "panel_count": 8
+    },
+    "model": "llama_3_70b",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "1_2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim2_single_char_multi_story/story_1_2_3/gen1.xml",
+    "well_formed": false,
+    "schema_valid": false,
+    "content_validity_ratio": 0.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": false,
+    "multi_character_ratio": null,
+    "errors": [
+      "Tag mismatch: 143 opening tags, 142 closing tags",
+      "XML parse error: mismatched tag: line 211, column 11"
+    ],
+    "details": {},
+    "model": "llama_3_70b",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "1_2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim2_single_char_multi_story/story_5_7/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 99,
+      "valid_elements": 99,
+      "hallucinated_elements": [],
+      "panel_count": 9
+    },
+    "model": "llama_3_70b",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "5_7"
+  },
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim2_single_char_multi_story/story_5_7/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 99,
+      "valid_elements": 99,
+      "hallucinated_elements": [],
+      "panel_count": 9
+    },
+    "model": "llama_3_70b",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "5_7"
+  },
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim2_single_char_multi_story/story_2_3/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 128,
+      "valid_elements": 128,
+      "hallucinated_elements": [],
+      "panel_count": 12
+    },
+    "model": "llama_3_70b",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim2_single_char_multi_story/story_2_3/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 0.9705882352941176,
+    "hallucination_rate": 0.029411764705882353,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel3_left"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel3_left"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel3_left"
+        ]
+      ],
+      "total_elements": 102,
+      "valid_elements": 99,
+      "hallucinated_elements": [
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel3_left"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel3_left"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel3_left"
+        ]
+      ],
+      "panel_count": 9
+    },
+    "model": "llama_3_70b",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim2_single_char_multi_story/story_5_6_7/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 97,
+      "valid_elements": 97,
+      "hallucinated_elements": [],
+      "panel_count": 9
+    },
+    "model": "llama_3_70b",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "5_6_7"
+  },
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim2_single_char_multi_story/story_5_6_7/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 130,
+      "valid_elements": 130,
+      "hallucinated_elements": [],
+      "panel_count": 12
+    },
+    "model": "llama_3_70b",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "5_6_7"
+  },
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim3_multi_char_single_story/story_5/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.625,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 115,
+      "valid_elements": 115,
+      "hallucinated_elements": [],
+      "panel_count": 8
+    },
+    "model": "llama_3_70b",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "5"
+  },
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim3_multi_char_single_story/story_5/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.6666666666666666,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 89,
+      "valid_elements": 89,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "llama_3_70b",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "5"
+  },
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim3_multi_char_single_story/story_2/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 83,
+      "valid_elements": 83,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "llama_3_70b",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "2"
+  },
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim3_multi_char_single_story/story_2/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5714285714285714,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 101,
+      "valid_elements": 101,
+      "hallucinated_elements": [],
+      "panel_count": 7
+    },
+    "model": "llama_3_70b",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "2"
+  },
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim3_multi_char_single_story/story_3/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 78,
+      "valid_elements": 78,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "llama_3_70b",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "3"
+  },
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim3_multi_char_single_story/story_3/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 81,
+      "valid_elements": 81,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "llama_3_70b",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "3"
+  },
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim3_multi_char_single_story/story_6/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5714285714285714,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 101,
+      "valid_elements": 101,
+      "hallucinated_elements": [],
+      "panel_count": 7
+    },
+    "model": "llama_3_70b",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "6"
+  },
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim3_multi_char_single_story/story_6/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5555555555555556,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 120,
+      "valid_elements": 120,
+      "hallucinated_elements": [],
+      "panel_count": 9
+    },
+    "model": "llama_3_70b",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "6"
+  },
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim3_multi_char_single_story/story_7/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 0.9724770642201835,
+    "hallucination_rate": 0.027522935779816515,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5,
+    "errors": [],
+    "details": {
+      "invalid_elements": [
+        [
+          "sitting on park bench",
+          "pose",
+          "Scene1_Panel4_middle"
+        ],
+        [
+          "standing",
+          "pose",
+          "Scene1_Panel5_right"
+        ],
+        [
+          "walking",
+          "pose",
+          "Scene1_Panel7_left"
+        ]
+      ],
+      "total_elements": 109,
+      "valid_elements": 106,
+      "hallucinated_elements": [
+        [
+          "pose",
+          "sitting on park bench",
+          "Scene1_Panel4_middle"
+        ],
+        [
+          "pose",
+          "standing",
+          "Scene1_Panel5_right"
+        ],
+        [
+          "pose",
+          "walking",
+          "Scene1_Panel7_left"
+        ]
+      ],
+      "panel_count": 8
+    },
+    "model": "llama_3_70b",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "7"
+  },
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim3_multi_char_single_story/story_7/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.6666666666666666,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 90,
+      "valid_elements": 90,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "llama_3_70b",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "7"
+  },
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim4_multi_char_multi_story/story_5_6/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 140,
+      "valid_elements": 140,
+      "hallucinated_elements": [],
+      "panel_count": 10
+    },
+    "model": "llama_3_70b",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "5_6"
+  },
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim4_multi_char_multi_story/story_5_6/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.6666666666666666,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 135,
+      "valid_elements": 135,
+      "hallucinated_elements": [],
+      "panel_count": 9
+    },
+    "model": "llama_3_70b",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "5_6"
+  },
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim4_multi_char_multi_story/story_1_2_3/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.6,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 143,
+      "valid_elements": 143,
+      "hallucinated_elements": [],
+      "panel_count": 10
+    },
+    "model": "llama_3_70b",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "1_2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim4_multi_char_multi_story/story_1_2_3/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5454545454545454,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 157,
+      "valid_elements": 157,
+      "hallucinated_elements": [],
+      "panel_count": 11
+    },
+    "model": "llama_3_70b",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "1_2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim4_multi_char_multi_story/story_5_7/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5555555555555556,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 129,
+      "valid_elements": 129,
+      "hallucinated_elements": [],
+      "panel_count": 9
+    },
+    "model": "llama_3_70b",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "5_7"
+  },
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim4_multi_char_multi_story/story_5_7/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.625,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 118,
+      "valid_elements": 118,
+      "hallucinated_elements": [],
+      "panel_count": 8
+    },
+    "model": "llama_3_70b",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "5_7"
+  },
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim4_multi_char_multi_story/story_2_3/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.6363636363636364,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 160,
+      "valid_elements": 160,
+      "hallucinated_elements": [],
+      "panel_count": 11
+    },
+    "model": "llama_3_70b",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim4_multi_char_multi_story/story_2_3/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5555555555555556,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 127,
+      "valid_elements": 127,
+      "hallucinated_elements": [],
+      "panel_count": 9
+    },
+    "model": "llama_3_70b",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim4_multi_char_multi_story/story_5_6_7/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5454545454545454,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 154,
+      "valid_elements": 154,
+      "hallucinated_elements": [],
+      "panel_count": 11
+    },
+    "model": "llama_3_70b",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "5_6_7"
+  },
+  {
+    "file": "outputs_constrained_4dim/llama_3_70b/dim4_multi_char_multi_story/story_5_6_7/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.6,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 143,
+      "valid_elements": 143,
+      "hallucinated_elements": [],
+      "panel_count": 10
+    },
+    "model": "llama_3_70b",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "5_6_7"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_7b/dim1_single_char_single_story/story_2/gen2.xml",
+    "well_formed": true,
+    "schema_valid": false,
+    "content_validity_ratio": 0.85,
+    "hallucination_rate": 0.15,
+    "panel_compliant": false,
+    "multi_character_ratio": null,
+    "errors": [
+      "Scene 1, Panel 1: <below> element is empty",
+      "Scene 1, Panel 2: <below> element is empty",
+      "Scene 1, Panel 3: <below> element is empty",
+      "Scene 1, Panel 4: <below> element is empty"
+    ],
+    "details": {
+      "invalid_elements": [
+        [
+          "Gravel path",
+          "setting",
+          "Scene1_Panel1"
+        ],
+        [
+          "falling",
+          "pose",
+          "Scene1_Panel1_left"
+        ],
+        [
+          "Gravel path",
+          "setting",
+          "Scene1_Panel2"
+        ],
+        [
+          "lying off a horse",
+          "pose",
+          "Scene1_Panel2_middle"
+        ],
+        [
+          "Gravel path",
+          "setting",
+          "Scene1_Panel3"
+        ],
+        [
+          "Gravel path",
+          "setting",
+          "Scene1_Panel4"
+        ]
+      ],
+      "total_elements": 40,
+      "valid_elements": 34,
+      "hallucinated_elements": [
+        [
+          "setting",
+          "Gravel path",
+          "Scene1_Panel1"
+        ],
+        [
+          "pose",
+          "falling",
+          "Scene1_Panel1_left"
+        ],
+        [
+          "setting",
+          "Gravel path",
+          "Scene1_Panel2"
+        ],
+        [
+          "pose",
+          "lying off a horse",
+          "Scene1_Panel2_middle"
+        ],
+        [
+          "setting",
+          "Gravel path",
+          "Scene1_Panel3"
+        ],
+        [
+          "setting",
+          "Gravel path",
+          "Scene1_Panel4"
+        ]
+      ],
+      "panel_count": 4
+    },
+    "model": "deepseek_7b",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "2"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_7b/dim1_single_char_single_story/story_2/gen1.xml",
+    "well_formed": false,
+    "schema_valid": false,
+    "content_validity_ratio": 0.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": false,
+    "multi_character_ratio": null,
+    "errors": [
+      "XML parse error: unclosed token: line 8, column 9"
+    ],
+    "details": {},
+    "model": "deepseek_7b",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "2"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_7b/dim1_single_char_single_story/story_3/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 66,
+      "valid_elements": 66,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "deepseek_7b",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "3"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_7b/dim1_single_char_single_story/story_3/gen1.xml",
+    "well_formed": false,
+    "schema_valid": false,
+    "content_validity_ratio": 0.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": false,
+    "multi_character_ratio": null,
+    "errors": [
+      "Tag mismatch: 74 opening tags, 53 closing tags",
+      "XML parse error: not well-formed (invalid token): line 14, column 23"
+    ],
+    "details": {},
+    "model": "deepseek_7b",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "3"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_7b/dim2_single_char_multi_story/story_1_2_3/gen2.xml",
+    "well_formed": false,
+    "schema_valid": false,
+    "content_validity_ratio": 0.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": false,
+    "multi_character_ratio": null,
+    "errors": [
+      "Tag mismatch: 158 opening tags, 155 closing tags",
+      "XML parse error: not well-formed (invalid token): line 102, column 37"
+    ],
+    "details": {},
+    "model": "deepseek_7b",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "1_2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_7b/dim2_single_char_multi_story/story_1_2_3/gen1.xml",
+    "well_formed": false,
+    "schema_valid": false,
+    "content_validity_ratio": 0.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": false,
+    "multi_character_ratio": null,
+    "errors": [
+      "Tag mismatch: 108 opening tags, 90 closing tags",
+      "XML parse error: not well-formed (invalid token): line 18, column 30"
+    ],
+    "details": {},
+    "model": "deepseek_7b",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "1_2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_7b/dim2_single_char_multi_story/story_2_3/gen2.xml",
+    "well_formed": true,
+    "schema_valid": false,
+    "content_validity_ratio": 0.7941176470588235,
+    "hallucination_rate": 0.20588235294117646,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [
+      "Scene 1, Panel 1, left: Figure missing <pose>",
+      "Scene 1, Panel 1, left: Figure missing <facing>",
+      "Scene 1, Panel 2, left: Figure missing <pose>",
+      "Scene 1, Panel 2, left: Figure missing <facing>",
+      "Scene 1, Panel 2, middle: Figure missing <pose>",
+      "Scene 1, Panel 2, middle: Figure missing <facing>",
+      "Scene 1, Panel 3, left: Figure missing <pose>",
+      "Scene 1, Panel 3, left: Figure missing <facing>",
+      "Scene 1, Panel 4, left: Figure missing <pose>",
+      "Scene 1, Panel 4, left: Figure missing <facing>",
+      "Scene 1, Panel 5, left: Figure missing <pose>",
+      "Scene 1, Panel 5, left: Figure missing <facing>",
+      "Scene 1, Panel 6, left: Figure missing <pose>",
+      "Scene 1, Panel 6, left: Figure missing <facing>"
+    ],
+    "details": {
+      "invalid_elements": [
+        [
+          "",
+          "appearance",
+          "Scene1_Panel1_left"
+        ],
+        [
+          "",
+          "appearance",
+          "Scene1_Panel2_left"
+        ],
+        [
+          "",
+          "appearance",
+          "Scene1_Panel2_middle"
+        ],
+        [
+          "",
+          "appearance",
+          "Scene1_Panel3_left"
+        ],
+        [
+          "",
+          "appearance",
+          "Scene1_Panel4_left"
+        ],
+        [
+          "",
+          "appearance",
+          "Scene1_Panel5_left"
+        ],
+        [
+          "",
+          "appearance",
+          "Scene1_Panel6_left"
+        ]
+      ],
+      "total_elements": 34,
+      "valid_elements": 27,
+      "hallucinated_elements": [
+        [
+          "appearance",
+          "",
+          "Scene1_Panel1_left"
+        ],
+        [
+          "appearance",
+          "",
+          "Scene1_Panel2_left"
+        ],
+        [
+          "appearance",
+          "",
+          "Scene1_Panel2_middle"
+        ],
+        [
+          "appearance",
+          "",
+          "Scene1_Panel3_left"
+        ],
+        [
+          "appearance",
+          "",
+          "Scene1_Panel4_left"
+        ],
+        [
+          "appearance",
+          "",
+          "Scene1_Panel5_left"
+        ],
+        [
+          "appearance",
+          "",
+          "Scene1_Panel6_left"
+        ]
+      ],
+      "panel_count": 6
+    },
+    "model": "deepseek_7b",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_7b/dim2_single_char_multi_story/story_2_3/gen1.xml",
+    "well_formed": false,
+    "schema_valid": false,
+    "content_validity_ratio": 0.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": false,
+    "multi_character_ratio": null,
+    "errors": [
+      "Tag mismatch: 264 opening tags, 246 closing tags",
+      "XML parse error: not well-formed (invalid token): line 17, column 50"
+    ],
+    "details": {},
+    "model": "deepseek_7b",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_7b/dim3_multi_char_single_story/story_2/gen2.xml",
+    "well_formed": false,
+    "schema_valid": false,
+    "content_validity_ratio": 0.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": false,
+    "multi_character_ratio": null,
+    "errors": [
+      "Tag mismatch: 129 opening tags, 90 closing tags",
+      "XML parse error: mismatched tag: line 57, column 14"
+    ],
+    "details": {},
+    "model": "deepseek_7b",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "2"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_7b/dim3_multi_char_single_story/story_2/gen1.xml",
+    "well_formed": true,
+    "schema_valid": false,
+    "content_validity_ratio": 0.6666666666666666,
+    "hallucination_rate": 0.3333333333333333,
+    "panel_compliant": false,
+    "multi_character_ratio": 1.0,
+    "errors": [
+      "Scene 1, Panel 1: Missing <setting> element",
+      "Scene 2: No <panel> elements found"
+    ],
+    "details": {
+      "invalid_elements": [
+        [
+          "",
+          "appearance",
+          "Scene1_Panel1_left"
+        ],
+        [
+          "standing",
+          "pose",
+          "Scene1_Panel1_left"
+        ],
+        [
+          "",
+          "appearance",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "holding an umbrella",
+          "pose",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "",
+          "appearance",
+          "Scene3_Panel1_left"
+        ],
+        [
+          "giving a book to Betty",
+          "pose",
+          "Scene3_Panel1_left"
+        ],
+        [
+          "",
+          "appearance",
+          "Scene3_Panel1_right"
+        ],
+        [
+          "accepting the book",
+          "pose",
+          "Scene3_Panel1_right"
+        ]
+      ],
+      "total_elements": 24,
+      "valid_elements": 16,
+      "hallucinated_elements": [
+        [
+          "appearance",
+          "",
+          "Scene1_Panel1_left"
+        ],
+        [
+          "pose",
+          "standing",
+          "Scene1_Panel1_left"
+        ],
+        [
+          "appearance",
+          "",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "pose",
+          "holding an umbrella",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "appearance",
+          "",
+          "Scene3_Panel1_left"
+        ],
+        [
+          "pose",
+          "giving a book to Betty",
+          "Scene3_Panel1_left"
+        ],
+        [
+          "appearance",
+          "",
+          "Scene3_Panel1_right"
+        ],
+        [
+          "pose",
+          "accepting the book",
+          "Scene3_Panel1_right"
+        ]
+      ],
+      "panel_count": 2
+    },
+    "model": "deepseek_7b",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "2"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_7b/dim3_multi_char_single_story/story_3/gen2.xml",
+    "well_formed": false,
+    "schema_valid": false,
+    "content_validity_ratio": 0.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": false,
+    "multi_character_ratio": null,
+    "errors": [
+      "Tag mismatch: 158 opening tags, 90 closing tags",
+      "XML parse error: not well-formed (invalid token): line 17, column 30"
+    ],
+    "details": {},
+    "model": "deepseek_7b",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "3"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_7b/dim3_multi_char_single_story/story_3/gen1.xml",
+    "well_formed": true,
+    "schema_valid": false,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.0,
+    "errors": [
+      "Scene 1, Panel 1, middle: Figure missing <pose>",
+      "Scene 1, Panel 1, middle: Figure missing <facing>",
+      "Scene 1, Panel 1: <below> element is empty",
+      "Scene 2, Panel 1, middle: Figure missing <pose>",
+      "Scene 2, Panel 1, middle: Figure missing <facing>",
+      "Scene 2, Panel 1: <below> element is empty",
+      "Scene 3, Panel 1, left: Figure missing <pose>",
+      "Scene 3, Panel 1, left: Figure missing <facing>",
+      "Scene 3, Panel 1, right: Figure missing <pose>",
+      "Scene 3, Panel 1, right: Figure missing <facing>",
+      "Scene 3, Panel 1: <below> element is empty",
+      "Scene 4, Panel 1, left: Figure missing <pose>",
+      "Scene 4, Panel 1, left: Figure missing <facing>",
+      "Scene 4, Panel 1, middle: Figure missing <pose>",
+      "Scene 4, Panel 1, middle: Figure missing <facing>",
+      "Scene 4, Panel 1: <below> element is empty",
+      "Scene 5, Panel 1, left: Figure missing <pose>",
+      "Scene 5, Panel 1, left: Figure missing <facing>",
+      "Scene 5, Panel 1, right: Figure missing <pose>",
+      "Scene 5, Panel 1, right: Figure missing <facing>",
+      "Scene 5, Panel 1: <below> element is empty",
+      "Scene 6, Panel 1, left: Figure missing <pose>",
+      "Scene 6, Panel 1, left: Figure missing <facing>",
+      "Scene 6, Panel 1, middle: Figure missing <pose>",
+      "Scene 6, Panel 1, middle: Figure missing <facing>",
+      "Scene 6, Panel 1: <below> element is empty"
+    ],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 16,
+      "valid_elements": 16,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "deepseek_7b",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "3"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_7b/dim4_multi_char_multi_story/story_1_2_3/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 0.8153846153846154,
+    "hallucination_rate": 0.18461538461538463,
+    "panel_compliant": false,
+    "multi_character_ratio": 1.0,
+    "errors": [],
+    "details": {
+      "invalid_elements": [
+        [
+          "standing",
+          "pose",
+          "Scene1_Panel1_left"
+        ],
+        [
+          "lying down",
+          "pose",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "dressed",
+          "pose",
+          "Scene2_Panel1_left"
+        ],
+        [
+          "standing",
+          "pose",
+          "Scene2_Panel1_right"
+        ],
+        [
+          "eating",
+          "pose",
+          "Scene3_Panel1_left"
+        ],
+        [
+          "eating",
+          "pose",
+          "Scene3_Panel1_right"
+        ],
+        [
+          "hospital room",
+          "setting",
+          "Scene4_Panel1"
+        ],
+        [
+          "lying down",
+          "pose",
+          "Scene4_Panel1_left"
+        ],
+        [
+          "running",
+          "pose",
+          "Scene4_Panel1_right"
+        ],
+        [
+          "hospital room",
+          "setting",
+          "Scene5_Panel1"
+        ],
+        [
+          "dressed",
+          "pose",
+          "Scene5_Panel1_left"
+        ],
+        [
+          "leaving",
+          "pose",
+          "Scene5_Panel1_right"
+        ]
+      ],
+      "total_elements": 65,
+      "valid_elements": 53,
+      "hallucinated_elements": [
+        [
+          "pose",
+          "standing",
+          "Scene1_Panel1_left"
+        ],
+        [
+          "pose",
+          "lying down",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "pose",
+          "dressed",
+          "Scene2_Panel1_left"
+        ],
+        [
+          "pose",
+          "standing",
+          "Scene2_Panel1_right"
+        ],
+        [
+          "pose",
+          "eating",
+          "Scene3_Panel1_left"
+        ],
+        [
+          "pose",
+          "eating",
+          "Scene3_Panel1_right"
+        ],
+        [
+          "setting",
+          "hospital room",
+          "Scene4_Panel1"
+        ],
+        [
+          "pose",
+          "lying down",
+          "Scene4_Panel1_left"
+        ],
+        [
+          "pose",
+          "running",
+          "Scene4_Panel1_right"
+        ],
+        [
+          "setting",
+          "hospital room",
+          "Scene5_Panel1"
+        ],
+        [
+          "pose",
+          "dressed",
+          "Scene5_Panel1_left"
+        ],
+        [
+          "pose",
+          "leaving",
+          "Scene5_Panel1_right"
+        ]
+      ],
+      "panel_count": 5
+    },
+    "model": "deepseek_7b",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "1_2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_7b/dim4_multi_char_multi_story/story_1_2_3/gen1.xml",
+    "well_formed": false,
+    "schema_valid": false,
+    "content_validity_ratio": 0.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": false,
+    "multi_character_ratio": null,
+    "errors": [
+      "Tag mismatch: 170 opening tags, 135 closing tags",
+      "XML parse error: not well-formed (invalid token): line 33, column 33"
+    ],
+    "details": {},
+    "model": "deepseek_7b",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "1_2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_7b/dim4_multi_char_multi_story/story_2_3/gen2.xml",
+    "well_formed": false,
+    "schema_valid": false,
+    "content_validity_ratio": 0.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": false,
+    "multi_character_ratio": null,
+    "errors": [
+      "Tag mismatch: 44 opening tags, 39 closing tags",
+      "XML parse error: not well-formed (invalid token): line 29, column 24"
+    ],
+    "details": {},
+    "model": "deepseek_7b",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_7b/dim4_multi_char_multi_story/story_2_3/gen1.xml",
+    "well_formed": true,
+    "schema_valid": false,
+    "content_validity_ratio": 0.8055555555555556,
+    "hallucination_rate": 0.19444444444444445,
+    "panel_compliant": true,
+    "multi_character_ratio": 1.0,
+    "errors": [
+      "Scene 1, Panel 1: Missing <setting> element",
+      "Scene 2, Panel 1: Missing <setting> element",
+      "Scene 3, Panel 1: Missing <setting> element",
+      "Scene 4, Panel 1: Missing <setting> element",
+      "Scene 5, Panel 1: Missing <setting> element",
+      "Scene 6, Panel 1: Missing <setting> element"
+    ],
+    "details": {
+      "invalid_elements": [
+        [
+          "",
+          "appearance",
+          "Scene1_Panel1_left"
+        ],
+        [
+          "",
+          "appearance",
+          "Scene1_Panel1_middle"
+        ],
+        [
+          "",
+          "appearance",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "",
+          "appearance",
+          "Scene2_Panel1_left"
+        ],
+        [
+          "",
+          "appearance",
+          "Scene2_Panel1_middle"
+        ],
+        [
+          "",
+          "appearance",
+          "Scene2_Panel1_right"
+        ],
+        [
+          "",
+          "appearance",
+          "Scene3_Panel1_left"
+        ],
+        [
+          "",
+          "appearance",
+          "Scene3_Panel1_middle"
+        ],
+        [
+          "",
+          "appearance",
+          "Scene3_Panel1_right"
+        ],
+        [
+          "",
+          "appearance",
+          "Scene4_Panel1_left"
+        ],
+        [
+          "",
+          "appearance",
+          "Scene4_Panel1_middle"
+        ],
+        [
+          "chasing",
+          "pose",
+          "Scene4_Panel1_middle"
+        ],
+        [
+          "",
+          "appearance",
+          "Scene4_Panel1_right"
+        ],
+        [
+          "",
+          "appearance",
+          "Scene5_Panel1_left"
+        ],
+        [
+          "",
+          "appearance",
+          "Scene5_Panel1_middle"
+        ],
+        [
+          "prop",
+          "pose",
+          "Scene5_Panel1_middle"
+        ],
+        [
+          "",
+          "appearance",
+          "Scene5_Panel1_right"
+        ],
+        [
+          "",
+          "appearance",
+          "Scene6_Panel1_left"
+        ],
+        [
+          "",
+          "appearance",
+          "Scene6_Panel1_middle"
+        ],
+        [
+          "dispatching",
+          "pose",
+          "Scene6_Panel1_middle"
+        ],
+        [
+          "",
+          "appearance",
+          "Scene6_Panel1_right"
+        ]
+      ],
+      "total_elements": 108,
+      "valid_elements": 87,
+      "hallucinated_elements": [
+        [
+          "appearance",
+          "",
+          "Scene1_Panel1_left"
+        ],
+        [
+          "appearance",
+          "",
+          "Scene1_Panel1_middle"
+        ],
+        [
+          "appearance",
+          "",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "appearance",
+          "",
+          "Scene2_Panel1_left"
+        ],
+        [
+          "appearance",
+          "",
+          "Scene2_Panel1_middle"
+        ],
+        [
+          "appearance",
+          "",
+          "Scene2_Panel1_right"
+        ],
+        [
+          "appearance",
+          "",
+          "Scene3_Panel1_left"
+        ],
+        [
+          "appearance",
+          "",
+          "Scene3_Panel1_middle"
+        ],
+        [
+          "appearance",
+          "",
+          "Scene3_Panel1_right"
+        ],
+        [
+          "appearance",
+          "",
+          "Scene4_Panel1_left"
+        ],
+        [
+          "appearance",
+          "",
+          "Scene4_Panel1_middle"
+        ],
+        [
+          "pose",
+          "chasing",
+          "Scene4_Panel1_middle"
+        ],
+        [
+          "appearance",
+          "",
+          "Scene4_Panel1_right"
+        ],
+        [
+          "appearance",
+          "",
+          "Scene5_Panel1_left"
+        ],
+        [
+          "appearance",
+          "",
+          "Scene5_Panel1_middle"
+        ],
+        [
+          "pose",
+          "prop",
+          "Scene5_Panel1_middle"
+        ],
+        [
+          "appearance",
+          "",
+          "Scene5_Panel1_right"
+        ],
+        [
+          "appearance",
+          "",
+          "Scene6_Panel1_left"
+        ],
+        [
+          "appearance",
+          "",
+          "Scene6_Panel1_middle"
+        ],
+        [
+          "pose",
+          "dispatching",
+          "Scene6_Panel1_middle"
+        ],
+        [
+          "appearance",
+          "",
+          "Scene6_Panel1_right"
+        ]
+      ],
+      "panel_count": 6
+    },
+    "model": "deepseek_7b",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim1_single_char_single_story/story_5/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 0.9571428571428572,
+    "hallucination_rate": 0.04285714285714286,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel4_right"
+        ]
+      ],
+      "total_elements": 70,
+      "valid_elements": 67,
+      "hallucinated_elements": [
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel4_right"
+        ]
+      ],
+      "panel_count": 6
+    },
+    "model": "deepseek_r1",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "5"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim1_single_char_single_story/story_5/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 65,
+      "valid_elements": 65,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "deepseek_r1",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "5"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim1_single_char_single_story/story_2/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 87,
+      "valid_elements": 87,
+      "hallucinated_elements": [],
+      "panel_count": 8
+    },
+    "model": "deepseek_r1",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "2"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim1_single_char_single_story/story_2/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 73,
+      "valid_elements": 73,
+      "hallucinated_elements": [],
+      "panel_count": 7
+    },
+    "model": "deepseek_r1",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "2"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim1_single_char_single_story/story_3/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 0.9210526315789473,
+    "hallucination_rate": 0.07894736842105263,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel3_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel3_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel3_right"
+        ],
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel5_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel5_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel5_right"
+        ]
+      ],
+      "total_elements": 76,
+      "valid_elements": 70,
+      "hallucinated_elements": [
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel3_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel3_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel3_right"
+        ],
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel5_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel5_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel5_right"
+        ]
+      ],
+      "panel_count": 6
+    },
+    "model": "deepseek_r1",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "3"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim1_single_char_single_story/story_3/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 0.9666666666666667,
+    "hallucination_rate": 0.03333333333333333,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel3_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel3_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel3_right"
+        ]
+      ],
+      "total_elements": 90,
+      "valid_elements": 87,
+      "hallucinated_elements": [
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel3_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel3_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel3_right"
+        ]
+      ],
+      "panel_count": 8
+    },
+    "model": "deepseek_r1",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "3"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim1_single_char_single_story/story_6/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 66,
+      "valid_elements": 66,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "deepseek_r1",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "6"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim1_single_char_single_story/story_6/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 0.9625,
+    "hallucination_rate": 0.0375,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel4_right"
+        ]
+      ],
+      "total_elements": 80,
+      "valid_elements": 77,
+      "hallucinated_elements": [
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel4_right"
+        ]
+      ],
+      "panel_count": 6
+    },
+    "model": "deepseek_r1",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "6"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim1_single_char_single_story/story_7/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 65,
+      "valid_elements": 65,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "deepseek_r1",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "7"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim1_single_char_single_story/story_7/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 87,
+      "valid_elements": 87,
+      "hallucinated_elements": [],
+      "panel_count": 8
+    },
+    "model": "deepseek_r1",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "7"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim2_single_char_multi_story/story_5_6/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 75,
+      "valid_elements": 75,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "deepseek_r1",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "5_6"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim2_single_char_multi_story/story_5_6/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 65,
+      "valid_elements": 65,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "deepseek_r1",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "5_6"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim2_single_char_multi_story/story_1_2_3/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 100,
+      "valid_elements": 100,
+      "hallucinated_elements": [],
+      "panel_count": 10
+    },
+    "model": "deepseek_r1",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "1_2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim2_single_char_multi_story/story_1_2_3/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 82,
+      "valid_elements": 82,
+      "hallucinated_elements": [],
+      "panel_count": 8
+    },
+    "model": "deepseek_r1",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "1_2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim2_single_char_multi_story/story_5_7/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 66,
+      "valid_elements": 66,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "deepseek_r1",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "5_7"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim2_single_char_multi_story/story_5_7/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 86,
+      "valid_elements": 86,
+      "hallucinated_elements": [],
+      "panel_count": 8
+    },
+    "model": "deepseek_r1",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "5_7"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim2_single_char_multi_story/story_2_3/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 86,
+      "valid_elements": 86,
+      "hallucinated_elements": [],
+      "panel_count": 8
+    },
+    "model": "deepseek_r1",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim2_single_char_multi_story/story_2_3/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 60,
+      "valid_elements": 60,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "deepseek_r1",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim2_single_char_multi_story/story_5_6_7/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 84,
+      "valid_elements": 84,
+      "hallucinated_elements": [],
+      "panel_count": 8
+    },
+    "model": "deepseek_r1",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "5_6_7"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim2_single_char_multi_story/story_5_6_7/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 88,
+      "valid_elements": 88,
+      "hallucinated_elements": [],
+      "panel_count": 8
+    },
+    "model": "deepseek_r1",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "5_6_7"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim3_multi_char_single_story/story_5/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.625,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 113,
+      "valid_elements": 113,
+      "hallucinated_elements": [],
+      "panel_count": 8
+    },
+    "model": "deepseek_r1",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "5"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim3_multi_char_single_story/story_5/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.3333333333333333,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 71,
+      "valid_elements": 71,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "deepseek_r1",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "5"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim3_multi_char_single_story/story_2/gen2.xml",
+    "well_formed": false,
+    "schema_valid": false,
+    "content_validity_ratio": 0.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": false,
+    "multi_character_ratio": null,
+    "errors": [
+      "XML parse error: not well-formed (invalid token): line 191, column 0"
+    ],
+    "details": {},
+    "model": "deepseek_r1",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "2"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim3_multi_char_single_story/story_2/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 80,
+      "valid_elements": 80,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "deepseek_r1",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "2"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim3_multi_char_single_story/story_3/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.7142857142857143,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 103,
+      "valid_elements": 103,
+      "hallucinated_elements": [],
+      "panel_count": 7
+    },
+    "model": "deepseek_r1",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "3"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim3_multi_char_single_story/story_3/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.6666666666666666,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 86,
+      "valid_elements": 86,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "deepseek_r1",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "3"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim3_multi_char_single_story/story_6/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.8571428571428571,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 113,
+      "valid_elements": 113,
+      "hallucinated_elements": [],
+      "panel_count": 7
+    },
+    "model": "deepseek_r1",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "6"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim3_multi_char_single_story/story_6/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.75,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 124,
+      "valid_elements": 124,
+      "hallucinated_elements": [],
+      "panel_count": 8
+    },
+    "model": "deepseek_r1",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "6"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim3_multi_char_single_story/story_7/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 99,
+      "valid_elements": 99,
+      "hallucinated_elements": [],
+      "panel_count": 8
+    },
+    "model": "deepseek_r1",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "7"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim3_multi_char_single_story/story_7/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 81,
+      "valid_elements": 81,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "deepseek_r1",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "7"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim4_multi_char_multi_story/story_5_6/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.6666666666666666,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 87,
+      "valid_elements": 87,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "deepseek_r1",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "5_6"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim4_multi_char_multi_story/story_5_6/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.75,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 122,
+      "valid_elements": 122,
+      "hallucinated_elements": [],
+      "panel_count": 8
+    },
+    "model": "deepseek_r1",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "5_6"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim4_multi_char_multi_story/story_1_2_3/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 0.9646017699115044,
+    "hallucination_rate": 0.035398230088495575,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5,
+    "errors": [],
+    "details": {
+      "invalid_elements": [
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel3_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel3_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel3_right"
+        ],
+        [
+          "wheelchair prop",
+          "pose",
+          "Scene1_Panel3_right"
+        ]
+      ],
+      "total_elements": 113,
+      "valid_elements": 109,
+      "hallucinated_elements": [
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel3_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel3_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel3_right"
+        ],
+        [
+          "pose",
+          "wheelchair prop",
+          "Scene1_Panel3_right"
+        ]
+      ],
+      "panel_count": 8
+    },
+    "model": "deepseek_r1",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "1_2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim4_multi_char_multi_story/story_1_2_3/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.75,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 123,
+      "valid_elements": 123,
+      "hallucinated_elements": [],
+      "panel_count": 8
+    },
+    "model": "deepseek_r1",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "1_2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim4_multi_char_multi_story/story_5_7/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 109,
+      "valid_elements": 109,
+      "hallucinated_elements": [],
+      "panel_count": 8
+    },
+    "model": "deepseek_r1",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "5_7"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim4_multi_char_multi_story/story_5_7/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.75,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 120,
+      "valid_elements": 120,
+      "hallucinated_elements": [],
+      "panel_count": 8
+    },
+    "model": "deepseek_r1",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "5_7"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim4_multi_char_multi_story/story_2_3/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.625,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 113,
+      "valid_elements": 113,
+      "hallucinated_elements": [],
+      "panel_count": 8
+    },
+    "model": "deepseek_r1",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim4_multi_char_multi_story/story_2_3/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 108,
+      "valid_elements": 108,
+      "hallucinated_elements": [],
+      "panel_count": 8
+    },
+    "model": "deepseek_r1",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim4_multi_char_multi_story/story_5_6_7/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 0.9574468085106383,
+    "hallucination_rate": 0.0425531914893617,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5,
+    "errors": [],
+    "details": {
+      "invalid_elements": [
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel7_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel7_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel7_right"
+        ],
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel10_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel10_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel10_right"
+        ]
+      ],
+      "total_elements": 141,
+      "valid_elements": 135,
+      "hallucinated_elements": [
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel7_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel7_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel7_right"
+        ],
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel10_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel10_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel10_right"
+        ]
+      ],
+      "panel_count": 10
+    },
+    "model": "deepseek_r1",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "5_6_7"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_r1/dim4_multi_char_multi_story/story_5_6_7/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.6666666666666666,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 87,
+      "valid_elements": 87,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "deepseek_r1",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "5_6_7"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_o1/dim1_single_char_single_story/story_2/gen2.xml",
+    "well_formed": false,
+    "schema_valid": false,
+    "content_validity_ratio": 0.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": false,
+    "multi_character_ratio": null,
+    "errors": [
+      "XML parse error: unclosed token: line 29, column 15"
+    ],
+    "details": {},
+    "model": "gpt_o1",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "2"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_o1/dim1_single_char_single_story/story_2/gen1.xml",
+    "well_formed": false,
+    "schema_valid": false,
+    "content_validity_ratio": 0.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": false,
+    "multi_character_ratio": null,
+    "errors": [
+      "XML parse error: no element found: line 120, column 24"
+    ],
+    "details": {},
+    "model": "gpt_o1",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "2"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_o1/dim1_single_char_single_story/story_3/gen2.xml",
+    "well_formed": false,
+    "schema_valid": false,
+    "content_validity_ratio": 0.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": false,
+    "multi_character_ratio": null,
+    "errors": [
+      "XML parse error: no element found: line 123, column 31"
+    ],
+    "details": {},
+    "model": "gpt_o1",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "3"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_o1/dim1_single_char_single_story/story_3/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 77,
+      "valid_elements": 77,
+      "hallucinated_elements": [],
+      "panel_count": 7
+    },
+    "model": "gpt_o1",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "3"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_o1/dim2_single_char_multi_story/story_1_2_3/gen2.xml",
+    "well_formed": false,
+    "schema_valid": false,
+    "content_validity_ratio": 0.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": false,
+    "multi_character_ratio": null,
+    "errors": [
+      "XML parse error: unclosed token: line 7, column 9"
+    ],
+    "details": {},
+    "model": "gpt_o1",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "1_2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_o1/dim2_single_char_multi_story/story_1_2_3/gen1.xml",
+    "well_formed": false,
+    "schema_valid": false,
+    "content_validity_ratio": 0.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": false,
+    "multi_character_ratio": null,
+    "errors": [
+      "XML parse error: no element found: line 1, column 0"
+    ],
+    "details": {},
+    "model": "gpt_o1",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "1_2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_o1/dim2_single_char_multi_story/story_2_3/gen2.xml",
+    "well_formed": false,
+    "schema_valid": false,
+    "content_validity_ratio": 0.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": false,
+    "multi_character_ratio": null,
+    "errors": [
+      "XML parse error: no element found: line 1, column 0"
+    ],
+    "details": {},
+    "model": "gpt_o1",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_o1/dim2_single_char_multi_story/story_2_3/gen1.xml",
+    "well_formed": false,
+    "schema_valid": false,
+    "content_validity_ratio": 0.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": false,
+    "multi_character_ratio": null,
+    "errors": [
+      "XML parse error: no element found: line 114, column 24"
+    ],
+    "details": {},
+    "model": "gpt_o1",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_o1/dim3_multi_char_single_story/story_2/gen2.xml",
+    "well_formed": false,
+    "schema_valid": false,
+    "content_validity_ratio": 0.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": false,
+    "multi_character_ratio": null,
+    "errors": [
+      "XML parse error: no element found: line 1, column 0"
+    ],
+    "details": {},
+    "model": "gpt_o1",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "2"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_o1/dim3_multi_char_single_story/story_2/gen1.xml",
+    "well_formed": false,
+    "schema_valid": false,
+    "content_validity_ratio": 0.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": false,
+    "multi_character_ratio": null,
+    "errors": [
+      "XML parse error: no element found: line 1, column 0"
+    ],
+    "details": {},
+    "model": "gpt_o1",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "2"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_o1/dim3_multi_char_single_story/story_3/gen2.xml",
+    "well_formed": false,
+    "schema_valid": false,
+    "content_validity_ratio": 0.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": false,
+    "multi_character_ratio": null,
+    "errors": [
+      "XML parse error: no element found: line 1, column 0"
+    ],
+    "details": {},
+    "model": "gpt_o1",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "3"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_o1/dim3_multi_char_single_story/story_3/gen1.xml",
+    "well_formed": false,
+    "schema_valid": false,
+    "content_validity_ratio": 0.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": false,
+    "multi_character_ratio": null,
+    "errors": [
+      "XML parse error: unclosed token: line 14, column 34"
+    ],
+    "details": {},
+    "model": "gpt_o1",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "3"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_o1/dim4_multi_char_multi_story/story_1_2_3/gen2.xml",
+    "well_formed": false,
+    "schema_valid": false,
+    "content_validity_ratio": 0.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": false,
+    "multi_character_ratio": null,
+    "errors": [
+      "XML parse error: unclosed token: line 25, column 18"
+    ],
+    "details": {},
+    "model": "gpt_o1",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "1_2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_o1/dim4_multi_char_multi_story/story_1_2_3/gen1.xml",
+    "well_formed": false,
+    "schema_valid": false,
+    "content_validity_ratio": 0.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": false,
+    "multi_character_ratio": null,
+    "errors": [
+      "XML parse error: no element found: line 1, column 0"
+    ],
+    "details": {},
+    "model": "gpt_o1",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "1_2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_o1/dim4_multi_char_multi_story/story_2_3/gen2.xml",
+    "well_formed": false,
+    "schema_valid": false,
+    "content_validity_ratio": 0.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": false,
+    "multi_character_ratio": null,
+    "errors": [
+      "XML parse error: no element found: line 49, column 31"
+    ],
+    "details": {},
+    "model": "gpt_o1",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_o1/dim4_multi_char_multi_story/story_2_3/gen1.xml",
+    "well_formed": false,
+    "schema_valid": false,
+    "content_validity_ratio": 0.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": false,
+    "multi_character_ratio": null,
+    "errors": [
+      "XML parse error: no element found: line 1, column 0"
+    ],
+    "details": {},
+    "model": "gpt_o1",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim1_single_char_single_story/story_5/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 65,
+      "valid_elements": 65,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "deepseek_v3",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "5"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim1_single_char_single_story/story_5/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 66,
+      "valid_elements": 66,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "deepseek_v3",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "5"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim1_single_char_single_story/story_2/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 87,
+      "valid_elements": 87,
+      "hallucinated_elements": [],
+      "panel_count": 8
+    },
+    "model": "deepseek_v3",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "2"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim1_single_char_single_story/story_2/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 65,
+      "valid_elements": 65,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "deepseek_v3",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "2"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim1_single_char_single_story/story_3/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 77,
+      "valid_elements": 77,
+      "hallucinated_elements": [],
+      "panel_count": 7
+    },
+    "model": "deepseek_v3",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "3"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim1_single_char_single_story/story_3/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 0.9577464788732394,
+    "hallucination_rate": 0.04225352112676056,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel4_right"
+        ]
+      ],
+      "total_elements": 71,
+      "valid_elements": 68,
+      "hallucinated_elements": [
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel4_right"
+        ]
+      ],
+      "panel_count": 6
+    },
+    "model": "deepseek_v3",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "3"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim1_single_char_single_story/story_6/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 0.922077922077922,
+    "hallucination_rate": 0.07792207792207792,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel2_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel2_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel2_right"
+        ],
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel4_right"
+        ]
+      ],
+      "total_elements": 77,
+      "valid_elements": 71,
+      "hallucinated_elements": [
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel2_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel2_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel2_right"
+        ],
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel4_right"
+        ]
+      ],
+      "panel_count": 6
+    },
+    "model": "deepseek_v3",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "6"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim1_single_char_single_story/story_6/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 66,
+      "valid_elements": 66,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "deepseek_v3",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "6"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim1_single_char_single_story/story_7/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 66,
+      "valid_elements": 66,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "deepseek_v3",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "7"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim1_single_char_single_story/story_7/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 66,
+      "valid_elements": 66,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "deepseek_v3",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "7"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim2_single_char_multi_story/story_5_6/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 66,
+      "valid_elements": 66,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "deepseek_v3",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "5_6"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim2_single_char_multi_story/story_5_6/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 0.8928571428571429,
+    "hallucination_rate": 0.10714285714285714,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel2_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel2_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel2_right"
+        ],
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel6_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel6_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel6_right"
+        ]
+      ],
+      "total_elements": 84,
+      "valid_elements": 75,
+      "hallucinated_elements": [
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel2_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel2_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel2_right"
+        ],
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel6_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel6_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel6_right"
+        ]
+      ],
+      "panel_count": 6
+    },
+    "model": "deepseek_v3",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "5_6"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim2_single_char_multi_story/story_1_2_3/gen2.xml",
+    "well_formed": true,
+    "schema_valid": false,
+    "content_validity_ratio": 0.8860759493670886,
+    "hallucination_rate": 0.11392405063291139,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [
+      "Scene 1, Panel 5: Missing text element (balloon or below)",
+      "Scene 1, Panel 5: Missing <setting> element"
+    ],
+    "details": {
+      "invalid_elements": [
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel2_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel2_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel2_right"
+        ],
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel6_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel6_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel6_right"
+        ]
+      ],
+      "total_elements": 79,
+      "valid_elements": 70,
+      "hallucinated_elements": [
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel2_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel2_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel2_right"
+        ],
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel6_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel6_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel6_right"
+        ]
+      ],
+      "panel_count": 6
+    },
+    "model": "deepseek_v3",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "1_2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim2_single_char_multi_story/story_1_2_3/gen1.xml",
+    "well_formed": false,
+    "schema_valid": false,
+    "content_validity_ratio": 0.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": false,
+    "multi_character_ratio": null,
+    "errors": [
+      "XML parse error: mismatched tag: line 115, column 14"
+    ],
+    "details": {},
+    "model": "deepseek_v3",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "1_2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim2_single_char_multi_story/story_5_7/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 88,
+      "valid_elements": 88,
+      "hallucinated_elements": [],
+      "panel_count": 8
+    },
+    "model": "deepseek_v3",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "5_7"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim2_single_char_multi_story/story_5_7/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 62,
+      "valid_elements": 62,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "deepseek_v3",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "5_7"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim2_single_char_multi_story/story_2_3/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 0.8681318681318682,
+    "hallucination_rate": 0.13186813186813187,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel2_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel2_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel2_right"
+        ],
+        [
+          "horse prop",
+          "pose",
+          "Scene1_Panel2_right"
+        ],
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "hospital bed prop",
+          "pose",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel6_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel6_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel6_right"
+        ],
+        [
+          "medical chart prop",
+          "pose",
+          "Scene1_Panel6_right"
+        ]
+      ],
+      "total_elements": 91,
+      "valid_elements": 79,
+      "hallucinated_elements": [
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel2_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel2_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel2_right"
+        ],
+        [
+          "pose",
+          "horse prop",
+          "Scene1_Panel2_right"
+        ],
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "pose",
+          "hospital bed prop",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel6_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel6_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel6_right"
+        ],
+        [
+          "pose",
+          "medical chart prop",
+          "Scene1_Panel6_right"
+        ]
+      ],
+      "panel_count": 7
+    },
+    "model": "deepseek_v3",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim2_single_char_multi_story/story_2_3/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 65,
+      "valid_elements": 65,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "deepseek_v3",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim2_single_char_multi_story/story_5_6_7/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 88,
+      "valid_elements": 88,
+      "hallucinated_elements": [],
+      "panel_count": 8
+    },
+    "model": "deepseek_v3",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "5_6_7"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim2_single_char_multi_story/story_5_6_7/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 88,
+      "valid_elements": 88,
+      "hallucinated_elements": [],
+      "panel_count": 8
+    },
+    "model": "deepseek_v3",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "5_6_7"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim3_multi_char_single_story/story_5/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.6666666666666666,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 87,
+      "valid_elements": 87,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "deepseek_v3",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "5"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim3_multi_char_single_story/story_5/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.6666666666666666,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 87,
+      "valid_elements": 87,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "deepseek_v3",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "5"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim3_multi_char_single_story/story_2/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 79,
+      "valid_elements": 79,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "deepseek_v3",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "2"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim3_multi_char_single_story/story_2/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5714285714285714,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 100,
+      "valid_elements": 100,
+      "hallucinated_elements": [],
+      "panel_count": 7
+    },
+    "model": "deepseek_v3",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "2"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim3_multi_char_single_story/story_3/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5555555555555556,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 119,
+      "valid_elements": 119,
+      "hallucinated_elements": [],
+      "panel_count": 9
+    },
+    "model": "deepseek_v3",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "3"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim3_multi_char_single_story/story_3/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.6666666666666666,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 84,
+      "valid_elements": 84,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "deepseek_v3",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "3"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim3_multi_char_single_story/story_6/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.625,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 117,
+      "valid_elements": 117,
+      "hallucinated_elements": [],
+      "panel_count": 8
+    },
+    "model": "deepseek_v3",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "6"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim3_multi_char_single_story/story_6/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.6666666666666666,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 132,
+      "valid_elements": 132,
+      "hallucinated_elements": [],
+      "panel_count": 9
+    },
+    "model": "deepseek_v3",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "6"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim3_multi_char_single_story/story_7/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.6666666666666666,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 85,
+      "valid_elements": 85,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "deepseek_v3",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "7"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim3_multi_char_single_story/story_7/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.6666666666666666,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 87,
+      "valid_elements": 87,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "deepseek_v3",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "7"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim4_multi_char_multi_story/story_5_6/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 0.9642857142857143,
+    "hallucination_rate": 0.03571428571428571,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5,
+    "errors": [],
+    "details": {
+      "invalid_elements": [
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel6_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel6_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel6_right"
+        ]
+      ],
+      "total_elements": 84,
+      "valid_elements": 81,
+      "hallucinated_elements": [
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel6_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel6_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel6_right"
+        ]
+      ],
+      "panel_count": 6
+    },
+    "model": "deepseek_v3",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "5_6"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim4_multi_char_multi_story/story_5_6/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 78,
+      "valid_elements": 78,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "deepseek_v3",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "5_6"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim4_multi_char_multi_story/story_1_2_3/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.75,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 121,
+      "valid_elements": 121,
+      "hallucinated_elements": [],
+      "panel_count": 8
+    },
+    "model": "deepseek_v3",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "1_2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim4_multi_char_multi_story/story_1_2_3/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.7272727272727273,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 166,
+      "valid_elements": 166,
+      "hallucinated_elements": [],
+      "panel_count": 11
+    },
+    "model": "deepseek_v3",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "1_2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim4_multi_char_multi_story/story_5_7/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.6666666666666666,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 87,
+      "valid_elements": 87,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "deepseek_v3",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "5_7"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim4_multi_char_multi_story/story_5_7/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.6666666666666666,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 89,
+      "valid_elements": 89,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "deepseek_v3",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "5_7"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim4_multi_char_multi_story/story_2_3/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 79,
+      "valid_elements": 79,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "deepseek_v3",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim4_multi_char_multi_story/story_2_3/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.625,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 115,
+      "valid_elements": 115,
+      "hallucinated_elements": [],
+      "panel_count": 8
+    },
+    "model": "deepseek_v3",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim4_multi_char_multi_story/story_5_6_7/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 80,
+      "valid_elements": 80,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "deepseek_v3",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "5_6_7"
+  },
+  {
+    "file": "outputs_constrained_4dim/deepseek_v3/dim4_multi_char_multi_story/story_5_6_7/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 105,
+      "valid_elements": 105,
+      "hallucinated_elements": [],
+      "panel_count": 8
+    },
+    "model": "deepseek_v3",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "5_6_7"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim1_single_char_single_story/story_5/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 0.8888888888888888,
+    "hallucination_rate": 0.1111111111111111,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel3_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel3_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel3_right"
+        ],
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel5_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel5_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel5_right"
+        ]
+      ],
+      "total_elements": 81,
+      "valid_elements": 72,
+      "hallucinated_elements": [
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel3_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel3_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel3_right"
+        ],
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel5_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel5_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel5_right"
+        ]
+      ],
+      "panel_count": 6
+    },
+    "model": "gpt_4o",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "5"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim1_single_char_single_story/story_5/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 66,
+      "valid_elements": 66,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "gpt_4o",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "5"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim1_single_char_single_story/story_2/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 0.92,
+    "hallucination_rate": 0.08,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel4_right"
+        ]
+      ],
+      "total_elements": 75,
+      "valid_elements": 69,
+      "hallucinated_elements": [
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel4_right"
+        ]
+      ],
+      "panel_count": 6
+    },
+    "model": "gpt_4o",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "2"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim1_single_char_single_story/story_2/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 0.9571428571428572,
+    "hallucination_rate": 0.04285714285714286,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel1_right"
+        ]
+      ],
+      "total_elements": 70,
+      "valid_elements": 67,
+      "hallucinated_elements": [
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel1_right"
+        ]
+      ],
+      "panel_count": 6
+    },
+    "model": "gpt_4o",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "2"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim1_single_char_single_story/story_3/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 75,
+      "valid_elements": 75,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "gpt_4o",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "3"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim1_single_char_single_story/story_3/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 66,
+      "valid_elements": 66,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "gpt_4o",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "3"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim1_single_char_single_story/story_6/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 0.9625,
+    "hallucination_rate": 0.0375,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel1_right"
+        ]
+      ],
+      "total_elements": 80,
+      "valid_elements": 77,
+      "hallucinated_elements": [
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel1_right"
+        ]
+      ],
+      "panel_count": 7
+    },
+    "model": "gpt_4o",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "6"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim1_single_char_single_story/story_6/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 0.8928571428571429,
+    "hallucination_rate": 0.10714285714285714,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel3_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel3_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel3_right"
+        ],
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel5_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel5_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel5_right"
+        ]
+      ],
+      "total_elements": 84,
+      "valid_elements": 75,
+      "hallucinated_elements": [
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel3_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel3_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel3_right"
+        ],
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel5_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel5_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel5_right"
+        ]
+      ],
+      "panel_count": 6
+    },
+    "model": "gpt_4o",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "6"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim1_single_char_single_story/story_7/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 0.8888888888888888,
+    "hallucination_rate": 0.1111111111111111,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel3_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel3_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel3_right"
+        ],
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel6_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel6_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel6_right"
+        ]
+      ],
+      "total_elements": 81,
+      "valid_elements": 72,
+      "hallucinated_elements": [
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel3_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel3_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel3_right"
+        ],
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel6_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel6_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel6_right"
+        ]
+      ],
+      "panel_count": 6
+    },
+    "model": "gpt_4o",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "7"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim1_single_char_single_story/story_7/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 91,
+      "valid_elements": 91,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "gpt_4o",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "7"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim2_single_char_multi_story/story_5_6/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 93,
+      "valid_elements": 93,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "gpt_4o",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "5_6"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim2_single_char_multi_story/story_5_6/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 93,
+      "valid_elements": 93,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "gpt_4o",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "5_6"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim2_single_char_multi_story/story_1_2_3/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 83,
+      "valid_elements": 83,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "gpt_4o",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "1_2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim2_single_char_multi_story/story_1_2_3/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 111,
+      "valid_elements": 111,
+      "hallucinated_elements": [],
+      "panel_count": 7
+    },
+    "model": "gpt_4o",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "1_2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim2_single_char_multi_story/story_5_7/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 62,
+      "valid_elements": 62,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "gpt_4o",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "5_7"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim2_single_char_multi_story/story_5_7/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 65,
+      "valid_elements": 65,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "gpt_4o",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "5_7"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim2_single_char_multi_story/story_2_3/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 0.92,
+    "hallucination_rate": 0.08,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel5_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel5_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel5_right"
+        ]
+      ],
+      "total_elements": 75,
+      "valid_elements": 69,
+      "hallucinated_elements": [
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel5_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel5_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel5_right"
+        ]
+      ],
+      "panel_count": 6
+    },
+    "model": "gpt_4o",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim2_single_char_multi_story/story_2_3/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 0.9032258064516129,
+    "hallucination_rate": 0.0967741935483871,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel6_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel6_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel6_right"
+        ]
+      ],
+      "total_elements": 93,
+      "valid_elements": 84,
+      "hallucinated_elements": [
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel4_right"
+        ],
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel6_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel6_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel6_right"
+        ]
+      ],
+      "panel_count": 7
+    },
+    "model": "gpt_4o",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim2_single_char_multi_story/story_5_6_7/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 63,
+      "valid_elements": 63,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "gpt_4o",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "5_6_7"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim2_single_char_multi_story/story_5_6_7/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 0.9210526315789473,
+    "hallucination_rate": 0.07894736842105263,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "default",
+          "appearance",
+          "Scene1_Panel5_right"
+        ],
+        [
+          "default",
+          "skin",
+          "Scene1_Panel5_right"
+        ],
+        [
+          "default",
+          "hair",
+          "Scene1_Panel5_right"
+        ]
+      ],
+      "total_elements": 76,
+      "valid_elements": 70,
+      "hallucinated_elements": [
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel1_right"
+        ],
+        [
+          "appearance",
+          "default",
+          "Scene1_Panel5_right"
+        ],
+        [
+          "skin",
+          "default",
+          "Scene1_Panel5_right"
+        ],
+        [
+          "hair",
+          "default",
+          "Scene1_Panel5_right"
+        ]
+      ],
+      "panel_count": 6
+    },
+    "model": "gpt_4o",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "5_6_7"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim3_multi_char_single_story/story_5/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.8333333333333334,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 93,
+      "valid_elements": 93,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "gpt_4o",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "5"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim3_multi_char_single_story/story_5/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.6666666666666666,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 87,
+      "valid_elements": 87,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "gpt_4o",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "5"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim3_multi_char_single_story/story_2/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 83,
+      "valid_elements": 83,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "gpt_4o",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "2"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim3_multi_char_single_story/story_2/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.6666666666666666,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 85,
+      "valid_elements": 85,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "gpt_4o",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "2"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim3_multi_char_single_story/story_3/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 78,
+      "valid_elements": 78,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "gpt_4o",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "3"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim3_multi_char_single_story/story_3/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 81,
+      "valid_elements": 81,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "gpt_4o",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "3"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim3_multi_char_single_story/story_6/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5714285714285714,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 95,
+      "valid_elements": 95,
+      "hallucinated_elements": [],
+      "panel_count": 7
+    },
+    "model": "gpt_4o",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "6"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim3_multi_char_single_story/story_6/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 78,
+      "valid_elements": 78,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "gpt_4o",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "6"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim3_multi_char_single_story/story_7/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.3333333333333333,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 71,
+      "valid_elements": 71,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "gpt_4o",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "7"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim3_multi_char_single_story/story_7/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.6666666666666666,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 88,
+      "valid_elements": 88,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "gpt_4o",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "7"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim4_multi_char_multi_story/story_5_6/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 82,
+      "valid_elements": 82,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "gpt_4o",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "5_6"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim4_multi_char_multi_story/story_5_6/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 78,
+      "valid_elements": 78,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "gpt_4o",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "5_6"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim4_multi_char_multi_story/story_1_2_3/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5714285714285714,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 97,
+      "valid_elements": 97,
+      "hallucinated_elements": [],
+      "panel_count": 7
+    },
+    "model": "gpt_4o",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "1_2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim4_multi_char_multi_story/story_1_2_3/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 81,
+      "valid_elements": 81,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "gpt_4o",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "1_2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim4_multi_char_multi_story/story_5_7/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 81,
+      "valid_elements": 81,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "gpt_4o",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "5_7"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim4_multi_char_multi_story/story_5_7/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.6666666666666666,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 87,
+      "valid_elements": 87,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "gpt_4o",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "5_7"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim4_multi_char_multi_story/story_2_3/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 80,
+      "valid_elements": 80,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "gpt_4o",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim4_multi_char_multi_story/story_2_3/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 78,
+      "valid_elements": 78,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "gpt_4o",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim4_multi_char_multi_story/story_5_6_7/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 82,
+      "valid_elements": 82,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "gpt_4o",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "5_6_7"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4o/dim4_multi_char_multi_story/story_5_6_7/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 80,
+      "valid_elements": 80,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "gpt_4o",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "5_6_7"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim1_single_char_single_story/story_5/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 104,
+      "valid_elements": 104,
+      "hallucinated_elements": [],
+      "panel_count": 7
+    },
+    "model": "gpt_4",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "5"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim1_single_char_single_story/story_5/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 126,
+      "valid_elements": 126,
+      "hallucinated_elements": [],
+      "panel_count": 9
+    },
+    "model": "gpt_4",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "5"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim1_single_char_single_story/story_2/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 98,
+      "valid_elements": 98,
+      "hallucinated_elements": [],
+      "panel_count": 9
+    },
+    "model": "gpt_4",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "2"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim1_single_char_single_story/story_2/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 87,
+      "valid_elements": 87,
+      "hallucinated_elements": [],
+      "panel_count": 8
+    },
+    "model": "gpt_4",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "2"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim1_single_char_single_story/story_3/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 104,
+      "valid_elements": 104,
+      "hallucinated_elements": [],
+      "panel_count": 7
+    },
+    "model": "gpt_4",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "3"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim1_single_char_single_story/story_3/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 117,
+      "valid_elements": 117,
+      "hallucinated_elements": [],
+      "panel_count": 9
+    },
+    "model": "gpt_4",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "3"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim1_single_char_single_story/story_6/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 104,
+      "valid_elements": 104,
+      "hallucinated_elements": [],
+      "panel_count": 7
+    },
+    "model": "gpt_4",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "6"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim1_single_char_single_story/story_6/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 104,
+      "valid_elements": 104,
+      "hallucinated_elements": [],
+      "panel_count": 7
+    },
+    "model": "gpt_4",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "6"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim1_single_char_single_story/story_7/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 84,
+      "valid_elements": 84,
+      "hallucinated_elements": [],
+      "panel_count": 6
+    },
+    "model": "gpt_4",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "7"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim1_single_char_single_story/story_7/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 88,
+      "valid_elements": 88,
+      "hallucinated_elements": [],
+      "panel_count": 8
+    },
+    "model": "gpt_4",
+    "dimension": "dim1_single_char_single_story",
+    "story_label": "7"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim2_single_char_multi_story/story_5_6/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 166,
+      "valid_elements": 166,
+      "hallucinated_elements": [],
+      "panel_count": 11
+    },
+    "model": "gpt_4",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "5_6"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim2_single_char_multi_story/story_5_6/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 115,
+      "valid_elements": 115,
+      "hallucinated_elements": [],
+      "panel_count": 8
+    },
+    "model": "gpt_4",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "5_6"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim2_single_char_multi_story/story_1_2_3/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 128,
+      "valid_elements": 128,
+      "hallucinated_elements": [],
+      "panel_count": 11
+    },
+    "model": "gpt_4",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "1_2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim2_single_char_multi_story/story_1_2_3/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 158,
+      "valid_elements": 158,
+      "hallucinated_elements": [],
+      "panel_count": 12
+    },
+    "model": "gpt_4",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "1_2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim2_single_char_multi_story/story_5_7/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 104,
+      "valid_elements": 104,
+      "hallucinated_elements": [],
+      "panel_count": 7
+    },
+    "model": "gpt_4",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "5_7"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim2_single_char_multi_story/story_5_7/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 155,
+      "valid_elements": 155,
+      "hallucinated_elements": [],
+      "panel_count": 10
+    },
+    "model": "gpt_4",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "5_7"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim2_single_char_multi_story/story_2_3/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 127,
+      "valid_elements": 127,
+      "hallucinated_elements": [],
+      "panel_count": 11
+    },
+    "model": "gpt_4",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim2_single_char_multi_story/story_2_3/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 109,
+      "valid_elements": 109,
+      "hallucinated_elements": [],
+      "panel_count": 10
+    },
+    "model": "gpt_4",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim2_single_char_multi_story/story_5_6_7/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 104,
+      "valid_elements": 104,
+      "hallucinated_elements": [],
+      "panel_count": 7
+    },
+    "model": "gpt_4",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "5_6_7"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim2_single_char_multi_story/story_5_6_7/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": null,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 104,
+      "valid_elements": 104,
+      "hallucinated_elements": [],
+      "panel_count": 7
+    },
+    "model": "gpt_4",
+    "dimension": "dim2_single_char_multi_story",
+    "story_label": "5_6_7"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim3_multi_char_single_story/story_5/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.75,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 118,
+      "valid_elements": 118,
+      "hallucinated_elements": [],
+      "panel_count": 8
+    },
+    "model": "gpt_4",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "5"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim3_multi_char_single_story/story_5/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.6,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 135,
+      "valid_elements": 135,
+      "hallucinated_elements": [],
+      "panel_count": 10
+    },
+    "model": "gpt_4",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "5"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim3_multi_char_single_story/story_2/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.7142857142857143,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 102,
+      "valid_elements": 102,
+      "hallucinated_elements": [],
+      "panel_count": 7
+    },
+    "model": "gpt_4",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "2"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim3_multi_char_single_story/story_2/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.625,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 114,
+      "valid_elements": 114,
+      "hallucinated_elements": [],
+      "panel_count": 8
+    },
+    "model": "gpt_4",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "2"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim3_multi_char_single_story/story_3/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.6,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 137,
+      "valid_elements": 137,
+      "hallucinated_elements": [],
+      "panel_count": 10
+    },
+    "model": "gpt_4",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "3"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim3_multi_char_single_story/story_3/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.6363636363636364,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 153,
+      "valid_elements": 153,
+      "hallucinated_elements": [],
+      "panel_count": 11
+    },
+    "model": "gpt_4",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "3"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim3_multi_char_single_story/story_6/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.6,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 143,
+      "valid_elements": 143,
+      "hallucinated_elements": [],
+      "panel_count": 10
+    },
+    "model": "gpt_4",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "6"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim3_multi_char_single_story/story_6/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5714285714285714,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 98,
+      "valid_elements": 98,
+      "hallucinated_elements": [],
+      "panel_count": 7
+    },
+    "model": "gpt_4",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "6"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim3_multi_char_single_story/story_7/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.75,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 120,
+      "valid_elements": 120,
+      "hallucinated_elements": [],
+      "panel_count": 8
+    },
+    "model": "gpt_4",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "7"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim3_multi_char_single_story/story_7/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.8571428571428571,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 111,
+      "valid_elements": 111,
+      "hallucinated_elements": [],
+      "panel_count": 7
+    },
+    "model": "gpt_4",
+    "dimension": "dim3_multi_char_single_story",
+    "story_label": "7"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim4_multi_char_multi_story/story_5_6/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 109,
+      "valid_elements": 109,
+      "hallucinated_elements": [],
+      "panel_count": 8
+    },
+    "model": "gpt_4",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "5_6"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim4_multi_char_multi_story/story_5_6/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 106,
+      "valid_elements": 106,
+      "hallucinated_elements": [],
+      "panel_count": 8
+    },
+    "model": "gpt_4",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "5_6"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim4_multi_char_multi_story/story_1_2_3/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.6,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 143,
+      "valid_elements": 143,
+      "hallucinated_elements": [],
+      "panel_count": 10
+    },
+    "model": "gpt_4",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "1_2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim4_multi_char_multi_story/story_1_2_3/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5454545454545454,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 150,
+      "valid_elements": 150,
+      "hallucinated_elements": [],
+      "panel_count": 11
+    },
+    "model": "gpt_4",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "1_2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim4_multi_char_multi_story/story_5_7/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.7142857142857143,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 107,
+      "valid_elements": 107,
+      "hallucinated_elements": [],
+      "panel_count": 7
+    },
+    "model": "gpt_4",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "5_7"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim4_multi_char_multi_story/story_5_7/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.8571428571428571,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 112,
+      "valid_elements": 112,
+      "hallucinated_elements": [],
+      "panel_count": 7
+    },
+    "model": "gpt_4",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "5_7"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim4_multi_char_multi_story/story_2_3/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 131,
+      "valid_elements": 131,
+      "hallucinated_elements": [],
+      "panel_count": 10
+    },
+    "model": "gpt_4",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim4_multi_char_multi_story/story_2_3/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 108,
+      "valid_elements": 108,
+      "hallucinated_elements": [],
+      "panel_count": 8
+    },
+    "model": "gpt_4",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "2_3"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim4_multi_char_multi_story/story_5_6_7/gen2.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5714285714285714,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 96,
+      "valid_elements": 96,
+      "hallucinated_elements": [],
+      "panel_count": 7
+    },
+    "model": "gpt_4",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "5_6_7"
+  },
+  {
+    "file": "outputs_constrained_4dim/gpt_4/dim4_multi_char_multi_story/story_5_6_7/gen1.xml",
+    "well_formed": true,
+    "schema_valid": true,
+    "content_validity_ratio": 1.0,
+    "hallucination_rate": 0.0,
+    "panel_compliant": true,
+    "multi_character_ratio": 0.5555555555555556,
+    "errors": [],
+    "details": {
+      "invalid_elements": [],
+      "total_elements": 125,
+      "valid_elements": 125,
+      "hallucinated_elements": [],
+      "panel_count": 9
+    },
+    "model": "gpt_4",
+    "dimension": "dim4_multi_char_multi_story",
+    "story_label": "5_6_7"
+  }
+]

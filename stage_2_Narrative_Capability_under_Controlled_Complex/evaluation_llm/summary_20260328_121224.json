@@ -1,0 +1,1210 @@
+{
+  "llama_3_70b_dim1_single_char_single_story": {
+    "model": "llama_3_70b",
+    "dimension": "dim1_single_char_single_story",
+    "count": 10,
+    "global_continuity": {
+      "scores": [
+        2,
+        2,
+        4,
+        3,
+        3,
+        3,
+        3,
+        1,
+        4,
+        3
+      ],
+      "normalized_scores": [
+        0.4,
+        0.4,
+        0.8,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.2,
+        0.8,
+        0.6
+      ],
+      "avg_score": 2.8,
+      "avg_normalized_score": 0.5599999999999999
+    },
+    "overall_entertainment": {
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        2,
+        3,
+        3
+      ],
+      "normalized_scores": [
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.6,
+        0.4,
+        0.6,
+        0.6
+      ],
+      "avg_score": 2.3,
+      "avg_normalized_score": 0.45999999999999996
+    }
+  },
+  "llama_3_70b_dim2_single_char_multi_story": {
+    "model": "llama_3_70b",
+    "dimension": "dim2_single_char_multi_story",
+    "count": 10,
+    "global_continuity": {
+      "scores": [
+        4,
+        4,
+        4,
+        2,
+        3,
+        3,
+        3,
+        2,
+        3
+      ],
+      "normalized_scores": [
+        0.8,
+        0.8,
+        0.8,
+        0.4,
+        0.6,
+        0.6,
+        0.6,
+        0.4,
+        0.6
+      ],
+      "avg_score": 3.111111111111111,
+      "avg_normalized_score": 0.6222222222222222
+    },
+    "overall_entertainment": {
+      "scores": [
+        3,
+        3,
+        3,
+        2,
+        2,
+        3,
+        3,
+        2,
+        2
+      ],
+      "normalized_scores": [
+        0.6,
+        0.6,
+        0.6,
+        0.4,
+        0.4,
+        0.6,
+        0.6,
+        0.4,
+        0.4
+      ],
+      "avg_score": 2.5555555555555554,
+      "avg_normalized_score": 0.5111111111111111
+    }
+  },
+  "llama_3_70b_dim3_multi_char_single_story": {
+    "model": "llama_3_70b",
+    "dimension": "dim3_multi_char_single_story",
+    "count": 10,
+    "global_continuity": {
+      "scores": [
+        3,
+        2,
+        2,
+        3,
+        4,
+        4,
+        3,
+        3,
+        4,
+        2
+      ],
+      "normalized_scores": [
+        0.6,
+        0.4,
+        0.4,
+        0.6,
+        0.8,
+        0.8,
+        0.6,
+        0.6,
+        0.8,
+        0.4
+      ],
+      "avg_score": 3.0,
+      "avg_normalized_score": 0.6
+    },
+    "overall_entertainment": {
+      "scores": [
+        3,
+        2,
+        2,
+        3,
+        2,
+        2,
+        3,
+        3,
+        2,
+        3
+      ],
+      "normalized_scores": [
+        0.6,
+        0.4,
+        0.4,
+        0.6,
+        0.4,
+        0.4,
+        0.6,
+        0.6,
+        0.4,
+        0.6
+      ],
+      "avg_score": 2.5,
+      "avg_normalized_score": 0.5
+    }
+  },
+  "llama_3_70b_dim4_multi_char_multi_story": {
+    "model": "llama_3_70b",
+    "dimension": "dim4_multi_char_multi_story",
+    "count": 10,
+    "global_continuity": {
+      "scores": [
+        2,
+        2,
+        2,
+        3,
+        2,
+        2,
+        3,
+        2,
+        3,
+        2
+      ],
+      "normalized_scores": [
+        0.4,
+        0.4,
+        0.4,
+        0.6,
+        0.4,
+        0.4,
+        0.6,
+        0.4,
+        0.6,
+        0.4
+      ],
+      "avg_score": 2.3,
+      "avg_normalized_score": 0.45999999999999996
+    },
+    "overall_entertainment": {
+      "scores": [
+        3,
+        3,
+        2,
+        2,
+        3,
+        2,
+        3,
+        3,
+        3,
+        2
+      ],
+      "normalized_scores": [
+        0.6,
+        0.6,
+        0.4,
+        0.4,
+        0.6,
+        0.4,
+        0.6,
+        0.6,
+        0.6,
+        0.4
+      ],
+      "avg_score": 2.6,
+      "avg_normalized_score": 0.52
+    }
+  },
+  "deepseek_r1_dim1_single_char_single_story": {
+    "model": "deepseek_r1",
+    "dimension": "dim1_single_char_single_story",
+    "count": 10,
+    "global_continuity": {
+      "scores": [
+        4,
+        4,
+        4,
+        4,
+        3,
+        4,
+        4,
+        5,
+        4,
+        4
+      ],
+      "normalized_scores": [
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.6,
+        0.8,
+        0.8,
+        1.0,
+        0.8,
+        0.8
+      ],
+      "avg_score": 4.0,
+      "avg_normalized_score": 0.8
+    },
+    "overall_entertainment": {
+      "scores": [
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3
+      ],
+      "normalized_scores": [
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.4,
+        0.4,
+        0.6,
+        0.6,
+        0.6,
+        0.6
+      ],
+      "avg_score": 2.8,
+      "avg_normalized_score": 0.5599999999999999
+    }
+  },
+  "deepseek_r1_dim2_single_char_multi_story": {
+    "model": "deepseek_r1",
+    "dimension": "dim2_single_char_multi_story",
+    "count": 10,
+    "global_continuity": {
+      "scores": [
+        3,
+        5,
+        5,
+        4,
+        4,
+        3,
+        4,
+        5,
+        3,
+        3
+      ],
+      "normalized_scores": [
+        0.6,
+        1.0,
+        1.0,
+        0.8,
+        0.8,
+        0.6,
+        0.8,
+        1.0,
+        0.6,
+        0.6
+      ],
+      "avg_score": 3.9,
+      "avg_normalized_score": 0.78
+    },
+    "overall_entertainment": {
+      "scores": [
+        3,
+        3,
+        2,
+        2,
+        3,
+        3,
+        3,
+        2,
+        2,
+        3
+      ],
+      "normalized_scores": [
+        0.6,
+        0.6,
+        0.4,
+        0.4,
+        0.6,
+        0.6,
+        0.6,
+        0.4,
+        0.4,
+        0.6
+      ],
+      "avg_score": 2.6,
+      "avg_normalized_score": 0.52
+    }
+  },
+  "deepseek_r1_dim3_multi_char_single_story": {
+    "model": "deepseek_r1",
+    "dimension": "dim3_multi_char_single_story",
+    "count": 10,
+    "global_continuity": {
+      "scores": [
+        4,
+        3,
+        4,
+        5,
+        4,
+        3,
+        3,
+        4,
+        4
+      ],
+      "normalized_scores": [
+        0.8,
+        0.6,
+        0.8,
+        1.0,
+        0.8,
+        0.6,
+        0.6,
+        0.8,
+        0.8
+      ],
+      "avg_score": 3.7777777777777777,
+      "avg_normalized_score": 0.7555555555555555
+    },
+    "overall_entertainment": {
+      "scores": [
+        3,
+        3,
+        3,
+        3,
+        2,
+        3,
+        3,
+        4,
+        3
+      ],
+      "normalized_scores": [
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.4,
+        0.6,
+        0.6,
+        0.8,
+        0.6
+      ],
+      "avg_score": 3.0,
+      "avg_normalized_score": 0.6000000000000001
+    }
+  },
+  "deepseek_r1_dim4_multi_char_multi_story": {
+    "model": "deepseek_r1",
+    "dimension": "dim4_multi_char_multi_story",
+    "count": 10,
+    "global_continuity": {
+      "scores": [
+        2,
+        2,
+        4,
+        4,
+        3,
+        2,
+        4,
+        5,
+        3,
+        2
+      ],
+      "normalized_scores": [
+        0.4,
+        0.4,
+        0.8,
+        0.8,
+        0.6,
+        0.4,
+        0.8,
+        1.0,
+        0.6,
+        0.4
+      ],
+      "avg_score": 3.1,
+      "avg_normalized_score": 0.62
+    },
+    "overall_entertainment": {
+      "scores": [
+        2,
+        3,
+        2,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        3
+      ],
+      "normalized_scores": [
+        0.4,
+        0.6,
+        0.4,
+        0.4,
+        0.6,
+        0.4,
+        0.6,
+        0.4,
+        0.6,
+        0.6
+      ],
+      "avg_score": 2.5,
+      "avg_normalized_score": 0.5
+    }
+  },
+  "deepseek_v3_dim1_single_char_single_story": {
+    "model": "deepseek_v3",
+    "dimension": "dim1_single_char_single_story",
+    "count": 10,
+    "global_continuity": {
+      "scores": [
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        2,
+        3,
+        3,
+        4
+      ],
+      "normalized_scores": [
+        0.6,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.4,
+        0.6,
+        0.6,
+        0.8
+      ],
+      "avg_score": 3.5,
+      "avg_normalized_score": 0.7
+    },
+    "overall_entertainment": {
+      "scores": [
+        3,
+        3,
+        3,
+        3,
+        2,
+        3,
+        3,
+        3,
+        4,
+        3
+      ],
+      "normalized_scores": [
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.4,
+        0.6,
+        0.6,
+        0.6,
+        0.8,
+        0.6
+      ],
+      "avg_score": 3.0,
+      "avg_normalized_score": 0.6
+    }
+  },
+  "deepseek_v3_dim2_single_char_multi_story": {
+    "model": "deepseek_v3",
+    "dimension": "dim2_single_char_multi_story",
+    "count": 10,
+    "global_continuity": {
+      "scores": [
+        4,
+        3,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        4
+      ],
+      "normalized_scores": [
+        0.8,
+        0.6,
+        0.8,
+        0.8,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.8
+      ],
+      "avg_score": 4.333333333333333,
+      "avg_normalized_score": 0.8666666666666667
+    },
+    "overall_entertainment": {
+      "scores": [
+        4,
+        3,
+        2,
+        4,
+        3,
+        2,
+        2,
+        4,
+        3
+      ],
+      "normalized_scores": [
+        0.8,
+        0.6,
+        0.4,
+        0.8,
+        0.6,
+        0.4,
+        0.4,
+        0.8,
+        0.6
+      ],
+      "avg_score": 3.0,
+      "avg_normalized_score": 0.6000000000000001
+    }
+  },
+  "deepseek_v3_dim3_multi_char_single_story": {
+    "model": "deepseek_v3",
+    "dimension": "dim3_multi_char_single_story",
+    "count": 10,
+    "global_continuity": {
+      "scores": [
+        4,
+        3,
+        5,
+        4,
+        5,
+        4,
+        3,
+        4,
+        3,
+        4
+      ],
+      "normalized_scores": [
+        0.8,
+        0.6,
+        1.0,
+        0.8,
+        1.0,
+        0.8,
+        0.6,
+        0.8,
+        0.6,
+        0.8
+      ],
+      "avg_score": 3.9,
+      "avg_normalized_score": 0.78
+    },
+    "overall_entertainment": {
+      "scores": [
+        3,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        4,
+        3,
+        3
+      ],
+      "normalized_scores": [
+        0.6,
+        0.4,
+        0.4,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.8,
+        0.6,
+        0.6
+      ],
+      "avg_score": 2.9,
+      "avg_normalized_score": 0.58
+    }
+  },
+  "deepseek_v3_dim4_multi_char_multi_story": {
+    "model": "deepseek_v3",
+    "dimension": "dim4_multi_char_multi_story",
+    "count": 10,
+    "global_continuity": {
+      "scores": [
+        4,
+        4,
+        4,
+        3,
+        4,
+        3,
+        4,
+        4,
+        4,
+        4
+      ],
+      "normalized_scores": [
+        0.8,
+        0.8,
+        0.8,
+        0.6,
+        0.8,
+        0.6,
+        0.8,
+        0.8,
+        0.8,
+        0.8
+      ],
+      "avg_score": 3.8,
+      "avg_normalized_score": 0.76
+    },
+    "overall_entertainment": {
+      "scores": [
+        3,
+        4,
+        3,
+        3,
+        3,
+        3,
+        2,
+        3,
+        3,
+        4
+      ],
+      "normalized_scores": [
+        0.6,
+        0.8,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.4,
+        0.6,
+        0.6,
+        0.8
+      ],
+      "avg_score": 3.1,
+      "avg_normalized_score": 0.62
+    }
+  },
+  "gpt_4o_dim1_single_char_single_story": {
+    "model": "gpt_4o",
+    "dimension": "dim1_single_char_single_story",
+    "count": 10,
+    "global_continuity": {
+      "scores": [
+        4,
+        4,
+        4,
+        3,
+        4,
+        4,
+        3,
+        2,
+        4,
+        4
+      ],
+      "normalized_scores": [
+        0.8,
+        0.8,
+        0.8,
+        0.6,
+        0.8,
+        0.8,
+        0.6,
+        0.4,
+        0.8,
+        0.8
+      ],
+      "avg_score": 3.6,
+      "avg_normalized_score": 0.72
+    },
+    "overall_entertainment": {
+      "scores": [
+        2,
+        2,
+        2,
+        3,
+        2,
+        2,
+        3,
+        2,
+        3,
+        2
+      ],
+      "normalized_scores": [
+        0.4,
+        0.4,
+        0.4,
+        0.6,
+        0.4,
+        0.4,
+        0.6,
+        0.4,
+        0.6,
+        0.4
+      ],
+      "avg_score": 2.3,
+      "avg_normalized_score": 0.45999999999999996
+    }
+  },
+  "gpt_4o_dim2_single_char_multi_story": {
+    "model": "gpt_4o",
+    "dimension": "dim2_single_char_multi_story",
+    "count": 10,
+    "global_continuity": {
+      "scores": [
+        2,
+        3,
+        4,
+        4,
+        4,
+        2,
+        5,
+        4,
+        4,
+        4
+      ],
+      "normalized_scores": [
+        0.4,
+        0.6,
+        0.8,
+        0.8,
+        0.8,
+        0.4,
+        1.0,
+        0.8,
+        0.8,
+        0.8
+      ],
+      "avg_score": 3.6,
+      "avg_normalized_score": 0.72
+    },
+    "overall_entertainment": {
+      "scores": [
+        3,
+        3,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        2
+      ],
+      "normalized_scores": [
+        0.6,
+        0.6,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.6,
+        0.4
+      ],
+      "avg_score": 2.3,
+      "avg_normalized_score": 0.45999999999999996
+    }
+  },
+  "gpt_4o_dim3_multi_char_single_story": {
+    "model": "gpt_4o",
+    "dimension": "dim3_multi_char_single_story",
+    "count": 10,
+    "global_continuity": {
+      "scores": [
+        4,
+        3,
+        4,
+        4,
+        4,
+        4,
+        3,
+        3,
+        3,
+        4
+      ],
+      "normalized_scores": [
+        0.8,
+        0.6,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.6,
+        0.6,
+        0.6,
+        0.8
+      ],
+      "avg_score": 3.6,
+      "avg_normalized_score": 0.72
+    },
+    "overall_entertainment": {
+      "scores": [
+        3,
+        3,
+        2,
+        2,
+        3,
+        2,
+        2,
+        2,
+        2,
+        3
+      ],
+      "normalized_scores": [
+        0.6,
+        0.6,
+        0.4,
+        0.4,
+        0.6,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.6
+      ],
+      "avg_score": 2.4,
+      "avg_normalized_score": 0.48
+    }
+  },
+  "gpt_4o_dim4_multi_char_multi_story": {
+    "model": "gpt_4o",
+    "dimension": "dim4_multi_char_multi_story",
+    "count": 10,
+    "global_continuity": {
+      "scores": [
+        3,
+        3,
+        4,
+        4,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "normalized_scores": [
+        0.6,
+        0.6,
+        0.8,
+        0.8,
+        0.6,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8
+      ],
+      "avg_score": 3.7,
+      "avg_normalized_score": 0.74
+    },
+    "overall_entertainment": {
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        2,
+        3,
+        3,
+        3
+      ],
+      "normalized_scores": [
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.6,
+        0.4,
+        0.6,
+        0.6,
+        0.6
+      ],
+      "avg_score": 2.4,
+      "avg_normalized_score": 0.48
+    }
+  },
+  "gpt_4_dim1_single_char_single_story": {
+    "model": "gpt_4",
+    "dimension": "dim1_single_char_single_story",
+    "count": 10,
+    "global_continuity": {
+      "scores": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        4,
+        4,
+        3,
+        4
+      ],
+      "normalized_scores": [
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        1.0,
+        0.8,
+        0.8,
+        0.6,
+        0.8
+      ],
+      "avg_score": 4.0,
+      "avg_normalized_score": 0.8
+    },
+    "overall_entertainment": {
+      "scores": [
+        3,
+        2,
+        3,
+        3,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3
+      ],
+      "normalized_scores": [
+        0.6,
+        0.4,
+        0.6,
+        0.6,
+        0.4,
+        0.4,
+        0.6,
+        0.6,
+        0.6,
+        0.6
+      ],
+      "avg_score": 2.7,
+      "avg_normalized_score": 0.54
+    }
+  },
+  "gpt_4_dim2_single_char_multi_story": {
+    "model": "gpt_4",
+    "dimension": "dim2_single_char_multi_story",
+    "count": 10,
+    "global_continuity": {
+      "scores": [
+        3,
+        4,
+        3,
+        4,
+        4,
+        4,
+        3,
+        4,
+        4,
+        4
+      ],
+      "normalized_scores": [
+        0.6,
+        0.8,
+        0.6,
+        0.8,
+        0.8,
+        0.8,
+        0.6,
+        0.8,
+        0.8,
+        0.8
+      ],
+      "avg_score": 3.7,
+      "avg_normalized_score": 0.74
+    },
+    "overall_entertainment": {
+      "scores": [
+        3,
+        3,
+        2,
+        2,
+        3,
+        3,
+        2,
+        2,
+        3,
+        3
+      ],
+      "normalized_scores": [
+        0.6,
+        0.6,
+        0.4,
+        0.4,
+        0.6,
+        0.6,
+        0.4,
+        0.4,
+        0.6,
+        0.6
+      ],
+      "avg_score": 2.6,
+      "avg_normalized_score": 0.52
+    }
+  },
+  "gpt_4_dim3_multi_char_single_story": {
+    "model": "gpt_4",
+    "dimension": "dim3_multi_char_single_story",
+    "count": 10,
+    "global_continuity": {
+      "scores": [
+        4,
+        3,
+        4,
+        4,
+        5,
+        4,
+        4,
+        3,
+        4,
+        4
+      ],
+      "normalized_scores": [
+        0.8,
+        0.6,
+        0.8,
+        0.8,
+        1.0,
+        0.8,
+        0.8,
+        0.6,
+        0.8,
+        0.8
+      ],
+      "avg_score": 3.9,
+      "avg_normalized_score": 0.78
+    },
+    "overall_entertainment": {
+      "scores": [
+        3,
+        2,
+        3,
+        3,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3
+      ],
+      "normalized_scores": [
+        0.6,
+        0.4,
+        0.6,
+        0.6,
+        0.4,
+        0.4,
+        0.6,
+        0.6,
+        0.6,
+        0.6
+      ],
+      "avg_score": 2.7,
+      "avg_normalized_score": 0.54
+    }
+  },
+  "gpt_4_dim4_multi_char_multi_story": {
+    "model": "gpt_4",
+    "dimension": "dim4_multi_char_multi_story",
+    "count": 10,
+    "global_continuity": {
+      "scores": [
+        4,
+        4,
+        4,
+        4,
+        5,
+        4,
+        4,
+        4,
+        4,
+        3
+      ],
+      "normalized_scores": [
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        1.0,
+        0.8,
+        0.8,
+        0.8,
+        0.8,
+        0.6
+      ],
+      "avg_score": 4.0,
+      "avg_normalized_score": 0.8
+    },
+    "overall_entertainment": {
+      "scores": [
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        2
+      ],
+      "normalized_scores": [
+        0.6,
+        0.6,
+        0.6,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.4,
+        0.6,
+        0.4
+      ],
+      "avg_score": 2.4,
+      "avg_normalized_score": 0.48
+    }
+  }
+}
