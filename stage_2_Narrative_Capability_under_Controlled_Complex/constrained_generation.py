@@ -30,7 +30,7 @@ TOGETHER_MODEL_LLAMA = "meta-llama/Llama-3.3-70B-Instruct-Turbo"
 
 ROOT = Path(__file__).resolve().parent
 SPEC_STORY_ELEMENTS_DIR = ROOT / "spec_library"
-TEMPLATE_FILE = ROOT / "template.xml"
+TEMPLATE_FILE = ROOT.parent / "template.xml"
 OUTPUT_BASE = ROOT / "outputs_constrained"
 
 SLEEP_BETWEEN_CALLS = 1.0

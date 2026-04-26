@@ -6,13 +6,15 @@ evaluation_config_4dim - shared module for 4-dimension evaluation.
 
 Provides load_element_library(story_label) and DIMENSIONS for scripts such as
 evaluate_llm_judge_local_metrics and evaluate_diversity_metrics.
-Data source: spec_story_elements/story_*.json (aligned with constrained_generation_4dim).
+Data source: spec_library/story_*.json (aligned with constrained_generation_4dim).
 """
 
 import json
 from pathlib import Path
 
-SPEC_ELEMENTS_DIR = Path("spec_story_elements")
+SCRIPT_DIR = Path(__file__).resolve().parent
+STAGE2_ROOT = SCRIPT_DIR.parent
+SPEC_ELEMENTS_DIR = STAGE2_ROOT / "spec_library"
 
 # 4-dimension experiment configuration (aligned with constrained_generation_4dim and output layout)
 DIMENSIONS = {
@@ -27,7 +29,7 @@ def load_element_library(story_label: str):
     """
     Load the element library by story_label.
     story_label: "1" means single-story, "1_2" means merged multi-story.
-    Data source: spec_story_elements/story_<id>.json.
+    Data source: spec_library/story_<id>.json.
     """
     story_ids = [int(s) for s in str(story_label).strip().split("_")]
 

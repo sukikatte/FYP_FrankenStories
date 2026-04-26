@@ -26,7 +26,7 @@ OPENAI_BASE_URL = ""
 TOGETHER_BASE_URL = "https://api.together.xyz/v1"
 
 SPEC_STORY_ELEMENTS_DIR = PROJECT_ROOT / "spec_library"
-TEMPLATE_FILE = PROJECT_ROOT / "template.xml"
+TEMPLATE_FILE = PROJECT_ROOT.parent.parent / "template.xml"
 OUTPUT_BASE = PROJECT_ROOT / "outputs_insights" / "time_1"
 _XLSX_DEFAULT = PROJECT_ROOT / "pose database.xlsx"
 DEFAULT_POSE_DB = _XLSX_DEFAULT if _XLSX_DEFAULT.exists() else (EXP_DIR / "pose_database.json")

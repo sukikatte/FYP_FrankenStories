@@ -24,14 +24,14 @@ STAGE2_ROOT = SCRIPT_DIR.parent
 
 # Import evaluation helpers
 sys.path.insert(0, str(SCRIPT_DIR))
-sys.path.insert(0, str(STAGE2_ROOT / "evaluate_llm"))
+sys.path.insert(0, str(STAGE2_ROOT / "evaluation_llm"))
 
 # Try importing load_element_library
 try:
     from config_4dim import load_element_library, DIMENSIONS
 except ImportError:
     # Fallback implementation if evaluation_config_4dim is unavailable
-    SPEC_ELEMENTS_DIR = STAGE2_ROOT / "spec_story_elements"
+    SPEC_ELEMENTS_DIR = STAGE2_ROOT / "spec_library"
     
     def load_element_library(story_label):
         """Load element library for a story or merged stories"""
@@ -95,11 +95,11 @@ except ImportError:
     }
 
 OUTPUT_DIR = STAGE2_ROOT / "outputs_constrained_4dim"
-SPEC_ELEMENTS_DIR = STAGE2_ROOT / "spec_story_elements"
+SPEC_ELEMENTS_DIR = STAGE2_ROOT / "spec_library"
 EVAL_OUTPUT_DIR = SCRIPT_DIR / "evaluation_results_diversity"
 EVAL_OUTPUT_DIR.mkdir(exist_ok=True)
 
-TARGET_MODELS = ["gpt_4", "gpt_4o", "deepseek_v3", "deepseek_r1", "llama_3_70b"]
+TARGET_MODELS = ["gpt_4.1", "gpt_4o", "deepseek_v3", "deepseek_r1", "llama_3_70b"]
 
 def extract_story_ids_from_label(story_label):
     """Extract story IDs from story_label."""

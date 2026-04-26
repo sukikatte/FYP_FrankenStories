@@ -20,16 +20,18 @@ import re
 from anthropic import Anthropic
 
 # Import shared evaluation helpers
-sys.path.insert(0, str(Path(__file__).parent))
+SCRIPT_DIR = Path(__file__).resolve().parent
+STAGE2_ROOT = SCRIPT_DIR.parent
+sys.path.insert(0, str(SCRIPT_DIR))
 
 # Required dependency: evaluation_config_4dim
 from config_4dim import load_element_library, DIMENSIONS
 
-OUTPUT_DIR = Path("outputs_constrained_4dim")
-EVAL_OUTPUT_DIR = Path("evaluation_results_continuity_coherence")
+OUTPUT_DIR = STAGE2_ROOT / "outputs_constrained_4dim"
+EVAL_OUTPUT_DIR = SCRIPT_DIR / "evaluation_results_continuity_coherence"
 EVAL_OUTPUT_DIR.mkdir(exist_ok=True)
 
-TARGET_MODELS = ["gpt_4", "gpt_4o", "deepseek_v3", "deepseek_r1", "llama_3_70b"]
+TARGET_MODELS = ["gpt_4.1", "gpt_4o", "deepseek_v3", "deepseek_r1", "llama_3_70b"]
 
 # API configuration (official Claude API, direct call)
 CLAUDE_API_KEY = ""

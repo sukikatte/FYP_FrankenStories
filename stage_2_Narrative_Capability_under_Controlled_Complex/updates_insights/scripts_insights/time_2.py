@@ -38,7 +38,7 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = SCRIPT_DIR.parent
 POSE_EXP_DIR = PROJECT_ROOT / "constrained_4dim_pose_db"
 SPEC_STORY_ELEMENTS_DIR = PROJECT_ROOT / "spec_library"
-TEMPLATE_FILE = PROJECT_ROOT / "template.xml"
+TEMPLATE_FILE = PROJECT_ROOT.parent.parent / "template.xml"
 _XLSX_DEFAULT = PROJECT_ROOT / "pose database.xlsx"
 DEFAULT_POSE_DB = _XLSX_DEFAULT if _XLSX_DEFAULT.exists() else (POSE_EXP_DIR / "pose_database.json")
 
@@ -447,7 +447,7 @@ def main() -> None:
     story_count = "multi"
 
     models: List[tuple[str, str, str]] = [
-        ("gpt-4.1", "gpt_4", OPENAI_MODEL_GPT41),
+        ("gpt-4.1", "gpt_4.1", OPENAI_MODEL_GPT41),
         ("gpt-4o", "gpt_4o", OPENAI_MODEL_GPT4O),
         ("DeepSeek-V3", "deepseek_v3", TOGETHER_MODEL_DEEPSEEK_V3),
         ("DeepSeek-R1", "deepseek_r1", TOGETHER_MODEL_DEEPSEEK_R1),

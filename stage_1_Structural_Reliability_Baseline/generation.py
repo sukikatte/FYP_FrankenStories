@@ -19,7 +19,7 @@ from openai import OpenAI
 ROOT = Path(__file__).resolve().parent
 SEEDS_FILE = ROOT / "seeds" / "story_seeds.json"
 ELEMENT_LIBRARY_FILE = ROOT / "library" / "element_library.json"
-TEMPLATE_FILE = ROOT / "template.xml"
+TEMPLATE_FILE = ROOT.parent / "template.xml"
 OUTPUT_BASE = ROOT / "outputs"
 
 SLEEP_BETWEEN_CALLS = 1.0

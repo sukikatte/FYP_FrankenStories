@@ -34,9 +34,9 @@ MULTI_DIMS = (
     "dim4_multi_char_multi_story",
 )
 
-MODEL_ORDER = ["gpt_4", "gpt_4o", "deepseek_v3", "deepseek_r1", "llama_3_70b"]
+MODEL_ORDER = ["gpt_4.1", "gpt_4o", "deepseek_v3", "deepseek_r1", "llama_3_70b"]
 MODEL_LABEL = {
-    "gpt_4": "GPT-4.1",
+    "gpt_4.1": "GPT-4.1",
     "gpt_4o": "GPT-4o",
     "deepseek_v3": "DeepSeek-V3.1",
     "deepseek_r1": "DeepSeek-R1",

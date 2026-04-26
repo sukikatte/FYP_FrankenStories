@@ -23,16 +23,16 @@ from typing import Any
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 STAGE2_ROOT = SCRIPT_DIR.parent
-sys.path.insert(0, str(STAGE2_ROOT / "evaluate_llm"))
+sys.path.insert(0, str(STAGE2_ROOT / "evaluation_llm"))
 
-from stage_2_Narrative_Capability_under_Controlled_Complex.evaluation_llm.config_4dim import DIMENSIONS, load_element_library
+from config_4dim import DIMENSIONS, load_element_library
 
 POSITION_TAGS = ("left", "middle", "right")
 # Evaluate only core content elements (exclude name/appearance/skin/hair/lips/balloon).
 CORE_TYPES = {"setting", "position", "id", "pose", "facing"}
 LEGACY_SINGLE_STORIES = {"2", "3", "5", "6", "7"}
 LEGACY_MULTI_STORIES = {"1_2_3", "2_3", "5_6", "5_6_7", "5_7"}
-GLOBAL_ELEMENTS_FILE = STAGE2_ROOT / "spec_story_elements" / "all_stories_elements.json"
+GLOBAL_ELEMENTS_FILE = STAGE2_ROOT / "spec_library" / "all_stories_library.json"
 
 
 def t(elem: ET.Element | None) -> str:
